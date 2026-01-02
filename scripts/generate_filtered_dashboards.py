@@ -1,0 +1,266 @@
+import os
+import sys
+from datetime import datetime
+import sys
+import os
+
+# Add scripts directory to path
+script_dir = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, script_dir)
+
+from generate_dashboard_json import process_csv_to_json, parse_original_paper_date
+from generate_dashboard_json_by_retraction_date import process_csv_to_json_by_retraction_date, parse_retraction_date
+import pandas as pd
+
+def get_latest_year_from_data(csv_file, date_column):
+    """
+    Get the latest year from the CSV data for a given date column.
+    """
+    print(f"Determining latest year from {date_column}...")
+    df = pd.read_csv(csv_file)
+    
+    if date_column == 'OriginalPaperDate':
+        df['year'] = df[date_column].apply(parse_original_paper_date)
+    elif date_column == 'RetractionDate':
+        df['year'] = df[date_column].apply(parse_retraction_date)
+    else:
+        return None
+    
+    valid_years = df['year'].dropna()
+    if len(valid_years) > 0:
+        latest_year = int(valid_years.max())
+        print(f"Latest year found: {latest_year}")
+        return latest_year
+    return None
+
+def generate_filtered_dashboards(csv_file=None, base_output_dir='dashboard_outputs'):
+    """
+    Generate filtered dashboard JSON files for last 1-10 years.
+    Creates two folders: one for OriginalPaperDate (years) and one for RetractionDate (notice_years).
+    """
+    # Default CSV path
+    if csv_file is None:
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        project_root = os.path.dirname(script_dir)
+        csv_file = os.path.join(project_root, 'data', 'retraction_watch.csv')
+        if not os.path.exists(csv_file):
+            csv_file = 'retraction_watch.csv'
+    
+    # Ensure output directory is relative to project root
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.dirname(script_dir)
+    base_output_dir = os.path.join(project_root, base_output_dir)
+    
+    # Determine latest year from data
+    latest_year_original = get_latest_year_from_data(csv_file, 'OriginalPaperDate')
+    latest_year_retraction = get_latest_year_from_data(csv_file, 'RetractionDate')
+    
+    if latest_year_original is None:
+        print("Error: Could not determine latest year from OriginalPaperDate")
+        return
+    
+    if latest_year_retraction is None:
+        print("Error: Could not determine latest year from RetractionDate")
+        return
+    
+    # Create output directories
+    years_dir = os.path.join(base_output_dir, 'years')
+    notice_years_dir = os.path.join(base_output_dir, 'notice_years')
+    
+    os.makedirs(years_dir, exist_ok=True)
+    os.makedirs(notice_years_dir, exist_ok=True)
+    
+    print(f"\nCreating filtered dashboards...")
+    print(f"Years folder: {years_dir}")
+    print(f"Notice years folder: {notice_years_dir}\n")
+    
+    # Generate files for OriginalPaperDate (years)
+    print("=" * 60)
+    print("Generating files based on OriginalPaperDate (years)")
+    print("=" * 60)
+    
+    for years in range(1, 11):
+        min_year = latest_year_original - years + 1
+        output_file = os.path.join(years_dir, f'dashboard_table_{years}.json')
+        
+        print(f"\nGenerating dashboard_table_{years}.json (years {min_year}-{latest_year_original})...")
+        
+        # We need to modify the process_csv_to_json to accept min_year parameter
+        # For now, let's create a modified version that filters by year
+        generate_filtered_by_original_date(csv_file, output_file, min_year, latest_year_original)
+    
+    # Generate base file (all data from 1996)
+    print(f"\nGenerating dashboard_table.json (all data from 1996)...")
+    base_output_file = os.path.join(years_dir, 'dashboard_table.json')
+    process_csv_to_json(csv_file, base_output_file)
+    
+    # Generate files for RetractionDate (notice_years)
+    print("\n" + "=" * 60)
+    print("Generating files based on RetractionDate (notice_years)")
+    print("=" * 60)
+    
+    for years in range(1, 11):
+        min_year = latest_year_retraction - years + 1
+        output_file = os.path.join(notice_years_dir, f'dashboard_table_{years}.json')
+        
+        print(f"\nGenerating dashboard_table_{years}.json (notice years {min_year}-{latest_year_retraction})...")
+        process_csv_to_json_by_retraction_date(csv_file, output_file, None, min_year, latest_year_retraction)
+    
+    # Generate base file (all data from 1996)
+    print(f"\nGenerating dashboard_table.json (all data from 1996)...")
+    base_output_file = os.path.join(notice_years_dir, 'dashboard_table.json')
+    process_csv_to_json_by_retraction_date(csv_file, base_output_file, None, 1996, None)
+    
+    print("\n" + "=" * 60)
+    print("All filtered dashboards generated successfully!")
+    print(f"Years folder: {years_dir}")
+    print(f"Notice years folder: {notice_years_dir}")
+    print("=" * 60)
+
+def generate_filtered_by_original_date(csv_file_path, output_json_path, min_year, max_year):
+    """
+    Generate dashboard JSON filtered by OriginalPaperDate year range.
+    This is a modified version of process_csv_to_json that accepts year filters.
+    """
+    # Import necessary functions (from same directory)
+    from generate_dashboard_json import (
+        load_classification_files, classify_retractions_df,
+        get_country_flag_path, load_publication_data,
+        calculate_retraction_rate, parse_original_paper_date
+    )
+    from collections import defaultdict
+    
+    print(f"Reading CSV file: {csv_file_path}")
+    df = pd.read_csv(csv_file_path)
+    
+    print(f"Loaded {len(df)} records")
+    
+    # Parse OriginalPaperDate and filter to year range
+    print(f"Parsing OriginalPaperDate and filtering to {min_year}-{max_year}...")
+    df['original_paper_year'] = df['OriginalPaperDate'].apply(parse_original_paper_date)
+    
+    # Filter to year range
+    initial_count = len(df)
+    df = df[(df['original_paper_year'] >= min_year) & (df['original_paper_year'] <= max_year)]
+    filtered_count = len(df)
+    print(f"Filtered to {filtered_count} records (from {initial_count}) based on OriginalPaperDate {min_year}-{max_year}")
+    
+    # Load publication data from scimago_combined.csv (default)
+    publication_data = load_publication_data(None)
+    if publication_data:
+        print(f"Loaded publication data for {len(publication_data)} countries")
+    else:
+        print("Warning: No publication data available. Retraction rates will be set to 0.0")
+    
+    # Load classification files
+    classification_patterns = load_classification_files()
+    use_file_classification = any(classification_patterns.values())
+    
+    if use_file_classification:
+        print("Using classification files from classification/ folder for categorization")
+    else:
+        print("Warning: No classification files found. Cannot classify retractions.")
+        return []
+    
+    # Classify all retractions
+    print("Classifying retractions...")
+    df = classify_retractions_df(df, classification_patterns)
+    
+    # Initialize country statistics
+    country_stats = defaultdict(lambda: {
+        'alterations': 0,
+        'research': 0,
+        'integrity': 0,
+        'supplemental': 0,
+        'system': 0,
+        'total': 0
+    })
+    
+    # Process each row
+    for idx, row in df.iterrows():
+        if idx % 10000 == 0:
+            print(f"Processing row {idx}/{len(df)}")
+        
+        # Get countries (can be multiple, separated by semicolons)
+        countries_str = str(row.get('Country', ''))
+        if pd.isna(countries_str) or countries_str.lower() in ['unknown', 'nan', '']:
+            continue
+        
+        # Split countries
+        countries = [c.strip() for c in countries_str.split(';') if c.strip()]
+        
+        # Get classifications from the DataFrame columns
+        classifications = {
+            'alterations': row.get('alterations', False),
+            'research': row.get('research', False),
+            'integrity': row.get('integrity', False),
+            'supplemental': row.get('supplemental', False),
+            'system': row.get('system', False)
+        }
+        
+        # Update statistics for each country
+        for country in countries:
+            if country:
+                country_stats[country]['total'] += 1
+                if classifications['alterations']:
+                    country_stats[country]['alterations'] += 1
+                if classifications['research']:
+                    country_stats[country]['research'] += 1
+                if classifications['integrity']:
+                    country_stats[country]['integrity'] += 1
+                if classifications['supplemental']:
+                    country_stats[country]['supplemental'] += 1
+                if classifications['system']:
+                    country_stats[country]['system'] += 1
+    
+    print(f"Processed {len(country_stats)} countries")
+    
+    # Convert to list format and calculate retraction_rate
+    result = []
+    for country, stats in country_stats.items():
+        # Calculate total retractions as sum of all categories
+        total_retractions = (stats['supplemental'] + stats['system'] + 
+                            stats['research'] + stats['integrity'] + 
+                            stats['alterations'])
+        
+        # Get total publications for this country
+        total_publications = publication_data.get(country)
+        
+        # Calculate retraction_rate: (total_retractions / total_publications) * 1000
+        retraction_rate = calculate_retraction_rate(total_retractions, total_publications)
+        
+        result.append({
+            'country': country,
+            'alterations': stats['alterations'],
+            'research': stats['research'],
+            'integrity': stats['integrity'],
+            'supplemental': stats['supplemental'],
+            'system': stats['system'],
+            'total': total_retractions,
+            'retraction_rate': retraction_rate,
+            'country_flag': get_country_flag_path(country)
+        })
+    
+    # Sort by total (descending)
+    result.sort(key=lambda x: x['total'], reverse=True)
+    
+    # Write to JSON file
+    print(f"Writing JSON to: {output_json_path}")
+    import json
+    with open(output_json_path, 'w') as f:
+        json.dump(result, f, indent=2)
+    
+    print(f"Successfully generated JSON file with {len(result)} countries")
+    return result
+
+if __name__ == '__main__':
+    csv_file = None
+    output_dir = 'dashboard_outputs'
+    
+    if len(sys.argv) > 1:
+        csv_file = sys.argv[1]
+    if len(sys.argv) > 2:
+        output_dir = sys.argv[2]
+    
+    generate_filtered_dashboards(csv_file, output_dir)
+
