@@ -124,10 +124,10 @@ def generate_filtered_by_original_date(csv_file_path, output_json_path, min_year
     """
     # Import necessary functions (from same directory)
     from generate_dashboard_json import (
-        load_classification_files, classify_retractions_df,
+        apply_retraction_classification,
         get_country_flag_path, load_publication_data,
         calculate_retraction_rate, parse_original_paper_date,
-        find_similar_country
+        find_similar_country, load_yearly_publication_data_from_scimago
     )
     from collections import defaultdict
     
@@ -156,25 +156,23 @@ def generate_filtered_by_original_date(csv_file_path, output_json_path, min_year
     publication_data, scimago_countries = load_publication_data(None)
     country_matches = {}  # Track fuzzy matches
     
+    # Load yearly publication data for yearly retraction rate calculation
+    yearly_publication_data, _ = load_yearly_publication_data_from_scimago()
+    
     if publication_data:
         print(f"Loaded publication data for {len(publication_data)} countries")
     else:
         print("Warning: No publication data available. Retraction rates will be set to 0.0")
         scimago_countries = []
     
-    # Load classification files
-    classification_patterns = load_classification_files()
-    use_file_classification = any(classification_patterns.values())
+    # Apply retraction_classification.py logic to add 'mark' column
+    print("Applying retraction classification (same as retraction_classification.py)...")
+    df = apply_retraction_classification(df)
     
-    if use_file_classification:
-        print("Using classification files from classification/ folder for categorization")
-    else:
-        print("Warning: No classification files found. Cannot classify retractions.")
+    # Check if we have any marked records
+    if df['mark'].isna().all():
+        print("Warning: No records were classified. Cannot generate dashboard.")
         return []
-    
-    # Classify all retractions
-    print("Classifying retractions...")
-    df = classify_retractions_df(df, classification_patterns)
     
     # Initialize country statistics
     country_stats = defaultdict(lambda: {
@@ -184,8 +182,18 @@ def generate_filtered_by_original_date(csv_file_path, output_json_path, min_year
         'supplemental': 0,
         'system': 0,
         'total': 0,
-        'total_from_1996': 0  # Count of retractions from 1996 onwards
+        'total_from_1996': 0,  # Count of retractions from 1996 onwards
+        'yearly_retractions': defaultdict(int)  # Track retractions per year
     })
+    
+    # Map mark to category
+    mark_to_category = {
+        'Supplemental': 'supplemental',
+        'System': 'system',
+        'Research': 'research',
+        'Integrity': 'integrity',
+        'Serious': 'alterations'
+    }
     
     # Process each row
     for idx, row in df.iterrows():
@@ -200,18 +208,15 @@ def generate_filtered_by_original_date(csv_file_path, output_json_path, min_year
         # Split countries
         countries = [c.strip() for c in countries_str.split(';') if c.strip()]
         
-        # Get classifications from the DataFrame columns
-        classifications = {
-            'alterations': row.get('alterations', False),
-            'research': row.get('research', False),
-            'integrity': row.get('integrity', False),
-            'supplemental': row.get('supplemental', False),
-            'system': row.get('system', False)
-        }
+        # Get mark from the DataFrame
+        mark = row.get('mark')
+        category = mark_to_category.get(mark) if pd.notna(mark) else None
         
         # Update statistics for each country
         # Check if this record is from 1996 onwards for retraction rate calculation
         is_from_1996 = row.get('original_paper_year', 0) >= 1996 if pd.notna(row.get('original_paper_year')) else False
+        paper_year = row.get('original_paper_year')
+        year_str = str(int(paper_year)) if pd.notna(paper_year) and 1996 <= paper_year <= 2024 else None
         
         for country in countries:
             if country:
@@ -219,16 +224,13 @@ def generate_filtered_by_original_date(csv_file_path, output_json_path, min_year
                 # Count retractions from 1996 onwards separately
                 if is_from_1996:
                     country_stats[country]['total_from_1996'] += 1
-                if classifications['alterations']:
-                    country_stats[country]['alterations'] += 1
-                if classifications['research']:
-                    country_stats[country]['research'] += 1
-                if classifications['integrity']:
-                    country_stats[country]['integrity'] += 1
-                if classifications['supplemental']:
-                    country_stats[country]['supplemental'] += 1
-                if classifications['system']:
-                    country_stats[country]['system'] += 1
+                    # Track retractions per year
+                    if year_str:
+                        country_stats[country]['yearly_retractions'][year_str] += 1
+                
+                # Count in only ONE category based on mark (not multiple)
+                if category:
+                    country_stats[country][category] += 1
     
     print(f"Processed {len(country_stats)} countries")
     
@@ -256,6 +258,25 @@ def generate_filtered_by_original_date(csv_file_path, output_json_path, min_year
         # Calculate retraction_rate: (total_retractions_from_1996 / total_publications) * 1000
         retraction_rate = calculate_retraction_rate(total_retractions_from_1996, total_publications)
         
+        # Calculate yearly retraction rates
+        yearly_retraction_rates = {}
+        country_yearly_pubs = yearly_publication_data.get(country)
+        
+        # If no yearly publication data found, try fuzzy matching
+        if (country_yearly_pubs is None or not country_yearly_pubs) and scimago_countries:
+            matched_country = find_similar_country(country, scimago_countries)
+            if matched_country:
+                country_yearly_pubs = yearly_publication_data.get(matched_country)
+        
+        # Calculate retraction rate for each year (1996-2024)
+        for year in range(1996, 2025):
+            year_str = str(year)
+            retractions_in_year = stats['yearly_retractions'].get(year_str, 0)
+            publications_in_year = country_yearly_pubs.get(year_str, 0) if country_yearly_pubs else 0
+            yearly_rate = calculate_retraction_rate(retractions_in_year, publications_in_year)
+            if yearly_rate > 0 or retractions_in_year > 0:  # Include year if there are retractions or rate > 0
+                yearly_retraction_rates[year_str] = yearly_rate
+        
         result.append({
             'country': country,
             'alterations': stats['alterations'],
@@ -267,6 +288,7 @@ def generate_filtered_by_original_date(csv_file_path, output_json_path, min_year
             'total_from_1996': total_retractions_from_1996,  # Retractions from 1996 onwards
             'total_publications': int(total_publications) if total_publications else 0,  # Total publications (1996-2024)
             'retraction_rate': retraction_rate,  # (total_from_1996 / total_publications) * 1000
+            'yearly_retraction_rates': yearly_retraction_rates,  # Dict with year -> retraction_rate
             'country_flag': get_country_flag_path(country)
         })
     

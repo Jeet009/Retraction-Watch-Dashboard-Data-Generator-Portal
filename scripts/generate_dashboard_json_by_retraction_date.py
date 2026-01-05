@@ -147,9 +147,73 @@ def load_classification_files():
     
     return classification
 
+def apply_retraction_classification(df):
+    """
+    Apply retraction_classification.py logic to add a 'mark' column.
+    Processes categories in order: Supplemental, System, Research, Integrity, Serious
+    The last matching category wins (as in retraction_classification.py).
+    Returns DataFrame with 'mark' column.
+    """
+    # Initialize mark column
+    df['mark'] = None
+    
+    # Classification folder path
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.dirname(script_dir)
+    classification_folder = os.path.join(project_root, 'classification')
+    
+    # Process categories in the same order as retraction_classification.py
+    # Order matters: last matching category wins
+    list_of_marks = ['Supplemental', 'System', 'Research', 'Integrity', 'Serious']
+    
+    for mark in list_of_marks:
+        file_path = os.path.join(classification_folder, mark + '.txt')
+        
+        if not os.path.exists(file_path):
+            print(f"Warning: Classification file not found: {file_path}")
+            continue
+        
+        # Read keywords from file
+        try:
+            with open(file_path, 'r', encoding='utf-8') as file:
+                lines = [line.strip() for line in file if line.strip()]
+            
+            if not lines:
+                continue
+            
+            # Create pattern (same as retraction_classification.py)
+            # Escape special regex characters to ensure literal matching
+            import re
+            escaped_lines = [re.escape(line) for line in lines]
+            pattern = '|'.join(escaped_lines)
+            
+            # Find rows where Reason contains any of the keywords (case-insensitive)
+            filtered_df = df[df['Reason'].str.contains(pattern, case=False, na=False, regex=True)]
+            
+            # Set mark for matching rows (overwrites previous marks, so last wins)
+            df.loc[filtered_df.index, 'mark'] = mark
+            
+        except Exception as e:
+            print(f"Warning: Could not process {file_path}: {e}")
+    
+    # Count how many records got marked
+    marked_count = df['mark'].notna().sum()
+    unmarked_count = df['mark'].isna().sum()
+    
+    # Assign unmarked records to 'Research' as default category
+    # This ensures all records are classified and sum of categories equals total
+    if unmarked_count > 0:
+        df.loc[df['mark'].isna(), 'mark'] = 'Research'
+        print(f"Applied classification: {marked_count} records marked, {unmarked_count} unmarked records assigned to 'Research'")
+    else:
+        print(f"Applied classification: {marked_count} records marked out of {len(df)}")
+    
+    return df
+
 def classify_with_files(row, classification_keywords):
     """
     Classify retraction using keywords from files.
+    DEPRECATED: Use apply_retraction_classification instead.
     """
     classifications = {
         'research': False,
@@ -534,14 +598,14 @@ def process_csv_to_json_by_retraction_date(csv_file_path, output_json_path, publ
         print("Warning: No publication data available. Retraction rates will be set to 0.0")
         scimago_countries = []
     
-    # Load classification files from classification folder
-    classification_keywords = load_classification_files()
-    use_file_classification = any(classification_keywords.values())
+    # Apply retraction_classification.py logic to add 'mark' column
+    print("Applying retraction classification (same as retraction_classification.py)...")
+    df = apply_retraction_classification(df)
     
-    if use_file_classification:
-        print("Using classification files from classification/ folder for categorization")
-    else:
-        print("Warning: No classification files found. Using default keyword-based classification")
+    # Check if we have any marked records
+    if df['mark'].isna().all():
+        print("Warning: No records were classified. Cannot generate dashboard.")
+        return []
     
     # Initialize country statistics
     country_stats = defaultdict(lambda: {
@@ -574,12 +638,21 @@ def process_csv_to_json_by_retraction_date(csv_file_path, output_json_path, publ
         # Split countries
         countries = [c.strip() for c in countries_str.split(';') if c.strip()]
         
-        # Classify the retraction
-        # Always try to use classification files if available, fallback to default
-        if use_file_classification:
-            classifications = classify_with_files(row, classification_keywords)
-        else:
-            classifications = classify_retraction(row)
+        # Get mark from the DataFrame (set by apply_retraction_classification)
+        mark = row.get('mark')
+        
+        # Map mark to category (matching retraction_classification.py mapping)
+        # Supplemental -> supplemental, System -> system, Research -> research, 
+        # Integrity -> integrity, Serious -> alterations
+        mark_to_category = {
+            'Supplemental': 'supplemental',
+            'System': 'system',
+            'Research': 'research',
+            'Integrity': 'integrity',
+            'Serious': 'alterations'
+        }
+        
+        category = mark_to_category.get(mark) if pd.notna(mark) else None
         
         # Update statistics for each country
         # Check if this record is from 1996 onwards for retraction rate calculation
@@ -596,16 +669,10 @@ def process_csv_to_json_by_retraction_date(csv_file_path, output_json_path, publ
                     # Track retractions per year
                     if year_str:
                         country_stats[country]['yearly_retractions'][year_str] += 1
-                if classifications['alterations']:
-                    country_stats[country]['alterations'] += 1
-                if classifications['research']:
-                    country_stats[country]['research'] += 1
-                if classifications['integrity']:
-                    country_stats[country]['integrity'] += 1
-                if classifications['supplemental']:
-                    country_stats[country]['supplemental'] += 1
-                if classifications['system']:
-                    country_stats[country]['system'] += 1
+                
+                # Count in only ONE category based on mark (not multiple)
+                if category:
+                    country_stats[country][category] += 1
     
     if skipped_no_date > 0:
         print(f"Skipped {skipped_no_date} records without valid RetractionDate")
