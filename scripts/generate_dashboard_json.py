@@ -125,10 +125,116 @@ def parse_original_paper_date(date_str):
     
     return None
 
+def normalize_country_name(name):
+    """
+    Normalize country name by removing parentheses, 'formerly' notes, and common variations.
+    """
+    import re
+    # Remove content in parentheses (e.g., "Brunei (Brunei Darussalam)" -> "Brunei")
+    name = re.sub(r'\s*\([^)]*\)', '', name)
+    # Remove "formerly" notes (e.g., "Myanmar (formerly Burma)" -> "Myanmar")
+    name = re.sub(r'\s*\(formerly[^)]*\)', '', name, flags=re.IGNORECASE)
+    # Remove common prefixes/suffixes
+    name = name.replace('Island', '').replace('Islands', '').strip()
+    # Normalize common abbreviations
+    name = name.replace('&', 'and').replace('St.', 'Saint').replace('St ', 'Saint ')
+    # Remove extra whitespace
+    name = ' '.join(name.split())
+    return name.strip()
+
+def find_similar_country(country_name, scimago_countries, threshold=0.7):
+    """
+    Find a similar country name in scimago_countries using fuzzy matching.
+    Returns the best match if similarity is above threshold, else None.
+    """
+    from difflib import SequenceMatcher
+    
+    # Manual mappings for common cases
+    manual_mappings = {
+        'russia': 'Russian Federation',
+        'brunei': 'Brunei Darussalam',
+        'myanmar': 'Myanmar',
+        'burma': 'Myanmar',
+        'syria': 'Syrian Arab Republic',
+        'north macedonia': 'Macedonia',
+        'macedonia': 'Macedonia',
+        'eswatini': 'Eswatini',
+        'swaziland': 'Eswatini',
+        'republic of the congo': 'Congo',
+        'congo-brazzaville': 'Congo',
+        'réunion island': 'Reunion',
+        'reunion island': 'Reunion',
+        'reunion': 'Reunion',
+        'st. kitts & nevis': 'Saint Kitts and Nevis',
+        'st kitts & nevis': 'Saint Kitts and Nevis',
+        'saint kitts & nevis': 'Saint Kitts and Nevis',
+        'east timor': 'Timor-Leste',
+        'timor-leste': 'Timor-Leste',
+        'sint maarten': 'Netherlands Antilles',  # May not exist, but try
+    }
+    
+    # Normalize the input country name
+    normalized_input = normalize_country_name(country_name).lower()
+    
+    # Check manual mappings first
+    if normalized_input in manual_mappings:
+        mapped = manual_mappings[normalized_input]
+        if mapped in scimago_countries:
+            return mapped
+    
+    # Also check if normalized input matches any part of manual mapping keys
+    for key, mapped in manual_mappings.items():
+        if key in normalized_input or normalized_input in key:
+            if mapped in scimago_countries:
+                return mapped
+    
+    country_name_lower = country_name.lower().strip()
+    normalized_input = normalized_input if normalized_input else country_name_lower
+    best_match = None
+    best_ratio = 0
+    
+    for scimago_country in scimago_countries:
+        scimago_lower = scimago_country.lower().strip()
+        scimago_normalized = normalize_country_name(scimago_country).lower()
+        
+        # Check if normalized names match exactly
+        if normalized_input == scimago_normalized:
+            return scimago_country
+        
+        # Check if one contains the other (e.g., "Russia" in "Russian Federation")
+        if normalized_input in scimago_lower or scimago_lower in normalized_input:
+            ratio = SequenceMatcher(None, normalized_input, scimago_lower).ratio()
+            if ratio > best_ratio:
+                best_ratio = ratio
+                best_match = scimago_country
+        
+        # Check normalized versions
+        if normalized_input in scimago_normalized or scimago_normalized in normalized_input:
+            ratio = SequenceMatcher(None, normalized_input, scimago_normalized).ratio()
+            if ratio > best_ratio:
+                best_ratio = ratio
+                best_match = scimago_country
+        
+        # Also check similarity ratio on normalized names
+        ratio = SequenceMatcher(None, normalized_input, scimago_normalized).ratio()
+        if ratio > best_ratio:
+            best_ratio = ratio
+            best_match = scimago_country
+        
+        # Check original names too
+        ratio = SequenceMatcher(None, country_name_lower, scimago_lower).ratio()
+        if ratio > best_ratio:
+            best_ratio = ratio
+            best_match = scimago_country
+    
+    if best_ratio >= threshold:
+        return best_match
+    return None
+
 def load_publication_data_from_scimago(scimago_file=None):
     """
-    Load publication data from scimago_combined.csv.
-    Looks in data/ folder first, then current directory.
+    Load publication data from scimago_combined.csv and sum all years from 1996-2024.
+    Returns: (publication_data dict, scimago_countries list)
     """
     if scimago_file is None:
         script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -137,15 +243,14 @@ def load_publication_data_from_scimago(scimago_file=None):
         # Fallback to current directory
         if not os.path.exists(scimago_file):
             scimago_file = 'scimago_combined.csv'
-    """
-    Load publication data from scimago_combined.csv and sum all years from 1996-2024.
-    Returns a dict with country -> total_publications (sum of all years).
-    """
+    
     if not os.path.exists(scimago_file):
         print(f"Warning: {scimago_file} not found")
-        return {}
+        return {}, []
     
     publication_data = {}
+    scimago_countries = []
+    
     try:
         df = pd.read_csv(scimago_file)
         
@@ -156,6 +261,7 @@ def load_publication_data_from_scimago(scimago_file=None):
         for _, row in df.iterrows():
             country = str(row['Country']).strip()
             if country:
+                scimago_countries.append(country)
                 total_publications = 0
                 for year_col in year_columns:
                     if year_col in df.columns:
@@ -170,17 +276,19 @@ def load_publication_data_from_scimago(scimago_file=None):
                     publication_data[country] = total_publications
         
         print(f"Loaded publication data for {len(publication_data)} countries from {scimago_file}")
-        print(f"Total publications range: {min(publication_data.values()):.0f} - {max(publication_data.values()):.0f}")
+        if publication_data:
+            print(f"Total publications range: {min(publication_data.values()):.0f} - {max(publication_data.values()):.0f}")
         
     except Exception as e:
         print(f"Warning: Could not load publication data from {scimago_file}: {e}")
     
-    return publication_data
+    return publication_data, scimago_countries
 
 def load_publication_data(publication_file=None):
     """
     Load publication data. If no file specified, tries to load from scimago_combined.csv.
     Expected format: country -> total_publications
+    Returns: (publication_data, scimago_countries)
     """
     # Default to scimago_combined.csv if no file specified
     if publication_file is None:
@@ -192,6 +300,8 @@ def load_publication_data(publication_file=None):
         return load_publication_data_from_scimago()
     
     publication_data = {}
+    scimago_countries = []
+    
     try:
         if publication_file.endswith('.csv'):
             # Check if it's the scimago format
@@ -206,19 +316,23 @@ def load_publication_data(publication_file=None):
                     publications = row.iloc[1]
                     if pd.notna(publications):
                         publication_data[country] = float(publications)
+                        scimago_countries.append(country)
         elif publication_file.endswith('.json'):
             with open(publication_file, 'r') as f:
                 data = json.load(f)
                 if isinstance(data, dict):
                     publication_data = data
+                    scimago_countries = list(data.keys())
                 elif isinstance(data, list):
                     for item in data:
                         if 'country' in item and 'publications' in item:
-                            publication_data[item['country']] = float(item['publications'])
+                            country = item['country']
+                            publication_data[country] = float(item['publications'])
+                            scimago_countries.append(country)
     except Exception as e:
         print(f"Warning: Could not load publication data: {e}")
     
-    return publication_data
+    return publication_data, scimago_countries
 
 def calculate_retraction_rate(total_retractions, total_publications=None):
     """
@@ -230,7 +344,7 @@ def calculate_retraction_rate(total_retractions, total_publications=None):
     else:
         return round((total_retractions / total_publications) * 1000, 4)
 
-def process_csv_to_json(csv_file_path, output_json_path, publication_file=None):
+def process_csv_to_json(csv_file_path, output_json_path, publication_file=None, min_year=None, max_year=None):
     """
     Process the CSV file and generate the dashboard JSON.
     
@@ -238,21 +352,36 @@ def process_csv_to_json(csv_file_path, output_json_path, publication_file=None):
         csv_file_path: Path to the input CSV file
         output_json_path: Path to the output JSON file
         publication_file: Optional path to a file containing publication counts per country
+        min_year: Optional minimum year filter (if None, no date filtering)
+        max_year: Optional maximum year filter (if None, no date filtering)
     """
     print(f"Reading CSV file: {csv_file_path}")
     df = pd.read_csv(csv_file_path)
     
     print(f"Loaded {len(df)} records")
     
-    # Parse OriginalPaperDate and filter to >= 1996
-    print("Parsing OriginalPaperDate and filtering to >= 1996...")
+    # Filter by RetractionNature == "Retraction"
+    initial_count = len(df)
+    df = df[df['RetractionNature'] == 'Retraction']
+    filtered_count = len(df)
+    print(f"Filtered to {filtered_count} records (from {initial_count}) where RetractionNature == 'Retraction'")
+    
+    # Parse OriginalPaperDate
+    print("Parsing OriginalPaperDate...")
     df['original_paper_year'] = df['OriginalPaperDate'].apply(parse_original_paper_date)
     
-    # Filter to only include records from 1996 onwards
-    initial_count = len(df)
-    df = df[df['original_paper_year'] >= 1996]
-    filtered_count = len(df)
-    print(f"Filtered to {filtered_count} records (from {initial_count}) based on OriginalPaperDate >= 1996")
+    # Filter by year range if specified (for numbered files), otherwise include all records
+    if min_year is not None or max_year is not None:
+        initial_count = len(df)
+        if min_year is not None:
+            df = df[df['original_paper_year'] >= min_year]
+        if max_year is not None:
+            df = df[df['original_paper_year'] <= max_year]
+        filtered_count = len(df)
+        year_range = f"{min_year or 'any'}-{max_year or 'any'}"
+        print(f"Filtered to {filtered_count} records (from {initial_count}) based on OriginalPaperDate {year_range}")
+    else:
+        print(f"Processing all {len(df)} records (no date filter for base file)")
     
     # Count records with valid dates
     valid_dates = df['original_paper_year'].notna().sum()
@@ -263,11 +392,14 @@ def process_csv_to_json(csv_file_path, output_json_path, publication_file=None):
         print(f"Original paper year range: {year_counts.index.min()} - {year_counts.index.max()}")
     
     # Load publication data from scimago_combined.csv (default)
-    publication_data = load_publication_data(publication_file)
+    publication_data, scimago_countries = load_publication_data(publication_file)
+    country_matches = {}  # Track fuzzy matches
+    
     if publication_data:
         print(f"Loaded publication data for {len(publication_data)} countries")
     else:
         print("Warning: No publication data available. Retraction rates will be set to 0.0")
+        scimago_countries = []
     
     # Load classification files from classification folder (using retraction_classification.py approach)
     classification_patterns = load_classification_files()
@@ -291,7 +423,8 @@ def process_csv_to_json(csv_file_path, output_json_path, publication_file=None):
         'integrity': 0,
         'supplemental': 0,
         'system': 0,
-        'total': 0
+        'total': 0,
+        'total_from_1996': 0  # Count of retractions from 1996 onwards
     })
     
     # Process each row
@@ -317,9 +450,15 @@ def process_csv_to_json(csv_file_path, output_json_path, publication_file=None):
         }
         
         # Update statistics for each country
+        # Check if this record is from 1996 onwards for retraction rate calculation
+        is_from_1996 = row.get('original_paper_year', 0) >= 1996 if pd.notna(row.get('original_paper_year')) else False
+        
         for country in countries:
             if country:
                 country_stats[country]['total'] += 1
+                # Count retractions from 1996 onwards separately
+                if is_from_1996:
+                    country_stats[country]['total_from_1996'] += 1
                 if classifications['alterations']:
                     country_stats[country]['alterations'] += 1
                 if classifications['research']:
@@ -336,17 +475,26 @@ def process_csv_to_json(csv_file_path, output_json_path, publication_file=None):
     # Convert to list format and calculate retraction_rate
     result = []
     for country, stats in country_stats.items():
-        # Calculate total retractions as sum of all categories
-        # Total = Supplemental + System + Research + Integrity + Serious (alterations)
-        total_retractions = (stats['supplemental'] + stats['system'] + 
-                            stats['research'] + stats['integrity'] + 
-                            stats['alterations'])
+        # Total retractions = unique record count (all records, including before 1996)
+        total_retractions = stats['total']
         
-        # Get total publications for this country
+        # Total retractions from 1996 onwards (for retraction rate calculation)
+        total_retractions_from_1996 = stats['total_from_1996']
+        
+        # Get total publications for this country (1996-2024)
         total_publications = publication_data.get(country)
         
-        # Calculate retraction_rate: (total_retractions / total_publications) * 1000
-        retraction_rate = calculate_retraction_rate(total_retractions, total_publications)
+        # If no publication data found, try fuzzy matching
+        if (total_publications is None or total_publications == 0) and scimago_countries:
+            matched_country = find_similar_country(country, scimago_countries)
+            if matched_country:
+                total_publications = publication_data.get(matched_country)
+                if total_publications:
+                    country_matches[country] = matched_country
+                    print(f"Matched '{country}' -> '{matched_country}' for publication data")
+        
+        # Calculate retraction_rate: (total_retractions_from_1996 / total_publications) * 1000
+        retraction_rate = calculate_retraction_rate(total_retractions_from_1996, total_publications)
         
         result.append({
             'country': country,
@@ -355,10 +503,24 @@ def process_csv_to_json(csv_file_path, output_json_path, publication_file=None):
             'integrity': stats['integrity'],
             'supplemental': stats['supplemental'],
             'system': stats['system'],
-            'total': total_retractions,  # Use sum of all categories, not unique record count
-            'retraction_rate': retraction_rate,
+            'total': total_retractions,  # All retractions (including before 1996)
+            'total_from_1996': total_retractions_from_1996,  # Retractions from 1996 onwards
+            'total_publications': int(total_publications) if total_publications else 0,  # Total publications (1996-2024)
+            'retraction_rate': retraction_rate,  # (total_from_1996 / total_publications) * 1000
             'country_flag': get_country_flag_path(country)
         })
+    
+    # Save country matches to file
+    if country_matches:
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        project_root = os.path.dirname(script_dir)
+        matches_file = os.path.join(project_root, 'country_matches.txt')
+        with open(matches_file, 'w') as f:
+            f.write("Country Name Matches (Retraction Watch -> Scimago)\n")
+            f.write("=" * 60 + "\n\n")
+            for retraction_country, scimago_country in sorted(country_matches.items()):
+                f.write(f"{retraction_country} -> {scimago_country}\n")
+        print(f"\nSaved {len(country_matches)} country matches to {matches_file}")
     
     # Sort by total (descending)
     result.sort(key=lambda x: x['total'], reverse=True)
@@ -384,6 +546,8 @@ if __name__ == '__main__':
     csv_file = default_csv
     json_file = 'dashboard_table.json'
     publication_file = None
+    min_year = None  # No date filter for base file
+    max_year = None
     
     # Allow command line arguments
     if len(sys.argv) > 1:
@@ -392,6 +556,10 @@ if __name__ == '__main__':
         json_file = sys.argv[2]
     if len(sys.argv) > 3:
         publication_file = sys.argv[3]
+    if len(sys.argv) > 4:
+        min_year = int(sys.argv[4])
+    if len(sys.argv) > 5:
+        max_year = int(sys.argv[5])
     
-    process_csv_to_json(csv_file, json_file, publication_file)
+    process_csv_to_json(csv_file, json_file, publication_file, min_year, max_year)
 
