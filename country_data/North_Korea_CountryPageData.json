@@ -1,0 +1,101 @@
+{
+  "retraction_rate_data": {
+    "country": "North Korea",
+    "yearly_rates": {
+      "2016": 10.4167,
+      "2018": 6.5359,
+      "2021": 3.2787
+    },
+    "notice_yearly_rates": {
+      "2018": 6.5359,
+      "2019": 4.6512,
+      "2021": 3.2787
+    },
+    "average_rate": 1.2195,
+    "yearly_retractions": {
+      "2016": 1,
+      "2018": 1,
+      "2021": 1
+    },
+    "notice_yearly_retractions": {
+      "2018": 1,
+      "2019": 1,
+      "2021": 1
+    }
+  },
+  "domainwise_data": {
+    "country": "North Korea",
+    "total_retractions": 3,
+    "years": {
+      "2021": {
+        "total": 1,
+        "marks": {
+          "supplemental": 1
+        },
+        "domain": {
+          "PHY": 2
+        }
+      },
+      "2018": {
+        "total": 1,
+        "marks": {
+          "supplemental": 1
+        },
+        "domain": {
+          "ENV": 1,
+          "SOC": 1
+        }
+      },
+      "2016": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "BLS": 2
+        }
+      }
+    },
+    "notice_years": {
+      "2021": {
+        "total": 1,
+        "marks": {
+          "supplemental": 1
+        },
+        "domain": {
+          "PHY": 2
+        }
+      },
+      "2019": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "BLS": 2
+        }
+      },
+      "2018": {
+        "total": 1,
+        "marks": {
+          "supplemental": 1
+        },
+        "domain": {
+          "ENV": 1,
+          "SOC": 1
+        }
+      }
+    },
+    "collaborations": {
+      "China": 1,
+      "Russia": 1
+    },
+    "notice_collaborations": {
+      "China": 1,
+      "Russia": 1
+    }
+  },
+  "country_flag": "/country_flags/North_Korea.svg"
+}

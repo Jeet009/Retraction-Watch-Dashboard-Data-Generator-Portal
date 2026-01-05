@@ -1,0 +1,113 @@
+{
+  "retraction_rate_data": {
+    "country": "Burundi",
+    "yearly_rates": {
+      "2020": 7.8125,
+      "2022": 114.5038,
+      "2023": 31.746
+    },
+    "notice_yearly_rates": {
+      "2021": 8.2645,
+      "2023": 142.8571,
+      "2024": 6.3291
+    },
+    "average_rate": 14.6735,
+    "yearly_retractions": {
+      "2020": 1,
+      "2022": 15,
+      "2023": 4
+    },
+    "notice_yearly_retractions": {
+      "2021": 1,
+      "2023": 18,
+      "2024": 1
+    }
+  },
+  "domainwise_data": {
+    "country": "Burundi",
+    "total_retractions": 20,
+    "years": {
+      "2023": {
+        "total": 4,
+        "marks": {
+          "research": 4
+        },
+        "domain": {
+          "ENV": 3,
+          "PHY": 13,
+          "B/T": 1
+        }
+      },
+      "2022": {
+        "total": 15,
+        "marks": {
+          "alterations": 10,
+          "research": 5
+        },
+        "domain": {
+          "ENV": 10,
+          "PHY": 15,
+          "B/T": 14,
+          "BLS": 2,
+          "SOC": 5
+        }
+      },
+      "2020": {
+        "total": 1,
+        "marks": {
+          "system": 1
+        },
+        "domain": {
+          "B/T": 2
+        }
+      }
+    },
+    "notice_years": {
+      "2024": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "BLS": 1,
+          "ENV": 1
+        }
+      },
+      "2023": {
+        "total": 18,
+        "marks": {
+          "alterations": 9,
+          "research": 9
+        },
+        "domain": {
+          "ENV": 12,
+          "PHY": 28,
+          "B/T": 14,
+          "SOC": 5,
+          "BLS": 1
+        }
+      },
+      "2021": {
+        "total": 1,
+        "marks": {
+          "system": 1
+        },
+        "domain": {
+          "B/T": 2
+        }
+      }
+    },
+    "collaborations": {
+      "China": 20,
+      "Pakistan": 1,
+      "Malaysia": 1
+    },
+    "notice_collaborations": {
+      "China": 20,
+      "Pakistan": 1,
+      "Malaysia": 1
+    }
+  },
+  "country_flag": "/country_flags/Burundi.svg"
+}

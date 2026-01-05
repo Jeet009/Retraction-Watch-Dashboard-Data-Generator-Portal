@@ -1,0 +1,75 @@
+{
+  "retraction_rate_data": {
+    "country": "Puerto Rico",
+    "yearly_rates": {
+      "2008": 1.0215,
+      "2011": 1.065
+    },
+    "notice_yearly_rates": {
+      "2008": 1.0215,
+      "2012": 1.1148
+    },
+    "average_rate": 0.0885,
+    "yearly_retractions": {
+      "2008": 1,
+      "2011": 1
+    },
+    "notice_yearly_retractions": {
+      "2008": 1,
+      "2012": 1
+    }
+  },
+  "domainwise_data": {
+    "country": "Puerto Rico",
+    "total_retractions": 2,
+    "years": {
+      "2011": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "BLS": 2,
+          "HSC": 1
+        }
+      },
+      "2008": {
+        "total": 1,
+        "marks": {
+          "system": 1
+        },
+        "domain": {
+          "HSC": 3
+        }
+      }
+    },
+    "notice_years": {
+      "2012": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "BLS": 2,
+          "HSC": 1
+        }
+      },
+      "2008": {
+        "total": 1,
+        "marks": {
+          "system": 1
+        },
+        "domain": {
+          "HSC": 3
+        }
+      }
+    },
+    "collaborations": {
+      "United States": 2
+    },
+    "notice_collaborations": {
+      "United States": 2
+    }
+  },
+  "country_flag": "/country_flags/Puerto_Rico.svg"
+}
