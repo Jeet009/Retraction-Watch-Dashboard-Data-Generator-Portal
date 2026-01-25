@@ -61,9 +61,7 @@ jobs:
         echo "Generating country page data..."
         python scripts/generate_country_page_data.py
         
-        # Generate Race CSV
-        echo "Generating race CSV..."
-        python create_race_csv.py
+
         
     - name: Commit and push changes
       run: |
@@ -75,7 +73,7 @@ jobs:
           echo "No changes to commit."
         else
           git add data/retraction_watch.csv
-          git add data/retraction_race_data.csv
+
           git add dashboard_outputs/
           git add country_data/
           git add country_matches.txt

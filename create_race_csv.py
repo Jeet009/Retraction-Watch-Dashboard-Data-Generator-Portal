@@ -3,8 +3,10 @@ import json
 import csv
 
 # Configuration
-COUNTRY_DATA_DIR = '/Users/jeetmukherjee/Desktop/PostPub/Development/postpub-backend-pipeline/country_data'
-OUTPUT_FILE = '/Users/jeetmukherjee/Desktop/PostPub/Development/postpub-backend-pipeline/data/retraction_race_data.csv'
+# Configuration
+script_dir = os.path.dirname(os.path.abspath(__file__))
+COUNTRY_DATA_DIR = os.path.join(script_dir, 'country_data')
+OUTPUT_FILE = os.path.join(script_dir, 'data', 'retraction_race_data.csv')
 START_YEAR = 1996
 END_YEAR = 2025
 
