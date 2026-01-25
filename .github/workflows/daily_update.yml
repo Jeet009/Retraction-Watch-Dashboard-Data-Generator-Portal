@@ -1,0 +1,85 @@
+name: Daily Data Update
+
+on:
+  schedule:
+    # Run at 02:00 UTC every day
+    - cron: '0 2 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas requests
+        
+    - name: Update data from source
+      run: |
+        # Clone the external data repository
+        git clone https://gitlab.com/crossref/retraction-watch-data.git temp_data_repo
+        
+        # Copy the CSV file to the data directory
+        mkdir -p data
+        cp temp_data_repo/retraction_watch.csv data/retraction_watch.csv
+        
+        # Clean up the cloned repo
+        rm -rf temp_data_repo
+        
+    - name: Run processing scripts
+      run: |
+        # Create output directories
+        mkdir -p dashboard_outputs/years
+        mkdir -p dashboard_outputs/notice_years
+        
+        # Generate Dashboard (OriginalPaperDate)
+        echo "Generating dashboard (OriginalPaperDate)..."
+        python scripts/generate_dashboard_json.py data/retraction_watch.csv dashboard_outputs/years/dashboard_table.json
+        
+        # Generate Dashboard (RetractionDate)
+        echo "Generating dashboard (RetractionDate)..."
+        python scripts/generate_dashboard_json_by_retraction_date.py data/retraction_watch.csv dashboard_outputs/notice_years/dashboard_table.json
+        
+        # Generate All Filtered Dashboards
+        echo "Generating filtered dashboards..."
+        python scripts/generate_filtered_dashboards.py data/retraction_watch.csv dashboard_outputs
+        
+        # Generate Country Page Data
+        echo "Generating country page data..."
+        python scripts/generate_country_page_data.py
+        
+        # Generate Race CSV
+        echo "Generating race CSV..."
+        python create_race_csv.py
+        
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        
+        # Check if there are any changes
+        if [[ -z $(git status -s) ]]; then
+          echo "No changes to commit."
+        else
+          git add data/retraction_watch.csv
+          git add data/retraction_race_data.csv
+          git add dashboard_outputs/
+          git add country_data/
+          git add country_matches.txt
+          
+          git commit -m "Auto-update dashboard data [skip ci]"
+          git push
+        fi
