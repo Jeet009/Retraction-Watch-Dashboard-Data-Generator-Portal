@@ -30,7 +30,7 @@
       "2021": 0.2528,
       "2022": 0.1526,
       "2023": 0.1874,
-      "2024": 0.074
+      "2024": 0.0889
     },
     "notice_yearly_rates": {
       "1997": 0.0423,
@@ -58,7 +58,7 @@
       "2023": 0.3123,
       "2024": 0.311
     },
-    "average_rate": 0.3209,
+    "average_rate": 0.3217,
     "yearly_retractions": {
       "1996": 4,
       "1997": 1,
@@ -88,7 +88,7 @@
       "2021": 17,
       "2022": 10,
       "2023": 12,
-      "2024": 5
+      "2024": 6
     },
     "notice_yearly_retractions": {
       "1997": 1,
@@ -119,17 +119,19 @@
   },
   "domainwise_data": {
     "country": "Netherlands",
-    "total_retractions": 418,
+    "total_retractions": 419,
     "years": {
       "2024": {
-        "total": 5,
+        "total": 6,
         "marks": {
+          "alterations": 1,
           "researcher_integrity": 3,
           "research": 1,
           "supplemental": 1
         },
         "domain": {
-          "HSC": 8,
+          "B/T": 1,
+          "HSC": 9,
           "BLS": 1
         }
       },
@@ -617,16 +619,17 @@
     },
     "notice_years": {
       "2025": {
-        "total": 8,
+        "total": 9,
         "marks": {
+          "alterations": 4,
           "researcher_integrity": 2,
-          "alterations": 3,
           "research": 3
         },
         "domain": {
+          "B/T": 1,
+          "HSC": 11,
           "BLS": 11,
           "ENV": 1,
-          "HSC": 10,
           "PHY": 2
         }
       },
@@ -1017,7 +1020,7 @@
     "collaborations": {
       "United States": 98,
       "United Kingdom": 49,
-      "Germany": 39,
+      "Germany": 40,
       "France": 26,
       "China": 26,
       "Italy": 16,
@@ -1031,7 +1034,7 @@
       "Finland": 9,
       "Poland": 8,
       "Sweden": 8,
-      "India": 6,
+      "India": 7,
       "Saudi Arabia": 6,
       "Japan": 6,
       "Norway": 5,
@@ -1080,7 +1083,7 @@
     "notice_collaborations": {
       "United States": 98,
       "United Kingdom": 49,
-      "Germany": 39,
+      "Germany": 40,
       "France": 26,
       "China": 26,
       "Italy": 16,
@@ -1094,7 +1097,7 @@
       "Finland": 9,
       "Poland": 8,
       "Sweden": 8,
-      "India": 6,
+      "India": 7,
       "Saudi Arabia": 6,
       "Japan": 6,
       "Norway": 5,

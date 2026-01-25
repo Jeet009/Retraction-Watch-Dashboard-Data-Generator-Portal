@@ -10,7 +10,7 @@
       "2016": 1.0588,
       "2017": 1.4395,
       "2018": 1.6978,
-      "2019": 0.6787,
+      "2019": 1.018,
       "2020": 0.3414,
       "2021": 1.3418,
       "2022": 3.1491,
@@ -28,7 +28,7 @@
       "2023": 2.0048,
       "2024": 2.0325
     },
-    "average_rate": 0.6167,
+    "average_rate": 0.6348,
     "yearly_retractions": {
       "2009": 1,
       "2011": 1,
@@ -38,7 +38,7 @@
       "2016": 2,
       "2017": 3,
       "2018": 4,
-      "2019": 2,
+      "2019": 3,
       "2020": 1,
       "2021": 4,
       "2022": 9,
@@ -59,7 +59,7 @@
   },
   "domainwise_data": {
     "country": "Belarus",
-    "total_retractions": 34,
+    "total_retractions": 35,
     "years": {
       "2024": {
         "total": 2,
@@ -125,12 +125,15 @@
         }
       },
       "2019": {
-        "total": 2,
+        "total": 3,
         "marks": {
+          "alterations": 1,
           "research": 2
         },
         "domain": {
-          "PHY": 4
+          "BLS": 1,
+          "HSC": 1,
+          "PHY": 5
         }
       },
       "2018": {
@@ -213,17 +216,17 @@
     },
     "notice_years": {
       "2025": {
-        "total": 9,
+        "total": 10,
         "marks": {
+          "alterations": 2,
           "research": 7,
-          "alterations": 1,
           "researcher_integrity": 1
         },
         "domain": {
-          "PHY": 14,
+          "BLS": 6,
+          "HSC": 2,
+          "PHY": 15,
           "B/T": 2,
-          "HSC": 1,
-          "BLS": 5,
           "ENV": 1
         }
       },
@@ -331,9 +334,9 @@
       }
     },
     "collaborations": {
-      "Russia": 16,
+      "Russia": 17,
       "Iraq": 10,
-      "Kazakhstan": 7,
+      "Kazakhstan": 8,
       "Saudi Arabia": 7,
       "Pakistan": 5,
       "Thailand": 5,
@@ -353,9 +356,9 @@
       "Germany": 1
     },
     "notice_collaborations": {
-      "Russia": 16,
+      "Russia": 17,
       "Iraq": 10,
-      "Kazakhstan": 7,
+      "Kazakhstan": 8,
       "Saudi Arabia": 7,
       "Pakistan": 5,
       "Thailand": 5,
