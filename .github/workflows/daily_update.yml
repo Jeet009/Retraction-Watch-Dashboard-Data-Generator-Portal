@@ -2,8 +2,8 @@ name: Daily Data Update
 
 on:
   schedule:
-    # Run at 02:00 UTC every day
-    - cron: '0 2 * * *'
+    # Run at 02:00 IST (20:30 UTC) every day
+    - cron: '30 20 * * *'
   workflow_dispatch:  # Allow manual trigger
 
 permissions:
