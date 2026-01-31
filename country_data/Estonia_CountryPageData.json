@@ -9,7 +9,7 @@
       "2017": 0.3194,
       "2020": 0.2569,
       "2021": 0.2334,
-      "2022": 0.2399,
+      "2022": 0.4797,
       "2023": 0.7091
     },
     "notice_yearly_rates": {
@@ -21,7 +21,7 @@
       "2023": 0.2364,
       "2024": 0.4771
     },
-    "average_rate": 0.1761,
+    "average_rate": 0.1921,
     "yearly_retractions": {
       "2008": 1,
       "2014": 1,
@@ -30,7 +30,7 @@
       "2017": 1,
       "2020": 1,
       "2021": 1,
-      "2022": 1,
+      "2022": 2,
       "2023": 3
     },
     "notice_yearly_retractions": {
@@ -45,7 +45,7 @@
   },
   "domainwise_data": {
     "country": "Estonia",
-    "total_retractions": 11,
+    "total_retractions": 12,
     "years": {
       "2023": {
         "total": 3,
@@ -61,13 +61,14 @@
         }
       },
       "2022": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 1
         },
         "domain": {
-          "BLS": 1,
-          "ENV": 1
+          "BLS": 3,
+          "ENV": 2
         }
       },
       "2021": {
@@ -139,12 +140,13 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
-          "researcher_integrity": 1
+          "researcher_integrity": 2
         },
         "domain": {
-          "BLS": 3
+          "BLS": 5,
+          "ENV": 1
         }
       },
       "2025": {
@@ -229,8 +231,9 @@
       }
     },
     "collaborations": {
-      "India": 4,
-      "Saudi Arabia": 3,
+      "India": 5,
+      "Saudi Arabia": 4,
+      "Vietnam": 1,
       "Algeria": 1,
       "Indonesia": 1,
       "Malaysia": 1,
@@ -244,8 +247,9 @@
       "Latvia": 1
     },
     "notice_collaborations": {
-      "India": 4,
-      "Saudi Arabia": 3,
+      "India": 5,
+      "Saudi Arabia": 4,
+      "Vietnam": 1,
       "Algeria": 1,
       "Indonesia": 1,
       "Malaysia": 1,

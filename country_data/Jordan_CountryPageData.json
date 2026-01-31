@@ -12,7 +12,7 @@
       "2010": 1.7087,
       "2011": 0.8282,
       "2013": 0.8207,
-      "2014": 0.401,
+      "2014": 0.8019,
       "2015": 0.7806,
       "2016": 0.6757,
       "2017": 0.8648,
@@ -44,7 +44,7 @@
       "2023": 5.5332,
       "2024": 2.1634
     },
-    "average_rate": 1.7444,
+    "average_rate": 1.7552,
     "yearly_retractions": {
       "2001": 1,
       "2003": 1,
@@ -56,7 +56,7 @@
       "2010": 4,
       "2011": 2,
       "2013": 2,
-      "2014": 1,
+      "2014": 2,
       "2015": 2,
       "2016": 2,
       "2017": 3,
@@ -91,7 +91,7 @@
   },
   "domainwise_data": {
     "country": "Jordan",
-    "total_retractions": 162,
+    "total_retractions": 163,
     "years": {
       "2024": {
         "total": 16,
@@ -236,12 +236,14 @@
         }
       },
       "2014": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "alterations": 1,
           "research": 1
         },
         "domain": {
-          "HSC": 2
+          "BLS": 3,
+          "HSC": 5
         }
       },
       "2013": {
@@ -350,16 +352,16 @@
     },
     "notice_years": {
       "2025": {
-        "total": 29,
+        "total": 30,
         "marks": {
-          "alterations": 17,
+          "alterations": 18,
           "researcher_integrity": 9,
           "research": 3
         },
         "domain": {
-          "BLS": 16,
+          "BLS": 19,
+          "HSC": 27,
           "ENV": 2,
-          "HSC": 24,
           "PHY": 17,
           "B/T": 27
         }
@@ -615,6 +617,7 @@
       "Hungary": 2,
       "Ireland": 2,
       "Thailand": 2,
+      "Australia": 1,
       "Netherlands": 1,
       "Zambia": 1,
       "Georgia": 1,
@@ -681,6 +684,7 @@
       "Hungary": 2,
       "Ireland": 2,
       "Thailand": 2,
+      "Australia": 1,
       "Netherlands": 1,
       "Zambia": 1,
       "Georgia": 1,

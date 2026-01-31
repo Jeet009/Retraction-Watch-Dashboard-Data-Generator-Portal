@@ -23,7 +23,7 @@
       "2019": 1.5106,
       "2020": 3.246,
       "2021": 9.6916,
-      "2022": 13.2904,
+      "2022": 13.3441,
       "2023": 3.4434,
       "2024": 1.7272
     },
@@ -49,7 +49,7 @@
       "2023": 10.7353,
       "2024": 6.52
     },
-    "average_rate": 4.0706,
+    "average_rate": 4.077,
     "yearly_retractions": {
       "1998": 1,
       "2001": 1,
@@ -72,7 +72,7 @@
       "2019": 41,
       "2020": 118,
       "2021": 446,
-      "2022": 743,
+      "2022": 746,
       "2023": 204,
       "2024": 120
     },
@@ -101,7 +101,7 @@
   },
   "domainwise_data": {
     "country": "Saudi Arabia",
-    "total_retractions": 1925,
+    "total_retractions": 1928,
     "years": {
       "2025": {
         "total": 7,
@@ -157,20 +157,20 @@
         }
       },
       "2022": {
-        "total": 743,
+        "total": 746,
         "marks": {
-          "alterations": 338,
+          "researcher_integrity": 159,
+          "alterations": 339,
           "research": 211,
           "supplemental": 17,
-          "researcher_integrity": 157,
           "system": 20
         },
         "domain": {
+          "BLS": 453,
+          "HSC": 544,
+          "PHY": 474,
+          "ENV": 78,
           "B/T": 587,
-          "BLS": 447,
-          "HSC": 541,
-          "ENV": 77,
-          "PHY": 472,
           "SOC": 68,
           "HUM": 2
         }
@@ -487,13 +487,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 2,
+        "total": 5,
         "marks": {
-          "researcher_integrity": 2
+          "researcher_integrity": 4,
+          "alterations": 1
         },
         "domain": {
-          "BLS": 7,
-          "HSC": 1
+          "BLS": 13,
+          "HSC": 4,
+          "PHY": 2,
+          "ENV": 1
         }
       },
       "2025": {
@@ -818,12 +821,12 @@
       }
     },
     "collaborations": {
-      "India": 551,
+      "India": 554,
       "Pakistan": 476,
       "Egypt": 395,
       "China": 313,
       "Iraq": 139,
-      "United States": 134,
+      "United States": 136,
       "Malaysia": 131,
       "Ethiopia": 118,
       "Bangladesh": 105,
@@ -831,17 +834,17 @@
       "Jordan": 77,
       "Turkey": 68,
       "United Kingdom": 63,
-      "Taiwan": 60,
+      "Taiwan": 61,
       "Iran": 53,
       "United Arab Emirates": 52,
       "Tunisia": 49,
-      "Thailand": 39,
+      "Thailand": 41,
       "Australia": 39,
       "Poland": 37,
       "Yemen": 37,
       "Russia": 37,
+      "Vietnam": 34,
       "Germany": 34,
-      "Vietnam": 32,
       "Indonesia": 32,
       "Spain": 29,
       "Italy": 27,
@@ -887,11 +890,11 @@
       "Senegal": 5,
       "Belgium": 5,
       "Tanzania": 5,
+      "Estonia": 4,
       "Colombia": 4,
       "Mexico": 4,
       "Argentina": 4,
       "Switzerland": 4,
-      "Estonia": 3,
       "Palestine": 3,
       "Bosnia & Herzegovina": 3,
       "Cyprus": 3,
@@ -930,12 +933,12 @@
       "Belize": 1
     },
     "notice_collaborations": {
-      "India": 551,
+      "India": 554,
       "Pakistan": 476,
       "Egypt": 395,
       "China": 313,
       "Iraq": 139,
-      "United States": 134,
+      "United States": 136,
       "Malaysia": 131,
       "Ethiopia": 118,
       "Bangladesh": 105,
@@ -943,17 +946,17 @@
       "Jordan": 77,
       "Turkey": 68,
       "United Kingdom": 63,
-      "Taiwan": 60,
+      "Taiwan": 61,
       "Iran": 53,
       "United Arab Emirates": 52,
       "Tunisia": 49,
-      "Thailand": 39,
+      "Thailand": 41,
       "Australia": 39,
       "Poland": 37,
       "Yemen": 37,
       "Russia": 37,
+      "Vietnam": 34,
       "Germany": 34,
-      "Vietnam": 32,
       "Indonesia": 32,
       "Spain": 29,
       "Italy": 27,
@@ -999,11 +1002,11 @@
       "Senegal": 5,
       "Belgium": 5,
       "Tanzania": 5,
+      "Estonia": 4,
       "Colombia": 4,
       "Mexico": 4,
       "Argentina": 4,
       "Switzerland": 4,
-      "Estonia": 3,
       "Palestine": 3,
       "Bosnia & Herzegovina": 3,
       "Cyprus": 3,

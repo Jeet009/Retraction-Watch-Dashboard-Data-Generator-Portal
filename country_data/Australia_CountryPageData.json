@@ -19,7 +19,7 @@
       "2011": 0.4073,
       "2012": 0.3702,
       "2013": 0.2985,
-      "2014": 0.4432,
+      "2014": 0.4555,
       "2015": 0.4132,
       "2016": 0.5139,
       "2017": 0.2652,
@@ -56,7 +56,7 @@
       "2023": 0.988,
       "2024": 0.6831
     },
-    "average_rate": 0.4026,
+    "average_rate": 0.4031,
     "yearly_retractions": {
       "1996": 1,
       "1998": 1,
@@ -75,7 +75,7 @@
       "2011": 27,
       "2012": 26,
       "2013": 23,
-      "2014": 36,
+      "2014": 37,
       "2015": 35,
       "2016": 45,
       "2017": 24,
@@ -115,7 +115,7 @@
   },
   "domainwise_data": {
     "country": "Australia",
-    "total_retractions": 764,
+    "total_retractions": 765,
     "years": {
       "2025": {
         "total": 1,
@@ -310,18 +310,18 @@
         }
       },
       "2014": {
-        "total": 36,
+        "total": 37,
         "marks": {
+          "alterations": 14,
           "researcher_integrity": 5,
           "research": 12,
-          "alterations": 13,
           "system": 1,
           "supplemental": 5
         },
         "domain": {
-          "BLS": 29,
+          "BLS": 32,
+          "HSC": 35,
           "PHY": 18,
-          "HSC": 32,
           "SOC": 6,
           "B/T": 5,
           "ENV": 3
@@ -642,18 +642,18 @@
     },
     "notice_years": {
       "2025": {
-        "total": 59,
+        "total": 60,
         "marks": {
+          "alterations": 24,
           "research": 14,
           "researcher_integrity": 21,
-          "supplemental": 1,
-          "alterations": 23
+          "supplemental": 1
         },
         "domain": {
+          "BLS": 60,
+          "HSC": 43,
           "PHY": 24,
           "B/T": 34,
-          "HSC": 40,
-          "BLS": 57,
           "ENV": 9,
           "SOC": 6,
           "HUM": 1
@@ -1121,6 +1121,7 @@
       "Romania": 2,
       "Yemen": 2,
       "Norway": 2,
+      "Jordan": 1,
       "Cayman Islands": 1,
       "Kazakhstan": 1,
       "Armenia": 1,
@@ -1197,6 +1198,7 @@
       "Romania": 2,
       "Yemen": 2,
       "Norway": 2,
+      "Jordan": 1,
       "Cayman Islands": 1,
       "Kazakhstan": 1,
       "Armenia": 1,

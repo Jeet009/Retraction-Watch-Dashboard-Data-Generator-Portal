@@ -29,7 +29,7 @@
       "2021": 1.4201,
       "2022": 2.6699,
       "2023": 0.6426,
-      "2024": 0.2846
+      "2024": 0.2941
     },
     "notice_yearly_rates": {
       "1999": 0.0587,
@@ -57,7 +57,7 @@
       "2023": 3.1519,
       "2024": 1.1859
     },
-    "average_rate": 0.807,
+    "average_rate": 0.8076,
     "yearly_retractions": {
       "1997": 3,
       "1998": 4,
@@ -86,7 +86,7 @@
       "2021": 140,
       "2022": 265,
       "2023": 63,
-      "2024": 30
+      "2024": 31
     },
     "notice_yearly_retractions": {
       "1999": 1,
@@ -117,7 +117,7 @@
   },
   "domainwise_data": {
     "country": "South Korea",
-    "total_retractions": 1347,
+    "total_retractions": 1348,
     "years": {
       "2025": {
         "total": 4,
@@ -133,20 +133,20 @@
         }
       },
       "2024": {
-        "total": 30,
+        "total": 31,
         "marks": {
-          "alterations": 9,
+          "alterations": 10,
           "research": 9,
           "researcher_integrity": 7,
           "supplemental": 5
         },
         "domain": {
-          "BLS": 10,
-          "ENV": 9,
+          "BLS": 11,
+          "ENV": 10,
+          "PHY": 16,
           "B/T": 25,
           "SOC": 15,
           "HSC": 16,
-          "PHY": 15,
           "HUM": 1
         }
       },
@@ -614,6 +614,17 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "BLS": 1,
+          "ENV": 1,
+          "PHY": 1
+        }
+      },
       "2025": {
         "total": 90,
         "marks": {
@@ -1029,12 +1040,12 @@
       }
     },
     "collaborations": {
-      "China": 283,
-      "India": 146,
+      "China": 284,
+      "India": 147,
       "Saudi Arabia": 92,
       "United States": 90,
       "Pakistan": 40,
-      "Vietnam": 21,
+      "Vietnam": 22,
       "Ethiopia": 21,
       "Malaysia": 19,
       "Japan": 19,
@@ -1112,12 +1123,12 @@
       "Slovakia": 1
     },
     "notice_collaborations": {
-      "China": 283,
-      "India": 146,
+      "China": 284,
+      "India": 147,
       "Saudi Arabia": 92,
       "United States": 90,
       "Pakistan": 40,
-      "Vietnam": 21,
+      "Vietnam": 22,
       "Ethiopia": 21,
       "Malaysia": 19,
       "Japan": 19,
