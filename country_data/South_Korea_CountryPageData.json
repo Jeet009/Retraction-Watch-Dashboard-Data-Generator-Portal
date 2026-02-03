@@ -27,8 +27,8 @@
       "2019": 0.5267,
       "2020": 0.5369,
       "2021": 1.4201,
-      "2022": 2.6699,
-      "2023": 0.6426,
+      "2022": 2.68,
+      "2023": 0.6528,
       "2024": 0.2941
     },
     "notice_yearly_rates": {
@@ -57,7 +57,7 @@
       "2023": 3.1519,
       "2024": 1.1859
     },
-    "average_rate": 0.8076,
+    "average_rate": 0.8088,
     "yearly_retractions": {
       "1997": 3,
       "1998": 4,
@@ -84,8 +84,8 @@
       "2019": 47,
       "2020": 50,
       "2021": 140,
-      "2022": 265,
-      "2023": 63,
+      "2022": 266,
+      "2023": 64,
       "2024": 31
     },
     "notice_yearly_retractions": {
@@ -117,7 +117,7 @@
   },
   "domainwise_data": {
     "country": "South Korea",
-    "total_retractions": 1348,
+    "total_retractions": 1350,
     "years": {
       "2025": {
         "total": 4,
@@ -151,38 +151,38 @@
         }
       },
       "2023": {
-        "total": 63,
+        "total": 64,
         "marks": {
+          "supplemental": 3,
           "research": 17,
           "alterations": 25,
           "researcher_integrity": 12,
-          "supplemental": 2,
           "system": 7
         },
         "domain": {
-          "B/T": 51,
+          "B/T": 52,
+          "HSC": 40,
           "SOC": 16,
           "BLS": 30,
-          "HSC": 38,
           "PHY": 43,
           "ENV": 8,
           "HUM": 2
         }
       },
       "2022": {
-        "total": 265,
+        "total": 266,
         "marks": {
+          "research": 83,
           "alterations": 145,
-          "research": 82,
           "researcher_integrity": 27,
           "supplemental": 8,
           "system": 3
         },
         "domain": {
+          "HSC": 104,
           "BLS": 91,
           "ENV": 29,
           "PHY": 126,
-          "HSC": 102,
           "B/T": 302,
           "SOC": 127,
           "HUM": 41
@@ -615,27 +615,30 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "supplemental": 1,
           "alterations": 1
         },
         "domain": {
+          "B/T": 1,
+          "HSC": 2,
           "BLS": 1,
           "ENV": 1,
           "PHY": 1
         }
       },
       "2025": {
-        "total": 90,
+        "total": 91,
         "marks": {
           "alterations": 50,
-          "research": 17,
+          "research": 18,
           "researcher_integrity": 22,
           "supplemental": 1
         },
         "domain": {
           "BLS": 64,
-          "HSC": 49,
+          "HSC": 51,
           "ENV": 22,
           "PHY": 96,
           "B/T": 52,
@@ -1040,9 +1043,9 @@
       }
     },
     "collaborations": {
-      "China": 284,
+      "China": 285,
       "India": 147,
-      "Saudi Arabia": 92,
+      "Saudi Arabia": 93,
       "United States": 90,
       "Pakistan": 40,
       "Vietnam": 22,
@@ -1053,9 +1056,9 @@
       "Canada": 17,
       "Australia": 17,
       "United Kingdom": 15,
+      "Bangladesh": 14,
       "Iran": 14,
       "Turkey": 14,
-      "Bangladesh": 13,
       "Germany": 10,
       "Taiwan": 9,
       "Poland": 8,
@@ -1079,6 +1082,7 @@
       "Brazil": 3,
       "Spain": 3,
       "France": 3,
+      "Ukraine": 2,
       "Azerbaijan": 2,
       "Israel": 2,
       "Nigeria": 2,
@@ -1118,14 +1122,13 @@
       "Libya": 1,
       "Sudan": 1,
       "Serbia": 1,
-      "Ukraine": 1,
       "Iceland": 1,
       "Slovakia": 1
     },
     "notice_collaborations": {
-      "China": 284,
+      "China": 285,
       "India": 147,
-      "Saudi Arabia": 92,
+      "Saudi Arabia": 93,
       "United States": 90,
       "Pakistan": 40,
       "Vietnam": 22,
@@ -1136,9 +1139,9 @@
       "Canada": 17,
       "Australia": 17,
       "United Kingdom": 15,
+      "Bangladesh": 14,
       "Iran": 14,
       "Turkey": 14,
-      "Bangladesh": 13,
       "Germany": 10,
       "Taiwan": 9,
       "Poland": 8,
@@ -1162,6 +1165,7 @@
       "Brazil": 3,
       "Spain": 3,
       "France": 3,
+      "Ukraine": 2,
       "Azerbaijan": 2,
       "Israel": 2,
       "Nigeria": 2,
@@ -1201,7 +1205,6 @@
       "Libya": 1,
       "Sudan": 1,
       "Serbia": 1,
-      "Ukraine": 1,
       "Iceland": 1,
       "Slovakia": 1
     }

@@ -13,7 +13,7 @@
       "2019": 0.303,
       "2020": 0.1361,
       "2021": 0.3486,
-      "2022": 0.5315,
+      "2022": 0.5798,
       "2023": 1.0834,
       "2024": 0.6116
     },
@@ -30,7 +30,7 @@
       "2023": 0.4063,
       "2024": 0.5645
     },
-    "average_rate": 0.2636,
+    "average_rate": 0.2668,
     "yearly_retractions": {
       "2007": 2,
       "2009": 1,
@@ -43,7 +43,7 @@
       "2019": 6,
       "2020": 3,
       "2021": 8,
-      "2022": 11,
+      "2022": 12,
       "2023": 24,
       "2024": 13
     },
@@ -63,7 +63,7 @@
   },
   "domainwise_data": {
     "country": "Ukraine",
-    "total_retractions": 84,
+    "total_retractions": 85,
     "years": {
       "2024": {
         "total": 13,
@@ -98,19 +98,19 @@
         }
       },
       "2022": {
-        "total": 11,
+        "total": 12,
         "marks": {
+          "research": 4,
           "alterations": 5,
           "researcher_integrity": 2,
-          "research": 3,
           "supplemental": 1
         },
         "domain": {
+          "HSC": 13,
           "B/T": 9,
           "HUM": 2,
           "SOC": 2,
           "BLS": 3,
-          "HSC": 11,
           "ENV": 1,
           "PHY": 1
         }
@@ -253,15 +253,15 @@
     },
     "notice_years": {
       "2025": {
-        "total": 33,
+        "total": 34,
         "marks": {
+          "research": 32,
           "alterations": 1,
-          "research": 31,
           "researcher_integrity": 1
         },
         "domain": {
+          "HSC": 12,
           "BLS": 5,
-          "HSC": 10,
           "PHY": 2,
           "B/T": 32,
           "SOC": 19,
@@ -414,9 +414,12 @@
       "United States": 4,
       "Lithuania": 3,
       "Slovakia": 3,
+      "South Korea": 2,
       "Kazakhstan": 2,
       "Russia": 2,
       "Germany": 2,
+      "Bangladesh": 1,
+      "Saudi Arabia": 1,
       "France": 1,
       "Uzbekistan": 1,
       "Romania": 1,
@@ -435,8 +438,7 @@
       "Italy": 1,
       "Turkey": 1,
       "United Arab Emirates": 1,
-      "Sweden": 1,
-      "South Korea": 1
+      "Sweden": 1
     },
     "notice_collaborations": {
       "Poland": 14,
@@ -446,9 +448,12 @@
       "United States": 4,
       "Lithuania": 3,
       "Slovakia": 3,
+      "South Korea": 2,
       "Kazakhstan": 2,
       "Russia": 2,
       "Germany": 2,
+      "Bangladesh": 1,
+      "Saudi Arabia": 1,
       "France": 1,
       "Uzbekistan": 1,
       "Romania": 1,
@@ -467,8 +472,7 @@
       "Italy": 1,
       "Turkey": 1,
       "United Arab Emirates": 1,
-      "Sweden": 1,
-      "South Korea": 1
+      "Sweden": 1
     }
   },
   "country_flag": "/country_flags/Ukraine.svg"
