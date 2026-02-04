@@ -14,7 +14,7 @@
       "2019": 1.0971,
       "2021": 1.96,
       "2022": 0.735,
-      "2023": 1.0695,
+      "2023": 1.426,
       "2024": 2.8481
     },
     "notice_yearly_rates": {
@@ -31,7 +31,7 @@
       "2023": 0.713,
       "2024": 1.2658
     },
-    "average_rate": 1.1066,
+    "average_rate": 1.1392,
     "yearly_retractions": {
       "2003": 1,
       "2007": 3,
@@ -45,7 +45,7 @@
       "2019": 2,
       "2021": 5,
       "2022": 2,
-      "2023": 3,
+      "2023": 4,
       "2024": 9
     },
     "notice_yearly_retractions": {
@@ -65,7 +65,7 @@
   },
   "domainwise_data": {
     "country": "Cameroon",
-    "total_retractions": 35,
+    "total_retractions": 36,
     "years": {
       "2025": {
         "total": 1,
@@ -91,13 +91,14 @@
         }
       },
       "2023": {
-        "total": 3,
+        "total": 4,
         "marks": {
+          "alterations": 1,
           "researcher_integrity": 2,
           "research": 1
         },
         "domain": {
-          "PHY": 1,
+          "PHY": 3,
           "B/T": 1,
           "BLS": 2,
           "ENV": 1,
@@ -234,17 +235,17 @@
     },
     "notice_years": {
       "2025": {
-        "total": 11,
+        "total": 12,
         "marks": {
-          "researcher_integrity": 2,
-          "alterations": 9
+          "alterations": 10,
+          "researcher_integrity": 2
         },
         "domain": {
+          "PHY": 5,
           "HSC": 16,
           "BLS": 1,
           "ENV": 2,
-          "B/T": 3,
-          "PHY": 3
+          "B/T": 3
         }
       },
       "2024": {
@@ -381,20 +382,20 @@
       }
     },
     "collaborations": {
-      "India": 8,
+      "India": 9,
       "Zambia": 7,
       "Democratic Republic of the Congo": 7,
       "Kenya": 6,
       "Libya": 5,
+      "South Africa": 4,
+      "United States": 4,
       "Pakistan": 4,
       "Germany": 4,
       "France": 4,
+      "Nigeria": 3,
       "United Kingdom": 3,
-      "United States": 3,
       "Zimbabwe": 3,
-      "South Africa": 3,
       "Gabon": 2,
-      "Nigeria": 2,
       "Rwanda": 2,
       "Egypt": 2,
       "Ethiopia": 2,
@@ -428,20 +429,20 @@
       "Sudan": 1
     },
     "notice_collaborations": {
-      "India": 8,
+      "India": 9,
       "Zambia": 7,
       "Democratic Republic of the Congo": 7,
       "Kenya": 6,
       "Libya": 5,
+      "South Africa": 4,
+      "United States": 4,
       "Pakistan": 4,
       "Germany": 4,
       "France": 4,
+      "Nigeria": 3,
       "United Kingdom": 3,
-      "United States": 3,
       "Zimbabwe": 3,
-      "South Africa": 3,
       "Gabon": 2,
-      "Nigeria": 2,
       "Rwanda": 2,
       "Egypt": 2,
       "Ethiopia": 2,

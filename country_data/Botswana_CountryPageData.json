@@ -11,7 +11,7 @@
       "2021": 1.0929,
       "2022": 2.1368,
       "2023": 1.0246,
-      "2024": 1.0341
+      "2024": 2.0683
     },
     "notice_yearly_rates": {
       "2011": 2.7322,
@@ -22,7 +22,7 @@
       "2022": 3.2051,
       "2023": 2.0492
     },
-    "average_rate": 1.23,
+    "average_rate": 1.312,
     "yearly_retractions": {
       "2008": 1,
       "2011": 1,
@@ -33,7 +33,7 @@
       "2021": 1,
       "2022": 2,
       "2023": 1,
-      "2024": 1
+      "2024": 2
     },
     "notice_yearly_retractions": {
       "2011": 1,
@@ -47,14 +47,17 @@
   },
   "domainwise_data": {
     "country": "Botswana",
-    "total_retractions": 15,
+    "total_retractions": 16,
     "years": {
       "2024": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 1
         },
         "domain": {
+          "BLS": 3,
+          "PHY": 1,
           "HSC": 2
         }
       },
@@ -157,15 +160,16 @@
     },
     "notice_years": {
       "2025": {
-        "total": 4,
+        "total": 5,
         "marks": {
+          "researcher_integrity": 2,
           "supplemental": 2,
-          "researcher_integrity": 1,
           "alterations": 1
         },
         "domain": {
+          "BLS": 3,
+          "PHY": 7,
           "B/T": 6,
-          "PHY": 6,
           "HSC": 2
         }
       },
@@ -248,16 +252,20 @@
     },
     "collaborations": {
       "India": 9,
+      "China": 3,
+      "United States": 3,
       "South Africa": 3,
+      "Saudi Arabia": 2,
       "Mali": 2,
-      "China": 2,
       "Kenya": 2,
       "United Kingdom": 2,
       "Nigeria": 2,
       "Sweden": 2,
       "Tanzania": 2,
-      "United States": 2,
-      "Saudi Arabia": 1,
+      "Egypt": 1,
+      "Hungary": 1,
+      "Jordan": 1,
+      "Pakistan": 1,
       "United Arab Emirates": 1,
       "Cameroon": 1,
       "Democratic Republic of the Congo": 1,
@@ -269,16 +277,20 @@
     },
     "notice_collaborations": {
       "India": 9,
+      "China": 3,
+      "United States": 3,
       "South Africa": 3,
+      "Saudi Arabia": 2,
       "Mali": 2,
-      "China": 2,
       "Kenya": 2,
       "United Kingdom": 2,
       "Nigeria": 2,
       "Sweden": 2,
       "Tanzania": 2,
-      "United States": 2,
-      "Saudi Arabia": 1,
+      "Egypt": 1,
+      "Hungary": 1,
+      "Jordan": 1,
+      "Pakistan": 1,
       "United Arab Emirates": 1,
       "Cameroon": 1,
       "Democratic Republic of the Congo": 1,
