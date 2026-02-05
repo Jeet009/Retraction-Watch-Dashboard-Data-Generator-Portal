@@ -25,7 +25,7 @@
       "2019": 0.2492,
       "2020": 0.133,
       "2021": 0.2169,
-      "2022": 0.4086,
+      "2022": 0.44,
       "2023": 0.2205,
       "2024": 0.1216
     },
@@ -51,7 +51,7 @@
       "2023": 0.4725,
       "2024": 0.5166
     },
-    "average_rate": 0.2787,
+    "average_rate": 0.2805,
     "yearly_retractions": {
       "1999": 1,
       "2000": 2,
@@ -76,7 +76,7 @@
       "2019": 7,
       "2020": 4,
       "2021": 7,
-      "2022": 13,
+      "2022": 14,
       "2023": 7,
       "2024": 4
     },
@@ -105,7 +105,7 @@
   },
   "domainwise_data": {
     "country": "Denmark",
-    "total_retractions": 156,
+    "total_retractions": 157,
     "years": {
       "2025": {
         "total": 1,
@@ -145,19 +145,19 @@
         }
       },
       "2022": {
-        "total": 13,
+        "total": 14,
         "marks": {
+          "researcher_integrity": 2,
           "research": 8,
           "supplemental": 1,
           "alterations": 2,
-          "system": 1,
-          "researcher_integrity": 1
+          "system": 1
         },
         "domain": {
+          "B/T": 9,
+          "PHY": 17,
           "BLS": 8,
           "HSC": 9,
-          "PHY": 16,
-          "B/T": 8,
           "SOC": 5,
           "ENV": 2
         }
@@ -490,6 +490,16 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "PHY": 1
+        }
+      },
       "2025": {
         "total": 4,
         "marks": {
@@ -798,20 +808,23 @@
       "Greece": 8,
       "India": 7,
       "Canada": 7,
+      "Australia": 6,
       "Poland": 6,
       "Finland": 6,
       "Switzerland": 6,
-      "Australia": 5,
       "France": 5,
       "Belgium": 4,
+      "South Africa": 3,
       "Bangladesh": 3,
       "Czech Republic": 3,
       "Austria": 3,
+      "Ireland": 2,
       "Rwanda": 2,
       "Iran": 2,
       "Iceland": 2,
       "Israel": 2,
-      "South Africa": 2,
+      "Turkey": 1,
+      "Vietnam": 1,
       "South Korea": 1,
       "Malaysia": 1,
       "Taiwan": 1,
@@ -829,8 +842,7 @@
       "Japan": 1,
       "Portugal": 1,
       "Qatar": 1,
-      "Hungary": 1,
-      "Ireland": 1
+      "Hungary": 1
     },
     "notice_collaborations": {
       "United States": 35,
@@ -847,20 +859,23 @@
       "Greece": 8,
       "India": 7,
       "Canada": 7,
+      "Australia": 6,
       "Poland": 6,
       "Finland": 6,
       "Switzerland": 6,
-      "Australia": 5,
       "France": 5,
       "Belgium": 4,
+      "South Africa": 3,
       "Bangladesh": 3,
       "Czech Republic": 3,
       "Austria": 3,
+      "Ireland": 2,
       "Rwanda": 2,
       "Iran": 2,
       "Iceland": 2,
       "Israel": 2,
-      "South Africa": 2,
+      "Turkey": 1,
+      "Vietnam": 1,
       "South Korea": 1,
       "Malaysia": 1,
       "Taiwan": 1,
@@ -878,8 +893,7 @@
       "Japan": 1,
       "Portugal": 1,
       "Qatar": 1,
-      "Hungary": 1,
-      "Ireland": 1
+      "Hungary": 1
     }
   },
   "country_flag": "/country_flags/Denmark.svg"

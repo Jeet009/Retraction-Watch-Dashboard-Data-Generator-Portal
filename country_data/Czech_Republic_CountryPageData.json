@@ -21,7 +21,7 @@
       "2016": 0.336,
       "2017": 0.1604,
       "2018": 0.2028,
-      "2019": 0.2694,
+      "2019": 0.3079,
       "2020": 0.2324,
       "2021": 0.6658,
       "2022": 0.7802,
@@ -46,7 +46,7 @@
       "2023": 0.4004,
       "2024": 0.4616
     },
-    "average_rate": 0.3058,
+    "average_rate": 0.308,
     "yearly_retractions": {
       "1997": 1,
       "1998": 1,
@@ -67,7 +67,7 @@
       "2016": 8,
       "2017": 4,
       "2018": 5,
-      "2019": 7,
+      "2019": 8,
       "2020": 6,
       "2021": 18,
       "2022": 20,
@@ -95,7 +95,7 @@
   },
   "domainwise_data": {
     "country": "Czech Republic",
-    "total_retractions": 146,
+    "total_retractions": 147,
     "years": {
       "2024": {
         "total": 10,
@@ -174,12 +174,14 @@
         }
       },
       "2019": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "researcher_integrity": 1,
           "research": 5,
           "alterations": 2
         },
         "domain": {
+          "B/T": 1,
           "BLS": 11,
           "HSC": 5,
           "PHY": 2
@@ -421,6 +423,15 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "B/T": 1
+        }
+      },
       "2025": {
         "total": 29,
         "marks": {
@@ -669,9 +680,9 @@
       "Ukraine": 9,
       "Egypt": 9,
       "India": 9,
+      "France": 8,
       "United Kingdom": 8,
       "Malaysia": 7,
-      "France": 7,
       "Poland": 6,
       "Spain": 6,
       "Uzbekistan": 5,
@@ -695,6 +706,8 @@
       "Kuwait": 2,
       "Canada": 2,
       "Switzerland": 2,
+      "Ireland": 1,
+      "Lebanon": 1,
       "Hong Kong": 1,
       "Kazakhstan": 1,
       "Bangladesh": 1,
@@ -723,9 +736,9 @@
       "Ukraine": 9,
       "Egypt": 9,
       "India": 9,
+      "France": 8,
       "United Kingdom": 8,
       "Malaysia": 7,
-      "France": 7,
       "Poland": 6,
       "Spain": 6,
       "Uzbekistan": 5,
@@ -749,6 +762,8 @@
       "Kuwait": 2,
       "Canada": 2,
       "Switzerland": 2,
+      "Ireland": 1,
+      "Lebanon": 1,
       "Hong Kong": 1,
       "Kazakhstan": 1,
       "Bangladesh": 1,

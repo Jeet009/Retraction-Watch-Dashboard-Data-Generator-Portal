@@ -18,13 +18,13 @@
       "2015": 0.3389,
       "2016": 0.5516,
       "2017": 0.3049,
-      "2018": 0.2148,
-      "2019": 0.2684,
-      "2020": 0.2438,
+      "2018": 0.2864,
+      "2019": 0.5368,
+      "2020": 0.3047,
       "2021": 0.429,
-      "2022": 0.3853,
-      "2023": 0.771,
-      "2024": 0.2085
+      "2022": 0.4954,
+      "2023": 0.8811,
+      "2024": 0.2607
     },
     "notice_yearly_rates": {
       "1998": 0.3152,
@@ -48,7 +48,7 @@
       "2023": 0.9362,
       "2024": 0.2607
     },
-    "average_rate": 0.3646,
+    "average_rate": 0.4028,
     "yearly_retractions": {
       "1998": 1,
       "1999": 1,
@@ -66,13 +66,13 @@
       "2015": 4,
       "2016": 7,
       "2017": 4,
-      "2018": 3,
-      "2019": 4,
-      "2020": 4,
+      "2018": 4,
+      "2019": 8,
+      "2020": 5,
       "2021": 8,
-      "2022": 7,
-      "2023": 14,
-      "2024": 4
+      "2022": 9,
+      "2023": 16,
+      "2024": 5
     },
     "notice_yearly_retractions": {
       "1998": 1,
@@ -99,7 +99,7 @@
   },
   "domainwise_data": {
     "country": "Ireland",
-    "total_retractions": 107,
+    "total_retractions": 118,
     "years": {
       "2025": {
         "total": 2,
@@ -111,41 +111,42 @@
         }
       },
       "2024": {
-        "total": 4,
+        "total": 5,
         "marks": {
+          "researcher_integrity": 2,
           "alterations": 2,
-          "researcher_integrity": 1,
           "research": 1
         },
         "domain": {
-          "B/T": 3,
+          "B/T": 5,
           "SOC": 2,
           "BLS": 3,
           "HSC": 3
         }
       },
       "2023": {
-        "total": 14,
+        "total": 16,
         "marks": {
-          "researcher_integrity": 1,
+          "researcher_integrity": 3,
           "system": 13
         },
         "domain": {
-          "HSC": 29,
+          "B/T": 5,
+          "HSC": 30,
           "SOC": 4,
-          "B/T": 1,
           "HUM": 2
         }
       },
       "2022": {
-        "total": 7,
+        "total": 9,
         "marks": {
+          "researcher_integrity": 3,
           "research": 5,
-          "system": 1,
-          "researcher_integrity": 1
+          "system": 1
         },
         "domain": {
-          "B/T": 5,
+          "B/T": 8,
+          "PHY": 1,
           "SOC": 2,
           "HSC": 10,
           "BLS": 2
@@ -167,46 +168,47 @@
         }
       },
       "2020": {
-        "total": 4,
+        "total": 5,
         "marks": {
+          "researcher_integrity": 2,
           "alterations": 1,
           "system": 1,
-          "researcher_integrity": 1,
           "research": 1
         },
         "domain": {
+          "B/T": 3,
           "BLS": 3,
           "HSC": 4,
           "PHY": 1,
-          "B/T": 1,
           "SOC": 1
         }
       },
       "2019": {
-        "total": 4,
+        "total": 8,
         "marks": {
-          "researcher_integrity": 1,
+          "researcher_integrity": 5,
           "alterations": 1,
           "system": 1,
           "research": 1
         },
         "domain": {
+          "B/T": 6,
+          "PHY": 5,
           "BLS": 2,
-          "PHY": 4,
           "HSC": 1,
           "HUM": 1,
           "SOC": 1
         }
       },
       "2018": {
-        "total": 3,
+        "total": 4,
         "marks": {
+          "researcher_integrity": 2,
           "supplemental": 1,
-          "alterations": 1,
-          "researcher_integrity": 1
+          "alterations": 1
         },
         "domain": {
-          "B/T": 1,
+          "B/T": 3,
           "HSC": 2,
           "SOC": 1,
           "PHY": 2
@@ -404,16 +406,27 @@
       }
     },
     "notice_years": {
-      "2025": {
-        "total": 11,
+      "2026": {
+        "total": 8,
         "marks": {
+          "researcher_integrity": 8
+        },
+        "domain": {
+          "B/T": 13,
+          "HSC": 1,
+          "PHY": 2
+        }
+      },
+      "2025": {
+        "total": 14,
+        "marks": {
+          "researcher_integrity": 7,
           "alterations": 6,
-          "researcher_integrity": 4,
           "research": 1
         },
         "domain": {
+          "B/T": 12,
           "BLS": 11,
-          "B/T": 6,
           "SOC": 2,
           "HSC": 8,
           "PHY": 1
@@ -665,18 +678,22 @@
       }
     },
     "collaborations": {
-      "United Kingdom": 25,
+      "United Kingdom": 30,
       "United States": 15,
-      "China": 7,
+      "China": 11,
+      "France": 7,
       "India": 7,
+      "Australia": 5,
       "Pakistan": 5,
-      "France": 5,
       "Italy": 5,
+      "Saudi Arabia": 4,
       "Germany": 4,
-      "Saudi Arabia": 3,
+      "Lebanon": 3,
       "Austria": 3,
       "Singapore": 3,
-      "Australia": 3,
+      "Denmark": 2,
+      "Turkey": 2,
+      "Vietnam": 2,
       "Iraq": 2,
       "Yemen": 2,
       "South Korea": 2,
@@ -688,8 +705,9 @@
       "Israel": 2,
       "Canada": 2,
       "Russia": 2,
+      "South Africa": 1,
+      "Czech Republic": 1,
       "Malaysia": 1,
-      "Turkey": 1,
       "United Arab Emirates": 1,
       "Poland": 1,
       "Egypt": 1,
@@ -701,22 +719,25 @@
       "Mexico": 1,
       "Iran": 1,
       "Colombia": 1,
-      "Brazil": 1,
-      "Denmark": 1
+      "Brazil": 1
     },
     "notice_collaborations": {
-      "United Kingdom": 25,
+      "United Kingdom": 30,
       "United States": 15,
-      "China": 7,
+      "China": 11,
+      "France": 7,
       "India": 7,
+      "Australia": 5,
       "Pakistan": 5,
-      "France": 5,
       "Italy": 5,
+      "Saudi Arabia": 4,
       "Germany": 4,
-      "Saudi Arabia": 3,
+      "Lebanon": 3,
       "Austria": 3,
       "Singapore": 3,
-      "Australia": 3,
+      "Denmark": 2,
+      "Turkey": 2,
+      "Vietnam": 2,
       "Iraq": 2,
       "Yemen": 2,
       "South Korea": 2,
@@ -728,8 +749,9 @@
       "Israel": 2,
       "Canada": 2,
       "Russia": 2,
+      "South Africa": 1,
+      "Czech Republic": 1,
       "Malaysia": 1,
-      "Turkey": 1,
       "United Arab Emirates": 1,
       "Poland": 1,
       "Egypt": 1,
@@ -741,8 +763,7 @@
       "Mexico": 1,
       "Iran": 1,
       "Colombia": 1,
-      "Brazil": 1,
-      "Denmark": 1
+      "Brazil": 1
     }
   },
   "country_flag": "/country_flags/Ireland.svg"

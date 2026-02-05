@@ -16,7 +16,7 @@
       "2009": 0.3982,
       "2010": 0.2674,
       "2011": 0.3619,
-      "2012": 0.5521,
+      "2012": 0.5693,
       "2013": 0.214,
       "2014": 0.1552,
       "2015": 0.2086,
@@ -54,7 +54,7 @@
       "2023": 0.3005,
       "2024": 0.7487
     },
-    "average_rate": 0.2787,
+    "average_rate": 0.2794,
     "yearly_retractions": {
       "1997": 3,
       "1999": 1,
@@ -70,7 +70,7 @@
       "2009": 18,
       "2010": 13,
       "2011": 19,
-      "2012": 32,
+      "2012": 33,
       "2013": 13,
       "2014": 10,
       "2015": 14,
@@ -111,7 +111,7 @@
   },
   "domainwise_data": {
     "country": "Brazil",
-    "total_retractions": 403,
+    "total_retractions": 404,
     "years": {
       "2025": {
         "total": 3,
@@ -323,18 +323,18 @@
         }
       },
       "2012": {
-        "total": 32,
+        "total": 33,
         "marks": {
+          "supplemental": 3,
           "alterations": 15,
           "research": 8,
-          "supplemental": 2,
           "system": 4,
           "researcher_integrity": 3
         },
         "domain": {
-          "BLS": 39,
+          "BLS": 40,
+          "HSC": 32,
           "PHY": 5,
-          "HSC": 31,
           "ENV": 2,
           "B/T": 1
         }
@@ -524,17 +524,18 @@
     },
     "notice_years": {
       "2025": {
-        "total": 26,
+        "total": 27,
         "marks": {
+          "supplemental": 1,
           "researcher_integrity": 9,
           "research": 11,
           "alterations": 6
         },
         "domain": {
+          "BLS": 28,
+          "HSC": 24,
           "ENV": 11,
           "PHY": 6,
-          "HSC": 23,
-          "BLS": 27,
           "SOC": 3,
           "B/T": 1
         }
