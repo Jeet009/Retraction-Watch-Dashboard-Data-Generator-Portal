@@ -26,7 +26,7 @@
       "2020": 0.133,
       "2021": 0.2169,
       "2022": 0.44,
-      "2023": 0.2205,
+      "2023": 0.252,
       "2024": 0.1216
     },
     "notice_yearly_rates": {
@@ -51,7 +51,7 @@
       "2023": 0.4725,
       "2024": 0.5166
     },
-    "average_rate": 0.2805,
+    "average_rate": 0.2823,
     "yearly_retractions": {
       "1999": 1,
       "2000": 2,
@@ -77,7 +77,7 @@
       "2020": 4,
       "2021": 7,
       "2022": 14,
-      "2023": 7,
+      "2023": 8,
       "2024": 4
     },
     "notice_yearly_retractions": {
@@ -105,7 +105,7 @@
   },
   "domainwise_data": {
     "country": "Denmark",
-    "total_retractions": 157,
+    "total_retractions": 158,
     "years": {
       "2025": {
         "total": 1,
@@ -130,15 +130,15 @@
         }
       },
       "2023": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "alterations": 2,
           "research": 2,
           "system": 3,
-          "supplemental": 1,
-          "alterations": 1
+          "supplemental": 1
         },
         "domain": {
-          "BLS": 4,
+          "BLS": 7,
           "HSC": 8,
           "ENV": 1,
           "PHY": 4
@@ -491,11 +491,13 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "alterations": 1,
           "researcher_integrity": 1
         },
         "domain": {
+          "BLS": 3,
           "B/T": 1,
           "PHY": 1
         }
@@ -794,30 +796,33 @@
       }
     },
     "collaborations": {
-      "United States": 35,
-      "United Kingdom": 23,
-      "Germany": 19,
+      "United States": 36,
+      "United Kingdom": 24,
+      "Germany": 20,
+      "Netherlands": 15,
       "Spain": 15,
       "Italy": 15,
-      "Netherlands": 14,
       "China": 13,
       "Sweden": 11,
       "Saudi Arabia": 9,
       "Norway": 8,
       "Pakistan": 8,
       "Greece": 8,
+      "Australia": 7,
       "India": 7,
       "Canada": 7,
-      "Australia": 6,
       "Poland": 6,
       "Finland": 6,
       "Switzerland": 6,
+      "Belgium": 5,
       "France": 5,
-      "Belgium": 4,
       "South Africa": 3,
       "Bangladesh": 3,
       "Czech Republic": 3,
       "Austria": 3,
+      "Hungary": 2,
+      "Serbia": 2,
+      "South Korea": 2,
       "Ireland": 2,
       "Rwanda": 2,
       "Iran": 2,
@@ -825,7 +830,6 @@
       "Israel": 2,
       "Turkey": 1,
       "Vietnam": 1,
-      "South Korea": 1,
       "Malaysia": 1,
       "Taiwan": 1,
       "New Zealand": 1,
@@ -836,39 +840,40 @@
       "Ethiopia": 1,
       "Cyprus": 1,
       "Azerbaijan": 1,
-      "Serbia": 1,
       "Croatia": 1,
       "Peru": 1,
       "Japan": 1,
       "Portugal": 1,
-      "Qatar": 1,
-      "Hungary": 1
+      "Qatar": 1
     },
     "notice_collaborations": {
-      "United States": 35,
-      "United Kingdom": 23,
-      "Germany": 19,
+      "United States": 36,
+      "United Kingdom": 24,
+      "Germany": 20,
+      "Netherlands": 15,
       "Spain": 15,
       "Italy": 15,
-      "Netherlands": 14,
       "China": 13,
       "Sweden": 11,
       "Saudi Arabia": 9,
       "Norway": 8,
       "Pakistan": 8,
       "Greece": 8,
+      "Australia": 7,
       "India": 7,
       "Canada": 7,
-      "Australia": 6,
       "Poland": 6,
       "Finland": 6,
       "Switzerland": 6,
+      "Belgium": 5,
       "France": 5,
-      "Belgium": 4,
       "South Africa": 3,
       "Bangladesh": 3,
       "Czech Republic": 3,
       "Austria": 3,
+      "Hungary": 2,
+      "Serbia": 2,
+      "South Korea": 2,
       "Ireland": 2,
       "Rwanda": 2,
       "Iran": 2,
@@ -876,7 +881,6 @@
       "Israel": 2,
       "Turkey": 1,
       "Vietnam": 1,
-      "South Korea": 1,
       "Malaysia": 1,
       "Taiwan": 1,
       "New Zealand": 1,
@@ -887,13 +891,11 @@
       "Ethiopia": 1,
       "Cyprus": 1,
       "Azerbaijan": 1,
-      "Serbia": 1,
       "Croatia": 1,
       "Peru": 1,
       "Japan": 1,
       "Portugal": 1,
-      "Qatar": 1,
-      "Hungary": 1
+      "Qatar": 1
     }
   },
   "country_flag": "/country_flags/Denmark.svg"

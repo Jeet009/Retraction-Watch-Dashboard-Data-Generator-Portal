@@ -21,7 +21,7 @@
       "2020": 0.0781,
       "2021": 0.575,
       "2022": 0.9707,
-      "2023": 0.4672,
+      "2023": 0.534,
       "2024": 0.7342
     },
     "notice_yearly_rates": {
@@ -41,7 +41,7 @@
       "2023": 0.4005,
       "2024": 0.7342
     },
-    "average_rate": 0.2682,
+    "average_rate": 0.272,
     "yearly_retractions": {
       "1998": 1,
       "2002": 1,
@@ -62,7 +62,7 @@
       "2020": 1,
       "2021": 8,
       "2022": 14,
-      "2023": 7,
+      "2023": 8,
       "2024": 12
     },
     "notice_yearly_retractions": {
@@ -85,7 +85,7 @@
   },
   "domainwise_data": {
     "country": "Hungary",
-    "total_retractions": 72,
+    "total_retractions": 73,
     "years": {
       "2024": {
         "total": 12,
@@ -103,16 +103,16 @@
         }
       },
       "2023": {
-        "total": 7,
+        "total": 8,
         "marks": {
-          "researcher_integrity": 4,
-          "alterations": 3
+          "alterations": 4,
+          "researcher_integrity": 4
         },
         "domain": {
+          "BLS": 5,
           "B/T": 6,
           "HSC": 4,
           "PHY": 2,
-          "BLS": 2,
           "ENV": 1
         }
       },
@@ -328,6 +328,15 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "BLS": 3
+        }
+      },
       "2025": {
         "total": 21,
         "marks": {
@@ -515,35 +524,39 @@
     },
     "collaborations": {
       "Saudi Arabia": 15,
+      "United States": 13,
       "Iraq": 13,
-      "United States": 12,
       "Poland": 12,
+      "Germany": 7,
       "China": 7,
       "Pakistan": 6,
       "South Africa": 6,
-      "Germany": 6,
       "Uzbekistan": 5,
       "India": 5,
       "Egypt": 4,
       "Turkey": 4,
       "France": 4,
+      "Belgium": 3,
+      "Netherlands": 3,
       "Jordan": 3,
       "Spain": 3,
       "Romania": 3,
       "Iran": 3,
+      "Denmark": 2,
+      "Serbia": 2,
+      "South Korea": 2,
+      "United Kingdom": 2,
       "Czech Republic": 2,
       "Vietnam": 2,
       "Yemen": 2,
-      "Netherlands": 2,
       "Italy": 2,
       "Switzerland": 2,
-      "Belgium": 2,
       "Norway": 2,
+      "Australia": 1,
       "Botswana": 1,
       "Indonesia": 1,
       "Slovakia": 1,
       "Russia": 1,
-      "South Korea": 1,
       "Qatar": 1,
       "Morocco": 1,
       "Ukraine": 1,
@@ -554,44 +567,45 @@
       "Brazil": 1,
       "Greece": 1,
       "Portugal": 1,
-      "Serbia": 1,
       "Austria": 1,
-      "Denmark": 1,
       "Sweden": 1,
-      "United Kingdom": 1,
       "Malaysia": 1
     },
     "notice_collaborations": {
       "Saudi Arabia": 15,
+      "United States": 13,
       "Iraq": 13,
-      "United States": 12,
       "Poland": 12,
+      "Germany": 7,
       "China": 7,
       "Pakistan": 6,
       "South Africa": 6,
-      "Germany": 6,
       "Uzbekistan": 5,
       "India": 5,
       "Egypt": 4,
       "Turkey": 4,
       "France": 4,
+      "Belgium": 3,
+      "Netherlands": 3,
       "Jordan": 3,
       "Spain": 3,
       "Romania": 3,
       "Iran": 3,
+      "Denmark": 2,
+      "Serbia": 2,
+      "South Korea": 2,
+      "United Kingdom": 2,
       "Czech Republic": 2,
       "Vietnam": 2,
       "Yemen": 2,
-      "Netherlands": 2,
       "Italy": 2,
       "Switzerland": 2,
-      "Belgium": 2,
       "Norway": 2,
+      "Australia": 1,
       "Botswana": 1,
       "Indonesia": 1,
       "Slovakia": 1,
       "Russia": 1,
-      "South Korea": 1,
       "Qatar": 1,
       "Morocco": 1,
       "Ukraine": 1,
@@ -602,11 +616,8 @@
       "Brazil": 1,
       "Greece": 1,
       "Portugal": 1,
-      "Serbia": 1,
       "Austria": 1,
-      "Denmark": 1,
       "Sweden": 1,
-      "United Kingdom": 1,
       "Malaysia": 1
     }
   },

@@ -20,7 +20,7 @@
       "2011": 1.4798,
       "2012": 1.4729,
       "2013": 1.2839,
-      "2014": 1.3941,
+      "2014": 1.4021,
       "2015": 1.2089,
       "2016": 0.9264,
       "2017": 1.2176,
@@ -29,7 +29,7 @@
       "2020": 3.2553,
       "2021": 4.2644,
       "2022": 3.8545,
-      "2023": 1.8955,
+      "2023": 1.9028,
       "2024": 1.4498
     },
     "notice_yearly_rates": {
@@ -58,9 +58,9 @@
       "2021": 1.0374,
       "2022": 4.707,
       "2023": 3.1422,
-      "2024": 3.0186
+      "2024": 3.0219
     },
-    "average_rate": 1.8354,
+    "average_rate": 1.8364,
     "yearly_retractions": {
       "1996": 2,
       "1997": 1,
@@ -80,7 +80,7 @@
       "2011": 137,
       "2012": 151,
       "2013": 140,
-      "2014": 173,
+      "2014": 174,
       "2015": 161,
       "2016": 134,
       "2017": 182,
@@ -89,7 +89,7 @@
       "2020": 640,
       "2021": 929,
       "2022": 954,
-      "2023": 520,
+      "2023": 522,
       "2024": 439
     },
     "notice_yearly_retractions": {
@@ -118,12 +118,12 @@
       "2021": 226,
       "2022": 1165,
       "2023": 862,
-      "2024": 914
+      "2024": 915
     }
   },
   "domainwise_data": {
     "country": "India",
-    "total_retractions": 5546,
+    "total_retractions": 5549,
     "years": {
       "2025": {
         "total": 13,
@@ -161,19 +161,19 @@
         }
       },
       "2023": {
-        "total": 520,
+        "total": 522,
         "marks": {
           "supplemental": 49,
-          "alterations": 244,
+          "alterations": 245,
+          "research": 180,
           "researcher_integrity": 41,
-          "research": 179,
           "system": 7
         },
         "domain": {
-          "B/T": 703,
+          "B/T": 706,
           "BLS": 215,
           "ENV": 58,
-          "PHY": 301,
+          "PHY": 305,
           "HSC": 328,
           "SOC": 40,
           "HUM": 4
@@ -331,19 +331,19 @@
         }
       },
       "2014": {
-        "total": 173,
+        "total": 174,
         "marks": {
-          "alterations": 125,
+          "alterations": 126,
           "researcher_integrity": 11,
           "research": 19,
           "system": 10,
           "supplemental": 8
         },
         "domain": {
+          "PHY": 90,
           "BLS": 186,
           "HSC": 125,
           "B/T": 30,
-          "PHY": 88,
           "ENV": 10,
           "SOC": 6,
           "HUM": 1
@@ -692,15 +692,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 10,
+        "total": 11,
         "marks": {
           "supplemental": 1,
           "research": 2,
-          "alterations": 3,
+          "alterations": 4,
           "researcher_integrity": 4
         },
         "domain": {
-          "B/T": 2,
+          "B/T": 5,
           "ENV": 4,
           "PHY": 8,
           "BLS": 15,
@@ -708,11 +708,11 @@
         }
       },
       "2025": {
-        "total": 906,
+        "total": 907,
         "marks": {
           "alterations": 573,
+          "research": 191,
           "system": 4,
-          "research": 190,
           "researcher_integrity": 106,
           "supplemental": 33
         },
@@ -720,25 +720,25 @@
           "B/T": 936,
           "BLS": 357,
           "ENV": 102,
-          "PHY": 558,
+          "PHY": 562,
           "HSC": 666,
           "SOC": 57,
           "HUM": 9
         }
       },
       "2024": {
-        "total": 914,
+        "total": 915,
         "marks": {
+          "alterations": 274,
           "research": 359,
           "researcher_integrity": 112,
-          "alterations": 273,
           "supplemental": 159,
           "system": 11
         },
         "domain": {
+          "PHY": 549,
           "B/T": 1208,
           "ENV": 115,
-          "PHY": 547,
           "BLS": 542,
           "HSC": 540,
           "SOC": 93,
@@ -1217,7 +1217,7 @@
       "Australia": 60,
       "Germany": 54,
       "Oman": 52,
-      "Vietnam": 47,
+      "Vietnam": 48,
       "United Arab Emirates": 47,
       "Ghana": 42,
       "Russia": 40,
@@ -1340,7 +1340,7 @@
       "Australia": 60,
       "Germany": 54,
       "Oman": 52,
-      "Vietnam": 47,
+      "Vietnam": 48,
       "United Arab Emirates": 47,
       "Ghana": 42,
       "Russia": 40,
