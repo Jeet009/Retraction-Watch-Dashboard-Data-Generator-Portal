@@ -18,18 +18,18 @@
       "2010": 12.4111,
       "2011": 10.8078,
       "2012": 0.6678,
-      "2013": 1.4873,
+      "2013": 1.4896,
       "2014": 1.349,
-      "2015": 1.6768,
-      "2016": 1.2313,
-      "2017": 1.9164,
-      "2018": 2.4678,
+      "2015": 1.6812,
+      "2016": 1.2334,
+      "2017": 1.9314,
+      "2018": 2.4711,
       "2019": 2.6834,
-      "2020": 2.8298,
-      "2021": 5.3045,
+      "2020": 2.8335,
+      "2021": 5.3079,
       "2022": 8.4065,
-      "2023": 1.2072,
-      "2024": 0.604
+      "2023": 1.211,
+      "2024": 0.6073
     },
     "notice_yearly_rates": {
       "1999": 0.0692,
@@ -56,10 +56,10 @@
       "2020": 1.3693,
       "2021": 2.6472,
       "2022": 3.0276,
-      "2023": 10.0225,
-      "2024": 2.8897
+      "2023": 10.033,
+      "2024": 2.8965
     },
-    "average_rate": 3.0243,
+    "average_rate": 3.0267,
     "yearly_retractions": {
       "1997": 2,
       "1998": 2,
@@ -77,18 +77,18 @@
       "2010": 4169,
       "2011": 4162,
       "2012": 274,
-      "2013": 666,
+      "2013": 667,
       "2014": 646,
-      "2015": 762,
-      "2016": 605,
-      "2017": 1026,
-      "2018": 1467,
+      "2015": 764,
+      "2016": 606,
+      "2017": 1034,
+      "2018": 1469,
       "2019": 1900,
-      "2020": 2236,
-      "2021": 4677,
+      "2020": 2239,
+      "2021": 4680,
       "2022": 8566,
-      "2023": 1266,
-      "2024": 719
+      "2023": 1270,
+      "2024": 723
     },
     "notice_yearly_retractions": {
       "1999": 3,
@@ -115,26 +115,26 @@
       "2020": 1082,
       "2021": 2334,
       "2022": 3085,
-      "2023": 10511,
-      "2024": 3440
+      "2023": 10522,
+      "2024": 3448
     }
   },
   "domainwise_data": {
     "country": "China",
-    "total_retractions": 34714,
+    "total_retractions": 34744,
     "years": {
       "2025": {
-        "total": 50,
+        "total": 52,
         "marks": {
-          "system": 18,
+          "system": 20,
           "alterations": 12,
           "research": 14,
           "researcher_integrity": 3,
           "supplemental": 3
         },
         "domain": {
-          "HSC": 48,
-          "BLS": 47,
+          "HSC": 53,
+          "BLS": 48,
           "HUM": 2,
           "SOC": 7,
           "ENV": 11,
@@ -143,18 +143,18 @@
         }
       },
       "2024": {
-        "total": 719,
+        "total": 723,
         "marks": {
-          "supplemental": 203,
+          "supplemental": 207,
           "alterations": 185,
           "researcher_integrity": 84,
           "system": 25,
           "research": 222
         },
         "domain": {
-          "B/T": 878,
+          "B/T": 887,
+          "PHY": 256,
           "HUM": 20,
-          "PHY": 255,
           "HSC": 419,
           "BLS": 247,
           "ENV": 114,
@@ -162,19 +162,19 @@
         }
       },
       "2023": {
-        "total": 1266,
+        "total": 1270,
         "marks": {
-          "supplemental": 212,
+          "supplemental": 214,
           "researcher_integrity": 116,
           "research": 487,
-          "system": 40,
+          "system": 42,
           "alterations": 411
         },
         "domain": {
-          "B/T": 1505,
+          "B/T": 1508,
           "PHY": 364,
           "BLS": 567,
-          "HSC": 1014,
+          "HSC": 1019,
           "ENV": 156,
           "SOC": 318,
           "HUM": 43
@@ -200,17 +200,17 @@
         }
       },
       "2021": {
-        "total": 4677,
+        "total": 4680,
         "marks": {
-          "alterations": 2014,
+          "alterations": 2017,
           "researcher_integrity": 350,
           "research": 1427,
           "supplemental": 474,
           "system": 412
         },
         "domain": {
-          "BLS": 2786,
-          "HSC": 3127,
+          "BLS": 2795,
+          "HSC": 3134,
           "PHY": 739,
           "B/T": 4591,
           "ENV": 472,
@@ -219,18 +219,18 @@
         }
       },
       "2020": {
-        "total": 2236,
+        "total": 2239,
         "marks": {
-          "alterations": 862,
+          "alterations": 864,
+          "researcher_integrity": 220,
           "research": 698,
-          "researcher_integrity": 219,
           "supplemental": 67,
           "system": 390
         },
         "domain": {
-          "BLS": 3521,
-          "HSC": 1129,
-          "PHY": 488,
+          "BLS": 3527,
+          "HSC": 1134,
+          "PHY": 489,
           "B/T": 1299,
           "ENV": 62,
           "HUM": 30,
@@ -257,17 +257,17 @@
         }
       },
       "2018": {
-        "total": 1467,
+        "total": 1469,
         "marks": {
-          "alterations": 743,
+          "alterations": 745,
           "research": 494,
           "researcher_integrity": 115,
           "system": 54,
           "supplemental": 61
         },
         "domain": {
-          "BLS": 3075,
-          "HSC": 710,
+          "BLS": 3081,
+          "HSC": 715,
           "PHY": 291,
           "B/T": 499,
           "SOC": 78,
@@ -276,17 +276,17 @@
         }
       },
       "2017": {
-        "total": 1026,
+        "total": 1034,
         "marks": {
-          "alterations": 625,
+          "alterations": 633,
           "research": 263,
           "researcher_integrity": 72,
           "system": 30,
           "supplemental": 36
         },
         "domain": {
-          "BLS": 2155,
-          "HSC": 488,
+          "BLS": 2179,
+          "HSC": 504,
           "PHY": 228,
           "ENV": 23,
           "SOC": 15,
@@ -295,17 +295,17 @@
         }
       },
       "2016": {
-        "total": 605,
+        "total": 606,
         "marks": {
-          "alterations": 359,
+          "alterations": 360,
           "research": 136,
           "researcher_integrity": 51,
           "supplemental": 40,
           "system": 19
         },
         "domain": {
-          "BLS": 1151,
-          "HSC": 423,
+          "BLS": 1154,
+          "HSC": 425,
           "B/T": 73,
           "ENV": 21,
           "PHY": 206,
@@ -314,17 +314,17 @@
         }
       },
       "2015": {
-        "total": 762,
+        "total": 764,
         "marks": {
-          "alterations": 436,
+          "alterations": 438,
           "research": 107,
           "researcher_integrity": 61,
           "supplemental": 138,
           "system": 20
         },
         "domain": {
-          "BLS": 1370,
-          "HSC": 632,
+          "BLS": 1376,
+          "HSC": 637,
           "PHY": 217,
           "B/T": 188,
           "SOC": 27,
@@ -351,17 +351,17 @@
         }
       },
       "2013": {
-        "total": 666,
+        "total": 667,
         "marks": {
-          "alterations": 240,
+          "alterations": 241,
           "researcher_integrity": 50,
           "research": 67,
           "supplemental": 291,
           "system": 18
         },
         "domain": {
-          "BLS": 721,
-          "HSC": 370,
+          "BLS": 724,
+          "HSC": 372,
           "B/T": 170,
           "ENV": 13,
           "PHY": 237,
@@ -649,17 +649,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 30,
+        "total": 36,
         "marks": {
-          "supplemental": 23,
+          "supplemental": 29,
           "alterations": 1,
           "researcher_integrity": 5,
           "research": 1
         },
         "domain": {
-          "B/T": 34,
+          "B/T": 46,
+          "PHY": 19,
           "HUM": 1,
-          "PHY": 18,
           "HSC": 7,
           "BLS": 7,
           "ENV": 4,
@@ -667,18 +667,18 @@
         }
       },
       "2025": {
-        "total": 1919,
+        "total": 1924,
         "marks": {
           "alterations": 1071,
           "research": 239,
-          "researcher_integrity": 336,
-          "system": 52,
+          "researcher_integrity": 337,
+          "system": 56,
           "supplemental": 221
         },
         "domain": {
-          "BLS": 1433,
-          "HSC": 1544,
-          "PHY": 477,
+          "BLS": 1434,
+          "HSC": 1554,
+          "PHY": 478,
           "B/T": 2150,
           "ENV": 182,
           "HUM": 45,
@@ -686,17 +686,17 @@
         }
       },
       "2024": {
-        "total": 3440,
+        "total": 3448,
         "marks": {
-          "alterations": 1795,
+          "alterations": 1803,
           "research": 1006,
           "researcher_integrity": 282,
           "system": 81,
           "supplemental": 276
         },
         "domain": {
-          "BLS": 4158,
-          "HSC": 2338,
+          "BLS": 4182,
+          "HSC": 2356,
           "PHY": 869,
           "B/T": 2841,
           "SOC": 622,
@@ -705,17 +705,17 @@
         }
       },
       "2023": {
-        "total": 10511,
+        "total": 10522,
         "marks": {
-          "alterations": 5770,
+          "alterations": 5781,
           "supplemental": 161,
           "researcher_integrity": 666,
           "system": 173,
           "research": 3741
         },
         "domain": {
-          "BLS": 6330,
-          "HSC": 9953,
+          "BLS": 6363,
+          "HSC": 9977,
           "PHY": 1882,
           "B/T": 10158,
           "SOC": 3899,
@@ -1151,22 +1151,22 @@
       "India": 254,
       "United Kingdom": 231,
       "Malaysia": 171,
-      "Australia": 157,
+      "Australia": 158,
       "Taiwan": 123,
       "Iran": 121,
       "Canada": 112,
-      "Germany": 110,
+      "Germany": 111,
       "Japan": 105,
       "Egypt": 104,
       "Russia": 81,
       "Thailand": 78,
       "Iraq": 72,
-      "Philippines": 65,
+      "Philippines": 66,
       "Turkey": 56,
-      "Vietnam": 54,
+      "Vietnam": 55,
       "Singapore": 53,
       "Hong Kong": 51,
-      "Italy": 46,
+      "Italy": 47,
       "Spain": 46,
       "France": 41,
       "Sweden": 37,
@@ -1268,22 +1268,22 @@
       "India": 254,
       "United Kingdom": 231,
       "Malaysia": 171,
-      "Australia": 157,
+      "Australia": 158,
       "Taiwan": 123,
       "Iran": 121,
       "Canada": 112,
-      "Germany": 110,
+      "Germany": 111,
       "Japan": 105,
       "Egypt": 104,
       "Russia": 81,
       "Thailand": 78,
       "Iraq": 72,
-      "Philippines": 65,
+      "Philippines": 66,
       "Turkey": 56,
-      "Vietnam": 54,
+      "Vietnam": 55,
       "Singapore": 53,
       "Hong Kong": 51,
-      "Italy": 46,
+      "Italy": 47,
       "Spain": 46,
       "France": 41,
       "Sweden": 37,

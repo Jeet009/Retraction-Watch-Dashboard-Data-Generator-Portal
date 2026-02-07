@@ -4,6 +4,7 @@
     "yearly_rates": {
       "2018": 0.0,
       "2019": 0.0,
+      "2020": 0.0,
       "2022": 0.0,
       "2023": 0.0,
       "2024": 0.0
@@ -19,6 +20,7 @@
     "yearly_retractions": {
       "2018": 2,
       "2019": 2,
+      "2020": 1,
       "2022": 2,
       "2023": 1,
       "2024": 16
@@ -33,7 +35,7 @@
   },
   "domainwise_data": {
     "country": "Democratic Republic of the Congo",
-    "total_retractions": 23,
+    "total_retractions": 24,
     "years": {
       "2024": {
         "total": 16,
@@ -67,6 +69,15 @@
           "HSC": 2
         }
       },
+      "2020": {
+        "total": 1,
+        "marks": {
+          "supplemental": 1
+        },
+        "domain": {
+          "HUM": 1
+        }
+      },
       "2019": {
         "total": 2,
         "marks": {
@@ -90,11 +101,13 @@
     },
     "notice_years": {
       "2025": {
-        "total": 16,
+        "total": 17,
         "marks": {
+          "supplemental": 1,
           "alterations": 16
         },
         "domain": {
+          "HUM": 1,
           "HSC": 37,
           "SOC": 2,
           "B/T": 2,
