@@ -65,14 +65,16 @@
   },
   "domainwise_data": {
     "country": "Cameroon",
-    "total_retractions": 36,
+    "total_retractions": 37,
     "years": {
       "2025": {
-        "total": 1,
+        "total": 2,
         "marks": {
-          "researcher_integrity": 1
+          "researcher_integrity": 2
         },
         "domain": {
+          "B/T": 1,
+          "PHY": 2,
           "HSC": 3
         }
       },
@@ -235,17 +237,17 @@
     },
     "notice_years": {
       "2025": {
-        "total": 12,
+        "total": 13,
         "marks": {
-          "alterations": 10,
-          "researcher_integrity": 2
+          "researcher_integrity": 3,
+          "alterations": 10
         },
         "domain": {
-          "PHY": 5,
+          "B/T": 4,
+          "PHY": 7,
           "HSC": 16,
           "BLS": 1,
-          "ENV": 2,
-          "B/T": 3
+          "ENV": 2
         }
       },
       "2024": {
@@ -382,7 +384,7 @@
       }
     },
     "collaborations": {
-      "India": 9,
+      "India": 10,
       "Zambia": 7,
       "Democratic Republic of the Congo": 7,
       "Kenya": 6,
@@ -395,6 +397,8 @@
       "Nigeria": 3,
       "United Kingdom": 3,
       "Zimbabwe": 3,
+      "Jordan": 2,
+      "Russia": 2,
       "Gabon": 2,
       "Rwanda": 2,
       "Egypt": 2,
@@ -404,13 +408,14 @@
       "China": 2,
       "Burkina Faso": 2,
       "Italy": 2,
+      "Azerbaijan": 1,
+      "Hungary": 1,
+      "Saudi Arabia": 1,
       "United Arab Emirates": 1,
       "Cote d'Ivoire": 1,
       "Switzerland": 1,
-      "Jordan": 1,
       "Turkey": 1,
       "Botswana": 1,
-      "Russia": 1,
       "Belgium": 1,
       "Algeria": 1,
       "Angola": 1,
@@ -429,7 +434,7 @@
       "Sudan": 1
     },
     "notice_collaborations": {
-      "India": 9,
+      "India": 10,
       "Zambia": 7,
       "Democratic Republic of the Congo": 7,
       "Kenya": 6,
@@ -442,6 +447,8 @@
       "Nigeria": 3,
       "United Kingdom": 3,
       "Zimbabwe": 3,
+      "Jordan": 2,
+      "Russia": 2,
       "Gabon": 2,
       "Rwanda": 2,
       "Egypt": 2,
@@ -451,13 +458,14 @@
       "China": 2,
       "Burkina Faso": 2,
       "Italy": 2,
+      "Azerbaijan": 1,
+      "Hungary": 1,
+      "Saudi Arabia": 1,
       "United Arab Emirates": 1,
       "Cote d'Ivoire": 1,
       "Switzerland": 1,
-      "Jordan": 1,
       "Turkey": 1,
       "Botswana": 1,
-      "Russia": 1,
       "Belgium": 1,
       "Algeria": 1,
       "Angola": 1,

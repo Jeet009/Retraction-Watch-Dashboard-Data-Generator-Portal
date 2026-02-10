@@ -21,7 +21,7 @@
       "2018": 0.0802,
       "2019": 0.0761,
       "2020": 0.2878,
-      "2021": 0.2301,
+      "2021": 0.263,
       "2022": 0.3367,
       "2023": 0.1011,
       "2024": 0.0324
@@ -47,7 +47,7 @@
       "2023": 0.236,
       "2024": 0.2267
     },
-    "average_rate": 0.1629,
+    "average_rate": 0.1648,
     "yearly_retractions": {
       "1998": 1,
       "2000": 3,
@@ -68,7 +68,7 @@
       "2018": 2,
       "2019": 2,
       "2020": 8,
-      "2021": 7,
+      "2021": 8,
       "2022": 10,
       "2023": 3,
       "2024": 1
@@ -97,7 +97,7 @@
   },
   "domainwise_data": {
     "country": "Austria",
-    "total_retractions": 87,
+    "total_retractions": 88,
     "years": {
       "2024": {
         "total": 1,
@@ -142,19 +142,20 @@
         }
       },
       "2021": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "alterations": 1,
           "researcher_integrity": 3,
           "system": 3,
           "research": 1
         },
         "domain": {
-          "B/T": 1,
+          "B/T": 3,
+          "BLS": 3,
+          "PHY": 4,
           "HSC": 10,
           "SOC": 1,
-          "BLS": 1,
-          "ENV": 1,
-          "PHY": 3
+          "ENV": 1
         }
       },
       "2020": {
@@ -382,14 +383,16 @@
     },
     "notice_years": {
       "2025": {
-        "total": 6,
+        "total": 7,
         "marks": {
-          "alterations": 2,
+          "alterations": 3,
           "research": 2,
           "researcher_integrity": 2
         },
         "domain": {
-          "BLS": 9,
+          "B/T": 2,
+          "BLS": 11,
+          "PHY": 1,
           "HSC": 12
         }
       },
@@ -657,6 +660,7 @@
       "South Africa": 2,
       "Portugal": 2,
       "Romania": 2,
+      "Iran": 1,
       "Iraq": 1,
       "Malaysia": 1,
       "Nigeria": 1,
@@ -711,6 +715,7 @@
       "South Africa": 2,
       "Portugal": 2,
       "Romania": 2,
+      "Iran": 1,
       "Iraq": 1,
       "Malaysia": 1,
       "Nigeria": 1,

@@ -17,7 +17,8 @@
       "2020": 0.5062,
       "2021": 0.5149,
       "2022": 0.4929,
-      "2023": 0.2683
+      "2023": 0.2683,
+      "2024": 0.05
     },
     "notice_yearly_rates": {
       "2004": 0.2848,
@@ -37,7 +38,7 @@
       "2023": 0.3219,
       "2024": 0.5996
     },
-    "average_rate": 0.2552,
+    "average_rate": 0.2591,
     "yearly_retractions": {
       "1998": 1,
       "2000": 1,
@@ -54,7 +55,8 @@
       "2020": 9,
       "2021": 10,
       "2022": 9,
-      "2023": 5
+      "2023": 5,
+      "2024": 1
     },
     "notice_yearly_retractions": {
       "2004": 1,
@@ -77,8 +79,17 @@
   },
   "domainwise_data": {
     "country": "Chile",
-    "total_retractions": 65,
+    "total_retractions": 66,
     "years": {
+      "2024": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "B/T": 2
+        }
+      },
       "2023": {
         "total": 5,
         "marks": {
@@ -285,15 +296,15 @@
     },
     "notice_years": {
       "2025": {
-        "total": 11,
+        "total": 12,
         "marks": {
+          "alterations": 6,
           "research": 2,
-          "alterations": 5,
           "researcher_integrity": 3,
           "system": 1
         },
         "domain": {
-          "B/T": 11,
+          "B/T": 13,
           "HSC": 1,
           "PHY": 11,
           "ENV": 8
@@ -494,8 +505,8 @@
       "Spain": 13,
       "India": 12,
       "Australia": 10,
+      "Saudi Arabia": 9,
       "China": 8,
-      "Saudi Arabia": 8,
       "Taiwan": 6,
       "United States": 6,
       "United Kingdom": 6,
@@ -506,6 +517,7 @@
       "Malaysia": 4,
       "Hong Kong": 4,
       "Italy": 4,
+      "Iran": 3,
       "Turkey": 3,
       "Brazil": 3,
       "Russia": 3,
@@ -514,12 +526,13 @@
       "Lebanon": 2,
       "Czech Republic": 2,
       "Vietnam": 2,
-      "Iran": 2,
       "Portugal": 2,
       "Romania": 2,
       "Finland": 2,
       "Peru": 2,
       "Canada": 2,
+      "Iraq": 1,
+      "Oman": 1,
       "Poland": 1,
       "Kazakhstan": 1,
       "Bangladesh": 1,
@@ -536,8 +549,8 @@
       "Spain": 13,
       "India": 12,
       "Australia": 10,
+      "Saudi Arabia": 9,
       "China": 8,
-      "Saudi Arabia": 8,
       "Taiwan": 6,
       "United States": 6,
       "United Kingdom": 6,
@@ -548,6 +561,7 @@
       "Malaysia": 4,
       "Hong Kong": 4,
       "Italy": 4,
+      "Iran": 3,
       "Turkey": 3,
       "Brazil": 3,
       "Russia": 3,
@@ -556,12 +570,13 @@
       "Lebanon": 2,
       "Czech Republic": 2,
       "Vietnam": 2,
-      "Iran": 2,
       "Portugal": 2,
       "Romania": 2,
       "Finland": 2,
       "Peru": 2,
       "Canada": 2,
+      "Iraq": 1,
+      "Oman": 1,
       "Poland": 1,
       "Kazakhstan": 1,
       "Bangladesh": 1,

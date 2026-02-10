@@ -95,7 +95,7 @@
   },
   "domainwise_data": {
     "country": "Russia",
-    "total_retractions": 3080,
+    "total_retractions": 3081,
     "years": {
       "2026": {
         "total": 1,
@@ -104,6 +104,16 @@
         },
         "domain": {
           "PHY": 4
+        }
+      },
+      "2025": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "PHY": 2
         }
       },
       "2024": {
@@ -469,19 +479,19 @@
         }
       },
       "2025": {
-        "total": 368,
+        "total": 369,
         "marks": {
           "alterations": 10,
+          "researcher_integrity": 27,
           "research": 331,
-          "researcher_integrity": 26,
           "system": 1
         },
         "domain": {
-          "PHY": 113,
+          "PHY": 115,
+          "B/T": 266,
           "SOC": 164,
           "BLS": 130,
           "HSC": 62,
-          "B/T": 265,
           "HUM": 12,
           "ENV": 121
         }
@@ -757,8 +767,8 @@
     "collaborations": {
       "China": 81,
       "Kazakhstan": 60,
-      "India": 40,
-      "Saudi Arabia": 39,
+      "India": 41,
+      "Saudi Arabia": 40,
       "Iran": 32,
       "Pakistan": 30,
       "Iraq": 29,
@@ -771,10 +781,10 @@
       "Uzbekistan": 15,
       "Turkey": 13,
       "United Arab Emirates": 13,
+      "Azerbaijan": 12,
       "Spain": 12,
       "Indonesia": 11,
       "Vietnam": 11,
-      "Azerbaijan": 11,
       "Australia": 9,
       "Italy": 9,
       "Malaysia": 8,
@@ -782,10 +792,10 @@
       "Tajikistan": 7,
       "Japan": 6,
       "Sweden": 6,
+      "Jordan": 5,
       "Armenia": 5,
       "Taiwan": 5,
       "Ethiopia": 5,
-      "Jordan": 4,
       "Nigeria": 4,
       "South Africa": 4,
       "Bangladesh": 3,
@@ -804,6 +814,8 @@
       "Brazil": 3,
       "Switzerland": 3,
       "Croatia": 3,
+      "Cameroon": 2,
+      "Hungary": 2,
       "Ukraine": 2,
       "Cyprus": 2,
       "Philippines": 2,
@@ -818,13 +830,11 @@
       "France": 2,
       "Syria": 1,
       "Lebanon": 1,
-      "Hungary": 1,
       "Morocco": 1,
       "Sri Lanka": 1,
       "Colombia": 1,
       "Qatar": 1,
       "Afghanistan": 1,
-      "Cameroon": 1,
       "Bosnia & Herzegovina": 1,
       "Malawi": 1,
       "Canada": 1,
@@ -839,8 +849,8 @@
     "notice_collaborations": {
       "China": 81,
       "Kazakhstan": 60,
-      "India": 40,
-      "Saudi Arabia": 39,
+      "India": 41,
+      "Saudi Arabia": 40,
       "Iran": 32,
       "Pakistan": 30,
       "Iraq": 29,
@@ -853,10 +863,10 @@
       "Uzbekistan": 15,
       "Turkey": 13,
       "United Arab Emirates": 13,
+      "Azerbaijan": 12,
       "Spain": 12,
       "Indonesia": 11,
       "Vietnam": 11,
-      "Azerbaijan": 11,
       "Australia": 9,
       "Italy": 9,
       "Malaysia": 8,
@@ -864,10 +874,10 @@
       "Tajikistan": 7,
       "Japan": 6,
       "Sweden": 6,
+      "Jordan": 5,
       "Armenia": 5,
       "Taiwan": 5,
       "Ethiopia": 5,
-      "Jordan": 4,
       "Nigeria": 4,
       "South Africa": 4,
       "Bangladesh": 3,
@@ -886,6 +896,8 @@
       "Brazil": 3,
       "Switzerland": 3,
       "Croatia": 3,
+      "Cameroon": 2,
+      "Hungary": 2,
       "Ukraine": 2,
       "Cyprus": 2,
       "Philippines": 2,
@@ -900,13 +912,11 @@
       "France": 2,
       "Syria": 1,
       "Lebanon": 1,
-      "Hungary": 1,
       "Morocco": 1,
       "Sri Lanka": 1,
       "Colombia": 1,
       "Qatar": 1,
       "Afghanistan": 1,
-      "Cameroon": 1,
       "Bosnia & Herzegovina": 1,
       "Malawi": 1,
       "Canada": 1,

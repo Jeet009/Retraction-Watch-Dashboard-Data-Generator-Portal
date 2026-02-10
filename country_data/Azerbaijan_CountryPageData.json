@@ -59,16 +59,18 @@
   },
   "domainwise_data": {
     "country": "Azerbaijan",
-    "total_retractions": 53,
+    "total_retractions": 54,
     "years": {
       "2025": {
-        "total": 2,
+        "total": 3,
         "marks": {
+          "researcher_integrity": 1,
           "research": 1,
           "alterations": 1
         },
         "domain": {
-          "B/T": 2,
+          "B/T": 3,
+          "PHY": 2,
           "ENV": 2,
           "BLS": 2
         }
@@ -212,17 +214,17 @@
     },
     "notice_years": {
       "2025": {
-        "total": 22,
+        "total": 23,
         "marks": {
+          "researcher_integrity": 8,
           "research": 12,
-          "alterations": 3,
-          "researcher_integrity": 7
+          "alterations": 3
         },
         "domain": {
-          "B/T": 17,
+          "B/T": 18,
+          "PHY": 16,
           "SOC": 3,
           "HSC": 3,
-          "PHY": 14,
           "ENV": 5,
           "BLS": 8,
           "HUM": 2
@@ -362,13 +364,15 @@
     },
     "collaborations": {
       "China": 14,
-      "Russia": 11,
-      "Saudi Arabia": 6,
+      "Russia": 12,
+      "Saudi Arabia": 7,
+      "India": 6,
       "Uzbekistan": 5,
-      "India": 5,
       "Iraq": 4,
       "Iran": 4,
       "Pakistan": 3,
+      "Hungary": 2,
+      "Jordan": 2,
       "Germany": 2,
       "Poland": 2,
       "United States": 2,
@@ -376,13 +380,12 @@
       "Malaysia": 2,
       "Turkey": 2,
       "Kazakhstan": 2,
+      "Cameroon": 1,
       "Colombia": 1,
       "Oman": 1,
       "Tunisia": 1,
       "United Arab Emirates": 1,
-      "Jordan": 1,
       "Egypt": 1,
-      "Hungary": 1,
       "Vietnam": 1,
       "Denmark": 1,
       "Switzerland": 1,
@@ -391,13 +394,15 @@
     },
     "notice_collaborations": {
       "China": 14,
-      "Russia": 11,
-      "Saudi Arabia": 6,
+      "Russia": 12,
+      "Saudi Arabia": 7,
+      "India": 6,
       "Uzbekistan": 5,
-      "India": 5,
       "Iraq": 4,
       "Iran": 4,
       "Pakistan": 3,
+      "Hungary": 2,
+      "Jordan": 2,
       "Germany": 2,
       "Poland": 2,
       "United States": 2,
@@ -405,13 +410,12 @@
       "Malaysia": 2,
       "Turkey": 2,
       "Kazakhstan": 2,
+      "Cameroon": 1,
       "Colombia": 1,
       "Oman": 1,
       "Tunisia": 1,
       "United Arab Emirates": 1,
-      "Jordan": 1,
       "Egypt": 1,
-      "Hungary": 1,
       "Vietnam": 1,
       "Denmark": 1,
       "Switzerland": 1,
