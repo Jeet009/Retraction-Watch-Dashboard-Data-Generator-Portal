@@ -24,7 +24,7 @@
       "2021": 0.263,
       "2022": 0.3367,
       "2023": 0.1011,
-      "2024": 0.0324
+      "2024": 0.0648
     },
     "notice_yearly_rates": {
       "2003": 0.0868,
@@ -47,7 +47,7 @@
       "2023": 0.236,
       "2024": 0.2267
     },
-    "average_rate": 0.1648,
+    "average_rate": 0.1667,
     "yearly_retractions": {
       "1998": 1,
       "2000": 3,
@@ -71,7 +71,7 @@
       "2021": 8,
       "2022": 10,
       "2023": 3,
-      "2024": 1
+      "2024": 2
     },
     "notice_yearly_retractions": {
       "2003": 1,
@@ -97,15 +97,17 @@
   },
   "domainwise_data": {
     "country": "Austria",
-    "total_retractions": 88,
+    "total_retractions": 89,
     "years": {
       "2024": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "research": 1,
           "researcher_integrity": 1
         },
         "domain": {
-          "BLS": 3,
+          "BLS": 5,
+          "ENV": 1,
           "HSC": 1
         }
       },
@@ -382,6 +384,16 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "BLS": 2,
+          "ENV": 1
+        }
+      },
       "2025": {
         "total": 7,
         "marks": {
@@ -639,9 +651,9 @@
       "United States": 16,
       "India": 9,
       "Netherlands": 9,
+      "China": 8,
       "Saudi Arabia": 8,
-      "China": 7,
-      "Australia": 6,
+      "Australia": 7,
       "Italy": 6,
       "Spain": 6,
       "Sweden": 5,
@@ -694,9 +706,9 @@
       "United States": 16,
       "India": 9,
       "Netherlands": 9,
+      "China": 8,
       "Saudi Arabia": 8,
-      "China": 7,
-      "Australia": 6,
+      "Australia": 7,
       "Italy": 6,
       "Spain": 6,
       "Sweden": 5,

@@ -117,16 +117,18 @@
   },
   "domainwise_data": {
     "country": "South Korea",
-    "total_retractions": 1349,
+    "total_retractions": 1350,
     "years": {
       "2025": {
-        "total": 4,
+        "total": 5,
         "marks": {
+          "researcher_integrity": 2,
           "research": 2,
-          "researcher_integrity": 1,
           "supplemental": 1
         },
         "domain": {
+          "PHY": 1,
+          "SOC": 1,
           "B/T": 5,
           "ENV": 2,
           "HSC": 3
@@ -629,20 +631,20 @@
         }
       },
       "2025": {
-        "total": 90,
+        "total": 91,
         "marks": {
           "alterations": 50,
+          "researcher_integrity": 22,
           "research": 18,
-          "researcher_integrity": 21,
           "supplemental": 1
         },
         "domain": {
           "BLS": 64,
           "HSC": 51,
+          "PHY": 93,
+          "SOC": 17,
           "ENV": 21,
-          "PHY": 92,
           "B/T": 52,
-          "SOC": 16,
           "HUM": 1
         }
       },
@@ -1043,7 +1045,7 @@
       }
     },
     "collaborations": {
-      "China": 285,
+      "China": 286,
       "India": 146,
       "Saudi Arabia": 92,
       "United States": 91,
@@ -1126,7 +1128,7 @@
       "Slovakia": 1
     },
     "notice_collaborations": {
-      "China": 285,
+      "China": 286,
       "India": 146,
       "Saudi Arabia": 92,
       "United States": 91,

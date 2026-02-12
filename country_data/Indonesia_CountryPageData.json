@@ -81,21 +81,22 @@
   },
   "domainwise_data": {
     "country": "Indonesia",
-    "total_retractions": 231,
+    "total_retractions": 232,
     "years": {
       "2025": {
-        "total": 3,
+        "total": 4,
         "marks": {
+          "research": 2,
           "alterations": 1,
-          "system": 1,
-          "research": 1
+          "system": 1
         },
         "domain": {
+          "BLS": 1,
+          "SOC": 2,
           "PHY": 3,
           "ENV": 2,
           "HUM": 1,
-          "B/T": 2,
-          "SOC": 1
+          "B/T": 2
         }
       },
       "2024": {
@@ -354,19 +355,19 @@
         }
       },
       "2025": {
-        "total": 31,
+        "total": 32,
         "marks": {
+          "research": 8,
           "alterations": 9,
           "researcher_integrity": 14,
-          "research": 7,
           "system": 1
         },
         "domain": {
+          "BLS": 12,
+          "SOC": 11,
           "B/T": 27,
           "ENV": 10,
           "PHY": 15,
-          "BLS": 11,
-          "SOC": 10,
           "HSC": 12,
           "HUM": 2
         }
