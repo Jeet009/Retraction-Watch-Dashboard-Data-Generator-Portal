@@ -24,7 +24,7 @@
       "2017": 0.2408,
       "2018": 0.3534,
       "2019": 0.2155,
-      "2020": 0.5055,
+      "2020": 0.5149,
       "2021": 0.4803,
       "2022": 0.4566,
       "2023": 0.1975,
@@ -57,7 +57,7 @@
       "2023": 0.5297,
       "2024": 0.7637
     },
-    "average_rate": 0.294,
+    "average_rate": 0.2946,
     "yearly_retractions": {
       "1997": 1,
       "1998": 1,
@@ -81,7 +81,7 @@
       "2017": 21,
       "2018": 32,
       "2019": 21,
-      "2020": 54,
+      "2020": 55,
       "2021": 55,
       "2022": 51,
       "2023": 22,
@@ -117,7 +117,7 @@
   },
   "domainwise_data": {
     "country": "Spain",
-    "total_retractions": 570,
+    "total_retractions": 571,
     "years": {
       "2025": {
         "total": 1,
@@ -203,18 +203,18 @@
         }
       },
       "2020": {
-        "total": 54,
+        "total": 55,
         "marks": {
+          "research": 14,
           "alterations": 19,
-          "research": 13,
           "supplemental": 8,
           "system": 10,
           "researcher_integrity": 4
         },
         "domain": {
+          "ENV": 8,
+          "HSC": 47,
           "BLS": 26,
-          "ENV": 7,
-          "HSC": 46,
           "PHY": 20,
           "B/T": 28,
           "SOC": 7,
@@ -563,6 +563,16 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "ENV": 1,
+          "HSC": 1
+        }
+      },
       "2025": {
         "total": 36,
         "marks": {
@@ -966,8 +976,8 @@
     },
     "collaborations": {
       "United States": 85,
+      "China": 47,
       "Italy": 47,
-      "China": 46,
       "United Kingdom": 38,
       "Pakistan": 35,
       "India": 30,
@@ -1049,8 +1059,8 @@
     },
     "notice_collaborations": {
       "United States": 85,
+      "China": 47,
       "Italy": 47,
-      "China": 46,
       "United Kingdom": 38,
       "Pakistan": 35,
       "India": 30,
