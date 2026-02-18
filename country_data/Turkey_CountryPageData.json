@@ -113,14 +113,18 @@
   },
   "domainwise_data": {
     "country": "Turkey",
-    "total_retractions": 697,
+    "total_retractions": 698,
     "years": {
       "2025": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 1
         },
         "domain": {
+          "B/T": 2,
+          "BLS": 1,
+          "HSC": 1,
           "PHY": 4
         }
       },
@@ -545,19 +549,19 @@
         }
       },
       "2025": {
-        "total": 93,
+        "total": 94,
         "marks": {
+          "researcher_integrity": 32,
           "alterations": 50,
           "research": 10,
           "system": 1,
-          "researcher_integrity": 31,
           "supplemental": 1
         },
         "domain": {
+          "B/T": 114,
+          "BLS": 39,
+          "HSC": 40,
           "PHY": 71,
-          "B/T": 112,
-          "BLS": 38,
-          "HSC": 39,
           "SOC": 7,
           "ENV": 18,
           "HUM": 1
@@ -960,10 +964,10 @@
       "Italy": 11,
       "Canada": 11,
       "Australia": 10,
+      "Bangladesh": 9,
       "Vietnam": 9,
       "Thailand": 8,
       "Jordan": 8,
-      "Bangladesh": 8,
       "Tunisia": 7,
       "Spain": 7,
       "Nigeria": 6,
@@ -978,6 +982,7 @@
       "Ecuador": 4,
       "Hungary": 4,
       "Yemen": 4,
+      "Ireland": 3,
       "Sweden": 3,
       "Chile": 3,
       "Slovakia": 3,
@@ -986,7 +991,6 @@
       "Czech Republic": 3,
       "Brazil": 3,
       "Bahrain": 3,
-      "Ireland": 2,
       "Kazakhstan": 2,
       "Azerbaijan": 2,
       "Syria": 2,
@@ -1039,10 +1043,10 @@
       "Italy": 11,
       "Canada": 11,
       "Australia": 10,
+      "Bangladesh": 9,
       "Vietnam": 9,
       "Thailand": 8,
       "Jordan": 8,
-      "Bangladesh": 8,
       "Tunisia": 7,
       "Spain": 7,
       "Nigeria": 6,
@@ -1057,6 +1061,7 @@
       "Ecuador": 4,
       "Hungary": 4,
       "Yemen": 4,
+      "Ireland": 3,
       "Sweden": 3,
       "Chile": 3,
       "Slovakia": 3,
@@ -1065,7 +1070,6 @@
       "Czech Republic": 3,
       "Brazil": 3,
       "Bahrain": 3,
-      "Ireland": 2,
       "Kazakhstan": 2,
       "Azerbaijan": 2,
       "Syria": 2,
