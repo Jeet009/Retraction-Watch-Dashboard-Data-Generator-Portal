@@ -22,7 +22,7 @@
       "2019": 2.118,
       "2020": 2.7335,
       "2021": 8.2547,
-      "2022": 12.7692,
+      "2022": 12.7952,
       "2023": 3.0686,
       "2024": 1.9971
     },
@@ -47,7 +47,7 @@
       "2023": 9.4482,
       "2024": 7.5585
     },
-    "average_rate": 3.7815,
+    "average_rate": 3.7844,
     "yearly_retractions": {
       "2002": 1,
       "2003": 1,
@@ -69,7 +69,7 @@
       "2019": 52,
       "2020": 80,
       "2021": 286,
-      "2022": 491,
+      "2022": 492,
       "2023": 114,
       "2024": 79
     },
@@ -97,7 +97,7 @@
   },
   "domainwise_data": {
     "country": "Pakistan",
-    "total_retractions": 1339,
+    "total_retractions": 1340,
     "years": {
       "2026": {
         "total": 1,
@@ -160,21 +160,21 @@
         }
       },
       "2022": {
-        "total": 491,
+        "total": 492,
         "marks": {
           "researcher_integrity": 146,
+          "research": 96,
           "alterations": 232,
           "supplemental": 11,
-          "research": 95,
           "system": 7
         },
         "domain": {
           "B/T": 403,
           "ENV": 100,
-          "PHY": 301,
-          "HSC": 230,
+          "PHY": 302,
+          "HSC": 231,
+          "SOC": 76,
           "BLS": 287,
-          "SOC": 74,
           "HUM": 2
         }
       },
@@ -479,14 +479,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "researcher_integrity": 2
+          "researcher_integrity": 2,
+          "research": 1
         },
         "domain": {
           "B/T": 1,
           "ENV": 1,
-          "PHY": 6
+          "PHY": 7,
+          "HSC": 1,
+          "SOC": 2
         }
       },
       "2025": {
@@ -810,7 +813,7 @@
     },
     "collaborations": {
       "Saudi Arabia": 487,
-      "China": 456,
+      "China": 457,
       "India": 125,
       "Malaysia": 94,
       "United States": 90,
@@ -929,7 +932,7 @@
     },
     "notice_collaborations": {
       "Saudi Arabia": 487,
-      "China": 456,
+      "China": 457,
       "India": 125,
       "Malaysia": 94,
       "United States": 90,
