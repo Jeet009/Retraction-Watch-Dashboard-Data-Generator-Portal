@@ -19,7 +19,7 @@
       "2019": 0.7128,
       "2020": 0.7533,
       "2021": 2.4188,
-      "2022": 4.0682,
+      "2022": 4.092,
       "2023": 1.1495,
       "2024": 0.7936
     },
@@ -43,7 +43,7 @@
       "2023": 3.6832,
       "2024": 2.0375
     },
-    "average_rate": 1.6742,
+    "average_rate": 1.6761,
     "yearly_retractions": {
       "2004": 1,
       "2005": 1,
@@ -62,7 +62,7 @@
       "2019": 26,
       "2020": 28,
       "2021": 97,
-      "2022": 171,
+      "2022": 172,
       "2023": 49,
       "2024": 37
     },
@@ -89,7 +89,7 @@
   },
   "domainwise_data": {
     "country": "Malaysia",
-    "total_retractions": 880,
+    "total_retractions": 881,
     "years": {
       "2025": {
         "total": 2,
@@ -141,21 +141,21 @@
         }
       },
       "2022": {
-        "total": 171,
+        "total": 172,
         "marks": {
-          "researcher_integrity": 44,
+          "researcher_integrity": 45,
           "supplemental": 4,
           "alterations": 83,
           "research": 33,
           "system": 7
         },
         "domain": {
-          "B/T": 203,
-          "HSC": 69,
+          "B/T": 204,
+          "ENV": 34,
+          "HSC": 70,
+          "SOC": 56,
           "BLS": 54,
-          "ENV": 33,
           "PHY": 80,
-          "SOC": 55,
           "HUM": 18
         }
       },
@@ -426,6 +426,18 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "ENV": 1,
+          "HSC": 1,
+          "SOC": 1
+        }
+      },
       "2025": {
         "total": 106,
         "marks": {
@@ -736,7 +748,7 @@
       }
     },
     "collaborations": {
-      "China": 173,
+      "China": 174,
       "Saudi Arabia": 131,
       "India": 117,
       "Pakistan": 94,
@@ -750,8 +762,8 @@
       "United States": 23,
       "Serbia": 23,
       "United Arab Emirates": 22,
+      "Bangladesh": 20,
       "Vietnam": 20,
-      "Bangladesh": 19,
       "South Korea": 19,
       "Turkey": 17,
       "Japan": 15,
@@ -821,7 +833,7 @@
       "Hungary": 1
     },
     "notice_collaborations": {
-      "China": 173,
+      "China": 174,
       "Saudi Arabia": 131,
       "India": 117,
       "Pakistan": 94,
@@ -835,8 +847,8 @@
       "United States": 23,
       "Serbia": 23,
       "United Arab Emirates": 22,
+      "Bangladesh": 20,
       "Vietnam": 20,
-      "Bangladesh": 19,
       "South Korea": 19,
       "Turkey": 17,
       "Japan": 15,

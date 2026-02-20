@@ -95,8 +95,18 @@
   },
   "domainwise_data": {
     "country": "Czech Republic",
-    "total_retractions": 147,
+    "total_retractions": 148,
     "years": {
+      "2025": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "ENV": 1,
+          "PHY": 2
+        }
+      },
       "2024": {
         "total": 10,
         "marks": {
@@ -424,11 +434,14 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "alterations": 1,
           "researcher_integrity": 1
         },
         "domain": {
+          "ENV": 1,
+          "PHY": 2,
           "B/T": 1
         }
       },
@@ -673,23 +686,23 @@
       "Pakistan": 29,
       "Saudi Arabia": 24,
       "China": 22,
-      "United States": 17,
+      "United States": 18,
       "Germany": 13,
       "Slovakia": 10,
       "Iran": 10,
+      "United Kingdom": 9,
       "Ukraine": 9,
       "Egypt": 9,
       "India": 9,
       "France": 8,
-      "United Kingdom": 8,
       "Malaysia": 7,
       "Poland": 6,
       "Spain": 6,
       "Uzbekistan": 5,
       "Italy": 5,
+      "Russia": 4,
       "South Africa": 3,
       "Turkey": 3,
-      "Russia": 3,
       "Iraq": 3,
       "Denmark": 3,
       "Austria": 3,
@@ -706,6 +719,7 @@
       "Kuwait": 2,
       "Canada": 2,
       "Switzerland": 2,
+      "Australia": 1,
       "Ireland": 1,
       "Lebanon": 1,
       "Hong Kong": 1,
@@ -729,23 +743,23 @@
       "Pakistan": 29,
       "Saudi Arabia": 24,
       "China": 22,
-      "United States": 17,
+      "United States": 18,
       "Germany": 13,
       "Slovakia": 10,
       "Iran": 10,
+      "United Kingdom": 9,
       "Ukraine": 9,
       "Egypt": 9,
       "India": 9,
       "France": 8,
-      "United Kingdom": 8,
       "Malaysia": 7,
       "Poland": 6,
       "Spain": 6,
       "Uzbekistan": 5,
       "Italy": 5,
+      "Russia": 4,
       "South Africa": 3,
       "Turkey": 3,
-      "Russia": 3,
       "Iraq": 3,
       "Denmark": 3,
       "Austria": 3,
@@ -762,6 +776,7 @@
       "Kuwait": 2,
       "Canada": 2,
       "Switzerland": 2,
+      "Australia": 1,
       "Ireland": 1,
       "Lebanon": 1,
       "Hong Kong": 1,

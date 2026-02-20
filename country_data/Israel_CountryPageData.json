@@ -17,7 +17,7 @@
       "2010": 0.3752,
       "2011": 0.3633,
       "2012": 0.2892,
-      "2013": 0.3462,
+      "2013": 0.4039,
       "2014": 0.3875,
       "2016": 0.5173,
       "2017": 0.2534,
@@ -52,7 +52,7 @@
       "2023": 0.1251,
       "2024": 0.3261
     },
-    "average_rate": 0.2328,
+    "average_rate": 0.2349,
     "yearly_retractions": {
       "1997": 1,
       "1998": 1,
@@ -69,7 +69,7 @@
       "2010": 6,
       "2011": 6,
       "2012": 5,
-      "2013": 6,
+      "2013": 7,
       "2014": 7,
       "2016": 10,
       "2017": 5,
@@ -107,7 +107,7 @@
   },
   "domainwise_data": {
     "country": "Israel",
-    "total_retractions": 121,
+    "total_retractions": 122,
     "years": {
       "2025": {
         "total": 1,
@@ -249,14 +249,15 @@
         }
       },
       "2013": {
-        "total": 6,
+        "total": 7,
         "marks": {
+          "supplemental": 1,
           "alterations": 4,
           "research": 1,
           "system": 1
         },
         "domain": {
-          "BLS": 10,
+          "BLS": 12,
           "HSC": 10,
           "SOC": 1
         }
@@ -482,16 +483,17 @@
     },
     "notice_years": {
       "2025": {
-        "total": 10,
+        "total": 11,
         "marks": {
+          "supplemental": 1,
           "alterations": 5,
           "research": 4,
           "system": 1
         },
         "domain": {
+          "BLS": 14,
           "B/T": 2,
           "SOC": 4,
-          "BLS": 12,
           "HSC": 13
         }
       },
