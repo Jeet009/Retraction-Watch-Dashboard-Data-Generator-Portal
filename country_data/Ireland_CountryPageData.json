@@ -99,17 +99,19 @@
   },
   "domainwise_data": {
     "country": "Ireland",
-    "total_retractions": 119,
+    "total_retractions": 120,
     "years": {
       "2025": {
-        "total": 3,
+        "total": 4,
         "marks": {
-          "researcher_integrity": 3
+          "researcher_integrity": 4
         },
         "domain": {
+          "ENV": 1,
+          "HSC": 7,
+          "PHY": 2,
           "B/T": 2,
-          "BLS": 1,
-          "HSC": 6
+          "BLS": 1
         }
       },
       "2024": {
@@ -420,18 +422,19 @@
         }
       },
       "2025": {
-        "total": 15,
+        "total": 16,
         "marks": {
-          "researcher_integrity": 8,
+          "researcher_integrity": 9,
           "alterations": 6,
           "research": 1
         },
         "domain": {
+          "ENV": 1,
+          "HSC": 10,
+          "PHY": 3,
           "B/T": 14,
           "BLS": 12,
-          "HSC": 9,
-          "SOC": 2,
-          "PHY": 1
+          "SOC": 2
         }
       },
       "2024": {
@@ -682,14 +685,15 @@
     "collaborations": {
       "United Kingdom": 30,
       "United States": 15,
-      "China": 11,
+      "China": 12,
       "France": 7,
       "India": 7,
+      "Pakistan": 6,
+      "Saudi Arabia": 5,
       "Australia": 5,
-      "Pakistan": 5,
       "Italy": 5,
-      "Saudi Arabia": 4,
       "Germany": 4,
+      "South Korea": 3,
       "Turkey": 3,
       "Lebanon": 3,
       "Austria": 3,
@@ -698,7 +702,6 @@
       "Vietnam": 2,
       "Iraq": 2,
       "Yemen": 2,
-      "South Korea": 2,
       "Jordan": 2,
       "Portugal": 2,
       "Spain": 2,
@@ -727,14 +730,15 @@
     "notice_collaborations": {
       "United Kingdom": 30,
       "United States": 15,
-      "China": 11,
+      "China": 12,
       "France": 7,
       "India": 7,
+      "Pakistan": 6,
+      "Saudi Arabia": 5,
       "Australia": 5,
-      "Pakistan": 5,
       "Italy": 5,
-      "Saudi Arabia": 4,
       "Germany": 4,
+      "South Korea": 3,
       "Turkey": 3,
       "Lebanon": 3,
       "Austria": 3,
@@ -743,7 +747,6 @@
       "Vietnam": 2,
       "Iraq": 2,
       "Yemen": 2,
-      "South Korea": 2,
       "Jordan": 2,
       "Portugal": 2,
       "Spain": 2,

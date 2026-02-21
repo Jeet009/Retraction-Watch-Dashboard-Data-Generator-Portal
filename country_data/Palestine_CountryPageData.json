@@ -9,7 +9,7 @@
       "2020": 0.8039,
       "2021": 1.3236,
       "2022": 2.2535,
-      "2024": 0.4454
+      "2024": 0.8909
     },
     "notice_yearly_rates": {
       "2001": 12.6582,
@@ -20,7 +20,7 @@
       "2023": 2.2925,
       "2024": 0.4454
     },
-    "average_rate": 0.7205,
+    "average_rate": 0.7806,
     "yearly_retractions": {
       "2001": 1,
       "2009": 1,
@@ -29,7 +29,7 @@
       "2020": 1,
       "2021": 2,
       "2022": 4,
-      "2024": 1
+      "2024": 2
     },
     "notice_yearly_retractions": {
       "2001": 1,
@@ -43,7 +43,7 @@
   },
   "domainwise_data": {
     "country": "Palestine",
-    "total_retractions": 15,
+    "total_retractions": 16,
     "years": {
       "2025": {
         "total": 3,
@@ -55,11 +55,13 @@
         }
       },
       "2024": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "research": 1,
           "researcher_integrity": 1
         },
         "domain": {
+          "PHY": 2,
           "HSC": 2
         }
       },
@@ -141,6 +143,15 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "PHY": 2
+        }
+      },
       "2025": {
         "total": 4,
         "marks": {
@@ -230,13 +241,13 @@
       }
     },
     "collaborations": {
+      "China": 5,
+      "Pakistan": 4,
+      "Saudi Arabia": 4,
       "Sudan": 4,
       "United Kingdom": 4,
-      "China": 4,
-      "Pakistan": 3,
-      "Saudi Arabia": 3,
+      "Egypt": 3,
       "United States": 3,
-      "Egypt": 2,
       "Iraq": 2,
       "Sri Lanka": 2,
       "Germany": 1,
@@ -251,13 +262,13 @@
       "Spain": 1
     },
     "notice_collaborations": {
+      "China": 5,
+      "Pakistan": 4,
+      "Saudi Arabia": 4,
       "Sudan": 4,
       "United Kingdom": 4,
-      "China": 4,
-      "Pakistan": 3,
-      "Saudi Arabia": 3,
+      "Egypt": 3,
       "United States": 3,
-      "Egypt": 2,
       "Iraq": 2,
       "Sri Lanka": 2,
       "Germany": 1,

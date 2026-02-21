@@ -33,7 +33,7 @@
       "2017": 1,
       "2021": 1,
       "2022": 1,
-      "2024": 1
+      "2024": 2
     },
     "notice_yearly_retractions": {
       "2006": 1,
@@ -49,14 +49,16 @@
   },
   "domainwise_data": {
     "country": "Myanmar (formerly Burma)",
-    "total_retractions": 10,
+    "total_retractions": 11,
     "years": {
       "2024": {
-        "total": 1,
+        "total": 2,
         "marks": {
-          "researcher_integrity": 1
+          "researcher_integrity": 2
         },
         "domain": {
+          "B/T": 1,
+          "PHY": 1,
           "HSC": 3
         }
       },
@@ -139,6 +141,16 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "PHY": 1
+        }
+      },
       "2024": {
         "total": 1,
         "marks": {
@@ -227,9 +239,11 @@
     },
     "collaborations": {
       "India": 3,
+      "China": 2,
       "Bangladesh": 2,
       "Pakistan": 2,
       "Thailand": 2,
+      "Iraq": 1,
       "Nepal": 1,
       "Saudi Arabia": 1,
       "South Africa": 1,
@@ -240,14 +254,15 @@
       "Taiwan": 1,
       "Vietnam": 1,
       "Japan": 1,
-      "China": 1,
       "Philippines": 1
     },
     "notice_collaborations": {
       "India": 3,
+      "China": 2,
       "Bangladesh": 2,
       "Pakistan": 2,
       "Thailand": 2,
+      "Iraq": 1,
       "Nepal": 1,
       "Saudi Arabia": 1,
       "South Africa": 1,
@@ -258,7 +273,6 @@
       "Taiwan": 1,
       "Vietnam": 1,
       "Japan": 1,
-      "China": 1,
       "Philippines": 1
     }
   },
