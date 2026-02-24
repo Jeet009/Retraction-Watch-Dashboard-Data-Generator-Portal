@@ -18,7 +18,7 @@
       "2020": 1.0502,
       "2021": 1.3505,
       "2022": 1.6215,
-      "2023": 2.3912,
+      "2023": 2.451,
       "2024": 1.0206
     },
     "notice_yearly_rates": {
@@ -38,7 +38,7 @@
       "2023": 0.8369,
       "2024": 1.2474
     },
-    "average_rate": 1.032,
+    "average_rate": 1.0375,
     "yearly_retractions": {
       "2006": 2,
       "2008": 4,
@@ -56,7 +56,7 @@
       "2020": 15,
       "2021": 22,
       "2022": 27,
-      "2023": 40,
+      "2023": 41,
       "2024": 18
     },
     "notice_yearly_retractions": {
@@ -79,7 +79,7 @@
   },
   "domainwise_data": {
     "country": "Nigeria",
-    "total_retractions": 187,
+    "total_retractions": 188,
     "years": {
       "2024": {
         "total": 18,
@@ -98,20 +98,20 @@
         }
       },
       "2023": {
-        "total": 40,
+        "total": 41,
         "marks": {
+          "research": 10,
           "alterations": 24,
-          "research": 9,
           "system": 4,
           "researcher_integrity": 3
         },
         "domain": {
+          "ENV": 3,
+          "PHY": 40,
           "BLS": 46,
-          "PHY": 38,
           "HSC": 17,
           "SOC": 4,
-          "B/T": 18,
-          "ENV": 2
+          "B/T": 18
         }
       },
       "2022": {
@@ -359,17 +359,17 @@
         }
       },
       "2025": {
-        "total": 74,
+        "total": 75,
         "marks": {
+          "research": 18,
           "alterations": 37,
           "researcher_integrity": 18,
-          "research": 17,
           "system": 2
         },
         "domain": {
+          "ENV": 14,
+          "PHY": 90,
           "B/T": 23,
-          "ENV": 13,
-          "PHY": 88,
           "BLS": 52,
           "HSC": 31,
           "SOC": 3
@@ -603,7 +603,7 @@
       "China": 15,
       "Pakistan": 13,
       "Malaysia": 12,
-      "United States": 10,
+      "United States": 11,
       "United Kingdom": 10,
       "Iraq": 8,
       "Turkey": 6,
@@ -661,7 +661,7 @@
       "China": 15,
       "Pakistan": 13,
       "Malaysia": 12,
-      "United States": 10,
+      "United States": 11,
       "United Kingdom": 10,
       "Iraq": 8,
       "Turkey": 6,

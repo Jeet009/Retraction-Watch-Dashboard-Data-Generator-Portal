@@ -16,7 +16,7 @@
       "2020": 0.6241,
       "2021": 0.4606,
       "2022": 1.0076,
-      "2023": 0.6513,
+      "2023": 0.7237,
       "2024": 0.4698
     },
     "notice_yearly_rates": {
@@ -37,7 +37,7 @@
       "2023": 0.2171,
       "2024": 0.7634
     },
-    "average_rate": 0.4943,
+    "average_rate": 0.5019,
     "yearly_retractions": {
       "2006": 1,
       "2009": 1,
@@ -53,7 +53,7 @@
       "2020": 6,
       "2021": 5,
       "2022": 12,
-      "2023": 9,
+      "2023": 10,
       "2024": 8
     },
     "notice_yearly_retractions": {
@@ -77,7 +77,7 @@
   },
   "domainwise_data": {
     "country": "Morocco",
-    "total_retractions": 65,
+    "total_retractions": 66,
     "years": {
       "2024": {
         "total": 8,
@@ -97,19 +97,20 @@
         }
       },
       "2023": {
-        "total": 9,
+        "total": 10,
         "marks": {
+          "research": 4,
           "researcher_integrity": 2,
-          "research": 3,
           "supplemental": 1,
           "alterations": 3
         },
         "domain": {
+          "B/T": 13,
+          "HUM": 1,
           "BLS": 6,
           "HSC": 4,
           "PHY": 3,
-          "ENV": 1,
-          "B/T": 11
+          "ENV": 1
         }
       },
       "2022": {
@@ -278,19 +279,20 @@
     },
     "notice_years": {
       "2025": {
-        "total": 11,
+        "total": 12,
         "marks": {
+          "research": 3,
           "alterations": 4,
           "researcher_integrity": 4,
-          "research": 2,
           "system": 1
         },
         "domain": {
+          "B/T": 8,
+          "HUM": 1,
           "BLS": 9,
           "HSC": 6,
           "PHY": 7,
-          "ENV": 3,
-          "B/T": 6
+          "ENV": 3
         }
       },
       "2024": {

@@ -30,7 +30,7 @@
       "2021": 0.3802,
       "2022": 0.4517,
       "2023": 0.3715,
-      "2024": 0.1107
+      "2024": 0.1192
     },
     "notice_yearly_rates": {
       "1997": 0.0464,
@@ -60,7 +60,7 @@
       "2023": 0.6811,
       "2024": 0.494
     },
-    "average_rate": 0.334,
+    "average_rate": 0.3344,
     "yearly_retractions": {
       "1996": 6,
       "1997": 3,
@@ -90,7 +90,7 @@
       "2021": 45,
       "2022": 53,
       "2023": 42,
-      "2024": 13
+      "2024": 14
     },
     "notice_yearly_retractions": {
       "1997": 2,
@@ -123,30 +123,31 @@
   },
   "domainwise_data": {
     "country": "Canada",
-    "total_retractions": 789,
+    "total_retractions": 791,
     "years": {
       "2025": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "research": 1
         },
         "domain": {
-          "B/T": 2,
-          "HSC": 1
+          "HSC": 3,
+          "B/T": 2
         }
       },
       "2024": {
-        "total": 13,
+        "total": 14,
         "marks": {
-          "research": 5,
+          "research": 6,
           "supplemental": 2,
           "alterations": 2,
           "researcher_integrity": 3,
           "system": 1
         },
         "domain": {
+          "HSC": 19,
           "BLS": 4,
-          "HSC": 17,
           "B/T": 4,
           "PHY": 3,
           "ENV": 1,
@@ -730,18 +731,27 @@
       }
     },
     "notice_years": {
-      "2025": {
-        "total": 37,
+      "2026": {
+        "total": 1,
         "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "HSC": 2
+        }
+      },
+      "2025": {
+        "total": 38,
+        "marks": {
+          "research": 13,
           "alterations": 15,
-          "research": 12,
           "researcher_integrity": 6,
           "supplemental": 1,
           "system": 3
         },
         "domain": {
+          "HSC": 48,
           "BLS": 37,
-          "HSC": 46,
           "ENV": 3,
           "PHY": 11,
           "B/T": 14,
@@ -1245,8 +1255,8 @@
       "Italy": 22,
       "Australia": 21,
       "Pakistan": 20,
+      "France": 17,
       "South Korea": 17,
-      "France": 16,
       "Spain": 14,
       "Japan": 13,
       "Brazil": 12,
@@ -1343,8 +1353,8 @@
       "Italy": 22,
       "Australia": 21,
       "Pakistan": 20,
+      "France": 17,
       "South Korea": 17,
-      "France": 16,
       "Spain": 14,
       "Japan": 13,
       "Brazil": 12,

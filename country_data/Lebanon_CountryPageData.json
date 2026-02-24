@@ -81,8 +81,19 @@
   },
   "domainwise_data": {
     "country": "Lebanon",
-    "total_retractions": 73,
+    "total_retractions": 74,
     "years": {
+      "2025": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "BLS": 1,
+          "HSC": 1
+        }
+      },
       "2024": {
         "total": 12,
         "marks": {
@@ -301,12 +312,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 2,
+        "total": 3,
         "marks": {
+          "research": 1,
           "researcher_integrity": 2
         },
         "domain": {
-          "B/T": 3
+          "B/T": 4,
+          "BLS": 1,
+          "HSC": 1
         }
       },
       "2025": {
@@ -509,7 +523,7 @@
       }
     },
     "collaborations": {
-      "India": 22,
+      "India": 23,
       "Saudi Arabia": 16,
       "China": 16,
       "Pakistan": 12,
@@ -521,21 +535,23 @@
       "Iraq": 4,
       "Poland": 4,
       "Bahrain": 4,
+      "Norway": 3,
       "Ireland": 3,
       "Malaysia": 3,
       "Egypt": 3,
       "South Africa": 3,
       "Jordan": 3,
       "Colombia": 3,
+      "Thailand": 2,
       "Vietnam": 2,
       "Chile": 2,
       "Iran": 2,
       "Tunisia": 2,
-      "Norway": 2,
       "United Arab Emirates": 2,
       "Serbia": 2,
       "South Korea": 2,
       "Greece": 2,
+      "Croatia": 1,
       "Czech Republic": 1,
       "Nigeria": 1,
       "Ethiopia": 1,
@@ -552,7 +568,6 @@
       "Slovenia": 1,
       "Spain": 1,
       "Belize": 1,
-      "Thailand": 1,
       "Canada": 1,
       "Qatar": 1,
       "Belgium": 1,
@@ -560,7 +575,7 @@
       "Australia": 1
     },
     "notice_collaborations": {
-      "India": 22,
+      "India": 23,
       "Saudi Arabia": 16,
       "China": 16,
       "Pakistan": 12,
@@ -572,21 +587,23 @@
       "Iraq": 4,
       "Poland": 4,
       "Bahrain": 4,
+      "Norway": 3,
       "Ireland": 3,
       "Malaysia": 3,
       "Egypt": 3,
       "South Africa": 3,
       "Jordan": 3,
       "Colombia": 3,
+      "Thailand": 2,
       "Vietnam": 2,
       "Chile": 2,
       "Iran": 2,
       "Tunisia": 2,
-      "Norway": 2,
       "United Arab Emirates": 2,
       "Serbia": 2,
       "South Korea": 2,
       "Greece": 2,
+      "Croatia": 1,
       "Czech Republic": 1,
       "Nigeria": 1,
       "Ethiopia": 1,
@@ -603,7 +620,6 @@
       "Slovenia": 1,
       "Spain": 1,
       "Belize": 1,
-      "Thailand": 1,
       "Canada": 1,
       "Qatar": 1,
       "Belgium": 1,
