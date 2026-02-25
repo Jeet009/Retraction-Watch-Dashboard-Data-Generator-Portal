@@ -21,7 +21,7 @@
       "2012": 0.4001,
       "2013": 0.3787,
       "2014": 0.4576,
-      "2015": 0.3735,
+      "2015": 0.3842,
       "2016": 0.4492,
       "2017": 0.3894,
       "2018": 0.4028,
@@ -60,7 +60,7 @@
       "2023": 0.6811,
       "2024": 0.494
     },
-    "average_rate": 0.3344,
+    "average_rate": 0.3348,
     "yearly_retractions": {
       "1996": 6,
       "1997": 3,
@@ -81,7 +81,7 @@
       "2012": 35,
       "2013": 34,
       "2014": 42,
-      "2015": 35,
+      "2015": 36,
       "2016": 43,
       "2017": 38,
       "2018": 41,
@@ -123,7 +123,7 @@
   },
   "domainwise_data": {
     "country": "Canada",
-    "total_retractions": 791,
+    "total_retractions": 792,
     "years": {
       "2025": {
         "total": 2,
@@ -301,17 +301,17 @@
         }
       },
       "2015": {
-        "total": 35,
+        "total": 36,
         "marks": {
+          "alterations": 13,
           "research": 9,
-          "alterations": 12,
           "supplemental": 3,
           "researcher_integrity": 5,
           "system": 6
         },
         "domain": {
-          "BLS": 22,
-          "HSC": 34,
+          "BLS": 25,
+          "HSC": 36,
           "B/T": 2,
           "PHY": 5,
           "HUM": 7,
@@ -732,12 +732,14 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "alterations": 1,
           "researcher_integrity": 1
         },
         "domain": {
-          "HSC": 2
+          "BLS": 3,
+          "HSC": 4
         }
       },
       "2025": {
@@ -1246,7 +1248,7 @@
     },
     "collaborations": {
       "United States": 175,
-      "China": 112,
+      "China": 113,
       "United Kingdom": 80,
       "Iran": 40,
       "Saudi Arabia": 27,
@@ -1344,7 +1346,7 @@
     },
     "notice_collaborations": {
       "United States": 175,
-      "China": 112,
+      "China": 113,
       "United Kingdom": 80,
       "Iran": 40,
       "Saudi Arabia": 27,

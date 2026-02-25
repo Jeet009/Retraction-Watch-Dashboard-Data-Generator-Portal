@@ -16,7 +16,7 @@
       "2009": 0.1255,
       "2010": 0.3752,
       "2011": 0.3633,
-      "2012": 0.2892,
+      "2012": 0.347,
       "2013": 0.4039,
       "2014": 0.3875,
       "2016": 0.5173,
@@ -50,9 +50,9 @@
       "2021": 0.1634,
       "2022": 0.2877,
       "2023": 0.1251,
-      "2024": 0.3261
+      "2024": 0.3669
     },
-    "average_rate": 0.2349,
+    "average_rate": 0.2369,
     "yearly_retractions": {
       "1997": 1,
       "1998": 1,
@@ -68,7 +68,7 @@
       "2009": 2,
       "2010": 6,
       "2011": 6,
-      "2012": 5,
+      "2012": 6,
       "2013": 7,
       "2014": 7,
       "2016": 10,
@@ -102,12 +102,12 @@
       "2021": 4,
       "2022": 7,
       "2023": 3,
-      "2024": 8
+      "2024": 9
     }
   },
   "domainwise_data": {
     "country": "Israel",
-    "total_retractions": 122,
+    "total_retractions": 123,
     "years": {
       "2025": {
         "total": 1,
@@ -263,15 +263,16 @@
         }
       },
       "2012": {
-        "total": 5,
+        "total": 6,
         "marks": {
+          "supplemental": 1,
           "researcher_integrity": 2,
           "research": 1,
           "alterations": 2
         },
         "domain": {
+          "HSC": 7,
           "BLS": 11,
-          "HSC": 4,
           "PHY": 1
         }
       },
@@ -498,16 +499,16 @@
         }
       },
       "2024": {
-        "total": 8,
+        "total": 9,
         "marks": {
+          "supplemental": 2,
           "alterations": 5,
           "researcher_integrity": 1,
-          "research": 1,
-          "supplemental": 1
+          "research": 1
         },
         "domain": {
+          "HSC": 8,
           "BLS": 18,
-          "HSC": 5,
           "SOC": 2,
           "B/T": 1,
           "PHY": 2

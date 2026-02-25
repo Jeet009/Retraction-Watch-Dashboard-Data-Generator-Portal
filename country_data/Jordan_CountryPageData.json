@@ -91,7 +91,7 @@
   },
   "domainwise_data": {
     "country": "Jordan",
-    "total_retractions": 167,
+    "total_retractions": 169,
     "years": {
       "2026": {
         "total": 1,
@@ -103,12 +103,16 @@
         }
       },
       "2025": {
-        "total": 1,
+        "total": 3,
         "marks": {
+          "alterations": 1,
+          "research": 1,
           "researcher_integrity": 1
         },
         "domain": {
-          "B/T": 1,
+          "B/T": 4,
+          "ENV": 1,
+          "HSC": 3,
           "PHY": 2
         }
       },
@@ -371,11 +375,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 3,
         "marks": {
+          "alterations": 1,
+          "research": 1,
           "researcher_integrity": 1
         },
         "domain": {
+          "B/T": 3,
+          "ENV": 1,
+          "HSC": 3,
           "PHY": 4
         }
       },
@@ -611,31 +620,32 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 81,
-      "Pakistan": 26,
-      "India": 26,
+      "Saudi Arabia": 82,
+      "Pakistan": 27,
+      "India": 27,
       "Iraq": 21,
+      "China": 17,
       "Egypt": 17,
-      "China": 16,
       "United Arab Emirates": 13,
       "Bangladesh": 12,
       "United States": 10,
       "Turkey": 8,
       "United Kingdom": 8,
       "Bahrain": 7,
+      "Malaysia": 6,
       "Iran": 6,
       "Italy": 6,
       "Russia": 5,
-      "Malaysia": 5,
       "Germany": 5,
       "Ethiopia": 5,
       "Poland": 5,
+      "Lebanon": 4,
       "Hungary": 4,
+      "Thailand": 3,
       "Colombia": 3,
       "Ecuador": 3,
       "Vietnam": 3,
       "Peru": 3,
-      "Lebanon": 3,
       "South Korea": 3,
       "Nepal": 3,
       "Azerbaijan": 2,
@@ -646,7 +656,8 @@
       "Qatar": 2,
       "Canada": 2,
       "Ireland": 2,
-      "Thailand": 2,
+      "Oman": 1,
+      "Croatia": 1,
       "Australia": 1,
       "Botswana": 1,
       "Netherlands": 1,
@@ -679,31 +690,32 @@
       "South Africa": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 81,
-      "Pakistan": 26,
-      "India": 26,
+      "Saudi Arabia": 82,
+      "Pakistan": 27,
+      "India": 27,
       "Iraq": 21,
+      "China": 17,
       "Egypt": 17,
-      "China": 16,
       "United Arab Emirates": 13,
       "Bangladesh": 12,
       "United States": 10,
       "Turkey": 8,
       "United Kingdom": 8,
       "Bahrain": 7,
+      "Malaysia": 6,
       "Iran": 6,
       "Italy": 6,
       "Russia": 5,
-      "Malaysia": 5,
       "Germany": 5,
       "Ethiopia": 5,
       "Poland": 5,
+      "Lebanon": 4,
       "Hungary": 4,
+      "Thailand": 3,
       "Colombia": 3,
       "Ecuador": 3,
       "Vietnam": 3,
       "Peru": 3,
-      "Lebanon": 3,
       "South Korea": 3,
       "Nepal": 3,
       "Azerbaijan": 2,
@@ -714,7 +726,8 @@
       "Qatar": 2,
       "Canada": 2,
       "Ireland": 2,
-      "Thailand": 2,
+      "Oman": 1,
+      "Croatia": 1,
       "Australia": 1,
       "Botswana": 1,
       "Netherlands": 1,

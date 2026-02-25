@@ -5,7 +5,7 @@
       "2003": 2.8329,
       "2007": 1.6949,
       "2012": 0.8097,
-      "2014": 0.5552,
+      "2014": 1.1105,
       "2016": 1.4198,
       "2017": 1.7446,
       "2018": 1.1242,
@@ -30,12 +30,12 @@
       "2023": 33.1974,
       "2024": 7.1113
     },
-    "average_rate": 6.6112,
+    "average_rate": 6.6244,
     "yearly_retractions": {
       "2003": 1,
       "2007": 1,
       "2012": 1,
-      "2014": 1,
+      "2014": 2,
       "2016": 3,
       "2017": 5,
       "2018": 4,
@@ -63,7 +63,7 @@
   },
   "domainwise_data": {
     "country": "Ethiopia",
-    "total_retractions": 501,
+    "total_retractions": 502,
     "years": {
       "2024": {
         "total": 12,
@@ -211,13 +211,15 @@
         }
       },
       "2014": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "research": 1,
           "researcher_integrity": 1
         },
         "domain": {
-          "BLS": 2,
-          "HSC": 1
+          "B/T": 1,
+          "HSC": 2,
+          "BLS": 2
         }
       },
       "2012": {
@@ -254,11 +256,14 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "research": 1,
           "alterations": 1
         },
         "domain": {
+          "B/T": 1,
+          "HSC": 1,
           "PHY": 2
         }
       },

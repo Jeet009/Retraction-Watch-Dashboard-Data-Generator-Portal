@@ -17,7 +17,7 @@
       "2008": 0.4643,
       "2009": 0.4539,
       "2010": 0.5454,
-      "2011": 0.5846,
+      "2011": 0.5865,
       "2012": 0.547,
       "2013": 0.5134,
       "2014": 0.4899,
@@ -29,7 +29,7 @@
       "2020": 0.5315,
       "2021": 0.4672,
       "2022": 0.429,
-      "2023": 0.3551,
+      "2023": 0.3568,
       "2024": 0.132
     },
     "notice_yearly_rates": {
@@ -63,7 +63,7 @@
       "2023": 0.8232,
       "2024": 0.7135
     },
-    "average_rate": 0.3912,
+    "average_rate": 0.3914,
     "yearly_retractions": {
       "1996": 23,
       "1997": 23,
@@ -80,7 +80,7 @@
       "2008": 220,
       "2009": 229,
       "2010": 284,
-      "2011": 314,
+      "2011": 315,
       "2012": 303,
       "2013": 290,
       "2014": 279,
@@ -92,7 +92,7 @@
       "2020": 337,
       "2021": 307,
       "2022": 269,
-      "2023": 217,
+      "2023": 218,
       "2024": 84
     },
     "notice_yearly_retractions": {
@@ -129,19 +129,19 @@
   },
   "domainwise_data": {
     "country": "United States",
-    "total_retractions": 6007,
+    "total_retractions": 6010,
     "years": {
       "2025": {
-        "total": 23,
+        "total": 24,
         "marks": {
           "research": 3,
           "alterations": 4,
+          "system": 2,
           "supplemental": 7,
-          "system": 1,
           "researcher_integrity": 8
         },
         "domain": {
-          "BLS": 9,
+          "BLS": 12,
           "PHY": 11,
           "ENV": 4,
           "B/T": 3,
@@ -168,20 +168,20 @@
         }
       },
       "2023": {
-        "total": 217,
+        "total": 218,
         "marks": {
-          "research": 54,
+          "research": 55,
           "alterations": 37,
           "researcher_integrity": 40,
           "system": 74,
           "supplemental": 12
         },
         "domain": {
+          "BLS": 106,
+          "HSC": 256,
+          "PHY": 54,
           "ENV": 15,
-          "PHY": 53,
           "B/T": 103,
-          "BLS": 104,
-          "HSC": 255,
           "SOC": 52,
           "HUM": 1
         }
@@ -396,18 +396,18 @@
         }
       },
       "2011": {
-        "total": 314,
+        "total": 315,
         "marks": {
+          "alterations": 169,
           "research": 68,
-          "alterations": 168,
           "supplemental": 25,
           "system": 17,
           "researcher_integrity": 36
         },
         "domain": {
+          "BLS": 556,
+          "HSC": 175,
           "PHY": 56,
-          "BLS": 553,
-          "HSC": 173,
           "B/T": 29,
           "SOC": 25,
           "HUM": 8,
@@ -1012,35 +1012,35 @@
     },
     "notice_years": {
       "2026": {
-        "total": 13,
+        "total": 14,
         "marks": {
+          "alterations": 10,
           "research": 2,
-          "alterations": 9,
           "researcher_integrity": 2
         },
         "domain": {
-          "BLS": 19,
+          "BLS": 22,
+          "HSC": 15,
           "PHY": 8,
           "ENV": 1,
-          "HSC": 13,
           "B/T": 2
         }
       },
       "2025": {
-        "total": 290,
+        "total": 292,
         "marks": {
+          "system": 6,
+          "research": 62,
           "alterations": 168,
-          "research": 61,
-          "system": 5,
           "researcher_integrity": 46,
           "supplemental": 10
         },
         "domain": {
+          "BLS": 448,
+          "HSC": 220,
+          "PHY": 84,
           "ENV": 21,
-          "PHY": 83,
           "B/T": 134,
-          "BLS": 443,
-          "HSC": 219,
           "SOC": 28,
           "HUM": 2
         }
@@ -1848,7 +1848,7 @@
       "Germany": 185,
       "Canada": 175,
       "Japan": 161,
-      "Italy": 152,
+      "Italy": 153,
       "Saudi Arabia": 140,
       "Australia": 111,
       "France": 103,
@@ -1863,7 +1863,7 @@
       "Sweden": 50,
       "Denmark": 36,
       "Singapore": 34,
-      "Turkey": 32,
+      "Turkey": 33,
       "Belgium": 31,
       "Brazil": 29,
       "Greece": 29,
@@ -1984,7 +1984,7 @@
       "Germany": 185,
       "Canada": 175,
       "Japan": 161,
-      "Italy": 152,
+      "Italy": 153,
       "Saudi Arabia": 140,
       "Australia": 111,
       "France": 103,
@@ -1999,7 +1999,7 @@
       "Sweden": 50,
       "Denmark": 36,
       "Singapore": 34,
-      "Turkey": 32,
+      "Turkey": 33,
       "Belgium": 31,
       "Brazil": 29,
       "Greece": 29,
