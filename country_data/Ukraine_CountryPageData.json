@@ -15,7 +15,7 @@
       "2021": 0.3486,
       "2022": 0.5798,
       "2023": 1.0834,
-      "2024": 0.6586
+      "2024": 0.7997
     },
     "notice_yearly_rates": {
       "2010": 0.2625,
@@ -30,7 +30,7 @@
       "2023": 0.4063,
       "2024": 0.5645
     },
-    "average_rate": 0.2699,
+    "average_rate": 0.2793,
     "yearly_retractions": {
       "2007": 2,
       "2009": 1,
@@ -45,7 +45,7 @@
       "2021": 8,
       "2022": 12,
       "2023": 24,
-      "2024": 14
+      "2024": 17
     },
     "notice_yearly_retractions": {
       "2010": 2,
@@ -63,20 +63,21 @@
   },
   "domainwise_data": {
     "country": "Ukraine",
-    "total_retractions": 86,
+    "total_retractions": 89,
     "years": {
       "2024": {
-        "total": 14,
+        "total": 17,
         "marks": {
-          "research": 13,
+          "research": 16,
           "researcher_integrity": 1
         },
         "domain": {
-          "B/T": 11,
-          "SOC": 10,
+          "PHY": 2,
+          "B/T": 13,
+          "ENV": 3,
+          "SOC": 11,
           "BLS": 2,
           "HSC": 7,
-          "ENV": 2,
           "HUM": 1
         }
       },
@@ -253,19 +254,19 @@
     },
     "notice_years": {
       "2025": {
-        "total": 35,
+        "total": 38,
         "marks": {
-          "research": 33,
+          "research": 36,
           "alterations": 1,
           "researcher_integrity": 1
         },
         "domain": {
-          "B/T": 34,
-          "SOC": 20,
+          "PHY": 4,
+          "B/T": 36,
+          "ENV": 13,
+          "SOC": 21,
           "HSC": 12,
           "BLS": 5,
-          "PHY": 2,
-          "ENV": 12,
           "HUM": 2
         }
       },
@@ -408,8 +409,8 @@
     },
     "collaborations": {
       "Poland": 14,
+      "Czech Republic": 10,
       "China": 10,
-      "Czech Republic": 9,
       "United Kingdom": 8,
       "United States": 4,
       "Lithuania": 3,
@@ -442,8 +443,8 @@
     },
     "notice_collaborations": {
       "Poland": 14,
+      "Czech Republic": 10,
       "China": 10,
-      "Czech Republic": 9,
       "United Kingdom": 8,
       "United States": 4,
       "Lithuania": 3,

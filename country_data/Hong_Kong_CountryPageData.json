@@ -12,9 +12,9 @@
       "2006": 0.1543,
       "2007": 0.0786,
       "2008": 0.2326,
-      "2009": 0.0713,
+      "2009": 0.1427,
       "2010": 0.3499,
-      "2011": 0.3354,
+      "2011": 0.4025,
       "2012": 0.2588,
       "2013": 0.1212,
       "2014": 0.4635,
@@ -50,7 +50,7 @@
       "2023": 0.2149,
       "2024": 0.2404
     },
-    "average_rate": 0.2089,
+    "average_rate": 0.2133,
     "yearly_retractions": {
       "1999": 1,
       "2000": 2,
@@ -62,9 +62,9 @@
       "2006": 2,
       "2007": 1,
       "2008": 3,
-      "2009": 1,
+      "2009": 2,
       "2010": 5,
-      "2011": 5,
+      "2011": 6,
       "2012": 4,
       "2013": 2,
       "2014": 8,
@@ -103,7 +103,7 @@
   },
   "domainwise_data": {
     "country": "Hong Kong",
-    "total_retractions": 97,
+    "total_retractions": 99,
     "years": {
       "2024": {
         "total": 3,
@@ -278,13 +278,14 @@
         }
       },
       "2011": {
-        "total": 5,
+        "total": 6,
         "marks": {
-          "researcher_integrity": 3,
+          "researcher_integrity": 4,
           "alterations": 1,
           "supplemental": 1
         },
         "domain": {
+          "HSC": 2,
           "BLS": 3,
           "ENV": 1,
           "PHY": 3,
@@ -306,11 +307,13 @@
         }
       },
       "2009": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "research": 1
         },
         "domain": {
+          "HSC": 2,
           "PHY": 2
         }
       },
@@ -413,14 +416,14 @@
     },
     "notice_years": {
       "2025": {
-        "total": 6,
+        "total": 8,
         "marks": {
+          "researcher_integrity": 6,
           "system": 1,
-          "supplemental": 1,
-          "researcher_integrity": 4
+          "supplemental": 1
         },
         "domain": {
-          "HSC": 4,
+          "HSC": 8,
           "PHY": 6,
           "B/T": 5,
           "ENV": 4,
@@ -676,16 +679,17 @@
       "China": 51,
       "United States": 16,
       "Australia": 9,
+      "Italy": 7,
       "Singapore": 7,
       "Pakistan": 6,
       "India": 6,
-      "Italy": 5,
       "Ecuador": 5,
       "United Kingdom": 4,
       "Japan": 4,
       "Chile": 4,
       "Spain": 4,
       "Macau": 4,
+      "Canada": 3,
       "Germany": 3,
       "Turkey": 3,
       "South Korea": 3,
@@ -694,7 +698,6 @@
       "France": 2,
       "Saudi Arabia": 2,
       "Taiwan": 2,
-      "Canada": 2,
       "Czech Republic": 1,
       "Slovakia": 1,
       "Thailand": 1,
@@ -711,16 +714,17 @@
       "China": 51,
       "United States": 16,
       "Australia": 9,
+      "Italy": 7,
       "Singapore": 7,
       "Pakistan": 6,
       "India": 6,
-      "Italy": 5,
       "Ecuador": 5,
       "United Kingdom": 4,
       "Japan": 4,
       "Chile": 4,
       "Spain": 4,
       "Macau": 4,
+      "Canada": 3,
       "Germany": 3,
       "Turkey": 3,
       "South Korea": 3,
@@ -729,7 +733,6 @@
       "France": 2,
       "Saudi Arabia": 2,
       "Taiwan": 2,
-      "Canada": 2,
       "Czech Republic": 1,
       "Slovakia": 1,
       "Thailand": 1,
