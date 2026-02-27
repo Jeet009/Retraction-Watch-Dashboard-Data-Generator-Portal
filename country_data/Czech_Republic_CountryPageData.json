@@ -26,7 +26,7 @@
       "2021": 0.6658,
       "2022": 0.7802,
       "2023": 0.5205,
-      "2024": 0.4231
+      "2024": 0.5001
     },
     "notice_yearly_rates": {
       "2003": 0.117,
@@ -46,7 +46,7 @@
       "2023": 0.4004,
       "2024": 0.4616
     },
-    "average_rate": 0.3101,
+    "average_rate": 0.3143,
     "yearly_retractions": {
       "1997": 1,
       "1998": 1,
@@ -72,7 +72,7 @@
       "2021": 18,
       "2022": 20,
       "2023": 13,
-      "2024": 11
+      "2024": 13
     },
     "notice_yearly_retractions": {
       "2003": 1,
@@ -95,7 +95,7 @@
   },
   "domainwise_data": {
     "country": "Czech Republic",
-    "total_retractions": 150,
+    "total_retractions": 152,
     "years": {
       "2025": {
         "total": 2,
@@ -110,16 +110,17 @@
         }
       },
       "2024": {
-        "total": 11,
+        "total": 13,
         "marks": {
-          "research": 8,
+          "research": 10,
           "supplemental": 3
         },
         "domain": {
+          "BLS": 1,
+          "PHY": 7,
           "B/T": 8,
           "SOC": 4,
-          "ENV": 2,
-          "PHY": 6
+          "ENV": 2
         }
       },
       "2023": {
@@ -450,21 +451,21 @@
         }
       },
       "2025": {
-        "total": 30,
+        "total": 32,
         "marks": {
-          "research": 16,
+          "research": 18,
           "supplemental": 1,
           "alterations": 6,
           "researcher_integrity": 7
         },
         "domain": {
+          "BLS": 4,
+          "PHY": 17,
           "B/T": 33,
           "SOC": 15,
           "ENV": 5,
-          "PHY": 16,
           "HSC": 2,
-          "HUM": 1,
-          "BLS": 3
+          "HUM": 1
         }
       },
       "2024": {
@@ -692,7 +693,7 @@
       "China": 22,
       "United States": 19,
       "Germany": 13,
-      "Ukraine": 10,
+      "Ukraine": 12,
       "Slovakia": 10,
       "Iran": 10,
       "United Kingdom": 9,
@@ -749,7 +750,7 @@
       "China": 22,
       "United States": 19,
       "Germany": 13,
-      "Ukraine": 10,
+      "Ukraine": 12,
       "Slovakia": 10,
       "Iran": 10,
       "United Kingdom": 9,

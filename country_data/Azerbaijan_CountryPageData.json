@@ -12,7 +12,7 @@
       "2020": 2.5063,
       "2022": 0.4909,
       "2023": 4.4248,
-      "2024": 2.9613
+      "2024": 3.4169
     },
     "notice_yearly_rates": {
       "2011": 1.1249,
@@ -28,7 +28,7 @@
       "2023": 0.7375,
       "2024": 1.3667
     },
-    "average_rate": 1.7959,
+    "average_rate": 1.8663,
     "yearly_retractions": {
       "2011": 2,
       "2013": 3,
@@ -40,7 +40,7 @@
       "2020": 5,
       "2022": 1,
       "2023": 12,
-      "2024": 13
+      "2024": 15
     },
     "notice_yearly_retractions": {
       "2011": 1,
@@ -59,7 +59,7 @@
   },
   "domainwise_data": {
     "country": "Azerbaijan",
-    "total_retractions": 54,
+    "total_retractions": 56,
     "years": {
       "2025": {
         "total": 3,
@@ -76,17 +76,17 @@
         }
       },
       "2024": {
-        "total": 13,
+        "total": 15,
         "marks": {
-          "research": 5,
+          "research": 7,
           "alterations": 2,
           "researcher_integrity": 6
         },
         "domain": {
+          "SOC": 3,
+          "PHY": 13,
           "B/T": 14,
-          "SOC": 2,
           "HSC": 2,
-          "PHY": 12,
           "BLS": 2,
           "ENV": 1
         }
@@ -214,16 +214,16 @@
     },
     "notice_years": {
       "2025": {
-        "total": 23,
+        "total": 25,
         "marks": {
+          "research": 14,
           "researcher_integrity": 8,
-          "research": 12,
           "alterations": 3
         },
         "domain": {
+          "SOC": 4,
+          "PHY": 17,
           "B/T": 18,
-          "PHY": 16,
-          "SOC": 3,
           "HSC": 3,
           "ENV": 5,
           "BLS": 8,

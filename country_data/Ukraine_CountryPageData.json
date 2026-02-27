@@ -15,7 +15,7 @@
       "2021": 0.3486,
       "2022": 0.5798,
       "2023": 1.0834,
-      "2024": 0.7997
+      "2024": 0.9409
     },
     "notice_yearly_rates": {
       "2010": 0.2625,
@@ -30,7 +30,7 @@
       "2023": 0.4063,
       "2024": 0.5645
     },
-    "average_rate": 0.2793,
+    "average_rate": 0.2888,
     "yearly_retractions": {
       "2007": 2,
       "2009": 1,
@@ -45,7 +45,7 @@
       "2021": 8,
       "2022": 12,
       "2023": 24,
-      "2024": 17
+      "2024": 20
     },
     "notice_yearly_retractions": {
       "2010": 2,
@@ -63,22 +63,22 @@
   },
   "domainwise_data": {
     "country": "Ukraine",
-    "total_retractions": 89,
+    "total_retractions": 92,
     "years": {
       "2024": {
-        "total": 17,
+        "total": 20,
         "marks": {
-          "research": 16,
+          "research": 19,
           "researcher_integrity": 1
         },
         "domain": {
-          "PHY": 2,
+          "HUM": 2,
+          "SOC": 12,
+          "BLS": 3,
+          "PHY": 3,
           "B/T": 13,
           "ENV": 3,
-          "SOC": 11,
-          "BLS": 2,
-          "HSC": 7,
-          "HUM": 1
+          "HSC": 7
         }
       },
       "2023": {
@@ -254,20 +254,20 @@
     },
     "notice_years": {
       "2025": {
-        "total": 38,
+        "total": 41,
         "marks": {
-          "research": 36,
+          "research": 39,
           "alterations": 1,
           "researcher_integrity": 1
         },
         "domain": {
-          "PHY": 4,
+          "HUM": 3,
+          "SOC": 22,
+          "BLS": 6,
+          "PHY": 5,
           "B/T": 36,
           "ENV": 13,
-          "SOC": 21,
-          "HSC": 12,
-          "BLS": 5,
-          "HUM": 2
+          "HSC": 12
         }
       },
       "2024": {
@@ -409,7 +409,7 @@
     },
     "collaborations": {
       "Poland": 14,
-      "Czech Republic": 10,
+      "Czech Republic": 12,
       "China": 10,
       "United Kingdom": 8,
       "United States": 4,
@@ -443,7 +443,7 @@
     },
     "notice_collaborations": {
       "Poland": 14,
-      "Czech Republic": 10,
+      "Czech Republic": 12,
       "China": 10,
       "United Kingdom": 8,
       "United States": 4,
