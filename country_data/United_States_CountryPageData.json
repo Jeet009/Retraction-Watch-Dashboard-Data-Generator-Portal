@@ -30,7 +30,7 @@
       "2021": 0.4672,
       "2022": 0.429,
       "2023": 0.3584,
-      "2024": 0.132
+      "2024": 0.1336
     },
     "notice_yearly_rates": {
       "1996": 0.0396,
@@ -93,7 +93,7 @@
       "2021": 307,
       "2022": 269,
       "2023": 219,
-      "2024": 84
+      "2024": 85
     },
     "notice_yearly_retractions": {
       "1996": 14,
@@ -129,7 +129,7 @@
   },
   "domainwise_data": {
     "country": "United States",
-    "total_retractions": 6014,
+    "total_retractions": 6015,
     "years": {
       "2025": {
         "total": 24,
@@ -150,20 +150,20 @@
         }
       },
       "2024": {
-        "total": 84,
+        "total": 85,
         "marks": {
+          "researcher_integrity": 22,
           "alterations": 20,
           "system": 5,
-          "researcher_integrity": 21,
           "research": 28,
           "supplemental": 10
         },
         "domain": {
-          "ENV": 9,
+          "B/T": 32,
+          "BLS": 50,
+          "ENV": 10,
           "PHY": 26,
           "HSC": 116,
-          "BLS": 48,
-          "B/T": 31,
           "SOC": 11
         }
       },
@@ -1012,18 +1012,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 17,
+        "total": 18,
         "marks": {
           "alterations": 13,
-          "research": 2,
-          "researcher_integrity": 2
+          "researcher_integrity": 3,
+          "research": 2
         },
         "domain": {
-          "BLS": 30,
+          "BLS": 32,
           "HSC": 21,
-          "PHY": 8,
-          "ENV": 1,
-          "B/T": 2
+          "B/T": 3,
+          "ENV": 2,
+          "PHY": 8
         }
       },
       "2025": {
@@ -1843,13 +1843,13 @@
     },
     "collaborations": {
       "China": 773,
-      "India": 223,
+      "India": 224,
       "United Kingdom": 216,
       "Germany": 185,
       "Canada": 175,
       "Japan": 161,
       "Italy": 153,
-      "Saudi Arabia": 140,
+      "Saudi Arabia": 141,
       "Australia": 111,
       "France": 103,
       "Netherlands": 99,
@@ -1979,13 +1979,13 @@
     },
     "notice_collaborations": {
       "China": 773,
-      "India": 223,
+      "India": 224,
       "United Kingdom": 216,
       "Germany": 185,
       "Canada": 175,
       "Japan": 161,
       "Italy": 153,
-      "Saudi Arabia": 140,
+      "Saudi Arabia": 141,
       "Australia": 111,
       "France": 103,
       "Netherlands": 99,

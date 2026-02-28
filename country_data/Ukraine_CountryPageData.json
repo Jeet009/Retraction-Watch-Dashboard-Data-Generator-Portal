@@ -15,7 +15,7 @@
       "2021": 0.3486,
       "2022": 0.5798,
       "2023": 1.0834,
-      "2024": 0.9409
+      "2024": 1.082
     },
     "notice_yearly_rates": {
       "2010": 0.2625,
@@ -30,7 +30,7 @@
       "2023": 0.4063,
       "2024": 0.5645
     },
-    "average_rate": 0.2888,
+    "average_rate": 0.2982,
     "yearly_retractions": {
       "2007": 2,
       "2009": 1,
@@ -45,7 +45,7 @@
       "2021": 8,
       "2022": 12,
       "2023": 24,
-      "2024": 20
+      "2024": 23
     },
     "notice_yearly_retractions": {
       "2010": 2,
@@ -63,20 +63,20 @@
   },
   "domainwise_data": {
     "country": "Ukraine",
-    "total_retractions": 92,
+    "total_retractions": 95,
     "years": {
       "2024": {
-        "total": 20,
+        "total": 23,
         "marks": {
-          "research": 19,
+          "research": 22,
           "researcher_integrity": 1
         },
         "domain": {
-          "HUM": 2,
-          "SOC": 12,
+          "HUM": 3,
+          "SOC": 15,
+          "B/T": 14,
           "BLS": 3,
           "PHY": 3,
-          "B/T": 13,
           "ENV": 3,
           "HSC": 7
         }
@@ -254,18 +254,18 @@
     },
     "notice_years": {
       "2025": {
-        "total": 41,
+        "total": 44,
         "marks": {
-          "research": 39,
+          "research": 42,
           "alterations": 1,
           "researcher_integrity": 1
         },
         "domain": {
-          "HUM": 3,
-          "SOC": 22,
+          "HUM": 4,
+          "SOC": 25,
+          "B/T": 37,
           "BLS": 6,
           "PHY": 5,
-          "B/T": 36,
           "ENV": 13,
           "HSC": 12
         }
@@ -408,8 +408,8 @@
       }
     },
     "collaborations": {
+      "Czech Republic": 14,
       "Poland": 14,
-      "Czech Republic": 12,
       "China": 10,
       "United Kingdom": 8,
       "United States": 4,
@@ -442,8 +442,8 @@
       "Sweden": 1
     },
     "notice_collaborations": {
+      "Czech Republic": 14,
       "Poland": 14,
-      "Czech Republic": 12,
       "China": 10,
       "United Kingdom": 8,
       "United States": 4,
