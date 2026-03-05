@@ -125,15 +125,17 @@
   },
   "domainwise_data": {
     "country": "Switzerland",
-    "total_retractions": 245,
+    "total_retractions": 246,
     "years": {
       "2025": {
-        "total": 3,
+        "total": 4,
         "marks": {
-          "system": 1,
-          "research": 2
+          "research": 3,
+          "system": 1
         },
         "domain": {
+          "HUM": 1,
+          "SOC": 1,
           "BLS": 2,
           "HSC": 4,
           "B/T": 2
@@ -598,11 +600,14 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "research": 1,
           "alterations": 1
         },
         "domain": {
+          "HUM": 1,
+          "SOC": 1,
           "BLS": 1,
           "HSC": 4
         }

@@ -19,14 +19,14 @@
       "2012": 0.3288,
       "2013": 0.4275,
       "2014": 0.324,
-      "2015": 0.2052,
+      "2015": 0.2141,
       "2016": 0.3513,
       "2017": 0.4451,
       "2018": 0.5023,
       "2019": 0.3706,
       "2020": 0.3815,
       "2021": 0.3016,
-      "2022": 0.2507,
+      "2022": 0.2593,
       "2023": 0.1886,
       "2024": 0.0532
     },
@@ -58,7 +58,7 @@
       "2023": 0.3862,
       "2024": 0.6558
     },
-    "average_rate": 0.2468,
+    "average_rate": 0.2476,
     "yearly_retractions": {
       "1998": 1,
       "1999": 3,
@@ -77,14 +77,14 @@
       "2012": 35,
       "2013": 47,
       "2014": 36,
-      "2015": 23,
+      "2015": 24,
       "2016": 40,
       "2017": 51,
       "2018": 57,
       "2019": 42,
       "2020": 44,
       "2021": 36,
-      "2022": 29,
+      "2022": 30,
       "2023": 21,
       "2024": 6
     },
@@ -119,7 +119,7 @@
   },
   "domainwise_data": {
     "country": "France",
-    "total_retractions": 680,
+    "total_retractions": 682,
     "years": {
       "2025": {
         "total": 6,
@@ -171,20 +171,20 @@
         }
       },
       "2022": {
-        "total": 29,
+        "total": 30,
         "marks": {
+          "system": 5,
           "research": 14,
           "alterations": 5,
           "researcher_integrity": 5,
-          "system": 4,
           "supplemental": 1
         },
         "domain": {
+          "HSC": 23,
+          "SOC": 3,
           "BLS": 18,
-          "HSC": 22,
           "PHY": 13,
           "B/T": 16,
-          "SOC": 2,
           "ENV": 1
         }
       },
@@ -298,15 +298,15 @@
         }
       },
       "2015": {
-        "total": 23,
+        "total": 24,
         "marks": {
+          "alterations": 14,
           "researcher_integrity": 2,
-          "alterations": 13,
           "research": 3,
           "supplemental": 5
         },
         "domain": {
-          "BLS": 23,
+          "BLS": 26,
           "HSC": 10,
           "PHY": 16,
           "B/T": 5,
@@ -658,33 +658,33 @@
     },
     "notice_years": {
       "2026": {
-        "total": 5,
+        "total": 6,
         "marks": {
-          "alterations": 2,
+          "alterations": 3,
           "research": 1,
           "researcher_integrity": 2
         },
         "domain": {
-          "BLS": 6,
+          "BLS": 9,
           "HSC": 7,
           "B/T": 1
         }
       },
       "2025": {
-        "total": 54,
+        "total": 55,
         "marks": {
-          "system": 2,
+          "system": 3,
           "researcher_integrity": 27,
           "alterations": 18,
           "research": 5,
           "supplemental": 2
         },
         "domain": {
-          "HSC": 54,
+          "HSC": 55,
+          "SOC": 18,
           "B/T": 9,
           "PHY": 24,
-          "BLS": 57,
-          "SOC": 17
+          "BLS": 57
         }
       },
       "2024": {
@@ -1141,9 +1141,9 @@
     },
     "collaborations": {
       "United States": 103,
-      "Italy": 62,
+      "Italy": 63,
       "Germany": 49,
-      "United Kingdom": 44,
+      "United Kingdom": 45,
       "China": 41,
       "Spain": 30,
       "India": 28,
@@ -1191,6 +1191,7 @@
       "Luxembourg": 3,
       "South Korea": 3,
       "Indonesia": 3,
+      "Argentina": 2,
       "Oman": 2,
       "Uganda": 2,
       "Nigeria": 2,
@@ -1229,7 +1230,6 @@
       "Papua New Guinea": 1,
       "Croatia": 1,
       "North Macedonia (formerly Macedonia)": 1,
-      "Argentina": 1,
       "East Timor": 1,
       "Philippines": 1,
       "Slovakia": 1,
@@ -1243,9 +1243,9 @@
     },
     "notice_collaborations": {
       "United States": 103,
-      "Italy": 62,
+      "Italy": 63,
       "Germany": 49,
-      "United Kingdom": 44,
+      "United Kingdom": 45,
       "China": 41,
       "Spain": 30,
       "India": 28,
@@ -1293,6 +1293,7 @@
       "Luxembourg": 3,
       "South Korea": 3,
       "Indonesia": 3,
+      "Argentina": 2,
       "Oman": 2,
       "Uganda": 2,
       "Nigeria": 2,
@@ -1331,7 +1332,6 @@
       "Papua New Guinea": 1,
       "Croatia": 1,
       "North Macedonia (formerly Macedonia)": 1,
-      "Argentina": 1,
       "East Timor": 1,
       "Philippines": 1,
       "Slovakia": 1,
