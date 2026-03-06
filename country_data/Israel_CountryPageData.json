@@ -26,7 +26,7 @@
       "2020": 0.1774,
       "2021": 0.1634,
       "2022": 0.2466,
-      "2023": 0.0417,
+      "2023": 0.0834,
       "2024": 0.1223
     },
     "notice_yearly_rates": {
@@ -52,7 +52,7 @@
       "2023": 0.1251,
       "2024": 0.3669
     },
-    "average_rate": 0.2369,
+    "average_rate": 0.239,
     "yearly_retractions": {
       "1997": 1,
       "1998": 1,
@@ -78,7 +78,7 @@
       "2020": 4,
       "2021": 4,
       "2022": 6,
-      "2023": 1,
+      "2023": 2,
       "2024": 3
     },
     "notice_yearly_retractions": {
@@ -107,7 +107,7 @@
   },
   "domainwise_data": {
     "country": "Israel",
-    "total_retractions": 123,
+    "total_retractions": 124,
     "years": {
       "2025": {
         "total": 1,
@@ -133,13 +133,15 @@
         }
       },
       "2023": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "system": 1,
           "alterations": 1
         },
         "domain": {
-          "B/T": 1,
-          "HSC": 2
+          "BLS": 1,
+          "HSC": 4,
+          "B/T": 1
         }
       },
       "2022": {
@@ -484,18 +486,18 @@
     },
     "notice_years": {
       "2025": {
-        "total": 11,
+        "total": 12,
         "marks": {
+          "system": 2,
           "supplemental": 1,
           "alterations": 5,
-          "research": 4,
-          "system": 1
+          "research": 4
         },
         "domain": {
-          "BLS": 14,
+          "BLS": 15,
+          "HSC": 15,
           "B/T": 2,
-          "SOC": 4,
-          "HSC": 13
+          "SOC": 4
         }
       },
       "2024": {
