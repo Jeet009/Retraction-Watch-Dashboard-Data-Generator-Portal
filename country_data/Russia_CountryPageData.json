@@ -70,7 +70,7 @@
       "2021": 98,
       "2022": 70,
       "2023": 219,
-      "2024": 147
+      "2024": 151
     },
     "notice_yearly_retractions": {
       "2005": 1,
@@ -95,7 +95,7 @@
   },
   "domainwise_data": {
     "country": "Russia",
-    "total_retractions": 3086,
+    "total_retractions": 3092,
     "years": {
       "2026": {
         "total": 1,
@@ -107,27 +107,29 @@
         }
       },
       "2025": {
-        "total": 3,
+        "total": 5,
         "marks": {
-          "alterations": 1,
-          "research": 1,
-          "researcher_integrity": 1
+          "research": 2,
+          "researcher_integrity": 2,
+          "alterations": 1
         },
         "domain": {
+          "BLS": 1,
+          "HSC": 7,
           "ENV": 1,
           "PHY": 6,
           "B/T": 1
         }
       },
       "2024": {
-        "total": 147,
+        "total": 151,
         "marks": {
-          "researcher_integrity": 5,
-          "alterations": 4,
-          "research": 138
+          "research": 140,
+          "researcher_integrity": 7,
+          "alterations": 4
         },
         "domain": {
-          "HSC": 27,
+          "HSC": 38,
           "PHY": 32,
           "HUM": 5,
           "SOC": 69,
@@ -485,19 +487,19 @@
         }
       },
       "2025": {
-        "total": 372,
+        "total": 378,
         "marks": {
-          "researcher_integrity": 28,
-          "research": 333,
+          "research": 336,
+          "researcher_integrity": 31,
           "alterations": 10,
           "system": 1
         },
         "domain": {
-          "HSC": 65,
+          "HSC": 83,
+          "BLS": 131,
           "PHY": 119,
           "B/T": 266,
           "SOC": 164,
-          "BLS": 130,
           "HUM": 12,
           "ENV": 121
         }
@@ -775,7 +777,7 @@
       "Kazakhstan": 60,
       "Saudi Arabia": 43,
       "India": 42,
-      "Iran": 33,
+      "Iran": 39,
       "Pakistan": 31,
       "Iraq": 29,
       "United States": 28,
@@ -787,9 +789,9 @@
       "Uzbekistan": 15,
       "Turkey": 14,
       "United Arab Emirates": 14,
+      "Indonesia": 12,
       "Azerbaijan": 12,
       "Spain": 12,
-      "Indonesia": 11,
       "Vietnam": 11,
       "Australia": 10,
       "Italy": 9,
@@ -858,7 +860,7 @@
       "Kazakhstan": 60,
       "Saudi Arabia": 43,
       "India": 42,
-      "Iran": 33,
+      "Iran": 39,
       "Pakistan": 31,
       "Iraq": 29,
       "United States": 28,
@@ -870,9 +872,9 @@
       "Uzbekistan": 15,
       "Turkey": 14,
       "United Arab Emirates": 14,
+      "Indonesia": 12,
       "Azerbaijan": 12,
       "Spain": 12,
-      "Indonesia": 11,
       "Vietnam": 11,
       "Australia": 10,
       "Italy": 9,
