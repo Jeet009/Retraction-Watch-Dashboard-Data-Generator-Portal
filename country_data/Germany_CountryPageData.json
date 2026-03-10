@@ -8,10 +8,10 @@
       "1999": 0.1888,
       "2000": 0.2864,
       "2001": 0.2449,
-      "2002": 0.323,
+      "2002": 0.3338,
       "2003": 0.3232,
       "2004": 0.3425,
-      "2005": 0.1977,
+      "2005": 0.2063,
       "2006": 0.2679,
       "2007": 0.2621,
       "2008": 0.3347,
@@ -62,7 +62,7 @@
       "2023": 0.5404,
       "2024": 0.5541
     },
-    "average_rate": 0.2976,
+    "average_rate": 0.2981,
     "yearly_retractions": {
       "1996": 25,
       "1997": 13,
@@ -70,10 +70,10 @@
       "1999": 16,
       "2000": 25,
       "2001": 22,
-      "2002": 30,
+      "2002": 31,
       "2003": 32,
       "2004": 36,
-      "2005": 23,
+      "2005": 24,
       "2006": 32,
       "2007": 32,
       "2008": 42,
@@ -127,7 +127,7 @@
   },
   "domainwise_data": {
     "country": "Germany",
-    "total_retractions": 1297,
+    "total_retractions": 1299,
     "years": {
       "2025": {
         "total": 12,
@@ -486,20 +486,20 @@
         }
       },
       "2005": {
-        "total": 23,
+        "total": 24,
         "marks": {
+          "research": 5,
           "alterations": 11,
           "supplemental": 2,
           "system": 1,
-          "research": 4,
           "researcher_integrity": 5
         },
         "domain": {
+          "HSC": 44,
           "PHY": 6,
           "B/T": 4,
           "SOC": 1,
-          "BLS": 28,
-          "HSC": 41
+          "BLS": 28
         }
       },
       "2004": {
@@ -536,16 +536,16 @@
         }
       },
       "2002": {
-        "total": 30,
+        "total": 31,
         "marks": {
-          "research": 4,
+          "research": 5,
           "researcher_integrity": 16,
           "supplemental": 1,
           "system": 5,
           "alterations": 4
         },
         "domain": {
-          "HSC": 72,
+          "HSC": 75,
           "BLS": 43,
           "PHY": 3,
           "B/T": 1
@@ -844,15 +844,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 11,
+        "total": 13,
         "marks": {
+          "research": 6,
           "alterations": 6,
-          "research": 4,
           "researcher_integrity": 1
         },
         "domain": {
-          "BLS": 11,
-          "HSC": 27
+          "HSC": 33,
+          "BLS": 11
         }
       },
       "2025": {
