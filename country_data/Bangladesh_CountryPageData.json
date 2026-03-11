@@ -16,8 +16,8 @@
       "2020": 2.6208,
       "2021": 1.9992,
       "2022": 9.9514,
-      "2023": 2.3406,
-      "2024": 0.9355
+      "2023": 2.4137,
+      "2024": 1.1359
     },
     "notice_yearly_rates": {
       "2007": 0.7047,
@@ -36,7 +36,7 @@
       "2023": 6.6559,
       "2024": 4.3432
     },
-    "average_rate": 2.3231,
+    "average_rate": 2.3571,
     "yearly_retractions": {
       "2007": 1,
       "2009": 2,
@@ -52,8 +52,8 @@
       "2020": 23,
       "2021": 25,
       "2022": 129,
-      "2023": 32,
-      "2024": 14
+      "2023": 33,
+      "2024": 17
     },
     "notice_yearly_retractions": {
       "2007": 1,
@@ -75,7 +75,7 @@
   },
   "domainwise_data": {
     "country": "Bangladesh",
-    "total_retractions": 279,
+    "total_retractions": 283,
     "years": {
       "2025": {
         "total": 6,
@@ -93,36 +93,36 @@
         }
       },
       "2024": {
-        "total": 14,
+        "total": 17,
         "marks": {
+          "research": 3,
+          "researcher_integrity": 10,
           "alterations": 3,
-          "researcher_integrity": 8,
-          "supplemental": 1,
-          "research": 2
+          "supplemental": 1
         },
         "domain": {
-          "ENV": 3,
-          "PHY": 6,
+          "B/T": 14,
+          "PHY": 8,
+          "ENV": 5,
           "HSC": 22,
-          "BLS": 7,
-          "B/T": 8
+          "BLS": 7
         }
       },
       "2023": {
-        "total": 32,
+        "total": 33,
         "marks": {
+          "research": 17,
           "researcher_integrity": 4,
-          "research": 16,
           "alterations": 11,
           "supplemental": 1
         },
         "domain": {
-          "B/T": 18,
+          "B/T": 20,
+          "ENV": 14,
           "PHY": 19,
           "BLS": 27,
           "HSC": 15,
-          "SOC": 4,
-          "ENV": 13
+          "SOC": 4
         }
       },
       "2022": {
@@ -327,16 +327,16 @@
         }
       },
       "2025": {
-        "total": 54,
+        "total": 58,
         "marks": {
-          "researcher_integrity": 16,
-          "alterations": 14,
-          "research": 24
+          "research": 26,
+          "researcher_integrity": 18,
+          "alterations": 14
         },
         "domain": {
-          "B/T": 30,
-          "ENV": 8,
-          "PHY": 27,
+          "B/T": 38,
+          "PHY": 29,
+          "ENV": 11,
           "HSC": 45,
           "BLS": 35,
           "SOC": 8
@@ -545,7 +545,7 @@
       "Saudi Arabia": 108,
       "India": 94,
       "Pakistan": 40,
-      "China": 28,
+      "China": 30,
       "United States": 21,
       "Malaysia": 20,
       "Egypt": 20,
@@ -615,7 +615,7 @@
       "Saudi Arabia": 108,
       "India": 94,
       "Pakistan": 40,
-      "China": 28,
+      "China": 30,
       "United States": 21,
       "Malaysia": 20,
       "Egypt": 20,

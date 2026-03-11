@@ -28,8 +28,8 @@
       "2020": 2.8424,
       "2021": 5.3193,
       "2022": 8.4183,
-      "2023": 1.2873,
-      "2024": 0.6695
+      "2023": 1.2901,
+      "2024": 0.6746
     },
     "notice_yearly_rates": {
       "1999": 0.0692,
@@ -59,7 +59,7 @@
       "2023": 10.0473,
       "2024": 2.9292
     },
-    "average_rate": 3.0472,
+    "average_rate": 3.048,
     "yearly_retractions": {
       "1997": 2,
       "1998": 2,
@@ -87,8 +87,8 @@
       "2020": 2246,
       "2021": 4690,
       "2022": 8578,
-      "2023": 1350,
-      "2024": 797
+      "2023": 1353,
+      "2024": 803
     },
     "notice_yearly_retractions": {
       "1999": 3,
@@ -121,20 +121,20 @@
   },
   "domainwise_data": {
     "country": "China",
-    "total_retractions": 35006,
+    "total_retractions": 35016,
     "years": {
       "2025": {
-        "total": 79,
+        "total": 80,
         "marks": {
+          "researcher_integrity": 11,
           "research": 21,
           "system": 26,
           "alterations": 19,
-          "researcher_integrity": 10,
           "supplemental": 3
         },
         "domain": {
-          "PHY": 36,
-          "B/T": 46,
+          "B/T": 48,
+          "PHY": 37,
           "HUM": 3,
           "ENV": 18,
           "HSC": 70,
@@ -143,41 +143,41 @@
         }
       },
       "2024": {
-        "total": 797,
+        "total": 803,
         "marks": {
+          "research": 258,
+          "researcher_integrity": 96,
           "alterations": 190,
-          "researcher_integrity": 94,
-          "research": 254,
           "supplemental": 234,
           "system": 25
         },
         "domain": {
-          "B/T": 951,
-          "BLS": 288,
-          "HSC": 485,
-          "ENV": 125,
+          "BLS": 290,
+          "HSC": 491,
+          "B/T": 957,
+          "PHY": 279,
+          "ENV": 126,
           "HUM": 22,
-          "PHY": 278,
           "SOC": 192
         }
       },
       "2023": {
-        "total": 1350,
+        "total": 1353,
         "marks": {
-          "researcher_integrity": 127,
+          "research": 489,
+          "researcher_integrity": 129,
           "system": 44,
           "alterations": 414,
-          "supplemental": 277,
-          "research": 488
+          "supplemental": 277
         },
         "domain": {
-          "B/T": 1615,
-          "ENV": 168,
+          "B/T": 1619,
+          "ENV": 169,
+          "HUM": 47,
           "PHY": 394,
           "HSC": 1048,
           "BLS": 577,
-          "SOC": 328,
-          "HUM": 46
+          "SOC": 328
         }
       },
       "2022": {
@@ -667,22 +667,22 @@
         }
       },
       "2025": {
-        "total": 2004,
+        "total": 2014,
         "marks": {
+          "research": 277,
           "alterations": 1085,
-          "researcher_integrity": 361,
+          "researcher_integrity": 366,
           "system": 65,
-          "research": 272,
           "supplemental": 221
         },
         "domain": {
-          "BLS": 1501,
-          "HSC": 1650,
-          "B/T": 2185,
-          "ENV": 193,
-          "PHY": 499,
-          "SOC": 341,
-          "HUM": 46
+          "BLS": 1503,
+          "HSC": 1656,
+          "B/T": 2197,
+          "PHY": 501,
+          "ENV": 195,
+          "HUM": 47,
+          "SOC": 341
         }
       },
       "2024": {
@@ -1145,7 +1145,7 @@
     },
     "collaborations": {
       "United States": 775,
-      "Pakistan": 467,
+      "Pakistan": 469,
       "Saudi Arabia": 325,
       "South Korea": 288,
       "India": 256,
@@ -1171,8 +1171,8 @@
       "France": 41,
       "Sweden": 37,
       "Poland": 35,
+      "Bangladesh": 30,
       "United Arab Emirates": 30,
-      "Bangladesh": 28,
       "Ethiopia": 27,
       "Netherlands": 26,
       "Switzerland": 24,
@@ -1262,7 +1262,7 @@
     },
     "notice_collaborations": {
       "United States": 775,
-      "Pakistan": 467,
+      "Pakistan": 469,
       "Saudi Arabia": 325,
       "South Korea": 288,
       "India": 256,
@@ -1288,8 +1288,8 @@
       "France": 41,
       "Sweden": 37,
       "Poland": 35,
+      "Bangladesh": 30,
       "United Arab Emirates": 30,
-      "Bangladesh": 28,
       "Ethiopia": 27,
       "Netherlands": 26,
       "Switzerland": 24,
