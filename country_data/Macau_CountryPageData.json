@@ -10,7 +10,8 @@
       "2020": 0.0,
       "2021": 0.0,
       "2022": 0.0,
-      "2023": 0.0
+      "2023": 0.0,
+      "2024": 0.0
     },
     "notice_yearly_rates": {
       "2008": 0.0,
@@ -30,7 +31,8 @@
       "2020": 1,
       "2021": 3,
       "2022": 1,
-      "2023": 2
+      "2023": 2,
+      "2024": 1
     },
     "notice_yearly_retractions": {
       "2008": 1,
@@ -43,8 +45,19 @@
   },
   "domainwise_data": {
     "country": "Macau",
-    "total_retractions": 14,
+    "total_retractions": 15,
     "years": {
+      "2024": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "PHY": 1,
+          "SOC": 1
+        }
+      },
       "2023": {
         "total": 2,
         "marks": {
@@ -139,6 +152,17 @@
       }
     },
     "notice_years": {
+      "2025": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "PHY": 1,
+          "SOC": 1
+        }
+      },
       "2024": {
         "total": 2,
         "marks": {
@@ -208,7 +232,7 @@
       }
     },
     "collaborations": {
-      "China": 12,
+      "China": 13,
       "United States": 4,
       "Hong Kong": 4,
       "Australia": 3,
@@ -249,7 +273,7 @@
       "Spain": 1
     },
     "notice_collaborations": {
-      "China": 12,
+      "China": 13,
       "United States": 4,
       "Hong Kong": 4,
       "Australia": 3,

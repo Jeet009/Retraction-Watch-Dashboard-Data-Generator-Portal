@@ -25,8 +25,8 @@
       "2020": 3.3022,
       "2021": 4.3498,
       "2022": 5.0297,
-      "2023": 1.8437,
-      "2024": 0.9309
+      "2023": 1.8683,
+      "2024": 0.9547
     },
     "notice_yearly_rates": {
       "1998": 0.3331,
@@ -51,7 +51,7 @@
       "2023": 5.654,
       "2024": 5.06
     },
-    "average_rate": 2.3364,
+    "average_rate": 2.3412,
     "yearly_retractions": {
       "1997": 1,
       "1999": 1,
@@ -76,8 +76,8 @@
       "2020": 103,
       "2021": 161,
       "2022": 211,
-      "2023": 75,
-      "2024": 39
+      "2023": 76,
+      "2024": 40
     },
     "notice_yearly_retractions": {
       "1998": 1,
@@ -105,7 +105,7 @@
   },
   "domainwise_data": {
     "country": "Egypt",
-    "total_retractions": 985,
+    "total_retractions": 987,
     "years": {
       "2025": {
         "total": 10,
@@ -124,37 +124,37 @@
         }
       },
       "2024": {
-        "total": 39,
+        "total": 40,
         "marks": {
-          "research": 10,
+          "research": 11,
           "alterations": 14,
           "researcher_integrity": 13,
           "supplemental": 2
         },
         "domain": {
+          "BLS": 33,
+          "HSC": 25,
           "PHY": 30,
-          "BLS": 32,
           "ENV": 6,
-          "HSC": 24,
           "B/T": 19,
           "SOC": 2
         }
       },
       "2023": {
-        "total": 75,
+        "total": 76,
         "marks": {
+          "researcher_integrity": 12,
           "research": 24,
           "alterations": 30,
-          "researcher_integrity": 11,
           "system": 7,
           "supplemental": 3
         },
         "domain": {
+          "B/T": 26,
+          "ENV": 6,
+          "PHY": 56,
           "HSC": 73,
-          "PHY": 55,
           "BLS": 54,
-          "ENV": 5,
-          "B/T": 24,
           "SOC": 1
         }
       },
@@ -493,32 +493,33 @@
     },
     "notice_years": {
       "2026": {
-        "total": 5,
+        "total": 6,
         "marks": {
-          "research": 4,
+          "research": 5,
           "alterations": 1
         },
         "domain": {
-          "HSC": 5,
+          "BLS": 1,
+          "HSC": 6,
           "B/T": 2,
           "PHY": 5
         }
       },
       "2025": {
-        "total": 173,
+        "total": 174,
         "marks": {
           "alterations": 68,
+          "researcher_integrity": 33,
           "research": 67,
-          "researcher_integrity": 32,
           "system": 3,
           "supplemental": 3
         },
         "domain": {
           "HSC": 146,
-          "PHY": 125,
+          "B/T": 76,
+          "ENV": 19,
+          "PHY": 126,
           "BLS": 101,
-          "ENV": 18,
-          "B/T": 74,
           "SOC": 7
         }
       },
@@ -836,7 +837,7 @@
     },
     "collaborations": {
       "Saudi Arabia": 408,
-      "China": 106,
+      "China": 107,
       "India": 99,
       "Pakistan": 85,
       "United States": 73,
@@ -847,8 +848,8 @@
       "Malaysia": 26,
       "Iran": 26,
       "United Arab Emirates": 23,
+      "Bangladesh": 21,
       "United Kingdom": 21,
-      "Bangladesh": 20,
       "South Korea": 18,
       "Japan": 18,
       "Jordan": 17,
@@ -877,6 +878,7 @@
       "Romania": 5,
       "South Africa": 5,
       "Nigeria": 5,
+      "Belarus": 4,
       "Hungary": 4,
       "Sweden": 4,
       "Ecuador": 4,
@@ -886,7 +888,6 @@
       "Serbia": 4,
       "Palestine": 3,
       "Greece": 3,
-      "Belarus": 3,
       "Lebanon": 3,
       "Georgia": 3,
       "Cyprus": 3,
@@ -894,6 +895,7 @@
       "Switzerland": 3,
       "Chile": 3,
       "Colombia": 3,
+      "Hong Kong": 2,
       "Norway": 2,
       "Cameroon": 2,
       "Belgium": 2,
@@ -907,7 +909,6 @@
       "Syria": 1,
       "Sri Lanka": 1,
       "Portugal": 1,
-      "Hong Kong": 1,
       "Azerbaijan": 1,
       "Afghanistan": 1,
       "Kenya": 1,
@@ -920,7 +921,7 @@
     },
     "notice_collaborations": {
       "Saudi Arabia": 408,
-      "China": 106,
+      "China": 107,
       "India": 99,
       "Pakistan": 85,
       "United States": 73,
@@ -931,8 +932,8 @@
       "Malaysia": 26,
       "Iran": 26,
       "United Arab Emirates": 23,
+      "Bangladesh": 21,
       "United Kingdom": 21,
-      "Bangladesh": 20,
       "South Korea": 18,
       "Japan": 18,
       "Jordan": 17,
@@ -961,6 +962,7 @@
       "Romania": 5,
       "South Africa": 5,
       "Nigeria": 5,
+      "Belarus": 4,
       "Hungary": 4,
       "Sweden": 4,
       "Ecuador": 4,
@@ -970,7 +972,6 @@
       "Serbia": 4,
       "Palestine": 3,
       "Greece": 3,
-      "Belarus": 3,
       "Lebanon": 3,
       "Georgia": 3,
       "Cyprus": 3,
@@ -978,6 +979,7 @@
       "Switzerland": 3,
       "Chile": 3,
       "Colombia": 3,
+      "Hong Kong": 2,
       "Norway": 2,
       "Cameroon": 2,
       "Belgium": 2,
@@ -991,7 +993,6 @@
       "Syria": 1,
       "Sri Lanka": 1,
       "Portugal": 1,
-      "Hong Kong": 1,
       "Azerbaijan": 1,
       "Afghanistan": 1,
       "Kenya": 1,
