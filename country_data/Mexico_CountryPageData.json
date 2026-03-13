@@ -15,7 +15,7 @@
       "2015": 0.0992,
       "2016": 0.3713,
       "2017": 0.5206,
-      "2018": 0.3262,
+      "2018": 0.367,
       "2019": 0.2959,
       "2020": 0.5129,
       "2021": 0.3207,
@@ -41,7 +41,7 @@
       "2023": 0.5743,
       "2024": 0.5522
     },
-    "average_rate": 0.2617,
+    "average_rate": 0.2637,
     "yearly_retractions": {
       "2000": 1,
       "2004": 1,
@@ -56,7 +56,7 @@
       "2015": 2,
       "2016": 8,
       "2017": 12,
-      "2018": 8,
+      "2018": 9,
       "2019": 8,
       "2020": 15,
       "2021": 10,
@@ -85,7 +85,7 @@
   },
   "domainwise_data": {
     "country": "Mexico",
-    "total_retractions": 126,
+    "total_retractions": 127,
     "years": {
       "2024": {
         "total": 7,
@@ -183,16 +183,17 @@
         }
       },
       "2018": {
-        "total": 8,
+        "total": 9,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 4,
           "research": 3,
           "supplemental": 1
         },
         "domain": {
+          "HSC": 7,
           "PHY": 8,
-          "BLS": 6,
-          "HSC": 4
+          "BLS": 6
         }
       },
       "2017": {
@@ -371,16 +372,16 @@
         }
       },
       "2025": {
-        "total": 14,
+        "total": 15,
         "marks": {
+          "researcher_integrity": 7,
           "research": 1,
           "supplemental": 1,
-          "researcher_integrity": 6,
           "alterations": 6
         },
         "domain": {
+          "HSC": 9,
           "PHY": 7,
-          "HSC": 6,
           "BLS": 11,
           "ENV": 3,
           "B/T": 11
@@ -604,23 +605,23 @@
       }
     },
     "collaborations": {
-      "United States": 18,
+      "United States": 19,
       "India": 13,
+      "Germany": 8,
       "China": 8,
       "Vietnam": 8,
       "Australia": 8,
       "Spain": 8,
-      "Germany": 7,
       "United Kingdom": 7,
       "Saudi Arabia": 6,
       "Canada": 6,
       "Italy": 6,
       "Belgium": 6,
       "Venezuela": 5,
+      "Sweden": 4,
       "Pakistan": 4,
       "Chile": 4,
       "Ghana": 4,
-      "Sweden": 3,
       "Netherlands": 3,
       "Israel": 2,
       "Malaysia": 2,
@@ -659,23 +660,23 @@
       "France": 1
     },
     "notice_collaborations": {
-      "United States": 18,
+      "United States": 19,
       "India": 13,
+      "Germany": 8,
       "China": 8,
       "Vietnam": 8,
       "Australia": 8,
       "Spain": 8,
-      "Germany": 7,
       "United Kingdom": 7,
       "Saudi Arabia": 6,
       "Canada": 6,
       "Italy": 6,
       "Belgium": 6,
       "Venezuela": 5,
+      "Sweden": 4,
       "Pakistan": 4,
       "Chile": 4,
       "Ghana": 4,
-      "Sweden": 3,
       "Netherlands": 3,
       "Israel": 2,
       "Malaysia": 2,

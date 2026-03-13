@@ -24,7 +24,7 @@
       "2015": 0.2165,
       "2016": 0.3931,
       "2017": 0.3831,
-      "2018": 0.4234,
+      "2018": 0.4483,
       "2019": 0.2653,
       "2020": 0.4871,
       "2021": 0.3056,
@@ -60,7 +60,7 @@
       "2023": 0.3829,
       "2024": 0.5718
     },
-    "average_rate": 0.2905,
+    "average_rate": 0.2917,
     "yearly_retractions": {
       "1996": 1,
       "1997": 1,
@@ -84,7 +84,7 @@
       "2015": 8,
       "2016": 15,
       "2017": 15,
-      "2018": 17,
+      "2018": 18,
       "2019": 11,
       "2020": 21,
       "2021": 14,
@@ -123,7 +123,7 @@
   },
   "domainwise_data": {
     "country": "Sweden",
-    "total_retractions": 258,
+    "total_retractions": 259,
     "years": {
       "2025": {
         "total": 1,
@@ -233,19 +233,19 @@
         }
       },
       "2018": {
-        "total": 17,
+        "total": 18,
         "marks": {
-          "researcher_integrity": 2,
+          "researcher_integrity": 3,
           "research": 6,
           "system": 5,
           "alterations": 3,
           "supplemental": 1
         },
         "domain": {
+          "HSC": 18,
           "BLS": 11,
           "ENV": 4,
           "PHY": 10,
-          "HSC": 15,
           "SOC": 1
         }
       },
@@ -569,16 +569,16 @@
         }
       },
       "2025": {
-        "total": 12,
+        "total": 13,
         "marks": {
+          "researcher_integrity": 5,
           "system": 1,
           "alterations": 3,
-          "research": 4,
-          "researcher_integrity": 4
+          "research": 4
         },
         "domain": {
+          "HSC": 13,
           "BLS": 20,
-          "HSC": 10,
           "PHY": 9,
           "B/T": 1,
           "ENV": 1
@@ -959,10 +959,10 @@
       }
     },
     "collaborations": {
-      "United States": 51,
+      "United States": 52,
       "China": 37,
       "United Kingdom": 33,
-      "Germany": 23,
+      "Germany": 24,
       "India": 16,
       "Italy": 15,
       "Spain": 14,
@@ -984,9 +984,9 @@
       "Iran": 5,
       "Austria": 5,
       "Belgium": 5,
+      "Mexico": 4,
       "Egypt": 4,
       "Turkey": 3,
-      "Mexico": 3,
       "Taiwan": 3,
       "Ghana": 3,
       "Iraq": 3,
@@ -1019,10 +1019,10 @@
       "Hungary": 1
     },
     "notice_collaborations": {
-      "United States": 51,
+      "United States": 52,
       "China": 37,
       "United Kingdom": 33,
-      "Germany": 23,
+      "Germany": 24,
       "India": 16,
       "Italy": 15,
       "Spain": 14,
@@ -1044,9 +1044,9 @@
       "Iran": 5,
       "Austria": 5,
       "Belgium": 5,
+      "Mexico": 4,
       "Egypt": 4,
       "Turkey": 3,
-      "Mexico": 3,
       "Taiwan": 3,
       "Ghana": 3,
       "Iraq": 3,
