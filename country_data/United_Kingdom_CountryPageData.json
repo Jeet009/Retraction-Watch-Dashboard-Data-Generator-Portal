@@ -30,7 +30,7 @@
       "2021": 0.5073,
       "2022": 0.7694,
       "2023": 0.4514,
-      "2024": 0.1655
+      "2024": 0.1702
     },
     "notice_yearly_rates": {
       "1996": 0.023,
@@ -63,7 +63,7 @@
       "2023": 0.8827,
       "2024": 0.6052
     },
-    "average_rate": 0.3877,
+    "average_rate": 0.3879,
     "yearly_retractions": {
       "1996": 1,
       "1997": 5,
@@ -93,7 +93,7 @@
       "2021": 107,
       "2022": 157,
       "2023": 90,
-      "2024": 35
+      "2024": 36
     },
     "notice_yearly_retractions": {
       "1996": 2,
@@ -129,7 +129,7 @@
   },
   "domainwise_data": {
     "country": "United Kingdom",
-    "total_retractions": 1702,
+    "total_retractions": 1703,
     "years": {
       "2025": {
         "total": 16,
@@ -149,19 +149,19 @@
         }
       },
       "2024": {
-        "total": 35,
+        "total": 36,
         "marks": {
+          "research": 8,
           "researcher_integrity": 10,
           "alterations": 12,
-          "research": 7,
           "system": 2,
           "supplemental": 4
         },
         "domain": {
-          "B/T": 34,
+          "B/T": 35,
+          "ENV": 3,
           "SOC": 6,
           "PHY": 12,
-          "ENV": 2,
           "BLS": 11,
           "HSC": 31
         }
@@ -847,21 +847,21 @@
         }
       },
       "2025": {
-        "total": 109,
+        "total": 110,
         "marks": {
+          "research": 28,
           "system": 5,
           "alterations": 35,
           "researcher_integrity": 40,
-          "research": 27,
           "supplemental": 2
         },
         "domain": {
+          "B/T": 91,
+          "ENV": 20,
           "HSC": 88,
-          "B/T": 90,
           "BLS": 65,
           "PHY": 53,
-          "SOC": 6,
-          "ENV": 19
+          "SOC": 6
         }
       },
       "2024": {
@@ -1454,14 +1454,14 @@
       }
     },
     "collaborations": {
-      "China": 233,
+      "China": 234,
       "United States": 219,
       "India": 96,
       "Germany": 85,
       "Canada": 80,
       "Italy": 79,
+      "Australia": 72,
       "Pakistan": 72,
-      "Australia": 71,
       "Saudi Arabia": 63,
       "Netherlands": 50,
       "France": 45,
@@ -1570,14 +1570,14 @@
       "Vietnam": 1
     },
     "notice_collaborations": {
-      "China": 233,
+      "China": 234,
       "United States": 219,
       "India": 96,
       "Germany": 85,
       "Canada": 80,
       "Italy": 79,
+      "Australia": 72,
       "Pakistan": 72,
-      "Australia": 71,
       "Saudi Arabia": 63,
       "Netherlands": 50,
       "France": 45,

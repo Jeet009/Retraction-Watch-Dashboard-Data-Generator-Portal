@@ -28,8 +28,8 @@
       "2020": 0.3292,
       "2021": 0.3264,
       "2022": 0.3166,
-      "2023": 0.2019,
-      "2024": 0.131
+      "2023": 0.2163,
+      "2024": 0.1379
     },
     "notice_yearly_rates": {
       "1998": 0.0742,
@@ -58,7 +58,7 @@
       "2023": 0.4542,
       "2024": 0.807
     },
-    "average_rate": 0.3909,
+    "average_rate": 0.3921,
     "yearly_retractions": {
       "1997": 2,
       "1998": 3,
@@ -86,8 +86,8 @@
       "2020": 43,
       "2021": 46,
       "2022": 44,
-      "2023": 28,
-      "2024": 19
+      "2023": 30,
+      "2024": 20
     },
     "notice_yearly_retractions": {
       "1998": 3,
@@ -119,7 +119,7 @@
   },
   "domainwise_data": {
     "country": "Italy",
-    "total_retractions": 952,
+    "total_retractions": 955,
     "years": {
       "2025": {
         "total": 1,
@@ -131,35 +131,35 @@
         }
       },
       "2024": {
-        "total": 19,
+        "total": 20,
         "marks": {
-          "researcher_integrity": 6,
+          "researcher_integrity": 7,
           "system": 4,
           "alterations": 4,
           "research": 2,
           "supplemental": 3
         },
         "domain": {
+          "BLS": 12,
+          "HSC": 22,
           "B/T": 7,
           "ENV": 3,
           "PHY": 11,
-          "HSC": 20,
-          "BLS": 11,
           "SOC": 2
         }
       },
       "2023": {
-        "total": 28,
+        "total": 30,
         "marks": {
+          "researcher_integrity": 13,
           "system": 4,
-          "researcher_integrity": 11,
           "research": 5,
           "supplemental": 2,
           "alterations": 6
         },
         "domain": {
-          "HSC": 37,
-          "B/T": 10,
+          "B/T": 11,
+          "HSC": 40,
           "BLS": 28,
           "ENV": 3,
           "SOC": 1,
@@ -625,15 +625,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 8,
+        "total": 11,
         "marks": {
-          "alterations": 5,
-          "researcher_integrity": 3
+          "researcher_integrity": 6,
+          "alterations": 5
         },
         "domain": {
-          "BLS": 12,
-          "HSC": 14,
-          "B/T": 2
+          "B/T": 3,
+          "HSC": 19,
+          "BLS": 13
         }
       },
       "2025": {

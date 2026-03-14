@@ -26,7 +26,7 @@
       "2021": 0.258,
       "2022": 0.3282,
       "2023": 0.0921,
-      "2024": 0.1069
+      "2024": 0.1336
     },
     "notice_yearly_rates": {
       "1999": 0.1535,
@@ -50,7 +50,7 @@
       "2023": 0.2149,
       "2024": 0.2404
     },
-    "average_rate": 0.2154,
+    "average_rate": 0.2176,
     "yearly_retractions": {
       "1999": 1,
       "2000": 2,
@@ -76,7 +76,7 @@
       "2021": 7,
       "2022": 10,
       "2023": 3,
-      "2024": 4
+      "2024": 5
     },
     "notice_yearly_retractions": {
       "1999": 1,
@@ -103,19 +103,20 @@
   },
   "domainwise_data": {
     "country": "Hong Kong",
-    "total_retractions": 100,
+    "total_retractions": 101,
     "years": {
       "2024": {
-        "total": 4,
+        "total": 5,
         "marks": {
+          "alterations": 1,
           "research": 1,
           "system": 1,
           "supplemental": 1,
           "researcher_integrity": 1
         },
         "domain": {
+          "HSC": 5,
           "BLS": 1,
-          "HSC": 4,
           "PHY": 4,
           "B/T": 1,
           "ENV": 1
@@ -428,14 +429,15 @@
         }
       },
       "2025": {
-        "total": 8,
+        "total": 9,
         "marks": {
+          "alterations": 1,
           "researcher_integrity": 6,
           "system": 1,
           "supplemental": 1
         },
         "domain": {
-          "HSC": 8,
+          "HSC": 9,
           "PHY": 6,
           "B/T": 5,
           "ENV": 4,
@@ -696,6 +698,7 @@
       "Pakistan": 6,
       "India": 6,
       "Ecuador": 5,
+      "South Korea": 4,
       "United Kingdom": 4,
       "Japan": 4,
       "Chile": 4,
@@ -704,17 +707,17 @@
       "Canada": 3,
       "Germany": 3,
       "Turkey": 3,
-      "South Korea": 3,
+      "Thailand": 2,
       "Egypt": 2,
       "Iran": 2,
       "Portugal": 2,
       "France": 2,
       "Saudi Arabia": 2,
       "Taiwan": 2,
+      "Indonesia": 1,
       "Belarus": 1,
       "Czech Republic": 1,
       "Slovakia": 1,
-      "Thailand": 1,
       "Kazakhstan": 1,
       "Malaysia": 1,
       "Romania": 1,
@@ -732,6 +735,7 @@
       "Pakistan": 6,
       "India": 6,
       "Ecuador": 5,
+      "South Korea": 4,
       "United Kingdom": 4,
       "Japan": 4,
       "Chile": 4,
@@ -740,17 +744,17 @@
       "Canada": 3,
       "Germany": 3,
       "Turkey": 3,
-      "South Korea": 3,
+      "Thailand": 2,
       "Egypt": 2,
       "Iran": 2,
       "Portugal": 2,
       "France": 2,
       "Saudi Arabia": 2,
       "Taiwan": 2,
+      "Indonesia": 1,
       "Belarus": 1,
       "Czech Republic": 1,
       "Slovakia": 1,
-      "Thailand": 1,
       "Kazakhstan": 1,
       "Malaysia": 1,
       "Romania": 1,
