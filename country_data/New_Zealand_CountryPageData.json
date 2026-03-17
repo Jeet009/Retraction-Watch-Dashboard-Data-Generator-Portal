@@ -15,7 +15,7 @@
       "2011": 0.3307,
       "2012": 0.162,
       "2014": 0.1515,
-      "2015": 0.0754,
+      "2015": 0.1507,
       "2016": 0.5022,
       "2017": 0.2747,
       "2018": 0.3961,
@@ -46,7 +46,7 @@
       "2023": 0.3192,
       "2024": 0.4257
     },
-    "average_rate": 0.2976,
+    "average_rate": 0.3008,
     "yearly_retractions": {
       "1999": 1,
       "2000": 2,
@@ -61,7 +61,7 @@
       "2011": 4,
       "2012": 2,
       "2014": 2,
-      "2015": 1,
+      "2015": 2,
       "2016": 7,
       "2017": 4,
       "2018": 6,
@@ -95,7 +95,7 @@
   },
   "domainwise_data": {
     "country": "New Zealand",
-    "total_retractions": 96,
+    "total_retractions": 97,
     "years": {
       "2024": {
         "total": 2,
@@ -229,12 +229,13 @@
         }
       },
       "2015": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "system": 1,
           "researcher_integrity": 1
         },
         "domain": {
-          "HSC": 2,
+          "HSC": 4,
           "SOC": 2
         }
       },
@@ -397,12 +398,14 @@
     },
     "notice_years": {
       "2025": {
-        "total": 9,
+        "total": 10,
         "marks": {
+          "system": 1,
           "alterations": 3,
           "researcher_integrity": 6
         },
         "domain": {
+          "HSC": 2,
           "PHY": 12,
           "B/T": 7,
           "BLS": 2,
@@ -653,8 +656,8 @@
       }
     },
     "collaborations": {
-      "China": 22,
-      "United Kingdom": 16,
+      "China": 23,
+      "United Kingdom": 17,
       "United States": 15,
       "Australia": 12,
       "Pakistan": 4,
@@ -691,8 +694,8 @@
       "Montenegro": 1
     },
     "notice_collaborations": {
-      "China": 22,
-      "United Kingdom": 16,
+      "China": 23,
+      "United Kingdom": 17,
       "United States": 15,
       "Australia": 12,
       "Pakistan": 4,

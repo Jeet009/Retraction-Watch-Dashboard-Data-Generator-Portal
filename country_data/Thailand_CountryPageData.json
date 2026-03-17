@@ -24,7 +24,7 @@
       "2021": 1.6823,
       "2022": 3.2119,
       "2023": 0.5844,
-      "2024": 0.4781
+      "2024": 0.5122
     },
     "notice_yearly_rates": {
       "2004": 0.5133,
@@ -47,7 +47,7 @@
       "2023": 3.0389,
       "2024": 1.5025
     },
-    "average_rate": 0.9317,
+    "average_rate": 0.9348,
     "yearly_retractions": {
       "1996": 1,
       "2001": 2,
@@ -71,7 +71,7 @@
       "2021": 41,
       "2022": 87,
       "2023": 15,
-      "2024": 14
+      "2024": 15
     },
     "notice_yearly_retractions": {
       "2004": 2,
@@ -97,7 +97,7 @@
   },
   "domainwise_data": {
     "country": "Thailand",
-    "total_retractions": 299,
+    "total_retractions": 300,
     "years": {
       "2025": {
         "total": 2,
@@ -111,19 +111,19 @@
         }
       },
       "2024": {
-        "total": 14,
+        "total": 15,
         "marks": {
+          "researcher_integrity": 3,
           "alterations": 5,
-          "researcher_integrity": 2,
           "research": 5,
           "supplemental": 2
         },
         "domain": {
-          "HSC": 4,
+          "HSC": 5,
+          "SOC": 5,
           "PHY": 6,
           "B/T": 15,
           "HUM": 1,
-          "SOC": 4,
           "BLS": 3,
           "ENV": 1
         }
@@ -457,18 +457,18 @@
         }
       },
       "2025": {
-        "total": 40,
+        "total": 41,
         "marks": {
+          "researcher_integrity": 18,
           "alterations": 19,
-          "researcher_integrity": 17,
           "research": 4
         },
         "domain": {
-          "HSC": 18,
+          "HSC": 19,
+          "SOC": 18,
           "BLS": 30,
           "B/T": 32,
           "PHY": 23,
-          "SOC": 17,
           "ENV": 8
         }
       },
@@ -760,8 +760,8 @@
       "Vietnam": 11,
       "Turkey": 8,
       "Australia": 8,
+      "South Korea": 7,
       "Japan": 7,
-      "South Korea": 6,
       "United Kingdom": 6,
       "United Arab Emirates": 6,
       "Sweden": 6,
@@ -826,8 +826,8 @@
       "Vietnam": 11,
       "Turkey": 8,
       "Australia": 8,
+      "South Korea": 7,
       "Japan": 7,
-      "South Korea": 6,
       "United Kingdom": 6,
       "United Arab Emirates": 6,
       "Sweden": 6,

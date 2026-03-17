@@ -29,7 +29,7 @@
       "2021": 1.4201,
       "2022": 2.68,
       "2023": 0.663,
-      "2024": 0.3226
+      "2024": 0.332
     },
     "notice_yearly_rates": {
       "1999": 0.0587,
@@ -57,7 +57,7 @@
       "2023": 3.1519,
       "2024": 1.1859
     },
-    "average_rate": 0.8118,
+    "average_rate": 0.8124,
     "yearly_retractions": {
       "1997": 3,
       "1998": 4,
@@ -86,7 +86,7 @@
       "2021": 140,
       "2022": 266,
       "2023": 65,
-      "2024": 34
+      "2024": 35
     },
     "notice_yearly_retractions": {
       "1999": 1,
@@ -117,7 +117,7 @@
   },
   "domainwise_data": {
     "country": "South Korea",
-    "total_retractions": 1357,
+    "total_retractions": 1358,
     "years": {
       "2025": {
         "total": 6,
@@ -135,20 +135,20 @@
         }
       },
       "2024": {
-        "total": 34,
+        "total": 35,
         "marks": {
+          "researcher_integrity": 10,
           "alterations": 11,
-          "researcher_integrity": 9,
           "research": 9,
           "supplemental": 5
         },
         "domain": {
-          "HSC": 21,
+          "HSC": 22,
+          "SOC": 16,
           "BLS": 12,
           "ENV": 10,
           "PHY": 16,
           "B/T": 25,
-          "SOC": 15,
           "HUM": 1
         }
       },
@@ -631,19 +631,19 @@
         }
       },
       "2025": {
-        "total": 95,
+        "total": 96,
         "marks": {
+          "researcher_integrity": 26,
           "alterations": 51,
-          "researcher_integrity": 25,
           "research": 18,
           "supplemental": 1
         },
         "domain": {
-          "HSC": 57,
+          "HSC": 58,
+          "SOC": 18,
           "BLS": 65,
           "ENV": 22,
           "PHY": 95,
-          "SOC": 17,
           "B/T": 52,
           "HUM": 1
         }
@@ -1064,9 +1064,9 @@
       "Germany": 11,
       "Taiwan": 9,
       "Poland": 8,
+      "Thailand": 7,
       "Norway": 7,
       "Russia": 7,
-      "Thailand": 6,
       "Singapore": 5,
       "Zambia": 5,
       "Iraq": 5,
@@ -1147,9 +1147,9 @@
       "Germany": 11,
       "Taiwan": 9,
       "Poland": 8,
+      "Thailand": 7,
       "Norway": 7,
       "Russia": 7,
-      "Thailand": 6,
       "Singapore": 5,
       "Zambia": 5,
       "Iraq": 5,

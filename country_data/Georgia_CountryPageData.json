@@ -10,7 +10,7 @@
       "2018": 0.5675,
       "2020": 0.9643,
       "2021": 0.4859,
-      "2022": 3.8986,
+      "2022": 4.386,
       "2023": 2.741,
       "2024": 1.3393
     },
@@ -25,7 +25,7 @@
       "2023": 2.2841,
       "2024": 2.2321
     },
-    "average_rate": 0.8935,
+    "average_rate": 0.9266,
     "yearly_retractions": {
       "2004": 1,
       "2012": 2,
@@ -35,7 +35,7 @@
       "2018": 1,
       "2020": 2,
       "2021": 1,
-      "2022": 8,
+      "2022": 9,
       "2023": 6,
       "2024": 3
     },
@@ -53,7 +53,7 @@
   },
   "domainwise_data": {
     "country": "Georgia",
-    "total_retractions": 28,
+    "total_retractions": 29,
     "years": {
       "2025": {
         "total": 1,
@@ -90,18 +90,18 @@
         }
       },
       "2022": {
-        "total": 8,
+        "total": 9,
         "marks": {
+          "researcher_integrity": 2,
           "alterations": 5,
-          "researcher_integrity": 1,
           "system": 2
         },
         "domain": {
+          "BLS": 3,
+          "HSC": 2,
           "PHY": 7,
           "B/T": 8,
           "ENV": 1,
-          "BLS": 2,
-          "HSC": 1,
           "SOC": 4,
           "HUM": 1
         }
@@ -187,18 +187,18 @@
     },
     "notice_years": {
       "2025": {
-        "total": 7,
+        "total": 8,
         "marks": {
-          "researcher_integrity": 5,
+          "researcher_integrity": 6,
           "alterations": 1,
           "research": 1
         },
         "domain": {
+          "BLS": 3,
+          "HSC": 11,
           "B/T": 6,
           "PHY": 2,
           "ENV": 1,
-          "BLS": 2,
-          "HSC": 10,
           "SOC": 1
         }
       },
@@ -304,7 +304,7 @@
     },
     "collaborations": {
       "China": 10,
-      "Pakistan": 6,
+      "Pakistan": 7,
       "Saudi Arabia": 5,
       "Turkey": 5,
       "Egypt": 3,
@@ -325,7 +325,7 @@
     },
     "notice_collaborations": {
       "China": 10,
-      "Pakistan": 6,
+      "Pakistan": 7,
       "Saudi Arabia": 5,
       "Turkey": 5,
       "Egypt": 3,
