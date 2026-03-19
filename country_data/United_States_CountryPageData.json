@@ -22,7 +22,7 @@
       "2013": 0.5134,
       "2014": 0.4952,
       "2015": 0.4568,
-      "2016": 0.4451,
+      "2016": 0.4468,
       "2017": 0.4385,
       "2018": 0.4694,
       "2019": 0.5298,
@@ -63,7 +63,7 @@
       "2023": 0.8232,
       "2024": 0.7135
     },
-    "average_rate": 0.3929,
+    "average_rate": 0.393,
     "yearly_retractions": {
       "1996": 23,
       "1997": 23,
@@ -85,7 +85,7 @@
       "2013": 290,
       "2014": 282,
       "2015": 264,
-      "2016": 261,
+      "2016": 262,
       "2017": 262,
       "2018": 287,
       "2019": 326,
@@ -129,22 +129,22 @@
   },
   "domainwise_data": {
     "country": "United States",
-    "total_retractions": 6033,
+    "total_retractions": 6035,
     "years": {
       "2025": {
-        "total": 25,
+        "total": 26,
         "marks": {
+          "researcher_integrity": 9,
           "research": 4,
           "alterations": 4,
           "system": 2,
-          "supplemental": 7,
-          "researcher_integrity": 8
+          "supplemental": 7
         },
         "domain": {
+          "BLS": 13,
+          "ENV": 5,
           "HSC": 33,
-          "BLS": 12,
           "PHY": 11,
-          "ENV": 4,
           "B/T": 3,
           "SOC": 2
         }
@@ -301,17 +301,17 @@
         }
       },
       "2016": {
-        "total": 261,
+        "total": 262,
         "marks": {
-          "alterations": 99,
+          "alterations": 100,
           "research": 87,
           "system": 22,
           "researcher_integrity": 33,
           "supplemental": 20
         },
         "domain": {
-          "BLS": 307,
-          "HSC": 205,
+          "BLS": 308,
+          "HSC": 207,
           "PHY": 86,
           "B/T": 26,
           "SOC": 43,
@@ -1012,17 +1012,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 25,
+        "total": 27,
         "marks": {
-          "research": 5,
-          "alterations": 17,
-          "researcher_integrity": 3
+          "researcher_integrity": 4,
+          "alterations": 18,
+          "research": 5
         },
         "domain": {
-          "HSC": 30,
-          "BLS": 46,
+          "BLS": 48,
+          "ENV": 3,
+          "HSC": 32,
           "B/T": 3,
-          "ENV": 2,
           "PHY": 8
         }
       },
@@ -1847,7 +1847,7 @@
       "United Kingdom": 220,
       "Germany": 186,
       "Canada": 176,
-      "Japan": 161,
+      "Japan": 162,
       "Italy": 155,
       "Saudi Arabia": 142,
       "Australia": 111,
@@ -1983,7 +1983,7 @@
       "United Kingdom": 220,
       "Germany": 186,
       "Canada": 176,
-      "Japan": 161,
+      "Japan": 162,
       "Italy": 155,
       "Saudi Arabia": 142,
       "Australia": 111,
