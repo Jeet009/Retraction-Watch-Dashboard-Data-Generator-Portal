@@ -129,21 +129,22 @@
   },
   "domainwise_data": {
     "country": "Japan",
-    "total_retractions": 1580,
+    "total_retractions": 1581,
     "years": {
       "2025": {
-        "total": 4,
+        "total": 5,
         "marks": {
           "researcher_integrity": 1,
+          "supplemental": 1,
           "alterations": 2,
           "system": 1
         },
         "domain": {
           "BLS": 2,
           "ENV": 3,
+          "HSC": 4,
           "PHY": 2,
-          "B/T": 4,
-          "HSC": 3
+          "B/T": 4
         }
       },
       "2024": {
@@ -736,20 +737,20 @@
         }
       },
       "2025": {
-        "total": 43,
+        "total": 44,
         "marks": {
+          "supplemental": 2,
           "alterations": 24,
           "researcher_integrity": 9,
           "system": 1,
-          "research": 8,
-          "supplemental": 1
+          "research": 8
         },
         "domain": {
+          "HSC": 22,
           "BLS": 81,
           "ENV": 4,
           "PHY": 11,
           "B/T": 12,
-          "HSC": 21,
           "SOC": 7,
           "HUM": 2
         }

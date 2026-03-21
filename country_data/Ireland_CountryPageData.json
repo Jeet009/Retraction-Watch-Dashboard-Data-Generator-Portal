@@ -20,7 +20,7 @@
       "2017": 0.3049,
       "2018": 0.2864,
       "2019": 0.5368,
-      "2020": 0.3047,
+      "2020": 0.3657,
       "2021": 0.429,
       "2022": 0.4954,
       "2023": 0.8811,
@@ -48,7 +48,7 @@
       "2023": 0.9362,
       "2024": 0.2607
     },
-    "average_rate": 0.4063,
+    "average_rate": 0.4098,
     "yearly_retractions": {
       "1998": 1,
       "1999": 1,
@@ -68,7 +68,7 @@
       "2017": 4,
       "2018": 4,
       "2019": 8,
-      "2020": 5,
+      "2020": 6,
       "2021": 8,
       "2022": 9,
       "2023": 16,
@@ -99,7 +99,7 @@
   },
   "domainwise_data": {
     "country": "Ireland",
-    "total_retractions": 121,
+    "total_retractions": 122,
     "years": {
       "2025": {
         "total": 4,
@@ -172,18 +172,18 @@
         }
       },
       "2020": {
-        "total": 5,
+        "total": 6,
         "marks": {
+          "alterations": 2,
           "researcher_integrity": 2,
-          "alterations": 1,
           "system": 1,
           "research": 1
         },
         "domain": {
+          "BLS": 4,
+          "HSC": 5,
+          "PHY": 2,
           "B/T": 3,
-          "BLS": 3,
-          "HSC": 4,
-          "PHY": 1,
           "SOC": 1
         }
       },
@@ -424,18 +424,18 @@
         }
       },
       "2025": {
-        "total": 16,
+        "total": 17,
         "marks": {
+          "alterations": 7,
           "researcher_integrity": 9,
-          "alterations": 6,
           "research": 1
         },
         "domain": {
+          "BLS": 13,
+          "HSC": 11,
+          "PHY": 4,
           "ENV": 1,
-          "HSC": 10,
-          "PHY": 3,
           "B/T": 14,
-          "BLS": 12,
           "SOC": 2
         }
       },
@@ -689,8 +689,8 @@
       "United States": 15,
       "China": 12,
       "India": 8,
+      "Pakistan": 7,
       "France": 7,
-      "Pakistan": 6,
       "Saudi Arabia": 5,
       "Australia": 5,
       "Italy": 5,
@@ -734,8 +734,8 @@
       "United States": 15,
       "China": 12,
       "India": 8,
+      "Pakistan": 7,
       "France": 7,
-      "Pakistan": 6,
       "Saudi Arabia": 5,
       "Australia": 5,
       "Italy": 5,

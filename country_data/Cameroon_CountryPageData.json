@@ -13,7 +13,7 @@
       "2018": 0.6139,
       "2019": 1.0971,
       "2021": 1.96,
-      "2022": 0.735,
+      "2022": 1.1025,
       "2023": 1.426,
       "2024": 2.8481
     },
@@ -31,7 +31,7 @@
       "2023": 0.713,
       "2024": 1.2658
     },
-    "average_rate": 1.1392,
+    "average_rate": 1.1717,
     "yearly_retractions": {
       "2003": 1,
       "2007": 3,
@@ -44,7 +44,7 @@
       "2018": 1,
       "2019": 2,
       "2021": 5,
-      "2022": 2,
+      "2022": 3,
       "2023": 4,
       "2024": 9
     },
@@ -65,7 +65,7 @@
   },
   "domainwise_data": {
     "country": "Cameroon",
-    "total_retractions": 37,
+    "total_retractions": 38,
     "years": {
       "2025": {
         "total": 2,
@@ -108,15 +108,16 @@
         }
       },
       "2022": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "alterations": 1,
-          "research": 1
+          "research": 2,
+          "alterations": 1
         },
         "domain": {
+          "BLS": 1,
+          "HSC": 4,
           "B/T": 1,
-          "PHY": 1,
-          "HSC": 2
+          "PHY": 1
         }
       },
       "2021": {
@@ -237,16 +238,17 @@
     },
     "notice_years": {
       "2025": {
-        "total": 13,
+        "total": 14,
         "marks": {
+          "research": 1,
           "researcher_integrity": 3,
           "alterations": 10
         },
         "domain": {
+          "BLS": 2,
+          "HSC": 18,
           "B/T": 4,
           "PHY": 7,
-          "HSC": 16,
-          "BLS": 1,
           "ENV": 2
         }
       },
@@ -397,6 +399,7 @@
       "Nigeria": 3,
       "United Kingdom": 3,
       "Zimbabwe": 3,
+      "Belgium": 2,
       "Jordan": 2,
       "Russia": 2,
       "Gabon": 2,
@@ -408,6 +411,7 @@
       "China": 2,
       "Burkina Faso": 2,
       "Italy": 2,
+      "Indonesia": 1,
       "Azerbaijan": 1,
       "Hungary": 1,
       "Saudi Arabia": 1,
@@ -416,7 +420,6 @@
       "Switzerland": 1,
       "Turkey": 1,
       "Botswana": 1,
-      "Belgium": 1,
       "Algeria": 1,
       "Angola": 1,
       "Canada": 1,
@@ -447,6 +450,7 @@
       "Nigeria": 3,
       "United Kingdom": 3,
       "Zimbabwe": 3,
+      "Belgium": 2,
       "Jordan": 2,
       "Russia": 2,
       "Gabon": 2,
@@ -458,6 +462,7 @@
       "China": 2,
       "Burkina Faso": 2,
       "Italy": 2,
+      "Indonesia": 1,
       "Azerbaijan": 1,
       "Hungary": 1,
       "Saudi Arabia": 1,
@@ -466,7 +471,6 @@
       "Switzerland": 1,
       "Turkey": 1,
       "Botswana": 1,
-      "Belgium": 1,
       "Algeria": 1,
       "Angola": 1,
       "Canada": 1,
