@@ -11,7 +11,7 @@
       "2018": 0.5858,
       "2021": 0.3499,
       "2022": 0.3312,
-      "2024": 0.286
+      "2024": 0.5721
     },
     "notice_yearly_rates": {
       "2011": 2.045,
@@ -22,7 +22,7 @@
       "2021": 0.3499,
       "2022": 0.3312
     },
-    "average_rate": 0.3038,
+    "average_rate": 0.3342,
     "yearly_retractions": {
       "2006": 1,
       "2008": 1,
@@ -33,7 +33,7 @@
       "2018": 1,
       "2021": 1,
       "2022": 1,
-      "2024": 1
+      "2024": 2
     },
     "notice_yearly_retractions": {
       "2011": 2,
@@ -47,16 +47,17 @@
   },
   "domainwise_data": {
     "country": "Uganda",
-    "total_retractions": 10,
+    "total_retractions": 11,
     "years": {
       "2024": {
-        "total": 1,
+        "total": 2,
         "marks": {
-          "alterations": 1
+          "alterations": 2
         },
         "domain": {
-          "BLS": 1,
-          "HSC": 2
+          "BLS": 2,
+          "HSC": 4,
+          "PHY": 1
         }
       },
       "2022": {
@@ -148,13 +149,14 @@
     },
     "notice_years": {
       "2025": {
-        "total": 1,
+        "total": 2,
         "marks": {
-          "alterations": 1
+          "alterations": 2
         },
         "domain": {
-          "BLS": 1,
-          "HSC": 2
+          "BLS": 2,
+          "HSC": 4,
+          "PHY": 1
         }
       },
       "2022": {
@@ -229,12 +231,13 @@
     },
     "collaborations": {
       "United Kingdom": 3,
+      "Pakistan": 2,
+      "Saudi Arabia": 2,
       "France": 2,
       "Morocco": 2,
       "Nigeria": 2,
       "Republic of the Congo (Congo-Brazzaville)": 2,
-      "Pakistan": 1,
-      "Saudi Arabia": 1,
+      "Czech Republic": 1,
       "Algeria": 1,
       "Angola": 1,
       "Benin": 1,
@@ -264,12 +267,13 @@
     },
     "notice_collaborations": {
       "United Kingdom": 3,
+      "Pakistan": 2,
+      "Saudi Arabia": 2,
       "France": 2,
       "Morocco": 2,
       "Nigeria": 2,
       "Republic of the Congo (Congo-Brazzaville)": 2,
-      "Pakistan": 1,
-      "Saudi Arabia": 1,
+      "Czech Republic": 1,
       "Algeria": 1,
       "Angola": 1,
       "Benin": 1,

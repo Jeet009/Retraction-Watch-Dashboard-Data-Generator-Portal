@@ -26,7 +26,7 @@
       "2021": 0.6658,
       "2022": 0.8192,
       "2023": 0.5205,
-      "2024": 0.6155
+      "2024": 0.6539
     },
     "notice_yearly_rates": {
       "2003": 0.117,
@@ -46,7 +46,7 @@
       "2023": 0.4004,
       "2024": 0.4616
     },
-    "average_rate": 0.3227,
+    "average_rate": 0.3248,
     "yearly_retractions": {
       "1997": 1,
       "1998": 1,
@@ -72,7 +72,7 @@
       "2021": 18,
       "2022": 21,
       "2023": 13,
-      "2024": 16
+      "2024": 17
     },
     "notice_yearly_retractions": {
       "2003": 1,
@@ -95,7 +95,7 @@
   },
   "domainwise_data": {
     "country": "Czech Republic",
-    "total_retractions": 156,
+    "total_retractions": 157,
     "years": {
       "2025": {
         "total": 2,
@@ -110,18 +110,20 @@
         }
       },
       "2024": {
-        "total": 16,
+        "total": 17,
         "marks": {
+          "alterations": 1,
           "researcher_integrity": 1,
           "research": 12,
           "supplemental": 3
         },
         "domain": {
+          "BLS": 2,
+          "HSC": 2,
+          "PHY": 8,
           "B/T": 10,
           "HUM": 1,
           "SOC": 7,
-          "BLS": 1,
-          "PHY": 7,
           "ENV": 2
         }
       },
@@ -454,21 +456,21 @@
         }
       },
       "2025": {
-        "total": 36,
+        "total": 37,
         "marks": {
+          "alterations": 7,
           "research": 21,
           "researcher_integrity": 8,
-          "supplemental": 1,
-          "alterations": 6
+          "supplemental": 1
         },
         "domain": {
-          "BLS": 6,
+          "BLS": 7,
+          "HSC": 4,
+          "PHY": 18,
           "ENV": 6,
           "B/T": 35,
           "HUM": 2,
-          "SOC": 18,
-          "PHY": 17,
-          "HSC": 2
+          "SOC": 18
         }
       },
       "2024": {
@@ -691,8 +693,8 @@
       }
     },
     "collaborations": {
-      "Pakistan": 30,
-      "Saudi Arabia": 25,
+      "Pakistan": 31,
+      "Saudi Arabia": 26,
       "China": 23,
       "United States": 19,
       "Ukraine": 14,
@@ -729,6 +731,7 @@
       "Kuwait": 2,
       "Canada": 2,
       "Switzerland": 2,
+      "Uganda": 1,
       "Ireland": 1,
       "Lebanon": 1,
       "Hong Kong": 1,
@@ -748,8 +751,8 @@
       "Portugal": 1
     },
     "notice_collaborations": {
-      "Pakistan": 30,
-      "Saudi Arabia": 25,
+      "Pakistan": 31,
+      "Saudi Arabia": 26,
       "China": 23,
       "United States": 19,
       "Ukraine": 14,
@@ -786,6 +789,7 @@
       "Kuwait": 2,
       "Canada": 2,
       "Switzerland": 2,
+      "Uganda": 1,
       "Ireland": 1,
       "Lebanon": 1,
       "Hong Kong": 1,

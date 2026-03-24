@@ -23,9 +23,9 @@
       "2019": 1.4738,
       "2020": 3.3286,
       "2021": 9.7786,
-      "2022": 13.5229,
+      "2022": 13.5587,
       "2023": 3.5953,
-      "2024": 1.9575
+      "2024": 1.9718
     },
     "notice_yearly_rates": {
       "2000": 0.4995,
@@ -49,7 +49,7 @@
       "2023": 10.7184,
       "2024": 6.5344
     },
-    "average_rate": 4.1641,
+    "average_rate": 4.1704,
     "yearly_retractions": {
       "1998": 1,
       "2001": 1,
@@ -72,9 +72,9 @@
       "2019": 40,
       "2020": 121,
       "2021": 450,
-      "2022": 756,
+      "2022": 758,
       "2023": 213,
-      "2024": 136
+      "2024": 137
     },
     "notice_yearly_retractions": {
       "2000": 1,
@@ -101,7 +101,7 @@
   },
   "domainwise_data": {
     "country": "Saudi Arabia",
-    "total_retractions": 1984,
+    "total_retractions": 1987,
     "years": {
       "2026": {
         "total": 1,
@@ -130,21 +130,21 @@
         }
       },
       "2024": {
-        "total": 136,
+        "total": 137,
         "marks": {
-          "alterations": 48,
+          "alterations": 49,
           "researcher_integrity": 52,
           "research": 28,
           "system": 1,
           "supplemental": 7
         },
         "domain": {
+          "BLS": 85,
+          "HSC": 90,
+          "PHY": 114,
           "B/T": 90,
-          "BLS": 84,
           "SOC": 6,
-          "PHY": 113,
-          "ENV": 24,
-          "HSC": 88
+          "ENV": 24
         }
       },
       "2023": {
@@ -167,19 +167,19 @@
         }
       },
       "2022": {
-        "total": 756,
+        "total": 758,
         "marks": {
+          "research": 220,
           "alterations": 341,
-          "research": 218,
           "researcher_integrity": 160,
           "supplemental": 17,
           "system": 20
         },
         "domain": {
-          "BLS": 462,
-          "HSC": 554,
+          "BLS": 463,
+          "HSC": 555,
+          "PHY": 487,
           "ENV": 80,
-          "PHY": 483,
           "B/T": 588,
           "SOC": 68,
           "HUM": 2
@@ -497,36 +497,36 @@
     },
     "notice_years": {
       "2026": {
-        "total": 19,
+        "total": 20,
         "marks": {
+          "research": 6,
           "alterations": 6,
-          "researcher_integrity": 8,
-          "research": 5
+          "researcher_integrity": 8
         },
         "domain": {
-          "BLS": 17,
-          "HSC": 15,
+          "BLS": 18,
+          "HSC": 16,
           "B/T": 10,
           "PHY": 18,
           "ENV": 6
         }
       },
       "2025": {
-        "total": 391,
+        "total": 393,
         "marks": {
-          "alterations": 151,
-          "research": 93,
+          "research": 94,
+          "alterations": 152,
           "researcher_integrity": 139,
           "system": 3,
           "supplemental": 5
         },
         "domain": {
+          "PHY": 406,
+          "BLS": 245,
+          "HSC": 221,
           "B/T": 224,
-          "BLS": 244,
           "SOC": 14,
-          "HSC": 219,
           "ENV": 68,
-          "PHY": 401,
           "HUM": 1
         }
       },
@@ -833,25 +833,25 @@
       }
     },
     "collaborations": {
-      "India": 573,
-      "Pakistan": 498,
-      "Egypt": 411,
-      "China": 327,
+      "India": 575,
+      "Pakistan": 500,
+      "Egypt": 413,
+      "China": 328,
       "Iraq": 143,
       "United States": 142,
       "Malaysia": 133,
       "Ethiopia": 119,
-      "Bangladesh": 111,
-      "South Korea": 94,
+      "Bangladesh": 112,
+      "South Korea": 95,
       "Jordan": 82,
       "Turkey": 72,
-      "United Kingdom": 63,
+      "United Kingdom": 64,
       "Taiwan": 62,
       "Iran": 55,
       "United Arab Emirates": 54,
       "Tunisia": 49,
+      "Thailand": 44,
       "Russia": 43,
-      "Thailand": 43,
       "Australia": 40,
       "Poland": 37,
       "Yemen": 37,
@@ -862,7 +862,7 @@
       "Oman": 30,
       "Spain": 29,
       "Canada": 28,
-      "Czech Republic": 25,
+      "Czech Republic": 26,
       "France": 25,
       "Sudan": 25,
       "South Africa": 23,
@@ -877,8 +877,8 @@
       "Romania": 15,
       "Nepal": 15,
       "Norway": 15,
+      "Qatar": 14,
       "Afghanistan": 14,
-      "Qatar": 13,
       "Slovakia": 11,
       "Chile": 9,
       "Algeria": 9,
@@ -914,6 +914,7 @@
       "Cyprus": 3,
       "Kenya": 3,
       "Israel": 3,
+      "Uganda": 2,
       "Sri Lanka": 2,
       "Botswana": 2,
       "New Zealand": 2,
@@ -927,7 +928,6 @@
       "Libya": 2,
       "Cameroon": 1,
       "Ukraine": 1,
-      "Uganda": 1,
       "Bulgaria": 1,
       "French Guiana": 1,
       "Angola": 1,
@@ -947,25 +947,25 @@
       "Belize": 1
     },
     "notice_collaborations": {
-      "India": 573,
-      "Pakistan": 498,
-      "Egypt": 411,
-      "China": 327,
+      "India": 575,
+      "Pakistan": 500,
+      "Egypt": 413,
+      "China": 328,
       "Iraq": 143,
       "United States": 142,
       "Malaysia": 133,
       "Ethiopia": 119,
-      "Bangladesh": 111,
-      "South Korea": 94,
+      "Bangladesh": 112,
+      "South Korea": 95,
       "Jordan": 82,
       "Turkey": 72,
-      "United Kingdom": 63,
+      "United Kingdom": 64,
       "Taiwan": 62,
       "Iran": 55,
       "United Arab Emirates": 54,
       "Tunisia": 49,
+      "Thailand": 44,
       "Russia": 43,
-      "Thailand": 43,
       "Australia": 40,
       "Poland": 37,
       "Yemen": 37,
@@ -976,7 +976,7 @@
       "Oman": 30,
       "Spain": 29,
       "Canada": 28,
-      "Czech Republic": 25,
+      "Czech Republic": 26,
       "France": 25,
       "Sudan": 25,
       "South Africa": 23,
@@ -991,8 +991,8 @@
       "Romania": 15,
       "Nepal": 15,
       "Norway": 15,
+      "Qatar": 14,
       "Afghanistan": 14,
-      "Qatar": 13,
       "Slovakia": 11,
       "Chile": 9,
       "Algeria": 9,
@@ -1028,6 +1028,7 @@
       "Cyprus": 3,
       "Kenya": 3,
       "Israel": 3,
+      "Uganda": 2,
       "Sri Lanka": 2,
       "Botswana": 2,
       "New Zealand": 2,
@@ -1041,7 +1042,6 @@
       "Libya": 2,
       "Cameroon": 1,
       "Ukraine": 1,
-      "Uganda": 1,
       "Bulgaria": 1,
       "French Guiana": 1,
       "Angola": 1,

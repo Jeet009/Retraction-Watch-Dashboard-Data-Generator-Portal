@@ -119,8 +119,17 @@
   },
   "domainwise_data": {
     "country": "Netherlands",
-    "total_retractions": 421,
+    "total_retractions": 422,
     "years": {
+      "2025": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "HSC": 3
+        }
+      },
       "2024": {
         "total": 6,
         "marks": {
@@ -620,11 +629,13 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 1
         },
         "domain": {
+          "HSC": 3,
           "BLS": 3
         }
       },
