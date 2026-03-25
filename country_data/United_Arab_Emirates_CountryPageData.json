@@ -7,9 +7,9 @@
       "2004": 1.0846,
       "2008": 1.2508,
       "2009": 0.5163,
-      "2011": 1.5221,
+      "2011": 1.9026,
       "2012": 0.3342,
-      "2013": 0.305,
+      "2013": 0.6099,
       "2014": 0.2812,
       "2015": 0.4385,
       "2016": 0.1925,
@@ -40,16 +40,16 @@
       "2023": 2.0478,
       "2024": 1.9454
     },
-    "average_rate": 1.2381,
+    "average_rate": 1.2529,
     "yearly_retractions": {
       "2001": 1,
       "2003": 4,
       "2004": 1,
       "2008": 2,
       "2009": 1,
-      "2011": 4,
+      "2011": 5,
       "2012": 1,
-      "2013": 1,
+      "2013": 2,
       "2014": 1,
       "2015": 2,
       "2016": 1,
@@ -83,7 +83,7 @@
   },
   "domainwise_data": {
     "country": "United Arab Emirates",
-    "total_retractions": 174,
+    "total_retractions": 176,
     "years": {
       "2025": {
         "total": 7,
@@ -255,12 +255,14 @@
         }
       },
       "2013": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "alterations": 1,
           "researcher_integrity": 1
         },
         "domain": {
-          "BLS": 2,
+          "BLS": 3,
+          "ENV": 1,
           "HSC": 3
         }
       },
@@ -276,15 +278,17 @@
         }
       },
       "2011": {
-        "total": 4,
+        "total": 5,
         "marks": {
+          "alterations": 1,
           "supplemental": 1,
           "researcher_integrity": 1,
           "system": 2
         },
         "domain": {
+          "BLS": 6,
+          "ENV": 1,
           "B/T": 1,
-          "BLS": 5,
           "HSC": 5,
           "SOC": 1
         }
@@ -341,11 +345,14 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 3,
         "marks": {
+          "alterations": 2,
           "research": 1
         },
         "domain": {
+          "BLS": 2,
+          "ENV": 2,
           "PHY": 3
         }
       },

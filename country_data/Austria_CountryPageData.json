@@ -12,7 +12,7 @@
       "2007": 0.132,
       "2008": 0.1865,
       "2010": 0.2223,
-      "2011": 0.4129,
+      "2011": 0.4645,
       "2012": 0.0976,
       "2014": 0.2729,
       "2015": 0.2579,
@@ -45,9 +45,9 @@
       "2021": 0.2301,
       "2022": 0.1683,
       "2023": 0.236,
-      "2024": 0.2267
+      "2024": 0.2591
     },
-    "average_rate": 0.1667,
+    "average_rate": 0.1685,
     "yearly_retractions": {
       "1998": 1,
       "2000": 3,
@@ -59,7 +59,7 @@
       "2007": 2,
       "2008": 3,
       "2010": 4,
-      "2011": 8,
+      "2011": 9,
       "2012": 2,
       "2014": 6,
       "2015": 6,
@@ -92,12 +92,12 @@
       "2021": 7,
       "2022": 5,
       "2023": 7,
-      "2024": 7
+      "2024": 8
     }
   },
   "domainwise_data": {
     "country": "Austria",
-    "total_retractions": 89,
+    "total_retractions": 90,
     "years": {
       "2024": {
         "total": 2,
@@ -263,19 +263,19 @@
         }
       },
       "2011": {
-        "total": 8,
+        "total": 9,
         "marks": {
-          "alterations": 3,
+          "alterations": 4,
           "supplemental": 2,
           "researcher_integrity": 1,
           "system": 2
         },
         "domain": {
+          "BLS": 5,
+          "HSC": 5,
           "SOC": 2,
-          "BLS": 4,
           "B/T": 3,
-          "PHY": 1,
-          "HSC": 4
+          "PHY": 1
         }
       },
       "2010": {
@@ -409,20 +409,20 @@
         }
       },
       "2024": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "alterations": 4,
           "researcher_integrity": 1,
           "research": 2,
-          "alterations": 3,
           "supplemental": 1
         },
         "domain": {
+          "BLS": 7,
+          "HSC": 6,
           "B/T": 2,
-          "BLS": 6,
           "ENV": 2,
           "SOC": 1,
-          "PHY": 5,
-          "HSC": 5
+          "PHY": 5
         }
       },
       "2023": {
@@ -657,6 +657,7 @@
       "Italy": 6,
       "Spain": 6,
       "Sweden": 5,
+      "Israel": 4,
       "Egypt": 4,
       "Poland": 4,
       "Switzerland": 4,
@@ -665,7 +666,6 @@
       "Czech Republic": 3,
       "Denmark": 3,
       "Finland": 3,
-      "Israel": 3,
       "Ireland": 3,
       "Ethiopia": 2,
       "Norway": 2,
@@ -712,6 +712,7 @@
       "Italy": 6,
       "Spain": 6,
       "Sweden": 5,
+      "Israel": 4,
       "Egypt": 4,
       "Poland": 4,
       "Switzerland": 4,
@@ -720,7 +721,6 @@
       "Czech Republic": 3,
       "Denmark": 3,
       "Finland": 3,
-      "Israel": 3,
       "Ireland": 3,
       "Ethiopia": 2,
       "Norway": 2,
