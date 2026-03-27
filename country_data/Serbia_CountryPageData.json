@@ -21,7 +21,7 @@
       "2020": 0.4849,
       "2021": 0.9737,
       "2022": 0.7386,
-      "2023": 0.8217
+      "2023": 0.9244
     },
     "notice_yearly_rates": {
       "2004": 2.0647,
@@ -43,7 +43,7 @@
       "2023": 1.1298,
       "2024": 0.7045
     },
-    "average_rate": 0.9456,
+    "average_rate": 0.9526,
     "yearly_retractions": {
       "2003": 3,
       "2004": 2,
@@ -64,7 +64,7 @@
       "2020": 4,
       "2021": 9,
       "2022": 7,
-      "2023": 8
+      "2023": 9
     },
     "notice_yearly_retractions": {
       "2004": 3,
@@ -89,20 +89,22 @@
   },
   "domainwise_data": {
     "country": "Serbia",
-    "total_retractions": 137,
+    "total_retractions": 138,
     "years": {
       "2023": {
-        "total": 8,
+        "total": 9,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 6,
           "supplemental": 1,
           "research": 1
         },
         "domain": {
+          "ENV": 1,
+          "HSC": 4,
           "BLS": 3,
           "B/T": 18,
-          "PHY": 1,
-          "HSC": 2
+          "PHY": 1
         }
       },
       "2022": {
@@ -363,11 +365,14 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 1
         },
         "domain": {
+          "ENV": 1,
+          "HSC": 2,
           "BLS": 3
         }
       },
@@ -619,10 +624,11 @@
       "Germany": 9,
       "Vietnam": 9,
       "Italy": 8,
+      "China": 6,
       "Saudi Arabia": 6,
-      "China": 5,
       "Turkey": 5,
       "India": 5,
+      "Russia": 4,
       "Belgium": 4,
       "United Kingdom": 4,
       "Kuwait": 4,
@@ -635,8 +641,8 @@
       "Tunisia": 3,
       "France": 3,
       "Bosnia & Herzegovina": 3,
-      "Russia": 3,
       "Croatia": 3,
+      "Poland": 2,
       "Australia": 2,
       "Denmark": 2,
       "Hungary": 2,
@@ -654,7 +660,6 @@
       "Yemen": 1,
       "Georgia": 1,
       "Ireland": 1,
-      "Poland": 1,
       "Portugal": 1,
       "Nigeria": 1,
       "Chile": 1,
@@ -670,10 +675,11 @@
       "Germany": 9,
       "Vietnam": 9,
       "Italy": 8,
+      "China": 6,
       "Saudi Arabia": 6,
-      "China": 5,
       "Turkey": 5,
       "India": 5,
+      "Russia": 4,
       "Belgium": 4,
       "United Kingdom": 4,
       "Kuwait": 4,
@@ -686,8 +692,8 @@
       "Tunisia": 3,
       "France": 3,
       "Bosnia & Herzegovina": 3,
-      "Russia": 3,
       "Croatia": 3,
+      "Poland": 2,
       "Australia": 2,
       "Denmark": 2,
       "Hungary": 2,
@@ -705,7 +711,6 @@
       "Yemen": 1,
       "Georgia": 1,
       "Ireland": 1,
-      "Poland": 1,
       "Portugal": 1,
       "Nigeria": 1,
       "Chile": 1,
