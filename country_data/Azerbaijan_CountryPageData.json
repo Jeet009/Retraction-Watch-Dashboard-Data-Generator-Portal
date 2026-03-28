@@ -59,16 +59,19 @@
   },
   "domainwise_data": {
     "country": "Azerbaijan",
-    "total_retractions": 68,
+    "total_retractions": 69,
     "years": {
       "2025": {
-        "total": 3,
+        "total": 4,
         "marks": {
-          "researcher_integrity": 1,
+          "researcher_integrity": 2,
           "research": 1,
           "alterations": 1
         },
         "domain": {
+          "HSC": 1,
+          "HUM": 1,
+          "SOC": 1,
           "B/T": 3,
           "PHY": 2,
           "ENV": 2,
@@ -226,20 +229,20 @@
         }
       },
       "2025": {
-        "total": 28,
+        "total": 29,
         "marks": {
+          "researcher_integrity": 9,
           "research": 17,
-          "researcher_integrity": 8,
           "alterations": 3
         },
         "domain": {
-          "SOC": 6,
+          "HSC": 4,
+          "HUM": 3,
+          "SOC": 7,
           "PHY": 19,
           "B/T": 20,
-          "HSC": 3,
           "ENV": 5,
-          "BLS": 8,
-          "HUM": 2
+          "BLS": 8
         }
       },
       "2024": {
@@ -381,10 +384,10 @@
       "Russia": 12,
       "Turkey": 6,
       "India": 6,
+      "Iran": 5,
       "Jordan": 5,
       "Uzbekistan": 5,
       "Iraq": 4,
-      "Iran": 4,
       "Morocco": 2,
       "Italy": 2,
       "Hungary": 2,
@@ -414,10 +417,10 @@
       "Russia": 12,
       "Turkey": 6,
       "India": 6,
+      "Iran": 5,
       "Jordan": 5,
       "Uzbekistan": 5,
       "Iraq": 4,
-      "Iran": 4,
       "Morocco": 2,
       "Italy": 2,
       "Hungary": 2,

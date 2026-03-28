@@ -5,7 +5,8 @@
       "1997": 0.0,
       "2014": 0.0,
       "2019": 0.0,
-      "2021": 0.0
+      "2021": 0.0,
+      "2023": 0.0
     },
     "notice_yearly_rates": {
       "2013": 0.0,
@@ -18,7 +19,8 @@
       "1997": 2,
       "2014": 1,
       "2019": 1,
-      "2021": 2
+      "2021": 2,
+      "2023": 1
     },
     "notice_yearly_retractions": {
       "2013": 2,
@@ -29,8 +31,18 @@
   },
   "domainwise_data": {
     "country": "Kosovo",
-    "total_retractions": 6,
+    "total_retractions": 7,
     "years": {
+      "2023": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "BLS": 1
+        }
+      },
       "2021": {
         "total": 2,
         "marks": {
@@ -71,6 +83,16 @@
       }
     },
     "notice_years": {
+      "2025": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "BLS": 1
+        }
+      },
       "2023": {
         "total": 2,
         "marks": {
@@ -111,10 +133,24 @@
       }
     },
     "collaborations": {
-      "Taiwan": 2
+      "Taiwan": 2,
+      "Albania": 1,
+      "India": 1,
+      "Jordan": 1,
+      "Lebanon": 1,
+      "Norway": 1,
+      "South Korea": 1,
+      "United Arab Emirates": 1
     },
     "notice_collaborations": {
-      "Taiwan": 2
+      "Taiwan": 2,
+      "Albania": 1,
+      "India": 1,
+      "Jordan": 1,
+      "Lebanon": 1,
+      "Norway": 1,
+      "South Korea": 1,
+      "United Arab Emirates": 1
     }
   },
   "country_flag": "/country_flags/Kosovo.svg"

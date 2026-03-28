@@ -103,20 +103,22 @@
   },
   "domainwise_data": {
     "country": "Iran",
-    "total_retractions": 1859,
+    "total_retractions": 1860,
     "years": {
       "2025": {
-        "total": 10,
+        "total": 11,
         "marks": {
+          "researcher_integrity": 3,
           "research": 2,
-          "researcher_integrity": 2,
           "supplemental": 2,
           "system": 1,
           "alterations": 3
         },
         "domain": {
+          "HSC": 13,
+          "HUM": 1,
+          "SOC": 1,
           "BLS": 7,
-          "HSC": 12,
           "PHY": 13,
           "ENV": 1,
           "B/T": 1
@@ -536,21 +538,22 @@
         }
       },
       "2025": {
-        "total": 250,
+        "total": 251,
         "marks": {
-          "researcher_integrity": 90,
+          "researcher_integrity": 91,
           "alterations": 87,
           "research": 45,
           "supplemental": 2,
           "system": 26
         },
         "domain": {
-          "HSC": 202,
+          "HSC": 203,
+          "HUM": 1,
+          "SOC": 28,
           "ENV": 25,
           "PHY": 259,
           "BLS": 142,
-          "B/T": 85,
-          "SOC": 27
+          "B/T": 85
         }
       },
       "2024": {
@@ -939,6 +942,7 @@
       "Singapore": 7,
       "Oman": 6,
       "Jordan": 6,
+      "Azerbaijan": 5,
       "Nigeria": 5,
       "Sweden": 5,
       "Ecuador": 5,
@@ -948,7 +952,6 @@
       "Finland": 4,
       "Bangladesh": 4,
       "Algeria": 4,
-      "Azerbaijan": 4,
       "Kazakhstan": 4,
       "Ghana": 4,
       "Chile": 3,
@@ -1023,6 +1026,7 @@
       "Singapore": 7,
       "Oman": 6,
       "Jordan": 6,
+      "Azerbaijan": 5,
       "Nigeria": 5,
       "Sweden": 5,
       "Ecuador": 5,
@@ -1032,7 +1036,6 @@
       "Finland": 4,
       "Bangladesh": 4,
       "Algeria": 4,
-      "Azerbaijan": 4,
       "Kazakhstan": 4,
       "Ghana": 4,
       "Chile": 3,
