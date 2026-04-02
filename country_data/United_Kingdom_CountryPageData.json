@@ -13,7 +13,7 @@
       "2004": 0.4282,
       "2005": 0.562,
       "2006": 0.3894,
-      "2007": 0.3772,
+      "2007": 0.3849,
       "2008": 0.489,
       "2009": 0.603,
       "2010": 0.5192,
@@ -63,7 +63,7 @@
       "2023": 0.8827,
       "2024": 0.6052
     },
-    "average_rate": 0.3894,
+    "average_rate": 0.3896,
     "yearly_retractions": {
       "1996": 1,
       "1997": 5,
@@ -76,7 +76,7 @@
       "2004": 47,
       "2005": 67,
       "2006": 49,
-      "2007": 49,
+      "2007": 50,
       "2008": 64,
       "2009": 84,
       "2010": 74,
@@ -129,7 +129,7 @@
   },
   "domainwise_data": {
     "country": "United Kingdom",
-    "total_retractions": 1709,
+    "total_retractions": 1710,
     "years": {
       "2025": {
         "total": 16,
@@ -468,20 +468,20 @@
         }
       },
       "2007": {
-        "total": 49,
+        "total": 50,
         "marks": {
-          "alterations": 10,
+          "alterations": 11,
           "research": 10,
           "supplemental": 24,
           "researcher_integrity": 3,
           "system": 2
         },
         "domain": {
+          "PHY": 8,
           "BLS": 32,
           "HSC": 66,
           "B/T": 6,
-          "SOC": 5,
-          "PHY": 4
+          "SOC": 5
         }
       },
       "2006": {
@@ -830,17 +830,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 15,
+        "total": 16,
         "marks": {
+          "alterations": 8,
           "research": 3,
-          "alterations": 7,
           "researcher_integrity": 4,
           "supplemental": 1
         },
         "domain": {
+          "PHY": 8,
           "BLS": 16,
           "HSC": 4,
-          "PHY": 4,
           "B/T": 13,
           "ENV": 2,
           "SOC": 2
