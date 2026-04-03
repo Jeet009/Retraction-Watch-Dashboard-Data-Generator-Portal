@@ -19,7 +19,7 @@
       "2021": 0.6931,
       "2022": 0.7261,
       "2023": 0.3533,
-      "2024": 0.2085
+      "2024": 0.2246
     },
     "notice_yearly_rates": {
       "1998": 1.6367,
@@ -39,7 +39,7 @@
       "2023": 0.5383,
       "2024": 0.4812
     },
-    "average_rate": 0.5383,
+    "average_rate": 0.5406,
     "yearly_retractions": {
       "1997": 1,
       "1998": 1,
@@ -58,7 +58,7 @@
       "2021": 37,
       "2022": 33,
       "2023": 21,
-      "2024": 13
+      "2024": 14
     },
     "notice_yearly_retractions": {
       "1998": 1,
@@ -81,7 +81,7 @@
   },
   "domainwise_data": {
     "country": "Indonesia",
-    "total_retractions": 239,
+    "total_retractions": 240,
     "years": {
       "2025": {
         "total": 5,
@@ -102,18 +102,18 @@
         }
       },
       "2024": {
-        "total": 13,
+        "total": 14,
         "marks": {
+          "researcher_integrity": 6,
           "research": 3,
-          "alterations": 5,
-          "researcher_integrity": 5
+          "alterations": 5
         },
         "domain": {
-          "BLS": 5,
+          "BLS": 6,
+          "ENV": 3,
+          "PHY": 4,
           "HSC": 15,
-          "B/T": 6,
-          "ENV": 2,
-          "PHY": 2
+          "B/T": 6
         }
       },
       "2023": {
@@ -348,15 +348,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 5,
+        "total": 6,
         "marks": {
+          "researcher_integrity": 1,
           "research": 3,
           "alterations": 2
         },
         "domain": {
-          "BLS": 2,
+          "BLS": 3,
+          "ENV": 1,
+          "PHY": 4,
           "HSC": 7,
-          "PHY": 2,
           "B/T": 2
         }
       },
@@ -605,7 +607,7 @@
     },
     "collaborations": {
       "Saudi Arabia": 33,
-      "India": 31,
+      "India": 32,
       "Malaysia": 25,
       "Iraq": 22,
       "Iran": 18,
@@ -620,9 +622,9 @@
       "United Arab Emirates": 7,
       "Uzbekistan": 7,
       "Spain": 7,
+      "Germany": 6,
       "Peru": 5,
       "Ethiopia": 5,
-      "Germany": 5,
       "South Korea": 4,
       "United Kingdom": 4,
       "Netherlands": 4,
@@ -669,7 +671,7 @@
     },
     "notice_collaborations": {
       "Saudi Arabia": 33,
-      "India": 31,
+      "India": 32,
       "Malaysia": 25,
       "Iraq": 22,
       "Iran": 18,
@@ -684,9 +686,9 @@
       "United Arab Emirates": 7,
       "Uzbekistan": 7,
       "Spain": 7,
+      "Germany": 6,
       "Peru": 5,
       "Ethiopia": 5,
-      "Germany": 5,
       "South Korea": 4,
       "United Kingdom": 4,
       "Netherlands": 4,

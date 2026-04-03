@@ -30,7 +30,7 @@
       "2021": 0.3481,
       "2022": 0.3152,
       "2023": 0.204,
-      "2024": 0.1183
+      "2024": 0.1237
     },
     "notice_yearly_rates": {
       "1997": 0.0953,
@@ -62,7 +62,7 @@
       "2023": 0.5404,
       "2024": 0.5595
     },
-    "average_rate": 0.2986,
+    "average_rate": 0.2989,
     "yearly_retractions": {
       "1996": 25,
       "1997": 13,
@@ -92,7 +92,7 @@
       "2021": 67,
       "2022": 59,
       "2023": 37,
-      "2024": 22
+      "2024": 23
     },
     "notice_yearly_retractions": {
       "1997": 8,
@@ -127,7 +127,7 @@
   },
   "domainwise_data": {
     "country": "Germany",
-    "total_retractions": 1301,
+    "total_retractions": 1302,
     "years": {
       "2025": {
         "total": 12,
@@ -148,19 +148,19 @@
         }
       },
       "2024": {
-        "total": 22,
+        "total": 23,
         "marks": {
+          "researcher_integrity": 6,
           "system": 2,
           "alterations": 11,
-          "researcher_integrity": 5,
           "research": 3,
           "supplemental": 1
         },
         "domain": {
+          "BLS": 19,
+          "ENV": 7,
+          "PHY": 10,
           "HSC": 22,
-          "BLS": 18,
-          "ENV": 6,
-          "PHY": 8,
           "B/T": 7
         }
       },
@@ -844,15 +844,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 13,
+        "total": 14,
         "marks": {
+          "researcher_integrity": 2,
           "research": 6,
-          "alterations": 6,
-          "researcher_integrity": 1
+          "alterations": 6
         },
         "domain": {
-          "HSC": 33,
-          "BLS": 11
+          "BLS": 12,
+          "ENV": 1,
+          "PHY": 2,
+          "HSC": 33
         }
       },
       "2025": {
@@ -1412,7 +1414,7 @@
       "United States": 187,
       "China": 111,
       "United Kingdom": 85,
-      "India": 54,
+      "India": 55,
       "Switzerland": 50,
       "Italy": 50,
       "France": 49,
@@ -1446,13 +1448,13 @@
       "Bangladesh": 7,
       "Taiwan": 7,
       "Ghana": 7,
+      "Indonesia": 6,
       "Malaysia": 6,
       "Romania": 6,
       "South Africa": 6,
       "Nigeria": 5,
       "Ethiopia": 5,
       "Jordan": 5,
-      "Indonesia": 5,
       "Chile": 5,
       "Croatia": 5,
       "Bahrain": 5,
@@ -1527,7 +1529,7 @@
       "United States": 187,
       "China": 111,
       "United Kingdom": 85,
-      "India": 54,
+      "India": 55,
       "Switzerland": 50,
       "Italy": 50,
       "France": 49,
@@ -1561,13 +1563,13 @@
       "Bangladesh": 7,
       "Taiwan": 7,
       "Ghana": 7,
+      "Indonesia": 6,
       "Malaysia": 6,
       "Romania": 6,
       "South Africa": 6,
       "Nigeria": 5,
       "Ethiopia": 5,
       "Jordan": 5,
-      "Indonesia": 5,
       "Chile": 5,
       "Croatia": 5,
       "Bahrain": 5,
