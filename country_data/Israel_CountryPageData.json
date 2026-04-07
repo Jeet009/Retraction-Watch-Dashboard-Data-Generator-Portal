@@ -26,7 +26,7 @@
       "2020": 0.1774,
       "2021": 0.1634,
       "2022": 0.2466,
-      "2023": 0.0834,
+      "2023": 0.1251,
       "2024": 0.1223
     },
     "notice_yearly_rates": {
@@ -52,7 +52,7 @@
       "2023": 0.1251,
       "2024": 0.4484
     },
-    "average_rate": 0.243,
+    "average_rate": 0.2451,
     "yearly_retractions": {
       "1997": 1,
       "1998": 1,
@@ -78,7 +78,7 @@
       "2020": 4,
       "2021": 4,
       "2022": 6,
-      "2023": 2,
+      "2023": 3,
       "2024": 3
     },
     "notice_yearly_retractions": {
@@ -107,7 +107,7 @@
   },
   "domainwise_data": {
     "country": "Israel",
-    "total_retractions": 126,
+    "total_retractions": 127,
     "years": {
       "2025": {
         "total": 1,
@@ -133,15 +133,16 @@
         }
       },
       "2023": {
-        "total": 2,
+        "total": 3,
         "marks": {
+          "researcher_integrity": 1,
           "system": 1,
           "alterations": 1
         },
         "domain": {
-          "BLS": 1,
-          "HSC": 4,
-          "B/T": 1
+          "B/T": 2,
+          "HSC": 6,
+          "BLS": 1
         }
       },
       "2022": {
@@ -486,17 +487,18 @@
     },
     "notice_years": {
       "2025": {
-        "total": 12,
+        "total": 13,
         "marks": {
+          "researcher_integrity": 1,
           "system": 2,
           "supplemental": 1,
           "alterations": 5,
           "research": 4
         },
         "domain": {
+          "B/T": 3,
+          "HSC": 17,
           "BLS": 15,
-          "HSC": 15,
-          "B/T": 2,
           "SOC": 4
         }
       },
@@ -768,9 +770,9 @@
     },
     "collaborations": {
       "United States": 26,
+      "Italy": 8,
       "Germany": 8,
       "United Kingdom": 7,
-      "Italy": 7,
       "Spain": 6,
       "Austria": 4,
       "India": 4,
@@ -810,9 +812,9 @@
     },
     "notice_collaborations": {
       "United States": 26,
+      "Italy": 8,
       "Germany": 8,
       "United Kingdom": 7,
-      "Italy": 7,
       "Spain": 6,
       "Austria": 4,
       "India": 4,
