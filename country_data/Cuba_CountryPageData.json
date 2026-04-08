@@ -6,7 +6,7 @@
       "2013": 0.4342,
       "2017": 1.5472,
       "2018": 0.488,
-      "2020": 0.4023,
+      "2020": 0.8045,
       "2022": 0.4
     },
     "notice_yearly_rates": {
@@ -16,13 +16,13 @@
       "2021": 0.3606,
       "2023": 0.4669
     },
-    "average_rate": 0.1512,
+    "average_rate": 0.1701,
     "yearly_retractions": {
       "2008": 1,
       "2013": 1,
       "2017": 3,
       "2018": 1,
-      "2020": 1,
+      "2020": 2,
       "2022": 1
     },
     "notice_yearly_retractions": {
@@ -35,7 +35,7 @@
   },
   "domainwise_data": {
     "country": "Cuba",
-    "total_retractions": 8,
+    "total_retractions": 9,
     "years": {
       "2022": {
         "total": 1,
@@ -49,13 +49,13 @@
         }
       },
       "2020": {
-        "total": 1,
+        "total": 2,
         "marks": {
-          "research": 1
+          "research": 2
         },
         "domain": {
-          "BLS": 1,
-          "HSC": 1
+          "HSC": 3,
+          "BLS": 1
         }
       },
       "2018": {
@@ -102,14 +102,14 @@
     },
     "notice_years": {
       "2025": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "alterations": 1,
-          "research": 1
+          "research": 2,
+          "alterations": 1
         },
         "domain": {
+          "HSC": 6,
           "BLS": 2,
-          "HSC": 4,
           "SOC": 1
         }
       },
@@ -164,23 +164,25 @@
       }
     },
     "collaborations": {
+      "Belgium": 2,
+      "Mexico": 2,
       "Israel": 2,
+      "Chile": 1,
       "India": 1,
       "Saudi Arabia": 1,
       "South Korea": 1,
-      "Mexico": 1,
       "Uruguay": 1,
-      "Belgium": 1,
       "China": 1
     },
     "notice_collaborations": {
+      "Belgium": 2,
+      "Mexico": 2,
       "Israel": 2,
+      "Chile": 1,
       "India": 1,
       "Saudi Arabia": 1,
       "South Korea": 1,
-      "Mexico": 1,
       "Uruguay": 1,
-      "Belgium": 1,
       "China": 1
     }
   },
