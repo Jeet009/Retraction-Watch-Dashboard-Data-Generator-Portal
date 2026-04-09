@@ -89,8 +89,18 @@
   },
   "domainwise_data": {
     "country": "Argentina",
-    "total_retractions": 67,
+    "total_retractions": 68,
     "years": {
+      "2025": {
+        "total": 1,
+        "marks": {
+          "system": 1
+        },
+        "domain": {
+          "BLS": 1,
+          "HSC": 2
+        }
+      },
       "2024": {
         "total": 1,
         "marks": {
@@ -355,12 +365,14 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "system": 1,
           "alterations": 1
         },
         "domain": {
-          "BLS": 3
+          "BLS": 4,
+          "HSC": 2
         }
       },
       "2025": {
@@ -596,8 +608,8 @@
       }
     },
     "collaborations": {
-      "United States": 9,
-      "United Kingdom": 5,
+      "United States": 10,
+      "United Kingdom": 6,
       "Brazil": 5,
       "Spain": 5,
       "Chile": 5,
@@ -617,6 +629,8 @@
       "Iraq": 2,
       "Thailand": 2,
       "New Zealand": 2,
+      "Pakistan": 1,
+      "Qatar": 1,
       "South Korea": 1,
       "Taiwan": 1,
       "Iran": 1,
@@ -629,8 +643,8 @@
       "Switzerland": 1
     },
     "notice_collaborations": {
-      "United States": 9,
-      "United Kingdom": 5,
+      "United States": 10,
+      "United Kingdom": 6,
       "Brazil": 5,
       "Spain": 5,
       "Chile": 5,
@@ -650,6 +664,8 @@
       "Iraq": 2,
       "Thailand": 2,
       "New Zealand": 2,
+      "Pakistan": 1,
+      "Qatar": 1,
       "South Korea": 1,
       "Taiwan": 1,
       "Iran": 1,

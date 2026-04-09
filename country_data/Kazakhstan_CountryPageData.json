@@ -14,8 +14,8 @@
       "2020": 2.8144,
       "2021": 6.5934,
       "2022": 5.1439,
-      "2023": 2.9049,
-      "2024": 0.6823
+      "2023": 3.0501,
+      "2024": 0.796
     },
     "notice_yearly_rates": {
       "2010": 2.1097,
@@ -32,7 +32,7 @@
       "2023": 4.793,
       "2024": 3.184
     },
-    "average_rate": 3.0948,
+    "average_rate": 3.1269,
     "yearly_retractions": {
       "2010": 1,
       "2011": 1,
@@ -46,8 +46,8 @@
       "2020": 16,
       "2021": 39,
       "2022": 32,
-      "2023": 20,
-      "2024": 6
+      "2023": 21,
+      "2024": 7
     },
     "notice_yearly_retractions": {
       "2010": 1,
@@ -67,34 +67,36 @@
   },
   "domainwise_data": {
     "country": "Kazakhstan",
-    "total_retractions": 193,
+    "total_retractions": 195,
     "years": {
       "2024": {
-        "total": 6,
+        "total": 7,
         "marks": {
+          "supplemental": 1,
           "research": 6
         },
         "domain": {
+          "SOC": 4,
           "B/T": 5,
           "PHY": 3,
-          "SOC": 3,
           "HUM": 1
         }
       },
       "2023": {
-        "total": 20,
+        "total": 21,
         "marks": {
-          "research": 14,
+          "research": 15,
           "researcher_integrity": 3,
           "alterations": 2,
           "supplemental": 1
         },
         "domain": {
+          "HUM": 1,
+          "SOC": 14,
           "B/T": 8,
           "HSC": 5,
           "PHY": 7,
           "ENV": 12,
-          "SOC": 13,
           "BLS": 4
         }
       },
@@ -262,6 +264,17 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 2,
+        "marks": {
+          "research": 1,
+          "supplemental": 1
+        },
+        "domain": {
+          "HUM": 1,
+          "SOC": 2
+        }
+      },
       "2025": {
         "total": 32,
         "marks": {
