@@ -16,17 +16,17 @@
       "2011": 1.933,
       "2012": 2.4799,
       "2013": 2.2434,
-      "2014": 2.3108,
-      "2015": 1.8846,
+      "2014": 2.3769,
+      "2015": 1.9454,
       "2016": 1.7513,
       "2017": 2.135,
       "2018": 2.2532,
       "2019": 2.0175,
-      "2020": 3.5267,
+      "2020": 3.5587,
       "2021": 4.4309,
       "2022": 5.1489,
       "2023": 1.8929,
-      "2024": 0.9547
+      "2024": 0.9786
     },
     "notice_yearly_rates": {
       "1998": 0.3331,
@@ -51,7 +51,7 @@
       "2023": 5.6786,
       "2024": 5.0839
     },
-    "average_rate": 2.425,
+    "average_rate": 2.4346,
     "yearly_retractions": {
       "1997": 1,
       "1999": 1,
@@ -67,17 +67,17 @@
       "2011": 21,
       "2012": 32,
       "2013": 32,
-      "2014": 35,
-      "2015": 31,
+      "2014": 36,
+      "2015": 32,
       "2016": 33,
       "2017": 40,
       "2018": 48,
       "2019": 50,
-      "2020": 110,
+      "2020": 111,
       "2021": 164,
       "2022": 216,
       "2023": 77,
-      "2024": 40
+      "2024": 41
     },
     "notice_yearly_retractions": {
       "1998": 1,
@@ -105,7 +105,7 @@
   },
   "domainwise_data": {
     "country": "Egypt",
-    "total_retractions": 1022,
+    "total_retractions": 1026,
     "years": {
       "2025": {
         "total": 10,
@@ -124,17 +124,17 @@
         }
       },
       "2024": {
-        "total": 40,
+        "total": 41,
         "marks": {
-          "research": 11,
+          "research": 12,
           "alterations": 14,
           "researcher_integrity": 13,
           "supplemental": 2
         },
         "domain": {
+          "PHY": 32,
           "BLS": 33,
           "HSC": 25,
-          "PHY": 30,
           "ENV": 6,
           "B/T": 19,
           "SOC": 2
@@ -196,19 +196,19 @@
         }
       },
       "2020": {
-        "total": 110,
+        "total": 111,
         "marks": {
-          "alterations": 55,
+          "alterations": 56,
           "research": 40,
           "researcher_integrity": 7,
           "system": 3,
           "supplemental": 5
         },
         "domain": {
+          "PHY": 70,
           "HSC": 105,
           "BLS": 116,
           "B/T": 22,
-          "PHY": 68,
           "SOC": 1,
           "ENV": 2
         }
@@ -280,35 +280,35 @@
         }
       },
       "2015": {
-        "total": 31,
+        "total": 32,
         "marks": {
+          "alterations": 18,
           "research": 7,
-          "alterations": 17,
           "researcher_integrity": 4,
           "supplemental": 3
         },
         "domain": {
+          "ENV": 5,
+          "PHY": 17,
           "HSC": 41,
           "BLS": 25,
-          "PHY": 15,
-          "ENV": 4,
           "B/T": 1
         }
       },
       "2014": {
-        "total": 35,
+        "total": 36,
         "marks": {
-          "research": 9,
+          "research": 10,
           "alterations": 19,
           "supplemental": 4,
           "researcher_integrity": 2,
           "system": 1
         },
         "domain": {
+          "ENV": 5,
+          "PHY": 12,
           "HSC": 57,
           "BLS": 30,
-          "PHY": 9,
-          "ENV": 4,
           "B/T": 4
         }
       },
@@ -509,20 +509,20 @@
         }
       },
       "2025": {
-        "total": 191,
+        "total": 195,
         "marks": {
-          "alterations": 72,
-          "research": 78,
+          "research": 80,
+          "alterations": 74,
           "researcher_integrity": 35,
           "system": 3,
           "supplemental": 3
         },
         "domain": {
+          "PHY": 143,
+          "ENV": 21,
           "HSC": 175,
           "BLS": 110,
-          "PHY": 134,
           "B/T": 77,
-          "ENV": 19,
           "SOC": 7
         }
       },
@@ -839,7 +839,7 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 421,
+      "Saudi Arabia": 425,
       "China": 111,
       "India": 105,
       "Pakistan": 89,
@@ -924,7 +924,7 @@
       "Finland": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 421,
+      "Saudi Arabia": 425,
       "China": 111,
       "India": 105,
       "Pakistan": 89,

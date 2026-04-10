@@ -15,7 +15,7 @@
       "2021": 6.5934,
       "2022": 5.1439,
       "2023": 3.0501,
-      "2024": 0.796
+      "2024": 1.2509
     },
     "notice_yearly_rates": {
       "2010": 2.1097,
@@ -32,7 +32,7 @@
       "2023": 4.793,
       "2024": 3.184
     },
-    "average_rate": 3.1269,
+    "average_rate": 3.191,
     "yearly_retractions": {
       "2010": 1,
       "2011": 1,
@@ -47,7 +47,7 @@
       "2021": 39,
       "2022": 32,
       "2023": 21,
-      "2024": 7
+      "2024": 11
     },
     "notice_yearly_retractions": {
       "2010": 1,
@@ -67,17 +67,18 @@
   },
   "domainwise_data": {
     "country": "Kazakhstan",
-    "total_retractions": 195,
+    "total_retractions": 199,
     "years": {
       "2024": {
-        "total": 7,
+        "total": 11,
         "marks": {
-          "supplemental": 1,
-          "research": 6
+          "supplemental": 3,
+          "research": 7,
+          "researcher_integrity": 1
         },
         "domain": {
-          "SOC": 4,
-          "B/T": 5,
+          "B/T": 6,
+          "SOC": 12,
           "PHY": 3,
           "HUM": 1
         }
@@ -265,14 +266,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 2,
+        "total": 6,
         "marks": {
-          "research": 1,
-          "supplemental": 1
+          "supplemental": 3,
+          "research": 2,
+          "researcher_integrity": 1
         },
         "domain": {
-          "HUM": 1,
-          "SOC": 2
+          "B/T": 1,
+          "SOC": 10,
+          "HUM": 1
         }
       },
       "2025": {
@@ -475,6 +478,7 @@
       "Ethiopia": 6,
       "Iraq": 5,
       "Iran": 4,
+      "Germany": 2,
       "Bangladesh": 2,
       "Malaysia": 2,
       "Turkey": 2,
@@ -483,7 +487,6 @@
       "Peru": 2,
       "Romania": 2,
       "Kyrgyzstan": 2,
-      "Germany": 1,
       "Lebanon": 1,
       "Czech Republic": 1,
       "Kuwait": 1,
@@ -516,6 +519,7 @@
       "Ethiopia": 6,
       "Iraq": 5,
       "Iran": 4,
+      "Germany": 2,
       "Bangladesh": 2,
       "Malaysia": 2,
       "Turkey": 2,
@@ -524,7 +528,6 @@
       "Peru": 2,
       "Romania": 2,
       "Kyrgyzstan": 2,
-      "Germany": 1,
       "Lebanon": 1,
       "Czech Republic": 1,
       "Kuwait": 1,
