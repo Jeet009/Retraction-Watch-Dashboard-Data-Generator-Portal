@@ -21,7 +21,8 @@
       "2020": 0.4849,
       "2021": 0.9737,
       "2022": 0.7386,
-      "2023": 0.9244
+      "2023": 0.9244,
+      "2024": 0.1006
     },
     "notice_yearly_rates": {
       "2004": 2.0647,
@@ -43,7 +44,7 @@
       "2023": 1.1298,
       "2024": 0.7045
     },
-    "average_rate": 0.9526,
+    "average_rate": 0.9595,
     "yearly_retractions": {
       "2003": 3,
       "2004": 2,
@@ -64,7 +65,8 @@
       "2020": 4,
       "2021": 9,
       "2022": 7,
-      "2023": 9
+      "2023": 9,
+      "2024": 1
     },
     "notice_yearly_retractions": {
       "2004": 3,
@@ -89,8 +91,18 @@
   },
   "domainwise_data": {
     "country": "Serbia",
-    "total_retractions": 138,
+    "total_retractions": 139,
     "years": {
+      "2024": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "ENV": 1
+        }
+      },
       "2023": {
         "total": 9,
         "marks": {
@@ -365,13 +377,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 2,
+        "total": 3,
         "marks": {
+          "research": 1,
           "researcher_integrity": 1,
           "alterations": 1
         },
         "domain": {
-          "ENV": 1,
+          "B/T": 1,
+          "ENV": 2,
           "HSC": 2,
           "BLS": 3
         }
@@ -624,19 +638,20 @@
       "Germany": 9,
       "Vietnam": 9,
       "Italy": 8,
-      "China": 6,
+      "China": 7,
       "Saudi Arabia": 6,
+      "Pakistan": 5,
       "Turkey": 5,
       "India": 5,
+      "Taiwan": 4,
       "Russia": 4,
       "Belgium": 4,
       "United Kingdom": 4,
       "Kuwait": 4,
-      "Pakistan": 4,
       "Egypt": 4,
       "Montenegro": 4,
+      "Lebanon": 3,
       "Netherlands": 3,
-      "Taiwan": 3,
       "Greece": 3,
       "Tunisia": 3,
       "France": 3,
@@ -647,7 +662,6 @@
       "Denmark": 2,
       "Hungary": 2,
       "South Korea": 2,
-      "Lebanon": 2,
       "Spain": 2,
       "Canada": 2,
       "Japan": 2,
@@ -675,19 +689,20 @@
       "Germany": 9,
       "Vietnam": 9,
       "Italy": 8,
-      "China": 6,
+      "China": 7,
       "Saudi Arabia": 6,
+      "Pakistan": 5,
       "Turkey": 5,
       "India": 5,
+      "Taiwan": 4,
       "Russia": 4,
       "Belgium": 4,
       "United Kingdom": 4,
       "Kuwait": 4,
-      "Pakistan": 4,
       "Egypt": 4,
       "Montenegro": 4,
+      "Lebanon": 3,
       "Netherlands": 3,
-      "Taiwan": 3,
       "Greece": 3,
       "Tunisia": 3,
       "France": 3,
@@ -698,7 +713,6 @@
       "Denmark": 2,
       "Hungary": 2,
       "South Korea": 2,
-      "Lebanon": 2,
       "Spain": 2,
       "Canada": 2,
       "Japan": 2,

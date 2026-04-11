@@ -15,10 +15,10 @@
       "2008": 0.2096,
       "2009": 0.2169,
       "2010": 0.263,
-      "2011": 0.3118,
+      "2011": 0.3216,
       "2012": 0.3288,
       "2013": 0.4275,
-      "2014": 0.324,
+      "2014": 0.333,
       "2015": 0.2141,
       "2016": 0.3513,
       "2017": 0.4538,
@@ -58,7 +58,7 @@
       "2023": 0.3862,
       "2024": 0.6558
     },
-    "average_rate": 0.2498,
+    "average_rate": 0.2506,
     "yearly_retractions": {
       "1998": 1,
       "1999": 3,
@@ -73,10 +73,10 @@
       "2008": 19,
       "2009": 21,
       "2010": 26,
-      "2011": 32,
+      "2011": 33,
       "2012": 35,
       "2013": 47,
-      "2014": 36,
+      "2014": 37,
       "2015": 24,
       "2016": 40,
       "2017": 52,
@@ -119,7 +119,7 @@
   },
   "domainwise_data": {
     "country": "France",
-    "total_retractions": 688,
+    "total_retractions": 690,
     "years": {
       "2025": {
         "total": 6,
@@ -314,15 +314,15 @@
         }
       },
       "2014": {
-        "total": 36,
+        "total": 37,
         "marks": {
+          "researcher_integrity": 4,
           "research": 10,
           "alterations": 16,
-          "supplemental": 7,
-          "researcher_integrity": 3
+          "supplemental": 7
         },
         "domain": {
-          "BLS": 45,
+          "BLS": 48,
           "PHY": 16,
           "HSC": 21,
           "SOC": 4,
@@ -369,18 +369,18 @@
         }
       },
       "2011": {
-        "total": 32,
+        "total": 33,
         "marks": {
+          "researcher_integrity": 4,
           "research": 6,
-          "researcher_integrity": 3,
           "alterations": 15,
           "supplemental": 6,
           "system": 2
         },
         "domain": {
+          "BLS": 36,
+          "HSC": 30,
           "SOC": 6,
-          "BLS": 34,
-          "HSC": 29,
           "B/T": 2,
           "ENV": 2,
           "PHY": 9,
@@ -658,30 +658,30 @@
     },
     "notice_years": {
       "2026": {
-        "total": 8,
+        "total": 9,
         "marks": {
-          "researcher_integrity": 4,
+          "researcher_integrity": 5,
           "alterations": 3,
           "research": 1
         },
         "domain": {
+          "BLS": 12,
           "HSC": 13,
-          "BLS": 9,
           "B/T": 1
         }
       },
       "2025": {
-        "total": 59,
+        "total": 60,
         "marks": {
-          "researcher_integrity": 28,
+          "researcher_integrity": 29,
           "alterations": 20,
           "research": 6,
           "system": 3,
           "supplemental": 2
         },
         "domain": {
-          "BLS": 60,
-          "HSC": 60,
+          "BLS": 62,
+          "HSC": 61,
           "SOC": 18,
           "B/T": 9,
           "PHY": 24
