@@ -17,11 +17,11 @@
       "2014": 0.4259,
       "2015": 0.262,
       "2016": 0.3778,
-      "2017": 0.0863,
+      "2017": 0.1079,
       "2018": 0.2033,
       "2019": 0.2289,
       "2020": 0.0886,
-      "2021": 0.5506,
+      "2021": 0.5673,
       "2022": 0.6538,
       "2023": 0.6306,
       "2024": 0.3845
@@ -51,7 +51,7 @@
       "2023": 0.2162,
       "2024": 0.6641
     },
-    "average_rate": 0.2556,
+    "average_rate": 0.2576,
     "yearly_retractions": {
       "1996": 3,
       "1999": 2,
@@ -68,11 +68,11 @@
       "2014": 17,
       "2015": 11,
       "2016": 17,
-      "2017": 4,
+      "2017": 5,
       "2018": 10,
       "2019": 12,
       "2020": 5,
-      "2021": 33,
+      "2021": 34,
       "2022": 37,
       "2023": 35,
       "2024": 22
@@ -105,7 +105,7 @@
   },
   "domainwise_data": {
     "country": "Poland",
-    "total_retractions": 268,
+    "total_retractions": 270,
     "years": {
       "2025": {
         "total": 2,
@@ -171,18 +171,18 @@
         }
       },
       "2021": {
-        "total": 33,
+        "total": 34,
         "marks": {
+          "alterations": 8,
           "researcher_integrity": 15,
           "research": 9,
-          "alterations": 7,
           "system": 1,
           "supplemental": 1
         },
         "domain": {
+          "HSC": 38,
           "B/T": 14,
           "ENV": 5,
-          "HSC": 35,
           "SOC": 8,
           "PHY": 4,
           "BLS": 14,
@@ -235,15 +235,16 @@
         }
       },
       "2017": {
-        "total": 4,
+        "total": 5,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 3,
           "system": 1
         },
         "domain": {
+          "BLS": 2,
+          "HSC": 5,
           "PHY": 3,
-          "BLS": 1,
-          "HSC": 2,
           "SOC": 1
         }
       },
@@ -534,18 +535,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 5,
+        "total": 7,
         "marks": {
-          "researcher_integrity": 3,
-          "research": 1,
-          "alterations": 1
+          "alterations": 2,
+          "researcher_integrity": 4,
+          "research": 1
         },
         "domain": {
+          "HSC": 13,
+          "BLS": 3,
           "B/T": 1,
           "ENV": 4,
-          "HSC": 7,
-          "PHY": 1,
-          "BLS": 2
+          "PHY": 1
         }
       },
       "2025": {
@@ -882,18 +883,18 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 41,
+      "Saudi Arabia": 42,
       "China": 38,
       "Iraq": 33,
-      "India": 26,
-      "Pakistan": 26,
-      "United States": 23,
+      "India": 27,
+      "Pakistan": 27,
+      "United States": 24,
       "Germany": 21,
       "United Kingdom": 20,
       "Ukraine": 14,
       "Hungary": 13,
+      "Egypt": 11,
       "Iran": 10,
-      "Egypt": 10,
       "Canada": 9,
       "South Korea": 9,
       "Spain": 8,
@@ -904,10 +905,10 @@
       "Malaysia": 7,
       "Switzerland": 7,
       "Sweden": 7,
+      "Bangladesh": 6,
       "Romania": 6,
       "Czech Republic": 6,
       "Denmark": 6,
-      "Bangladesh": 5,
       "South Africa": 5,
       "Qatar": 5,
       "Jordan": 5,
@@ -923,6 +924,7 @@
       "Lithuania": 3,
       "United Arab Emirates": 3,
       "Finland": 3,
+      "Colombia": 2,
       "Serbia": 2,
       "Azerbaijan": 2,
       "Algeria": 2,
@@ -951,23 +953,22 @@
       "Iceland": 1,
       "North Macedonia (formerly Macedonia)": 1,
       "Belize": 1,
-      "Colombia": 1,
       "Thailand": 1,
       "Nepal": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 41,
+      "Saudi Arabia": 42,
       "China": 38,
       "Iraq": 33,
-      "India": 26,
-      "Pakistan": 26,
-      "United States": 23,
+      "India": 27,
+      "Pakistan": 27,
+      "United States": 24,
       "Germany": 21,
       "United Kingdom": 20,
       "Ukraine": 14,
       "Hungary": 13,
+      "Egypt": 11,
       "Iran": 10,
-      "Egypt": 10,
       "Canada": 9,
       "South Korea": 9,
       "Spain": 8,
@@ -978,10 +979,10 @@
       "Malaysia": 7,
       "Switzerland": 7,
       "Sweden": 7,
+      "Bangladesh": 6,
       "Romania": 6,
       "Czech Republic": 6,
       "Denmark": 6,
-      "Bangladesh": 5,
       "South Africa": 5,
       "Qatar": 5,
       "Jordan": 5,
@@ -997,6 +998,7 @@
       "Lithuania": 3,
       "United Arab Emirates": 3,
       "Finland": 3,
+      "Colombia": 2,
       "Serbia": 2,
       "Azerbaijan": 2,
       "Algeria": 2,
@@ -1025,7 +1027,6 @@
       "Iceland": 1,
       "North Macedonia (formerly Macedonia)": 1,
       "Belize": 1,
-      "Colombia": 1,
       "Thailand": 1,
       "Nepal": 1
     }

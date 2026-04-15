@@ -9,7 +9,7 @@
       "2014": 0.1265,
       "2015": 0.2285,
       "2016": 0.5876,
-      "2017": 0.2632,
+      "2017": 0.3509,
       "2018": 0.5514,
       "2019": 1.7825,
       "2020": 1.4229,
@@ -31,7 +31,7 @@
       "2023": 0.7862,
       "2024": 0.4112
     },
-    "average_rate": 0.5198,
+    "average_rate": 0.525,
     "yearly_retractions": {
       "2004": 1,
       "2006": 1,
@@ -40,7 +40,7 @@
       "2014": 1,
       "2015": 2,
       "2016": 6,
-      "2017": 3,
+      "2017": 4,
       "2018": 7,
       "2019": 26,
       "2020": 23,
@@ -65,7 +65,7 @@
   },
   "domainwise_data": {
     "country": "Colombia",
-    "total_retractions": 101,
+    "total_retractions": 102,
     "years": {
       "2024": {
         "total": 2,
@@ -169,14 +169,15 @@
         }
       },
       "2017": {
-        "total": 3,
+        "total": 4,
         "marks": {
-          "alterations": 2,
-          "researcher_integrity": 1
+          "researcher_integrity": 2,
+          "alterations": 2
         },
         "domain": {
-          "PHY": 6,
-          "HSC": 3
+          "BLS": 1,
+          "HSC": 6,
+          "PHY": 6
         }
       },
       "2016": {
@@ -254,6 +255,16 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "BLS": 1,
+          "HSC": 3
+        }
+      },
       "2025": {
         "total": 5,
         "marks": {
@@ -418,7 +429,7 @@
     "collaborations": {
       "Honduras": 20,
       "Peru": 19,
-      "United States": 16,
+      "United States": 17,
       "China": 11,
       "Pakistan": 8,
       "India": 7,
@@ -434,6 +445,7 @@
       "Thailand": 3,
       "Lebanon": 3,
       "Taiwan": 3,
+      "Poland": 2,
       "Australia": 2,
       "Argentina": 2,
       "Indonesia": 2,
@@ -451,7 +463,6 @@
       "Iran": 1,
       "Guatemala": 1,
       "Belize": 1,
-      "Poland": 1,
       "Nepal": 1,
       "Tunisia": 1,
       "Belgium": 1,
@@ -464,7 +475,7 @@
     "notice_collaborations": {
       "Honduras": 20,
       "Peru": 19,
-      "United States": 16,
+      "United States": 17,
       "China": 11,
       "Pakistan": 8,
       "India": 7,
@@ -480,6 +491,7 @@
       "Thailand": 3,
       "Lebanon": 3,
       "Taiwan": 3,
+      "Poland": 2,
       "Australia": 2,
       "Argentina": 2,
       "Indonesia": 2,
@@ -497,7 +509,6 @@
       "Iran": 1,
       "Guatemala": 1,
       "Belize": 1,
-      "Poland": 1,
       "Nepal": 1,
       "Tunisia": 1,
       "Belgium": 1,
