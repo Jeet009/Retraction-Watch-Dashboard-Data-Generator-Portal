@@ -19,7 +19,7 @@
       "2019": 0.2959,
       "2020": 0.5471,
       "2021": 0.3207,
-      "2022": 0.521,
+      "2022": 0.5535,
       "2023": 0.2703,
       "2024": 0.2274
     },
@@ -41,7 +41,7 @@
       "2023": 0.5743,
       "2024": 0.5522
     },
-    "average_rate": 0.27,
+    "average_rate": 0.272,
     "yearly_retractions": {
       "2000": 1,
       "2004": 1,
@@ -60,7 +60,7 @@
       "2019": 8,
       "2020": 16,
       "2021": 10,
-      "2022": 16,
+      "2022": 17,
       "2023": 8,
       "2024": 7
     },
@@ -85,7 +85,7 @@
   },
   "domainwise_data": {
     "country": "Mexico",
-    "total_retractions": 130,
+    "total_retractions": 131,
     "years": {
       "2024": {
         "total": 7,
@@ -122,18 +122,18 @@
         }
       },
       "2022": {
-        "total": 16,
+        "total": 17,
         "marks": {
+          "research": 5,
           "researcher_integrity": 5,
           "alterations": 5,
-          "research": 4,
           "supplemental": 1,
           "system": 1
         },
         "domain": {
+          "B/T": 8,
           "BLS": 8,
           "HSC": 17,
-          "B/T": 7,
           "ENV": 3,
           "PHY": 8
         }
@@ -361,12 +361,13 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "research": 1,
           "researcher_integrity": 1
         },
         "domain": {
-          "B/T": 1,
+          "B/T": 2,
           "ENV": 1,
           "PHY": 2
         }
