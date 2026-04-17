@@ -13,7 +13,7 @@
       "2010": 0.0663,
       "2011": 0.1886,
       "2012": 0.2839,
-      "2013": 0.2383,
+      "2013": 0.2648,
       "2014": 0.4259,
       "2015": 0.262,
       "2016": 0.3778,
@@ -22,7 +22,7 @@
       "2019": 0.2289,
       "2020": 0.0886,
       "2021": 0.584,
-      "2022": 0.6538,
+      "2022": 0.6714,
       "2023": 0.6306,
       "2024": 0.3845
     },
@@ -51,7 +51,7 @@
       "2023": 0.2162,
       "2024": 0.6641
     },
-    "average_rate": 0.2587,
+    "average_rate": 0.2607,
     "yearly_retractions": {
       "1996": 3,
       "1999": 2,
@@ -64,7 +64,7 @@
       "2010": 2,
       "2011": 6,
       "2012": 10,
-      "2013": 9,
+      "2013": 10,
       "2014": 17,
       "2015": 11,
       "2016": 17,
@@ -73,7 +73,7 @@
       "2019": 12,
       "2020": 5,
       "2021": 35,
-      "2022": 37,
+      "2022": 38,
       "2023": 35,
       "2024": 22
     },
@@ -105,7 +105,7 @@
   },
   "domainwise_data": {
     "country": "Poland",
-    "total_retractions": 271,
+    "total_retractions": 273,
     "years": {
       "2025": {
         "total": 2,
@@ -153,18 +153,18 @@
         }
       },
       "2022": {
-        "total": 37,
+        "total": 38,
         "marks": {
+          "research": 4,
           "researcher_integrity": 18,
           "alterations": 10,
-          "research": 3,
           "system": 3,
           "supplemental": 3
         },
         "domain": {
+          "HSC": 18,
           "B/T": 12,
           "ENV": 5,
-          "HSC": 15,
           "PHY": 34,
           "SOC": 3,
           "BLS": 29
@@ -297,19 +297,19 @@
         }
       },
       "2013": {
-        "total": 9,
+        "total": 10,
         "marks": {
-          "alterations": 2,
+          "alterations": 3,
           "researcher_integrity": 2,
           "supplemental": 2,
           "research": 3
         },
         "domain": {
+          "B/T": 3,
+          "PHY": 3,
           "BLS": 11,
           "HSC": 10,
-          "SOC": 1,
-          "B/T": 2,
-          "PHY": 2
+          "SOC": 1
         }
       },
       "2012": {
@@ -535,18 +535,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 8,
+        "total": 10,
         "marks": {
-          "research": 2,
-          "alterations": 2,
+          "alterations": 3,
+          "research": 3,
           "researcher_integrity": 4
         },
         "domain": {
+          "B/T": 2,
+          "PHY": 2,
+          "HSC": 18,
           "BLS": 4,
-          "HSC": 15,
-          "B/T": 1,
-          "ENV": 4,
-          "PHY": 1
+          "ENV": 4
         }
       },
       "2025": {
@@ -883,26 +883,26 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 43,
-      "China": 38,
+      "Saudi Arabia": 44,
+      "China": 39,
       "Iraq": 33,
+      "Pakistan": 29,
       "India": 28,
-      "Pakistan": 28,
       "United States": 24,
       "Germany": 21,
       "United Kingdom": 20,
       "Ukraine": 14,
+      "Egypt": 13,
       "Hungary": 13,
-      "Egypt": 12,
+      "Canada": 10,
       "Iran": 10,
-      "Canada": 9,
       "South Korea": 9,
+      "Australia": 8,
+      "Bangladesh": 8,
       "Spain": 8,
       "Italy": 8,
       "France": 8,
       "Netherlands": 8,
-      "Bangladesh": 7,
-      "Australia": 7,
       "Malaysia": 7,
       "Switzerland": 7,
       "Sweden": 7,
@@ -957,26 +957,26 @@
       "Nepal": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 43,
-      "China": 38,
+      "Saudi Arabia": 44,
+      "China": 39,
       "Iraq": 33,
+      "Pakistan": 29,
       "India": 28,
-      "Pakistan": 28,
       "United States": 24,
       "Germany": 21,
       "United Kingdom": 20,
       "Ukraine": 14,
+      "Egypt": 13,
       "Hungary": 13,
-      "Egypt": 12,
+      "Canada": 10,
       "Iran": 10,
-      "Canada": 9,
       "South Korea": 9,
+      "Australia": 8,
+      "Bangladesh": 8,
       "Spain": 8,
       "Italy": 8,
       "France": 8,
       "Netherlands": 8,
-      "Bangladesh": 7,
-      "Australia": 7,
       "Malaysia": 7,
       "Switzerland": 7,
       "Sweden": 7,
