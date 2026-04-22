@@ -26,9 +26,9 @@
       "2017": 0.355,
       "2018": 0.2799,
       "2019": 0.2862,
-      "2020": 0.2468,
+      "2020": 0.2524,
       "2021": 0.3481,
-      "2022": 0.3205,
+      "2022": 0.3259,
       "2023": 0.2095,
       "2024": 0.1345
     },
@@ -62,7 +62,7 @@
       "2023": 0.5404,
       "2024": 0.5595
     },
-    "average_rate": 0.2996,
+    "average_rate": 0.3001,
     "yearly_retractions": {
       "1996": 25,
       "1997": 13,
@@ -88,9 +88,9 @@
       "2017": 60,
       "2018": 48,
       "2019": 50,
-      "2020": 44,
+      "2020": 45,
       "2021": 67,
-      "2022": 60,
+      "2022": 61,
       "2023": 38,
       "2024": 25
     },
@@ -127,7 +127,7 @@
   },
   "domainwise_data": {
     "country": "Germany",
-    "total_retractions": 1306,
+    "total_retractions": 1308,
     "years": {
       "2025": {
         "total": 12,
@@ -183,17 +183,17 @@
         }
       },
       "2022": {
-        "total": 60,
+        "total": 61,
         "marks": {
+          "research": 23,
           "researcher_integrity": 11,
-          "research": 22,
           "alterations": 19,
           "supplemental": 4,
           "system": 4
         },
         "domain": {
-          "BLS": 62,
-          "HSC": 70,
+          "BLS": 64,
+          "HSC": 72,
           "PHY": 9,
           "ENV": 5,
           "SOC": 10,
@@ -219,19 +219,19 @@
         }
       },
       "2020": {
-        "total": 44,
+        "total": 45,
         "marks": {
+          "alterations": 10,
           "research": 11,
-          "alterations": 9,
           "researcher_integrity": 15,
           "system": 6,
           "supplemental": 3
         },
         "domain": {
-          "HSC": 36,
+          "BLS": 43,
+          "HSC": 39,
           "PHY": 11,
           "B/T": 7,
-          "BLS": 41,
           "ENV": 9,
           "SOC": 7
         }
@@ -860,17 +860,17 @@
         }
       },
       "2025": {
-        "total": 71,
+        "total": 73,
         "marks": {
+          "alterations": 26,
+          "research": 23,
           "researcher_integrity": 15,
-          "alterations": 25,
-          "research": 22,
           "system": 8,
           "supplemental": 1
         },
         "domain": {
-          "BLS": 74,
-          "HSC": 70,
+          "BLS": 78,
+          "HSC": 75,
           "ENV": 12,
           "B/T": 13,
           "PHY": 39,
@@ -1415,11 +1415,11 @@
     "collaborations": {
       "United States": 188,
       "China": 111,
-      "United Kingdom": 85,
+      "United Kingdom": 86,
       "India": 56,
-      "Iran": 50,
+      "Italy": 51,
+      "Iran": 51,
       "Switzerland": 50,
-      "Italy": 50,
       "France": 49,
       "Netherlands": 41,
       "Saudi Arabia": 35,
@@ -1432,9 +1432,9 @@
       "Russia": 23,
       "Spain": 22,
       "Poland": 21,
+      "Iraq": 20,
       "Denmark": 20,
       "Australia": 19,
-      "Iraq": 19,
       "Belgium": 18,
       "Brazil": 16,
       "Turkey": 13,
@@ -1530,11 +1530,11 @@
     "notice_collaborations": {
       "United States": 188,
       "China": 111,
-      "United Kingdom": 85,
+      "United Kingdom": 86,
       "India": 56,
-      "Iran": 50,
+      "Italy": 51,
+      "Iran": 51,
       "Switzerland": 50,
-      "Italy": 50,
       "France": 49,
       "Netherlands": 41,
       "Saudi Arabia": 35,
@@ -1547,9 +1547,9 @@
       "Russia": 23,
       "Spain": 22,
       "Poland": 21,
+      "Iraq": 20,
       "Denmark": 20,
       "Australia": 19,
-      "Iraq": 19,
       "Belgium": 18,
       "Brazil": 16,
       "Turkey": 13,

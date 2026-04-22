@@ -22,7 +22,7 @@
       "2019": 0.4122,
       "2020": 0.6603,
       "2021": 1.6823,
-      "2022": 3.2857,
+      "2022": 3.3226,
       "2023": 0.6623,
       "2024": 0.5464
     },
@@ -47,7 +47,7 @@
       "2023": 3.0389,
       "2024": 1.5025
     },
-    "average_rate": 0.9537,
+    "average_rate": 0.9568,
     "yearly_retractions": {
       "1996": 1,
       "2001": 2,
@@ -69,7 +69,7 @@
       "2019": 8,
       "2020": 14,
       "2021": 41,
-      "2022": 89,
+      "2022": 90,
       "2023": 17,
       "2024": 16
     },
@@ -97,7 +97,7 @@
   },
   "domainwise_data": {
     "country": "Thailand",
-    "total_retractions": 306,
+    "total_retractions": 307,
     "years": {
       "2025": {
         "total": 2,
@@ -145,20 +145,20 @@
         }
       },
       "2022": {
-        "total": 89,
+        "total": 90,
         "marks": {
+          "researcher_integrity": 28,
           "research": 23,
           "alterations": 33,
-          "researcher_integrity": 27,
           "supplemental": 5,
           "system": 1
         },
         "domain": {
+          "HSC": 49,
+          "SOC": 40,
           "BLS": 12,
-          "HSC": 48,
           "PHY": 48,
           "B/T": 92,
-          "SOC": 39,
           "ENV": 5,
           "HUM": 8
         }
@@ -443,15 +443,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 11,
+        "total": 12,
         "marks": {
+          "researcher_integrity": 2,
           "research": 6,
-          "alterations": 4,
-          "researcher_integrity": 1
+          "alterations": 4
         },
         "domain": {
+          "HSC": 15,
+          "SOC": 1,
           "B/T": 5,
-          "HSC": 14,
           "BLS": 12,
           "PHY": 4
         }
@@ -745,7 +746,7 @@
       }
     },
     "collaborations": {
-      "China": 80,
+      "China": 81,
       "Saudi Arabia": 44,
       "India": 38,
       "Pakistan": 34,
@@ -811,7 +812,7 @@
       "Switzerland": 1
     },
     "notice_collaborations": {
-      "China": 80,
+      "China": 81,
       "Saudi Arabia": 44,
       "India": 38,
       "Pakistan": 34,

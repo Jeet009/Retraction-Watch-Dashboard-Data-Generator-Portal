@@ -25,8 +25,8 @@
       "2016": 0.2473,
       "2017": 0.3971,
       "2018": 0.3973,
-      "2019": 0.361,
-      "2020": 0.4048,
+      "2019": 0.3716,
+      "2020": 0.42,
       "2021": 0.5073,
       "2022": 0.7792,
       "2023": 0.4514,
@@ -61,9 +61,9 @@
       "2021": 0.4741,
       "2022": 0.3823,
       "2023": 0.8827,
-      "2024": 0.6052
+      "2024": 0.6194
     },
-    "average_rate": 0.3898,
+    "average_rate": 0.391,
     "yearly_retractions": {
       "1996": 1,
       "1997": 5,
@@ -88,8 +88,8 @@
       "2016": 43,
       "2017": 71,
       "2018": 73,
-      "2019": 68,
-      "2020": 80,
+      "2019": 70,
+      "2020": 83,
       "2021": 107,
       "2022": 159,
       "2023": 90,
@@ -124,12 +124,12 @@
       "2021": 100,
       "2022": 78,
       "2023": 176,
-      "2024": 128
+      "2024": 131
     }
   },
   "domainwise_data": {
     "country": "United Kingdom",
-    "total_retractions": 1712,
+    "total_retractions": 1717,
     "years": {
       "2025": {
         "total": 17,
@@ -224,17 +224,17 @@
         }
       },
       "2020": {
-        "total": 80,
+        "total": 83,
         "marks": {
-          "alterations": 17,
+          "researcher_integrity": 21,
+          "alterations": 19,
           "research": 27,
           "supplemental": 5,
-          "researcher_integrity": 20,
           "system": 11
         },
         "domain": {
-          "BLS": 47,
-          "HSC": 86,
+          "BLS": 52,
+          "HSC": 95,
           "B/T": 28,
           "PHY": 27,
           "SOC": 10,
@@ -243,21 +243,21 @@
         }
       },
       "2019": {
-        "total": 68,
+        "total": 70,
         "marks": {
+          "alterations": 24,
           "research": 27,
           "researcher_integrity": 8,
-          "alterations": 22,
           "system": 9,
           "supplemental": 2
         },
         "domain": {
+          "BLS": 41,
+          "HSC": 60,
           "HUM": 4,
           "SOC": 15,
           "B/T": 23,
           "PHY": 22,
-          "BLS": 38,
-          "HSC": 55,
           "ENV": 5
         }
       },
@@ -848,17 +848,17 @@
         }
       },
       "2025": {
-        "total": 113,
+        "total": 115,
         "marks": {
-          "alterations": 36,
+          "alterations": 38,
           "system": 6,
           "research": 29,
           "researcher_integrity": 40,
           "supplemental": 2
         },
         "domain": {
-          "BLS": 66,
-          "HSC": 92,
+          "BLS": 69,
+          "HSC": 97,
           "HUM": 1,
           "SOC": 7,
           "B/T": 91,
@@ -867,20 +867,20 @@
         }
       },
       "2024": {
-        "total": 128,
+        "total": 131,
         "marks": {
+          "researcher_integrity": 24,
+          "alterations": 55,
           "research": 41,
-          "alterations": 53,
-          "researcher_integrity": 23,
           "supplemental": 8,
           "system": 3
         },
         "domain": {
+          "BLS": 104,
+          "HSC": 106,
           "B/T": 105,
           "ENV": 25,
           "PHY": 41,
-          "BLS": 99,
-          "HSC": 97,
           "SOC": 18
         }
       },
@@ -1456,12 +1456,12 @@
       }
     },
     "collaborations": {
-      "China": 237,
+      "China": 241,
       "United States": 222,
       "India": 97,
-      "Germany": 85,
-      "Italy": 81,
-      "Canada": 80,
+      "Germany": 86,
+      "Italy": 82,
+      "Canada": 81,
       "Pakistan": 73,
       "Australia": 72,
       "Saudi Arabia": 64,
@@ -1509,6 +1509,7 @@
       "Chile": 6,
       "Croatia": 6,
       "Colombia": 6,
+      "Hong Kong": 5,
       "Palestine": 5,
       "Lebanon": 5,
       "Cyprus": 5,
@@ -1518,7 +1519,6 @@
       "Serbia": 4,
       "Iceland": 4,
       "Sudan": 4,
-      "Hong Kong": 4,
       "Sri Lanka": 4,
       "Indonesia": 4,
       "Lithuania": 3,
@@ -1572,12 +1572,12 @@
       "Vietnam": 1
     },
     "notice_collaborations": {
-      "China": 237,
+      "China": 241,
       "United States": 222,
       "India": 97,
-      "Germany": 85,
-      "Italy": 81,
-      "Canada": 80,
+      "Germany": 86,
+      "Italy": 82,
+      "Canada": 81,
       "Pakistan": 73,
       "Australia": 72,
       "Saudi Arabia": 64,
@@ -1625,6 +1625,7 @@
       "Chile": 6,
       "Croatia": 6,
       "Colombia": 6,
+      "Hong Kong": 5,
       "Palestine": 5,
       "Lebanon": 5,
       "Cyprus": 5,
@@ -1634,7 +1635,6 @@
       "Serbia": 4,
       "Iceland": 4,
       "Sudan": 4,
-      "Hong Kong": 4,
       "Sri Lanka": 4,
       "Indonesia": 4,
       "Lithuania": 3,
