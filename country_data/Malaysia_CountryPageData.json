@@ -17,7 +17,7 @@
       "2017": 0.494,
       "2018": 5.5993,
       "2019": 0.7128,
-      "2020": 0.8071,
+      "2020": 0.834,
       "2021": 2.4438,
       "2022": 4.1158,
       "2023": 1.2434,
@@ -43,7 +43,7 @@
       "2023": 3.6832,
       "2024": 2.0375
     },
-    "average_rate": 1.7009,
+    "average_rate": 1.7028,
     "yearly_retractions": {
       "2004": 1,
       "2005": 1,
@@ -60,7 +60,7 @@
       "2017": 16,
       "2018": 184,
       "2019": 26,
-      "2020": 30,
+      "2020": 31,
       "2021": 98,
       "2022": 173,
       "2023": 53,
@@ -89,7 +89,7 @@
   },
   "domainwise_data": {
     "country": "Malaysia",
-    "total_retractions": 896,
+    "total_retractions": 897,
     "years": {
       "2025": {
         "total": 4,
@@ -181,18 +181,18 @@
         }
       },
       "2020": {
-        "total": 30,
+        "total": 31,
         "marks": {
+          "supplemental": 2,
           "research": 10,
           "researcher_integrity": 2,
           "alterations": 10,
-          "system": 7,
-          "supplemental": 1
+          "system": 7
         },
         "domain": {
-          "PHY": 18,
+          "BLS": 21,
+          "PHY": 19,
           "B/T": 22,
-          "BLS": 20,
           "ENV": 6,
           "HSC": 12,
           "SOC": 5
@@ -429,19 +429,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 11,
+        "total": 12,
         "marks": {
           "researcher_integrity": 5,
+          "supplemental": 2,
           "alterations": 4,
-          "supplemental": 1,
           "research": 1
         },
         "domain": {
           "B/T": 10,
+          "BLS": 2,
+          "PHY": 3,
           "SOC": 5,
-          "BLS": 1,
           "HSC": 12,
-          "PHY": 2,
           "ENV": 4
         }
       },
@@ -763,8 +763,8 @@
       "Iraq": 58,
       "Australia": 31,
       "United Kingdom": 30,
+      "Taiwan": 28,
       "Egypt": 27,
-      "Taiwan": 27,
       "Indonesia": 25,
       "United Arab Emirates": 24,
       "United States": 24,
@@ -849,8 +849,8 @@
       "Iraq": 58,
       "Australia": 31,
       "United Kingdom": 30,
+      "Taiwan": 28,
       "Egypt": 27,
-      "Taiwan": 27,
       "Indonesia": 25,
       "United Arab Emirates": 24,
       "United States": 24,
