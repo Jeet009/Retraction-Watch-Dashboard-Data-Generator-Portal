@@ -19,8 +19,8 @@
       "2016": 0.5022,
       "2017": 0.2747,
       "2018": 0.3961,
-      "2019": 0.8773,
-      "2020": 0.3004,
+      "2019": 0.94,
+      "2020": 0.3605,
       "2021": 0.5216,
       "2022": 0.3498,
       "2023": 0.4469,
@@ -46,7 +46,7 @@
       "2023": 0.3192,
       "2024": 0.4257
     },
-    "average_rate": 0.3008,
+    "average_rate": 0.3071,
     "yearly_retractions": {
       "1999": 1,
       "2000": 2,
@@ -65,8 +65,8 @@
       "2016": 7,
       "2017": 4,
       "2018": 6,
-      "2019": 14,
-      "2020": 5,
+      "2019": 15,
+      "2020": 6,
       "2021": 9,
       "2022": 6,
       "2023": 7,
@@ -95,7 +95,7 @@
   },
   "domainwise_data": {
     "country": "New Zealand",
-    "total_retractions": 97,
+    "total_retractions": 99,
     "years": {
       "2024": {
         "total": 2,
@@ -155,30 +155,32 @@
         }
       },
       "2020": {
-        "total": 5,
+        "total": 6,
         "marks": {
+          "supplemental": 1,
           "alterations": 2,
           "research": 2,
           "system": 1
         },
         "domain": {
+          "BLS": 12,
           "B/T": 1,
-          "BLS": 9,
           "HSC": 8
         }
       },
       "2019": {
-        "total": 14,
+        "total": 15,
         "marks": {
+          "supplemental": 1,
           "researcher_integrity": 1,
           "alterations": 3,
           "research": 7,
           "system": 3
         },
         "domain": {
+          "BLS": 9,
+          "PHY": 6,
           "B/T": 1,
-          "PHY": 5,
-          "BLS": 8,
           "SOC": 4,
           "HUM": 1,
           "HSC": 14
@@ -397,6 +399,16 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 2,
+        "marks": {
+          "supplemental": 2
+        },
+        "domain": {
+          "BLS": 4,
+          "PHY": 1
+        }
+      },
       "2025": {
         "total": 10,
         "marks": {
@@ -662,6 +674,8 @@
       "Australia": 12,
       "Pakistan": 4,
       "Canada": 4,
+      "Iran": 3,
+      "Malaysia": 3,
       "India": 3,
       "Netherlands": 3,
       "Spain": 3,
@@ -672,11 +686,9 @@
       "Egypt": 1,
       "South Africa": 1,
       "South Korea": 1,
-      "Malaysia": 1,
       "Japan": 1,
       "Denmark": 1,
       "Lebanon": 1,
-      "Iran": 1,
       "Vietnam": 1,
       "Hong Kong": 1,
       "Finland": 1,
@@ -700,6 +712,8 @@
       "Australia": 12,
       "Pakistan": 4,
       "Canada": 4,
+      "Iran": 3,
+      "Malaysia": 3,
       "India": 3,
       "Netherlands": 3,
       "Spain": 3,
@@ -710,11 +724,9 @@
       "Egypt": 1,
       "South Africa": 1,
       "South Korea": 1,
-      "Malaysia": 1,
       "Japan": 1,
       "Denmark": 1,
       "Lebanon": 1,
-      "Iran": 1,
       "Vietnam": 1,
       "Hong Kong": 1,
       "Finland": 1,

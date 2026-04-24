@@ -83,16 +83,17 @@
   },
   "domainwise_data": {
     "country": "Algeria",
-    "total_retractions": 91,
+    "total_retractions": 92,
     "years": {
       "2025": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "alterations": 1,
           "researcher_integrity": 1
         },
         "domain": {
-          "B/T": 1,
-          "PHY": 2
+          "PHY": 3,
+          "B/T": 1
         }
       },
       "2024": {
@@ -328,6 +329,15 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "PHY": 1
+        }
+      },
       "2025": {
         "total": 8,
         "marks": {
@@ -540,8 +550,8 @@
       }
     },
     "collaborations": {
-      "France": 13,
-      "Saudi Arabia": 9,
+      "France": 14,
+      "Saudi Arabia": 10,
       "Pakistan": 6,
       "India": 6,
       "Iraq": 5,
@@ -595,8 +605,8 @@
       "Turkey": 1
     },
     "notice_collaborations": {
-      "France": 13,
-      "Saudi Arabia": 9,
+      "France": 14,
+      "Saudi Arabia": 10,
       "Pakistan": 6,
       "India": 6,
       "Iraq": 5,

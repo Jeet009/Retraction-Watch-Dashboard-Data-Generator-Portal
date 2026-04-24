@@ -17,7 +17,7 @@
       "2010": 0.2731,
       "2011": 0.3216,
       "2012": 0.3382,
-      "2013": 0.4275,
+      "2013": 0.4366,
       "2014": 0.333,
       "2015": 0.223,
       "2016": 0.3513,
@@ -58,7 +58,7 @@
       "2023": 0.3862,
       "2024": 0.6558
     },
-    "average_rate": 0.2524,
+    "average_rate": 0.2528,
     "yearly_retractions": {
       "1998": 1,
       "1999": 3,
@@ -75,7 +75,7 @@
       "2010": 27,
       "2011": 33,
       "2012": 36,
-      "2013": 47,
+      "2013": 48,
       "2014": 37,
       "2015": 25,
       "2016": 40,
@@ -119,20 +119,20 @@
   },
   "domainwise_data": {
     "country": "France",
-    "total_retractions": 695,
+    "total_retractions": 697,
     "years": {
       "2025": {
-        "total": 6,
+        "total": 7,
         "marks": {
+          "alterations": 2,
           "researcher_integrity": 2,
-          "alterations": 1,
           "system": 1,
           "research": 1,
           "supplemental": 1
         },
         "domain": {
+          "PHY": 5,
           "HSC": 7,
-          "PHY": 4,
           "BLS": 4,
           "B/T": 2
         }
@@ -332,16 +332,16 @@
         }
       },
       "2013": {
-        "total": 47,
+        "total": 48,
         "marks": {
+          "researcher_integrity": 12,
           "research": 13,
-          "researcher_integrity": 11,
           "alterations": 19,
           "supplemental": 3,
           "system": 1
         },
         "domain": {
-          "BLS": 68,
+          "BLS": 72,
           "PHY": 19,
           "HSC": 24,
           "SOC": 2,
@@ -658,15 +658,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 14,
+        "total": 16,
         "marks": {
-          "researcher_integrity": 10,
-          "alterations": 3,
+          "alterations": 4,
+          "researcher_integrity": 11,
           "research": 1
         },
         "domain": {
+          "PHY": 1,
           "HSC": 20,
-          "BLS": 16,
+          "BLS": 20,
           "B/T": 1
         }
       },
@@ -1148,15 +1149,15 @@
       "Spain": 30,
       "India": 29,
       "Switzerland": 28,
+      "Saudi Arabia": 26,
       "Netherlands": 26,
-      "Saudi Arabia": 25,
       "Pakistan": 20,
       "Tunisia": 18,
       "Japan": 17,
       "Canada": 17,
       "Australia": 15,
+      "Algeria": 14,
       "Belgium": 13,
-      "Algeria": 13,
       "Vietnam": 12,
       "Senegal": 11,
       "Romania": 11,
@@ -1250,15 +1251,15 @@
       "Spain": 30,
       "India": 29,
       "Switzerland": 28,
+      "Saudi Arabia": 26,
       "Netherlands": 26,
-      "Saudi Arabia": 25,
       "Pakistan": 20,
       "Tunisia": 18,
       "Japan": 17,
       "Canada": 17,
       "Australia": 15,
+      "Algeria": 14,
       "Belgium": 13,
-      "Algeria": 13,
       "Vietnam": 12,
       "Senegal": 11,
       "Romania": 11,
