@@ -14,7 +14,7 @@
       "2016": 1.0525,
       "2017": 0.5297,
       "2018": 0.6482,
-      "2019": 1.1603,
+      "2019": 1.2432,
       "2020": 1.0502,
       "2021": 1.4119,
       "2022": 1.7416,
@@ -38,7 +38,7 @@
       "2023": 0.8369,
       "2024": 1.2474
     },
-    "average_rate": 1.0596,
+    "average_rate": 1.0651,
     "yearly_retractions": {
       "2006": 2,
       "2008": 4,
@@ -52,7 +52,7 @@
       "2016": 7,
       "2017": 4,
       "2018": 6,
-      "2019": 14,
+      "2019": 15,
       "2020": 15,
       "2021": 23,
       "2022": 29,
@@ -79,7 +79,7 @@
   },
   "domainwise_data": {
     "country": "Nigeria",
-    "total_retractions": 192,
+    "total_retractions": 193,
     "years": {
       "2024": {
         "total": 19,
@@ -168,16 +168,16 @@
         }
       },
       "2019": {
-        "total": 14,
+        "total": 15,
         "marks": {
+          "supplemental": 4,
           "research": 6,
-          "supplemental": 3,
           "alterations": 5
         },
         "domain": {
-          "ENV": 2,
+          "BLS": 8,
+          "ENV": 3,
           "PHY": 5,
-          "BLS": 7,
           "HSC": 15,
           "HUM": 2,
           "SOC": 3,
@@ -350,14 +350,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 3,
+        "total": 4,
         "marks": {
+          "supplemental": 1,
           "research": 2,
           "alterations": 1
         },
         "domain": {
+          "BLS": 1,
+          "ENV": 2,
           "B/T": 1,
-          "ENV": 1,
           "PHY": 2,
           "HSC": 3
         }
@@ -624,6 +626,8 @@
       "Thailand": 3,
       "Cameroon": 3,
       "Sudan": 3,
+      "Indonesia": 2,
+      "Sweden": 2,
       "Tunisia": 2,
       "Brazil": 2,
       "South Korea": 2,
@@ -647,7 +651,6 @@
       "Italy": 1,
       "Finland": 1,
       "Ecuador": 1,
-      "Indonesia": 1,
       "Belgium": 1,
       "Oman": 1,
       "Afghanistan": 1,
@@ -656,7 +659,6 @@
       "Canada": 1,
       "Romania": 1,
       "Serbia": 1,
-      "Sweden": 1,
       "Tanzania": 1
     },
     "notice_collaborations": {
@@ -683,6 +685,8 @@
       "Thailand": 3,
       "Cameroon": 3,
       "Sudan": 3,
+      "Indonesia": 2,
+      "Sweden": 2,
       "Tunisia": 2,
       "Brazil": 2,
       "South Korea": 2,
@@ -706,7 +710,6 @@
       "Italy": 1,
       "Finland": 1,
       "Ecuador": 1,
-      "Indonesia": 1,
       "Belgium": 1,
       "Oman": 1,
       "Afghanistan": 1,
@@ -715,7 +718,6 @@
       "Canada": 1,
       "Romania": 1,
       "Serbia": 1,
-      "Sweden": 1,
       "Tanzania": 1
     }
   },

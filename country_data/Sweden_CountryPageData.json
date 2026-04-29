@@ -25,7 +25,7 @@
       "2016": 0.3931,
       "2017": 0.3831,
       "2018": 0.4483,
-      "2019": 0.2894,
+      "2019": 0.3377,
       "2020": 0.4871,
       "2021": 0.3056,
       "2022": 0.3096,
@@ -60,7 +60,7 @@
       "2023": 0.3829,
       "2024": 0.5718
     },
-    "average_rate": 0.294,
+    "average_rate": 0.2962,
     "yearly_retractions": {
       "1996": 1,
       "1997": 1,
@@ -85,7 +85,7 @@
       "2016": 15,
       "2017": 15,
       "2018": 18,
-      "2019": 12,
+      "2019": 14,
       "2020": 21,
       "2021": 14,
       "2022": 14,
@@ -123,7 +123,7 @@
   },
   "domainwise_data": {
     "country": "Sweden",
-    "total_retractions": 261,
+    "total_retractions": 263,
     "years": {
       "2025": {
         "total": 1,
@@ -217,18 +217,18 @@
         }
       },
       "2019": {
-        "total": 12,
+        "total": 14,
         "marks": {
+          "supplemental": 3,
           "researcher_integrity": 3,
           "research": 5,
           "system": 2,
-          "alterations": 1,
-          "supplemental": 1
+          "alterations": 1
         },
         "domain": {
+          "BLS": 17,
+          "ENV": 3,
           "HSC": 15,
-          "BLS": 15,
-          "ENV": 2,
           "SOC": 3
         }
       },
@@ -560,14 +560,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 2,
+        "total": 4,
         "marks": {
+          "supplemental": 2,
           "researcher_integrity": 1,
           "research": 1
         },
         "domain": {
-          "HSC": 2,
-          "BLS": 3
+          "BLS": 5,
+          "ENV": 1,
+          "HSC": 2
         }
       },
       "2025": {
@@ -962,7 +964,7 @@
     },
     "collaborations": {
       "United States": 52,
-      "China": 37,
+      "China": 38,
       "United Kingdom": 33,
       "Germany": 24,
       "Italy": 16,
@@ -996,6 +998,7 @@
       "Iceland": 3,
       "South Africa": 3,
       "New Zealand": 3,
+      "Nigeria": 2,
       "Vietnam": 2,
       "Ethiopia": 2,
       "Israel": 2,
@@ -1003,6 +1006,7 @@
       "Botswana": 2,
       "Tanzania": 2,
       "Slovakia": 2,
+      "Indonesia": 1,
       "Uzbekistan": 1,
       "South Korea": 1,
       "Morocco": 1,
@@ -1013,7 +1017,6 @@
       "Portugal": 1,
       "Colombia": 1,
       "Croatia": 1,
-      "Nigeria": 1,
       "Kenya": 1,
       "Algeria": 1,
       "Sudan": 1,
@@ -1022,7 +1025,7 @@
     },
     "notice_collaborations": {
       "United States": 52,
-      "China": 37,
+      "China": 38,
       "United Kingdom": 33,
       "Germany": 24,
       "Italy": 16,
@@ -1056,6 +1059,7 @@
       "Iceland": 3,
       "South Africa": 3,
       "New Zealand": 3,
+      "Nigeria": 2,
       "Vietnam": 2,
       "Ethiopia": 2,
       "Israel": 2,
@@ -1063,6 +1067,7 @@
       "Botswana": 2,
       "Tanzania": 2,
       "Slovakia": 2,
+      "Indonesia": 1,
       "Uzbekistan": 1,
       "South Korea": 1,
       "Morocco": 1,
@@ -1073,7 +1078,6 @@
       "Portugal": 1,
       "Colombia": 1,
       "Croatia": 1,
-      "Nigeria": 1,
       "Kenya": 1,
       "Algeria": 1,
       "Sudan": 1,

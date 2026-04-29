@@ -21,7 +21,7 @@
       "2021": 0.4532,
       "2022": 0.3904,
       "2023": 0.2096,
-      "2024": 0.0881
+      "2024": 0.1175
     },
     "notice_yearly_rates": {
       "2002": 0.3718,
@@ -44,7 +44,7 @@
       "2023": 0.1796,
       "2024": 0.4405
     },
-    "average_rate": 0.2782,
+    "average_rate": 0.2803,
     "yearly_retractions": {
       "2002": 2,
       "2003": 2,
@@ -65,7 +65,7 @@
       "2021": 15,
       "2022": 13,
       "2023": 7,
-      "2024": 3
+      "2024": 4
     },
     "notice_yearly_retractions": {
       "2002": 2,
@@ -91,7 +91,7 @@
   },
   "domainwise_data": {
     "country": "Portugal",
-    "total_retractions": 133,
+    "total_retractions": 134,
     "years": {
       "2025": {
         "total": 1,
@@ -103,13 +103,15 @@
         }
       },
       "2024": {
-        "total": 3,
+        "total": 4,
         "marks": {
+          "research": 1,
           "researcher_integrity": 2,
           "alterations": 1
         },
         "domain": {
-          "HSC": 6,
+          "HSC": 7,
+          "SOC": 1,
           "BLS": 5
         }
       },
@@ -385,11 +387,14 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "research": 1,
           "alterations": 1
         },
         "domain": {
+          "HSC": 1,
+          "SOC": 1,
           "PHY": 1
         }
       },
