@@ -115,21 +115,23 @@
   },
   "domainwise_data": {
     "country": "Australia",
-    "total_retractions": 793,
+    "total_retractions": 794,
     "years": {
       "2025": {
-        "total": 5,
+        "total": 6,
         "marks": {
+          "system": 1,
           "research": 2,
           "alterations": 2,
           "researcher_integrity": 1
         },
         "domain": {
+          "HSC": 3,
+          "SOC": 1,
           "BLS": 4,
           "PHY": 4,
           "ENV": 1,
-          "B/T": 2,
-          "HSC": 2
+          "B/T": 2
         }
       },
       "2024": {
@@ -648,19 +650,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 15,
+        "total": 16,
         "marks": {
           "research": 8,
+          "system": 1,
           "alterations": 4,
           "researcher_integrity": 3
         },
         "domain": {
           "B/T": 6,
-          "HSC": 14,
+          "HSC": 15,
+          "SOC": 2,
           "BLS": 10,
           "ENV": 3,
-          "PHY": 6,
-          "SOC": 1
+          "PHY": 6
         }
       },
       "2025": {

@@ -24,7 +24,7 @@
       "2015": 0.3543,
       "2016": 0.2112,
       "2017": 0.355,
-      "2018": 0.2799,
+      "2018": 0.2857,
       "2019": 0.2862,
       "2020": 0.2524,
       "2021": 0.3481,
@@ -62,7 +62,7 @@
       "2023": 0.5404,
       "2024": 0.5595
     },
-    "average_rate": 0.3001,
+    "average_rate": 0.3004,
     "yearly_retractions": {
       "1996": 25,
       "1997": 13,
@@ -86,7 +86,7 @@
       "2015": 57,
       "2016": 35,
       "2017": 60,
-      "2018": 48,
+      "2018": 49,
       "2019": 50,
       "2020": 45,
       "2021": 67,
@@ -127,7 +127,7 @@
   },
   "domainwise_data": {
     "country": "Germany",
-    "total_retractions": 1308,
+    "total_retractions": 1309,
     "years": {
       "2025": {
         "total": 12,
@@ -256,22 +256,22 @@
         }
       },
       "2018": {
-        "total": 48,
+        "total": 49,
         "marks": {
+          "alterations": 15,
           "researcher_integrity": 6,
-          "alterations": 14,
           "research": 22,
           "supplemental": 2,
           "system": 4
         },
         "domain": {
+          "ENV": 4,
+          "PHY": 25,
           "HSC": 36,
           "BLS": 32,
-          "PHY": 23,
           "B/T": 2,
           "SOC": 5,
-          "HUM": 4,
-          "ENV": 3
+          "HUM": 4
         }
       },
       "2017": {
@@ -860,20 +860,20 @@
         }
       },
       "2025": {
-        "total": 73,
+        "total": 74,
         "marks": {
-          "alterations": 26,
+          "alterations": 27,
           "research": 23,
           "researcher_integrity": 15,
           "system": 8,
           "supplemental": 1
         },
         "domain": {
+          "ENV": 13,
+          "PHY": 41,
           "BLS": 78,
           "HSC": 75,
-          "ENV": 12,
           "B/T": 13,
-          "PHY": 39,
           "SOC": 2,
           "HUM": 1
         }
@@ -1422,10 +1422,10 @@
       "Switzerland": 50,
       "France": 49,
       "Netherlands": 41,
+      "Egypt": 36,
       "Saudi Arabia": 35,
-      "Egypt": 35,
       "Canada": 28,
-      "Sweden": 24,
+      "Sweden": 25,
       "Japan": 24,
       "Pakistan": 23,
       "Austria": 23,
@@ -1451,6 +1451,7 @@
       "Bangladesh": 7,
       "Taiwan": 7,
       "Ghana": 7,
+      "Croatia": 6,
       "Jordan": 6,
       "Indonesia": 6,
       "Malaysia": 6,
@@ -1461,7 +1462,6 @@
       "Nigeria": 5,
       "Ethiopia": 5,
       "Chile": 5,
-      "Croatia": 5,
       "Bahrain": 5,
       "United Arab Emirates": 4,
       "Cameroon": 4,
@@ -1537,10 +1537,10 @@
       "Switzerland": 50,
       "France": 49,
       "Netherlands": 41,
+      "Egypt": 36,
       "Saudi Arabia": 35,
-      "Egypt": 35,
       "Canada": 28,
-      "Sweden": 24,
+      "Sweden": 25,
       "Japan": 24,
       "Pakistan": 23,
       "Austria": 23,
@@ -1566,6 +1566,7 @@
       "Bangladesh": 7,
       "Taiwan": 7,
       "Ghana": 7,
+      "Croatia": 6,
       "Jordan": 6,
       "Indonesia": 6,
       "Malaysia": 6,
@@ -1576,7 +1577,6 @@
       "Nigeria": 5,
       "Ethiopia": 5,
       "Chile": 5,
-      "Croatia": 5,
       "Bahrain": 5,
       "United Arab Emirates": 4,
       "Cameroon": 4,

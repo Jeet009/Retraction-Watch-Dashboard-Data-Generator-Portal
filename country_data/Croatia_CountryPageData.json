@@ -15,7 +15,7 @@
       "2014": 0.8037,
       "2016": 0.3107,
       "2017": 0.2868,
-      "2018": 0.268,
+      "2018": 0.4019,
       "2019": 1.0299,
       "2021": 0.411,
       "2022": 0.1019,
@@ -41,7 +41,7 @@
       "2023": 0.1021,
       "2024": 0.4306
     },
-    "average_rate": 0.2874,
+    "average_rate": 0.2938,
     "yearly_retractions": {
       "1998": 1,
       "2000": 1,
@@ -56,7 +56,7 @@
       "2014": 5,
       "2016": 2,
       "2017": 2,
-      "2018": 2,
+      "2018": 3,
       "2019": 8,
       "2021": 4,
       "2022": 1,
@@ -85,7 +85,7 @@
   },
   "domainwise_data": {
     "country": "Croatia",
-    "total_retractions": 47,
+    "total_retractions": 48,
     "years": {
       "2025": {
         "total": 2,
@@ -155,13 +155,15 @@
         }
       },
       "2018": {
-        "total": 2,
+        "total": 3,
         "marks": {
+          "alterations": 1,
           "research": 1,
           "system": 1
         },
         "domain": {
-          "PHY": 4
+          "ENV": 1,
+          "PHY": 6
         }
       },
       "2017": {
@@ -314,6 +316,16 @@
           "B/T": 3,
           "HSC": 3,
           "BLS": 1
+        }
+      },
+      "2025": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "ENV": 1,
+          "PHY": 2
         }
       },
       "2024": {
@@ -506,14 +518,15 @@
       }
     },
     "collaborations": {
+      "Germany": 6,
       "United Kingdom": 6,
-      "Germany": 5,
       "United States": 4,
       "Canada": 4,
       "India": 3,
       "Spain": 3,
       "Serbia": 3,
       "Russia": 3,
+      "Sweden": 2,
       "Lebanon": 2,
       "Thailand": 2,
       "Norway": 2,
@@ -521,6 +534,7 @@
       "Australia": 2,
       "Iran": 2,
       "Montenegro": 2,
+      "Egypt": 1,
       "Jordan": 1,
       "Portugal": 1,
       "China": 1,
@@ -538,19 +552,19 @@
       "Pakistan": 1,
       "Czech Republic": 1,
       "Denmark": 1,
-      "Sweden": 1,
       "Albania": 1,
       "New Zealand": 1
     },
     "notice_collaborations": {
+      "Germany": 6,
       "United Kingdom": 6,
-      "Germany": 5,
       "United States": 4,
       "Canada": 4,
       "India": 3,
       "Spain": 3,
       "Serbia": 3,
       "Russia": 3,
+      "Sweden": 2,
       "Lebanon": 2,
       "Thailand": 2,
       "Norway": 2,
@@ -558,6 +572,7 @@
       "Australia": 2,
       "Iran": 2,
       "Montenegro": 2,
+      "Egypt": 1,
       "Jordan": 1,
       "Portugal": 1,
       "China": 1,
@@ -575,7 +590,6 @@
       "Pakistan": 1,
       "Czech Republic": 1,
       "Denmark": 1,
-      "Sweden": 1,
       "Albania": 1,
       "New Zealand": 1
     }
