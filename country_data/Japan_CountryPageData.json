@@ -19,7 +19,7 @@
       "2010": 0.6702,
       "2011": 0.6125,
       "2012": 0.5037,
-      "2013": 0.4032,
+      "2013": 0.4109,
       "2014": 0.4684,
       "2015": 0.45,
       "2016": 0.6266,
@@ -63,7 +63,7 @@
       "2023": 0.5952,
       "2024": 0.7958
     },
-    "average_rate": 0.4485,
+    "average_rate": 0.4488,
     "yearly_retractions": {
       "1996": 16,
       "1997": 21,
@@ -82,7 +82,7 @@
       "2010": 83,
       "2011": 77,
       "2012": 64,
-      "2013": 52,
+      "2013": 53,
       "2014": 58,
       "2015": 54,
       "2016": 77,
@@ -129,7 +129,7 @@
   },
   "domainwise_data": {
     "country": "Japan",
-    "total_retractions": 1583,
+    "total_retractions": 1584,
     "years": {
       "2025": {
         "total": 5,
@@ -350,18 +350,18 @@
         }
       },
       "2013": {
-        "total": 52,
+        "total": 53,
         "marks": {
+          "research": 16,
           "alterations": 26,
           "researcher_integrity": 6,
-          "research": 15,
           "supplemental": 3,
           "system": 2
         },
         "domain": {
+          "BLS": 60,
+          "HSC": 54,
           "PHY": 26,
-          "BLS": 58,
-          "HSC": 53,
           "B/T": 2,
           "SOC": 1,
           "ENV": 3
@@ -726,16 +726,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 3,
+        "total": 4,
         "marks": {
           "supplemental": 1,
+          "research": 1,
           "researcher_integrity": 1,
           "alterations": 1
         },
         "domain": {
-          "BLS": 6,
+          "BLS": 8,
           "ENV": 2,
-          "PHY": 1
+          "PHY": 1,
+          "HSC": 1
         }
       },
       "2025": {
