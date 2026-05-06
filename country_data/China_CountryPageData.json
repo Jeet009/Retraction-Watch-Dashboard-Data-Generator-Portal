@@ -28,7 +28,7 @@
       "2020": 2.869,
       "2021": 5.3544,
       "2022": 8.4772,
-      "2023": 1.3931,
+      "2023": 1.3941,
       "2024": 0.735
     },
     "notice_yearly_rates": {
@@ -59,7 +59,7 @@
       "2023": 10.0521,
       "2024": 2.9502
     },
-    "average_rate": 3.0797,
+    "average_rate": 3.0798,
     "yearly_retractions": {
       "1997": 2,
       "1998": 2,
@@ -87,7 +87,7 @@
       "2020": 2267,
       "2021": 4721,
       "2022": 8638,
-      "2023": 1461,
+      "2023": 1462,
       "2024": 875
     },
     "notice_yearly_retractions": {
@@ -121,20 +121,20 @@
   },
   "domainwise_data": {
     "country": "China",
-    "total_retractions": 35387,
+    "total_retractions": 35389,
     "years": {
       "2025": {
-        "total": 88,
+        "total": 89,
         "marks": {
+          "research": 23,
           "supplemental": 8,
           "system": 28,
-          "research": 22,
           "researcher_integrity": 11,
           "alterations": 19
         },
         "domain": {
-          "B/T": 53,
-          "SOC": 15,
+          "B/T": 55,
+          "SOC": 16,
           "HUM": 4,
           "HSC": 85,
           "BLS": 71,
@@ -162,20 +162,20 @@
         }
       },
       "2023": {
-        "total": 1461,
+        "total": 1462,
         "marks": {
+          "alterations": 422,
           "research": 577,
           "researcher_integrity": 142,
-          "alterations": 421,
           "system": 44,
           "supplemental": 277
         },
         "domain": {
+          "PHY": 417,
           "B/T": 1752,
           "HUM": 64,
           "SOC": 379,
           "ENV": 183,
-          "PHY": 415,
           "HSC": 1092,
           "BLS": 595
         }
@@ -649,21 +649,21 @@
     },
     "notice_years": {
       "2026": {
-        "total": 346,
+        "total": 348,
         "marks": {
+          "alterations": 32,
+          "research": 130,
           "supplemental": 132,
-          "alterations": 31,
-          "research": 129,
           "researcher_integrity": 44,
           "system": 10
         },
         "domain": {
-          "B/T": 377,
-          "SOC": 107,
+          "PHY": 113,
+          "B/T": 379,
+          "SOC": 108,
           "BLS": 154,
           "HSC": 122,
           "HUM": 24,
-          "PHY": 111,
           "ENV": 43
         }
       },

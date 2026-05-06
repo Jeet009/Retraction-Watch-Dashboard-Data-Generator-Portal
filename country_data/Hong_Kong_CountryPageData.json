@@ -26,7 +26,7 @@
       "2021": 0.3317,
       "2022": 0.3282,
       "2023": 0.0921,
-      "2024": 0.1603
+      "2024": 0.187
     },
     "notice_yearly_rates": {
       "1999": 0.1535,
@@ -50,7 +50,7 @@
       "2023": 0.2149,
       "2024": 0.3206
     },
-    "average_rate": 0.2262,
+    "average_rate": 0.2283,
     "yearly_retractions": {
       "1999": 1,
       "2000": 2,
@@ -76,7 +76,7 @@
       "2021": 9,
       "2022": 10,
       "2023": 3,
-      "2024": 6
+      "2024": 7
     },
     "notice_yearly_retractions": {
       "1999": 1,
@@ -103,23 +103,23 @@
   },
   "domainwise_data": {
     "country": "Hong Kong",
-    "total_retractions": 105,
+    "total_retractions": 106,
     "years": {
       "2024": {
-        "total": 6,
+        "total": 7,
         "marks": {
-          "research": 2,
+          "research": 3,
           "alterations": 1,
           "system": 1,
           "supplemental": 1,
           "researcher_integrity": 1
         },
         "domain": {
+          "ENV": 2,
+          "PHY": 7,
           "HSC": 6,
           "BLS": 1,
-          "PHY": 4,
-          "B/T": 1,
-          "ENV": 1
+          "B/T": 1
         }
       },
       "2023": {
@@ -429,19 +429,19 @@
         }
       },
       "2025": {
-        "total": 10,
+        "total": 11,
         "marks": {
-          "research": 1,
+          "research": 2,
           "alterations": 1,
           "researcher_integrity": 6,
           "system": 1,
           "supplemental": 1
         },
         "domain": {
+          "ENV": 5,
+          "PHY": 9,
           "HSC": 10,
-          "PHY": 6,
           "B/T": 5,
-          "ENV": 4,
           "SOC": 1
         }
       },
@@ -694,10 +694,10 @@
       "China": 55,
       "United States": 16,
       "Australia": 9,
-      "United Kingdom": 7,
+      "United Kingdom": 8,
+      "Pakistan": 7,
       "Italy": 7,
       "Singapore": 7,
-      "Pakistan": 6,
       "India": 6,
       "South Korea": 5,
       "Ecuador": 5,
@@ -705,6 +705,7 @@
       "Chile": 4,
       "Spain": 4,
       "Macau": 4,
+      "Saudi Arabia": 3,
       "Canada": 3,
       "Germany": 3,
       "Turkey": 3,
@@ -713,7 +714,6 @@
       "Iran": 2,
       "Portugal": 2,
       "France": 2,
-      "Saudi Arabia": 2,
       "Taiwan": 2,
       "Indonesia": 1,
       "Belarus": 1,
@@ -731,10 +731,10 @@
       "China": 55,
       "United States": 16,
       "Australia": 9,
-      "United Kingdom": 7,
+      "United Kingdom": 8,
+      "Pakistan": 7,
       "Italy": 7,
       "Singapore": 7,
-      "Pakistan": 6,
       "India": 6,
       "South Korea": 5,
       "Ecuador": 5,
@@ -742,6 +742,7 @@
       "Chile": 4,
       "Spain": 4,
       "Macau": 4,
+      "Saudi Arabia": 3,
       "Canada": 3,
       "Germany": 3,
       "Turkey": 3,
@@ -750,7 +751,6 @@
       "Iran": 2,
       "Portugal": 2,
       "France": 2,
-      "Saudi Arabia": 2,
       "Taiwan": 2,
       "Indonesia": 1,
       "Belarus": 1,
