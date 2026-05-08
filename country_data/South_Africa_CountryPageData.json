@@ -24,7 +24,7 @@
       "2021": 1.0586,
       "2022": 0.8038,
       "2023": 1.0679,
-      "2024": 0.8114
+      "2024": 0.8426
     },
     "notice_yearly_rates": {
       "2001": 0.1877,
@@ -47,7 +47,7 @@
       "2023": 0.6007,
       "2024": 0.7802
     },
-    "average_rate": 0.5495,
+    "average_rate": 0.5518,
     "yearly_retractions": {
       "2002": 1,
       "2003": 4,
@@ -71,7 +71,7 @@
       "2021": 32,
       "2022": 25,
       "2023": 32,
-      "2024": 26
+      "2024": 27
     },
     "notice_yearly_retractions": {
       "2001": 1,
@@ -97,7 +97,7 @@
   },
   "domainwise_data": {
     "country": "South Africa",
-    "total_retractions": 241,
+    "total_retractions": 242,
     "years": {
       "2025": {
         "total": 1,
@@ -110,16 +110,17 @@
         }
       },
       "2024": {
-        "total": 26,
+        "total": 27,
         "marks": {
+          "alterations": 7,
           "researcher_integrity": 4,
-          "alterations": 6,
           "research": 14,
           "supplemental": 2
         },
         "domain": {
+          "B/T": 12,
+          "SOC": 1,
           "PHY": 35,
-          "B/T": 11,
           "ENV": 4,
           "HSC": 5,
           "BLS": 1
@@ -468,17 +469,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 3,
+        "total": 4,
         "marks": {
-          "alterations": 1,
+          "alterations": 2,
           "research": 1,
           "researcher_integrity": 1
         },
         "domain": {
+          "B/T": 2,
+          "SOC": 1,
           "PHY": 3,
           "BLS": 1,
-          "HSC": 2,
-          "B/T": 1
+          "HSC": 2
         }
       },
       "2025": {
@@ -802,12 +804,13 @@
       "Poland": 6,
       "Iraq": 6,
       "Germany": 6,
+      "France": 5,
       "Vietnam": 4,
       "Cameroon": 4,
       "Russia": 4,
       "South Korea": 4,
-      "France": 4,
       "Malaysia": 4,
+      "Netherlands": 3,
       "Denmark": 3,
       "Thailand": 3,
       "Czech Republic": 3,
@@ -831,7 +834,6 @@
       "Rwanda": 2,
       "Austria": 2,
       "Finland": 2,
-      "Netherlands": 2,
       "Romania": 2,
       "Italy": 2,
       "Ireland": 1,
@@ -888,12 +890,13 @@
       "Poland": 6,
       "Iraq": 6,
       "Germany": 6,
+      "France": 5,
       "Vietnam": 4,
       "Cameroon": 4,
       "Russia": 4,
       "South Korea": 4,
-      "France": 4,
       "Malaysia": 4,
+      "Netherlands": 3,
       "Denmark": 3,
       "Thailand": 3,
       "Czech Republic": 3,
@@ -917,7 +920,6 @@
       "Rwanda": 2,
       "Austria": 2,
       "Finland": 2,
-      "Netherlands": 2,
       "Romania": 2,
       "Italy": 2,
       "Ireland": 1,
