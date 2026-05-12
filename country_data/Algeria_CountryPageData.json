@@ -14,7 +14,7 @@
       "2015": 0.8486,
       "2016": 0.4528,
       "2017": 0.5468,
-      "2018": 1.5077,
+      "2018": 1.6334,
       "2019": 0.4962,
       "2020": 0.6046,
       "2021": 0.5164,
@@ -40,7 +40,7 @@
       "2023": 0.6517,
       "2024": 0.6282
     },
-    "average_rate": 0.7161,
+    "average_rate": 0.7241,
     "yearly_retractions": {
       "2005": 1,
       "2006": 1,
@@ -54,7 +54,7 @@
       "2015": 5,
       "2016": 3,
       "2017": 4,
-      "2018": 12,
+      "2018": 13,
       "2019": 4,
       "2020": 5,
       "2021": 5,
@@ -83,7 +83,7 @@
   },
   "domainwise_data": {
     "country": "Algeria",
-    "total_retractions": 92,
+    "total_retractions": 93,
     "years": {
       "2025": {
         "total": 2,
@@ -175,15 +175,16 @@
         }
       },
       "2018": {
-        "total": 12,
+        "total": 13,
         "marks": {
+          "researcher_integrity": 2,
           "research": 1,
-          "supplemental": 10,
-          "researcher_integrity": 1
+          "supplemental": 10
         },
         "domain": {
+          "BLS": 34,
+          "HSC": 2,
           "PHY": 1,
-          "BLS": 32,
           "ENV": 5
         }
       },
@@ -330,11 +331,14 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 1
         },
         "domain": {
+          "BLS": 2,
+          "HSC": 2,
           "PHY": 1
         }
       },
@@ -550,7 +554,7 @@
       }
     },
     "collaborations": {
-      "France": 14,
+      "France": 15,
       "Saudi Arabia": 10,
       "Pakistan": 6,
       "India": 6,
@@ -605,7 +609,7 @@
       "Turkey": 1
     },
     "notice_collaborations": {
-      "France": 14,
+      "France": 15,
       "Saudi Arabia": 10,
       "Pakistan": 6,
       "India": 6,
