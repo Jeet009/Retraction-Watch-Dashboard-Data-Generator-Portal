@@ -20,7 +20,7 @@
       "2019": 1.2869,
       "2020": 0.4849,
       "2021": 0.9737,
-      "2022": 0.7386,
+      "2022": 0.8441,
       "2023": 0.9244,
       "2024": 0.1006
     },
@@ -41,10 +41,10 @@
       "2020": 1.5759,
       "2021": 0.8655,
       "2022": 0.5276,
-      "2023": 1.1298,
+      "2023": 1.2325,
       "2024": 0.7045
     },
-    "average_rate": 0.9595,
+    "average_rate": 0.9665,
     "yearly_retractions": {
       "2003": 3,
       "2004": 2,
@@ -64,7 +64,7 @@
       "2019": 11,
       "2020": 4,
       "2021": 9,
-      "2022": 7,
+      "2022": 8,
       "2023": 9,
       "2024": 1
     },
@@ -85,13 +85,13 @@
       "2020": 13,
       "2021": 8,
       "2022": 5,
-      "2023": 11,
+      "2023": 12,
       "2024": 7
     }
   },
   "domainwise_data": {
     "country": "Serbia",
-    "total_retractions": 139,
+    "total_retractions": 140,
     "years": {
       "2024": {
         "total": 1,
@@ -120,18 +120,19 @@
         }
       },
       "2022": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "researcher_integrity": 2,
           "alterations": 3,
-          "research": 3,
-          "researcher_integrity": 1
+          "research": 3
         },
         "domain": {
+          "B/T": 5,
+          "SOC": 1,
           "PHY": 4,
           "ENV": 1,
           "HSC": 4,
-          "BLS": 3,
-          "B/T": 4
+          "BLS": 3
         }
       },
       "2021": {
@@ -417,18 +418,19 @@
         }
       },
       "2023": {
-        "total": 11,
+        "total": 12,
         "marks": {
+          "researcher_integrity": 4,
           "supplemental": 1,
           "alterations": 2,
-          "research": 5,
-          "researcher_integrity": 3
+          "research": 5
         },
         "domain": {
+          "B/T": 9,
+          "SOC": 1,
           "HSC": 8,
           "ENV": 6,
           "PHY": 5,
-          "B/T": 8,
           "BLS": 3
         }
       },
@@ -666,6 +668,7 @@
       "Canada": 2,
       "Japan": 2,
       "Switzerland": 2,
+      "Ukraine": 1,
       "Albania": 1,
       "United Arab Emirates": 1,
       "Czech Republic": 1,
@@ -717,6 +720,7 @@
       "Canada": 2,
       "Japan": 2,
       "Switzerland": 2,
+      "Ukraine": 1,
       "Albania": 1,
       "United Arab Emirates": 1,
       "Czech Republic": 1,

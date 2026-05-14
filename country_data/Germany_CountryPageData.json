@@ -30,7 +30,7 @@
       "2021": 0.3533,
       "2022": 0.3312,
       "2023": 0.2095,
-      "2024": 0.1345
+      "2024": 0.1399
     },
     "notice_yearly_rates": {
       "1997": 0.0953,
@@ -62,7 +62,7 @@
       "2023": 0.5514,
       "2024": 0.5595
     },
-    "average_rate": 0.3012,
+    "average_rate": 0.3014,
     "yearly_retractions": {
       "1996": 25,
       "1997": 13,
@@ -92,7 +92,7 @@
       "2021": 68,
       "2022": 62,
       "2023": 38,
-      "2024": 25
+      "2024": 26
     },
     "notice_yearly_retractions": {
       "1997": 8,
@@ -127,7 +127,7 @@
   },
   "domainwise_data": {
     "country": "Germany",
-    "total_retractions": 1312,
+    "total_retractions": 1313,
     "years": {
       "2025": {
         "total": 12,
@@ -148,21 +148,21 @@
         }
       },
       "2024": {
-        "total": 25,
+        "total": 26,
         "marks": {
+          "researcher_integrity": 7,
           "research": 5,
-          "researcher_integrity": 6,
           "system": 2,
           "alterations": 11,
           "supplemental": 1
         },
         "domain": {
+          "B/T": 8,
+          "SOC": 3,
           "HSC": 24,
-          "SOC": 2,
           "BLS": 19,
           "ENV": 7,
-          "PHY": 10,
-          "B/T": 7
+          "PHY": 10
         }
       },
       "2023": {
@@ -845,15 +845,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 16,
+        "total": 17,
         "marks": {
           "alterations": 7,
-          "research": 7,
-          "researcher_integrity": 2
+          "researcher_integrity": 3,
+          "research": 7
         },
         "domain": {
           "BLS": 15,
-          "SOC": 2,
+          "B/T": 1,
+          "SOC": 3,
           "ENV": 1,
           "PHY": 2,
           "HSC": 33
@@ -1415,7 +1416,7 @@
     "collaborations": {
       "United States": 189,
       "China": 111,
-      "United Kingdom": 86,
+      "United Kingdom": 87,
       "India": 56,
       "Italy": 51,
       "Iran": 51,
@@ -1530,7 +1531,7 @@
     "notice_collaborations": {
       "United States": 189,
       "China": 111,
-      "United Kingdom": 86,
+      "United Kingdom": 87,
       "India": 56,
       "Italy": 51,
       "Iran": 51,
