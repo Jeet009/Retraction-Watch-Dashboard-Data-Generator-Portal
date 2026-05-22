@@ -97,8 +97,18 @@
   },
   "domainwise_data": {
     "country": "Austria",
-    "total_retractions": 90,
+    "total_retractions": 91,
     "years": {
+      "2025": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "BLS": 1,
+          "HSC": 2
+        }
+      },
       "2024": {
         "total": 2,
         "marks": {
@@ -385,12 +395,14 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "research": 1
         },
         "domain": {
-          "BLS": 2,
+          "BLS": 3,
+          "HSC": 2,
           "ENV": 1
         }
       },
@@ -649,10 +661,10 @@
       "Germany": 23,
       "United Kingdom": 17,
       "United States": 16,
+      "Saudi Arabia": 9,
       "India": 9,
       "Netherlands": 9,
       "China": 8,
-      "Saudi Arabia": 8,
       "Australia": 7,
       "Italy": 6,
       "Spain": 6,
@@ -672,6 +684,7 @@
       "South Africa": 2,
       "Portugal": 2,
       "Romania": 2,
+      "Pakistan": 1,
       "Iran": 1,
       "Iraq": 1,
       "Malaysia": 1,
@@ -704,10 +717,10 @@
       "Germany": 23,
       "United Kingdom": 17,
       "United States": 16,
+      "Saudi Arabia": 9,
       "India": 9,
       "Netherlands": 9,
       "China": 8,
-      "Saudi Arabia": 8,
       "Australia": 7,
       "Italy": 6,
       "Spain": 6,
@@ -727,6 +740,7 @@
       "South Africa": 2,
       "Portugal": 2,
       "Romania": 2,
+      "Pakistan": 1,
       "Iran": 1,
       "Iraq": 1,
       "Malaysia": 1,
