@@ -23,11 +23,11 @@
       "2015": 1.6922,
       "2016": 1.2598,
       "2017": 1.9725,
-      "2018": 2.5317,
+      "2018": 2.535,
       "2019": 2.7371,
       "2020": 2.8791,
-      "2021": 5.3624,
-      "2022": 8.485,
+      "2021": 5.3703,
+      "2022": 8.486,
       "2023": 1.4065,
       "2024": 0.7392
     },
@@ -56,10 +56,10 @@
       "2020": 1.3693,
       "2021": 2.6472,
       "2022": 3.0305,
-      "2023": 10.053,
-      "2024": 2.9662
+      "2023": 10.0578,
+      "2024": 2.9704
     },
-    "average_rate": 3.0835,
+    "average_rate": 3.0844,
     "yearly_retractions": {
       "1997": 2,
       "1998": 2,
@@ -82,11 +82,11 @@
       "2015": 769,
       "2016": 619,
       "2017": 1056,
-      "2018": 1505,
+      "2018": 1507,
       "2019": 1938,
       "2020": 2275,
-      "2021": 4728,
-      "2022": 8646,
+      "2021": 4735,
+      "2022": 8647,
       "2023": 1475,
       "2024": 880
     },
@@ -115,13 +115,13 @@
       "2020": 1082,
       "2021": 2334,
       "2022": 3088,
-      "2023": 10543,
-      "2024": 3531
+      "2023": 10548,
+      "2024": 3536
     }
   },
   "domainwise_data": {
     "country": "China",
-    "total_retractions": 35443,
+    "total_retractions": 35453,
     "years": {
       "2026": {
         "total": 1,
@@ -191,39 +191,39 @@
         }
       },
       "2022": {
-        "total": 8646,
+        "total": 8647,
         "marks": {
+          "researcher_integrity": 647,
           "research": 2733,
           "alterations": 4707,
-          "researcher_integrity": 646,
           "system": 140,
           "supplemental": 420
         },
         "domain": {
+          "HSC": 8372,
           "BLS": 3437,
           "B/T": 8966,
           "ENV": 621,
           "SOC": 3397,
           "HUM": 709,
-          "PHY": 1784,
-          "HSC": 8371
+          "PHY": 1784
         }
       },
       "2021": {
-        "total": 4728,
+        "total": 4735,
         "marks": {
-          "research": 1448,
-          "alterations": 2035,
-          "researcher_integrity": 358,
+          "research": 1450,
+          "researcher_integrity": 362,
+          "alterations": 2036,
           "system": 413,
           "supplemental": 474
         },
         "domain": {
-          "BLS": 2902,
-          "B/T": 4598,
-          "PHY": 743,
-          "HSC": 3197,
-          "SOC": 1467,
+          "BLS": 2916,
+          "B/T": 4599,
+          "HSC": 3209,
+          "SOC": 1468,
+          "PHY": 744,
           "ENV": 473,
           "HUM": 219
         }
@@ -267,16 +267,16 @@
         }
       },
       "2018": {
-        "total": 1505,
+        "total": 1507,
         "marks": {
+          "alterations": 767,
+          "research": 502,
           "system": 62,
-          "alterations": 766,
-          "research": 501,
           "researcher_integrity": 115,
           "supplemental": 61
         },
         "domain": {
-          "BLS": 3184,
+          "BLS": 3192,
           "HSC": 765,
           "B/T": 501,
           "PHY": 294,
@@ -697,18 +697,18 @@
         }
       },
       "2024": {
-        "total": 3531,
+        "total": 3536,
         "marks": {
-          "alterations": 1856,
-          "research": 1024,
-          "researcher_integrity": 294,
+          "alterations": 1858,
+          "researcher_integrity": 295,
+          "research": 1026,
           "system": 81,
           "supplemental": 276
         },
         "domain": {
-          "BLS": 4380,
-          "HSC": 2493,
-          "PHY": 885,
+          "BLS": 4395,
+          "HSC": 2494,
+          "PHY": 886,
           "B/T": 2844,
           "SOC": 623,
           "HUM": 129,
@@ -716,20 +716,20 @@
         }
       },
       "2023": {
-        "total": 10543,
+        "total": 10548,
         "marks": {
-          "researcher_integrity": 668,
+          "research": 3742,
+          "researcher_integrity": 672,
           "alterations": 5800,
           "supplemental": 161,
-          "system": 173,
-          "research": 3741
+          "system": 173
         },
         "domain": {
-          "B/T": 10159,
+          "BLS": 6422,
+          "B/T": 10160,
+          "HSC": 10028,
+          "SOC": 3900,
           "PHY": 1886,
-          "BLS": 6415,
-          "HSC": 10016,
-          "SOC": 3899,
           "ENV": 537,
           "HUM": 753
         }
