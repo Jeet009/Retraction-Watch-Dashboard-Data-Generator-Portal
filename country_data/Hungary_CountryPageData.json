@@ -21,7 +21,7 @@
       "2020": 0.0781,
       "2021": 0.575,
       "2022": 1.1094,
-      "2023": 0.534,
+      "2023": 0.6007,
       "2024": 0.7954
     },
     "notice_yearly_rates": {
@@ -41,7 +41,7 @@
       "2023": 0.4005,
       "2024": 0.7342
     },
-    "average_rate": 0.2831,
+    "average_rate": 0.2869,
     "yearly_retractions": {
       "1998": 1,
       "2002": 1,
@@ -62,7 +62,7 @@
       "2020": 1,
       "2021": 8,
       "2022": 16,
-      "2023": 8,
+      "2023": 9,
       "2024": 13
     },
     "notice_yearly_retractions": {
@@ -85,7 +85,7 @@
   },
   "domainwise_data": {
     "country": "Hungary",
-    "total_retractions": 77,
+    "total_retractions": 78,
     "years": {
       "2025": {
         "total": 1,
@@ -113,16 +113,17 @@
         }
       },
       "2023": {
-        "total": 8,
+        "total": 9,
         "marks": {
+          "research": 1,
           "alterations": 4,
           "researcher_integrity": 4
         },
         "domain": {
+          "PHY": 5,
           "BLS": 5,
           "B/T": 6,
           "HSC": 4,
-          "PHY": 2,
           "ENV": 1
         }
       },
@@ -339,11 +340,13 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "research": 1,
           "alterations": 1
         },
         "domain": {
+          "PHY": 3,
           "BLS": 3
         }
       },
@@ -542,17 +545,18 @@
       "South Africa": 7,
       "Germany": 7,
       "India": 6,
+      "Egypt": 5,
+      "Turkey": 5,
       "Uzbekistan": 5,
+      "Netherlands": 4,
       "Romania": 4,
       "Jordan": 4,
-      "Egypt": 4,
-      "Turkey": 4,
       "France": 4,
       "Italy": 3,
       "Belgium": 3,
-      "Netherlands": 3,
       "Spain": 3,
       "Iran": 3,
+      "Morocco": 2,
       "Australia": 2,
       "Denmark": 2,
       "Serbia": 2,
@@ -570,7 +574,6 @@
       "Indonesia": 1,
       "Slovakia": 1,
       "Qatar": 1,
-      "Morocco": 1,
       "Ukraine": 1,
       "Kazakhstan": 1,
       "Kuwait": 1,
@@ -592,17 +595,18 @@
       "South Africa": 7,
       "Germany": 7,
       "India": 6,
+      "Egypt": 5,
+      "Turkey": 5,
       "Uzbekistan": 5,
+      "Netherlands": 4,
       "Romania": 4,
       "Jordan": 4,
-      "Egypt": 4,
-      "Turkey": 4,
       "France": 4,
       "Italy": 3,
       "Belgium": 3,
-      "Netherlands": 3,
       "Spain": 3,
       "Iran": 3,
+      "Morocco": 2,
       "Australia": 2,
       "Denmark": 2,
       "Serbia": 2,
@@ -620,7 +624,6 @@
       "Indonesia": 1,
       "Slovakia": 1,
       "Qatar": 1,
-      "Morocco": 1,
       "Ukraine": 1,
       "Kazakhstan": 1,
       "Kuwait": 1,
