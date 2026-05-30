@@ -30,7 +30,7 @@
       "2021": 0.2528,
       "2022": 0.1831,
       "2023": 0.2186,
-      "2024": 0.1037
+      "2024": 0.1185
     },
     "notice_yearly_rates": {
       "1997": 0.0423,
@@ -58,7 +58,7 @@
       "2023": 0.3123,
       "2024": 0.311
     },
-    "average_rate": 0.3256,
+    "average_rate": 0.3264,
     "yearly_retractions": {
       "1996": 4,
       "1997": 1,
@@ -88,7 +88,7 @@
       "2021": 17,
       "2022": 12,
       "2023": 14,
-      "2024": 7
+      "2024": 8
     },
     "notice_yearly_retractions": {
       "1997": 1,
@@ -119,7 +119,7 @@
   },
   "domainwise_data": {
     "country": "Netherlands",
-    "total_retractions": 425,
+    "total_retractions": 426,
     "years": {
       "2025": {
         "total": 1,
@@ -131,18 +131,19 @@
         }
       },
       "2024": {
-        "total": 7,
+        "total": 8,
         "marks": {
           "alterations": 2,
+          "research": 2,
           "researcher_integrity": 3,
-          "research": 1,
           "supplemental": 1
         },
         "domain": {
-          "B/T": 2,
+          "B/T": 3,
           "SOC": 1,
-          "HSC": 9,
-          "BLS": 1
+          "BLS": 2,
+          "ENV": 1,
+          "HSC": 9
         }
       },
       "2023": {
@@ -631,18 +632,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 5,
+        "total": 6,
         "marks": {
           "researcher_integrity": 2,
           "alterations": 2,
-          "research": 1
+          "research": 2
         },
         "domain": {
           "HSC": 4,
           "SOC": 3,
-          "B/T": 1,
-          "PHY": 3,
-          "BLS": 3
+          "B/T": 2,
+          "BLS": 4,
+          "ENV": 1,
+          "PHY": 3
         }
       },
       "2025": {
@@ -1066,12 +1068,12 @@
       "Japan": 6,
       "Egypt": 5,
       "Norway": 5,
+      "Turkey": 4,
       "Hungary": 4,
       "Singapore": 4,
       "Unknown": 4,
       "Indonesia": 4,
       "South Africa": 3,
-      "Turkey": 3,
       "Serbia": 3,
       "United Arab Emirates": 3,
       "Iran": 3,
@@ -1130,12 +1132,12 @@
       "Japan": 6,
       "Egypt": 5,
       "Norway": 5,
+      "Turkey": 4,
       "Hungary": 4,
       "Singapore": 4,
       "Unknown": 4,
       "Indonesia": 4,
       "South Africa": 3,
-      "Turkey": 3,
       "Serbia": 3,
       "United Arab Emirates": 3,
       "Iran": 3,
