@@ -4,17 +4,19 @@
     "yearly_rates": {
       "2018": 3.5587,
       "2019": 6.079,
-      "2022": 2.2779
+      "2022": 2.2779,
+      "2024": 2.457
     },
     "notice_yearly_rates": {
       "2022": 2.2779,
       "2024": 2.457
     },
-    "average_rate": 0.7032,
+    "average_rate": 0.879,
     "yearly_retractions": {
       "2018": 1,
       "2019": 2,
-      "2022": 1
+      "2022": 1,
+      "2024": 1
     },
     "notice_yearly_retractions": {
       "2022": 1,
@@ -23,8 +25,17 @@
   },
   "domainwise_data": {
     "country": "Mali",
-    "total_retractions": 4,
+    "total_retractions": 5,
     "years": {
+      "2024": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "BLS": 2
+        }
+      },
       "2022": {
         "total": 1,
         "marks": {
@@ -56,6 +67,15 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "BLS": 2
+        }
+      },
       "2025": {
         "total": 2,
         "marks": {
@@ -87,16 +107,17 @@
       }
     },
     "collaborations": {
+      "Senegal": 3,
+      "Burkina Faso": 2,
+      "Ghana": 2,
       "Botswana": 2,
       "India": 2,
       "France": 2,
-      "Senegal": 2,
       "French Polynesia": 1,
       "Saudi Arabia": 1,
       "Algeria": 1,
       "Angola": 1,
       "Benin": 1,
-      "Burkina Faso": 1,
       "Cameroon": 1,
       "Canada": 1,
       "Democratic Republic of the Congo": 1,
@@ -104,7 +125,6 @@
       "Gabon": 1,
       "Gambia": 1,
       "Germany": 1,
-      "Ghana": 1,
       "Kenya": 1,
       "Macau": 1,
       "Madagascar": 1,
@@ -120,16 +140,17 @@
       "Zimbabwe": 1
     },
     "notice_collaborations": {
+      "Senegal": 3,
+      "Burkina Faso": 2,
+      "Ghana": 2,
       "Botswana": 2,
       "India": 2,
       "France": 2,
-      "Senegal": 2,
       "French Polynesia": 1,
       "Saudi Arabia": 1,
       "Algeria": 1,
       "Angola": 1,
       "Benin": 1,
-      "Burkina Faso": 1,
       "Cameroon": 1,
       "Canada": 1,
       "Democratic Republic of the Congo": 1,
@@ -137,7 +158,6 @@
       "Gabon": 1,
       "Gambia": 1,
       "Germany": 1,
-      "Ghana": 1,
       "Kenya": 1,
       "Macau": 1,
       "Madagascar": 1,

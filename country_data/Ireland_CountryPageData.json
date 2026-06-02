@@ -24,7 +24,7 @@
       "2021": 0.429,
       "2022": 0.4954,
       "2023": 0.8811,
-      "2024": 0.2607
+      "2024": 0.3128
     },
     "notice_yearly_rates": {
       "1998": 0.3152,
@@ -48,7 +48,7 @@
       "2023": 0.9362,
       "2024": 0.2607
     },
-    "average_rate": 0.4098,
+    "average_rate": 0.4133,
     "yearly_retractions": {
       "1998": 1,
       "1999": 1,
@@ -72,7 +72,7 @@
       "2021": 8,
       "2022": 9,
       "2023": 16,
-      "2024": 5
+      "2024": 6
     },
     "notice_yearly_retractions": {
       "1998": 1,
@@ -99,7 +99,7 @@
   },
   "domainwise_data": {
     "country": "Ireland",
-    "total_retractions": 122,
+    "total_retractions": 123,
     "years": {
       "2025": {
         "total": 4,
@@ -115,14 +115,15 @@
         }
       },
       "2024": {
-        "total": 5,
+        "total": 6,
         "marks": {
+          "research": 2,
           "researcher_integrity": 2,
-          "alterations": 2,
-          "research": 1
+          "alterations": 2
         },
         "domain": {
-          "B/T": 5,
+          "B/T": 6,
+          "PHY": 1,
           "SOC": 2,
           "BLS": 3,
           "HSC": 3
@@ -411,16 +412,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 9,
+        "total": 10,
         "marks": {
+          "research": 1,
           "alterations": 1,
           "researcher_integrity": 8
         },
         "domain": {
+          "B/T": 14,
+          "PHY": 3,
           "BLS": 3,
-          "B/T": 13,
-          "HSC": 1,
-          "PHY": 2
+          "HSC": 1
         }
       },
       "2025": {
@@ -687,9 +689,9 @@
     "collaborations": {
       "United Kingdom": 30,
       "United States": 15,
-      "China": 12,
+      "China": 13,
+      "Pakistan": 8,
       "India": 8,
-      "Pakistan": 7,
       "France": 7,
       "Saudi Arabia": 5,
       "Australia": 5,
@@ -732,9 +734,9 @@
     "notice_collaborations": {
       "United Kingdom": 30,
       "United States": 15,
-      "China": 12,
+      "China": 13,
+      "Pakistan": 8,
       "India": 8,
-      "Pakistan": 7,
       "France": 7,
       "Saudi Arabia": 5,
       "Australia": 5,

@@ -13,7 +13,7 @@
       "2021": 1.5576,
       "2022": 9.9219,
       "2023": 1.118,
-      "2024": 0.5709
+      "2024": 0.7137
     },
     "notice_yearly_rates": {
       "2007": 1.9531,
@@ -28,7 +28,7 @@
       "2023": 6.7082,
       "2024": 4.1393
     },
-    "average_rate": 1.8607,
+    "average_rate": 1.8803,
     "yearly_retractions": {
       "2006": 1,
       "2011": 1,
@@ -41,7 +41,7 @@
       "2021": 8,
       "2022": 61,
       "2023": 7,
-      "2024": 4
+      "2024": 5
     },
     "notice_yearly_retractions": {
       "2007": 1,
@@ -59,15 +59,16 @@
   },
   "domainwise_data": {
     "country": "Ghana",
-    "total_retractions": 95,
+    "total_retractions": 96,
     "years": {
       "2024": {
-        "total": 4,
+        "total": 5,
         "marks": {
-          "researcher_integrity": 2,
-          "research": 2
+          "research": 3,
+          "researcher_integrity": 2
         },
         "domain": {
+          "BLS": 2,
           "SOC": 4,
           "B/T": 3,
           "PHY": 1,
@@ -212,6 +213,15 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "BLS": 2
+        }
+      },
       "2025": {
         "total": 3,
         "marks": {
@@ -377,6 +387,9 @@
       "Sweden": 3,
       "Bangladesh": 3,
       "South Africa": 3,
+      "Burkina Faso": 2,
+      "Mali": 2,
+      "Senegal": 2,
       "United Arab Emirates": 2,
       "South Korea": 2,
       "Peru": 2,
@@ -399,7 +412,6 @@
       "Algeria": 1,
       "Angola": 1,
       "Benin": 1,
-      "Burkina Faso": 1,
       "Cameroon": 1,
       "Democratic Republic of the Congo": 1,
       "Ethiopia": 1,
@@ -408,12 +420,10 @@
       "Kenya": 1,
       "Macau": 1,
       "Madagascar": 1,
-      "Mali": 1,
       "Morocco": 1,
       "Mozambique": 1,
       "Namibia": 1,
       "Niger": 1,
-      "Senegal": 1,
       "Togo": 1,
       "Uganda": 1,
       "United Kingdom": 1,
@@ -438,6 +448,9 @@
       "Sweden": 3,
       "Bangladesh": 3,
       "South Africa": 3,
+      "Burkina Faso": 2,
+      "Mali": 2,
+      "Senegal": 2,
       "United Arab Emirates": 2,
       "South Korea": 2,
       "Peru": 2,
@@ -460,7 +473,6 @@
       "Algeria": 1,
       "Angola": 1,
       "Benin": 1,
-      "Burkina Faso": 1,
       "Cameroon": 1,
       "Democratic Republic of the Congo": 1,
       "Ethiopia": 1,
@@ -469,12 +481,10 @@
       "Kenya": 1,
       "Macau": 1,
       "Madagascar": 1,
-      "Mali": 1,
       "Morocco": 1,
       "Mozambique": 1,
       "Namibia": 1,
       "Niger": 1,
-      "Senegal": 1,
       "Togo": 1,
       "Uganda": 1,
       "United Kingdom": 1,
