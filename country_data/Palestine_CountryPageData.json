@@ -9,6 +9,7 @@
       "2020": 0.8039,
       "2021": 1.3236,
       "2022": 2.2535,
+      "2023": 0.4585,
       "2024": 0.8909
     },
     "notice_yearly_rates": {
@@ -20,7 +21,7 @@
       "2023": 2.2925,
       "2024": 0.4454
     },
-    "average_rate": 0.8406,
+    "average_rate": 0.9007,
     "yearly_retractions": {
       "2001": 1,
       "2009": 1,
@@ -29,6 +30,7 @@
       "2020": 1,
       "2021": 2,
       "2022": 4,
+      "2023": 1,
       "2024": 2
     },
     "notice_yearly_retractions": {
@@ -43,7 +45,7 @@
   },
   "domainwise_data": {
     "country": "Palestine",
-    "total_retractions": 17,
+    "total_retractions": 18,
     "years": {
       "2025": {
         "total": 3,
@@ -63,6 +65,15 @@
         "domain": {
           "PHY": 2,
           "HSC": 2
+        }
+      },
+      "2023": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "PHY": 3
         }
       },
       "2022": {
@@ -146,12 +157,13 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "research": 1
         },
         "domain": {
-          "PHY": 2
+          "PHY": 5
         }
       },
       "2025": {
@@ -246,10 +258,10 @@
     },
     "collaborations": {
       "China": 6,
+      "Pakistan": 5,
+      "Saudi Arabia": 5,
+      "United States": 5,
       "United Kingdom": 5,
-      "United States": 4,
-      "Pakistan": 4,
-      "Saudi Arabia": 4,
       "Sudan": 4,
       "Egypt": 3,
       "Iraq": 2,
@@ -268,10 +280,10 @@
     },
     "notice_collaborations": {
       "China": 6,
+      "Pakistan": 5,
+      "Saudi Arabia": 5,
+      "United States": 5,
       "United Kingdom": 5,
-      "United States": 4,
-      "Pakistan": 4,
-      "Saudi Arabia": 4,
       "Sudan": 4,
       "Egypt": 3,
       "Iraq": 2,

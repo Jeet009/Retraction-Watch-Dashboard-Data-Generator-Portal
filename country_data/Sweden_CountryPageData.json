@@ -29,7 +29,7 @@
       "2020": 0.4871,
       "2021": 0.3056,
       "2022": 0.3096,
-      "2023": 0.2928,
+      "2023": 0.3153,
       "2024": 0.0635
     },
     "notice_yearly_rates": {
@@ -60,7 +60,7 @@
       "2023": 0.3829,
       "2024": 0.5718
     },
-    "average_rate": 0.2974,
+    "average_rate": 0.2985,
     "yearly_retractions": {
       "1996": 1,
       "1997": 1,
@@ -89,7 +89,7 @@
       "2020": 21,
       "2021": 14,
       "2022": 14,
-      "2023": 13,
+      "2023": 14,
       "2024": 3
     },
     "notice_yearly_retractions": {
@@ -123,7 +123,7 @@
   },
   "domainwise_data": {
     "country": "Sweden",
-    "total_retractions": 264,
+    "total_retractions": 265,
     "years": {
       "2025": {
         "total": 1,
@@ -146,21 +146,21 @@
         }
       },
       "2023": {
-        "total": 13,
+        "total": 14,
         "marks": {
-          "research": 4,
+          "research": 5,
           "researcher_integrity": 5,
           "alterations": 2,
           "system": 1,
           "supplemental": 1
         },
         "domain": {
+          "B/T": 3,
+          "ENV": 3,
+          "PHY": 16,
           "BLS": 10,
-          "PHY": 15,
           "HSC": 7,
-          "ENV": 2,
-          "SOC": 2,
-          "B/T": 2
+          "SOC": 2
         }
       },
       "2022": {
@@ -560,15 +560,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 4,
+        "total": 5,
         "marks": {
+          "research": 2,
           "supplemental": 2,
-          "researcher_integrity": 1,
-          "research": 1
+          "researcher_integrity": 1
         },
         "domain": {
+          "B/T": 1,
+          "ENV": 2,
+          "PHY": 1,
           "BLS": 5,
-          "ENV": 1,
           "HSC": 2
         }
       },
@@ -963,9 +965,9 @@
       }
     },
     "collaborations": {
-      "United States": 52,
-      "China": 38,
-      "United Kingdom": 33,
+      "United States": 53,
+      "China": 39,
+      "United Kingdom": 34,
       "Germany": 25,
       "Italy": 16,
       "India": 16,
@@ -1024,9 +1026,9 @@
       "Hungary": 1
     },
     "notice_collaborations": {
-      "United States": 52,
-      "China": 38,
-      "United Kingdom": 33,
+      "United States": 53,
+      "China": 39,
+      "United Kingdom": 34,
       "Germany": 25,
       "Italy": 16,
       "India": 16,
