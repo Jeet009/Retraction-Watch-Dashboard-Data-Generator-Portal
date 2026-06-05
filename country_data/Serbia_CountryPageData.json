@@ -22,7 +22,7 @@
       "2021": 1.0819,
       "2022": 0.8441,
       "2023": 0.9244,
-      "2024": 0.1006
+      "2024": 0.2013
     },
     "notice_yearly_rates": {
       "2004": 2.0647,
@@ -44,7 +44,7 @@
       "2023": 1.3353,
       "2024": 0.7045
     },
-    "average_rate": 0.9734,
+    "average_rate": 0.9804,
     "yearly_retractions": {
       "2003": 3,
       "2004": 2,
@@ -66,7 +66,7 @@
       "2021": 10,
       "2022": 8,
       "2023": 9,
-      "2024": 1
+      "2024": 2
     },
     "notice_yearly_retractions": {
       "2004": 3,
@@ -91,15 +91,17 @@
   },
   "domainwise_data": {
     "country": "Serbia",
-    "total_retractions": 141,
+    "total_retractions": 142,
     "years": {
       "2024": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "alterations": 1,
           "research": 1
         },
         "domain": {
-          "B/T": 1,
+          "B/T": 2,
+          "HSC": 3,
           "ENV": 1
         }
       },
@@ -378,16 +380,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 3,
+        "total": 4,
         "marks": {
+          "alterations": 2,
           "research": 1,
-          "researcher_integrity": 1,
-          "alterations": 1
+          "researcher_integrity": 1
         },
         "domain": {
-          "B/T": 1,
+          "B/T": 2,
+          "HSC": 5,
           "ENV": 2,
-          "HSC": 2,
           "BLS": 3
         }
       },
@@ -642,15 +644,15 @@
       "China": 8,
       "Italy": 8,
       "Saudi Arabia": 7,
+      "India": 6,
+      "Turkey": 6,
+      "Kuwait": 5,
+      "Taiwan": 5,
       "Pakistan": 5,
-      "Turkey": 5,
-      "India": 5,
       "Tunisia": 4,
-      "Taiwan": 4,
       "Russia": 4,
       "Belgium": 4,
       "United Kingdom": 4,
-      "Kuwait": 4,
       "Egypt": 4,
       "Montenegro": 4,
       "Lebanon": 3,
@@ -668,6 +670,7 @@
       "Canada": 2,
       "Japan": 2,
       "Switzerland": 2,
+      "Azerbaijan": 1,
       "Ukraine": 1,
       "Albania": 1,
       "United Arab Emirates": 1,
@@ -694,15 +697,15 @@
       "China": 8,
       "Italy": 8,
       "Saudi Arabia": 7,
+      "India": 6,
+      "Turkey": 6,
+      "Kuwait": 5,
+      "Taiwan": 5,
       "Pakistan": 5,
-      "Turkey": 5,
-      "India": 5,
       "Tunisia": 4,
-      "Taiwan": 4,
       "Russia": 4,
       "Belgium": 4,
       "United Kingdom": 4,
-      "Kuwait": 4,
       "Egypt": 4,
       "Montenegro": 4,
       "Lebanon": 3,
@@ -720,6 +723,7 @@
       "Canada": 2,
       "Japan": 2,
       "Switzerland": 2,
+      "Azerbaijan": 1,
       "Ukraine": 1,
       "Albania": 1,
       "United Arab Emirates": 1,

@@ -20,9 +20,9 @@
       "2019": 0.5621,
       "2020": 0.9229,
       "2021": 5.1975,
-      "2022": 6.0547,
+      "2022": 6.1628,
       "2023": 1.2494,
-      "2024": 1.6412
+      "2024": 1.7158
     },
     "notice_yearly_rates": {
       "2007": 0.6435,
@@ -44,7 +44,7 @@
       "2023": 5.5332,
       "2024": 2.1634
     },
-    "average_rate": 1.8521,
+    "average_rate": 1.8736,
     "yearly_retractions": {
       "2001": 1,
       "2003": 1,
@@ -64,9 +64,9 @@
       "2019": 3,
       "2020": 6,
       "2021": 40,
-      "2022": 56,
+      "2022": 57,
       "2023": 14,
-      "2024": 22
+      "2024": 23
     },
     "notice_yearly_retractions": {
       "2007": 1,
@@ -91,7 +91,7 @@
   },
   "domainwise_data": {
     "country": "Jordan",
-    "total_retractions": 177,
+    "total_retractions": 179,
     "years": {
       "2026": {
         "total": 1,
@@ -119,18 +119,18 @@
         }
       },
       "2024": {
-        "total": 22,
+        "total": 23,
         "marks": {
-          "research": 7,
+          "research": 8,
           "researcher_integrity": 8,
           "alterations": 7
         },
         "domain": {
+          "B/T": 15,
+          "ENV": 2,
           "PHY": 14,
           "BLS": 15,
           "HSC": 23,
-          "B/T": 12,
-          "ENV": 1,
           "SOC": 1
         }
       },
@@ -151,17 +151,17 @@
         }
       },
       "2022": {
-        "total": 56,
+        "total": 57,
         "marks": {
+          "alterations": 22,
           "researcher_integrity": 10,
-          "alterations": 21,
           "supplemental": 5,
           "research": 14,
           "system": 6
         },
         "domain": {
-          "BLS": 15,
-          "HSC": 58,
+          "BLS": 19,
+          "HSC": 59,
           "B/T": 56,
           "PHY": 22,
           "ENV": 4,
@@ -377,20 +377,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 9,
+        "total": 11,
         "marks": {
-          "research": 5,
+          "alterations": 3,
+          "research": 6,
           "supplemental": 1,
-          "alterations": 2,
           "researcher_integrity": 1
         },
         "domain": {
+          "BLS": 7,
+          "HSC": 9,
+          "B/T": 7,
+          "ENV": 2,
           "PHY": 5,
-          "B/T": 4,
-          "SOC": 3,
-          "BLS": 3,
-          "HSC": 8,
-          "ENV": 1
+          "SOC": 3
         }
       },
       "2025": {
