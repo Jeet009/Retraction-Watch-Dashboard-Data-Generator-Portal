@@ -24,7 +24,7 @@
       "2021": 1.0586,
       "2022": 0.836,
       "2023": 1.1012,
-      "2024": 0.8426
+      "2024": 0.8738
     },
     "notice_yearly_rates": {
       "2001": 0.1877,
@@ -47,7 +47,7 @@
       "2023": 0.6007,
       "2024": 0.7802
     },
-    "average_rate": 0.5564,
+    "average_rate": 0.5588,
     "yearly_retractions": {
       "2002": 1,
       "2003": 4,
@@ -71,7 +71,7 @@
       "2021": 32,
       "2022": 26,
       "2023": 33,
-      "2024": 27
+      "2024": 28
     },
     "notice_yearly_retractions": {
       "2001": 1,
@@ -97,7 +97,7 @@
   },
   "domainwise_data": {
     "country": "South Africa",
-    "total_retractions": 244,
+    "total_retractions": 245,
     "years": {
       "2025": {
         "total": 1,
@@ -110,18 +110,18 @@
         }
       },
       "2024": {
-        "total": 27,
+        "total": 28,
         "marks": {
+          "research": 15,
           "alterations": 7,
           "researcher_integrity": 4,
-          "research": 14,
           "supplemental": 2
         },
         "domain": {
+          "ENV": 5,
+          "PHY": 37,
           "B/T": 12,
           "SOC": 1,
-          "PHY": 35,
-          "ENV": 4,
           "HSC": 5,
           "BLS": 1
         }
@@ -469,15 +469,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 6,
+        "total": 7,
         "marks": {
-          "research": 3,
+          "research": 4,
           "alterations": 2,
           "researcher_integrity": 1
         },
         "domain": {
-          "ENV": 1,
-          "PHY": 5,
+          "ENV": 2,
+          "PHY": 7,
           "HSC": 4,
           "B/T": 2,
           "SOC": 1,
@@ -786,7 +786,7 @@
       }
     },
     "collaborations": {
-      "Nigeria": 60,
+      "Nigeria": 61,
       "India": 31,
       "United States": 26,
       "Saudi Arabia": 24,
@@ -796,12 +796,12 @@
       "Iran": 11,
       "Turkey": 11,
       "Taiwan": 10,
+      "Kenya": 8,
       "Australia": 8,
       "Tunisia": 8,
       "Canada": 8,
       "Germany": 7,
       "Hungary": 7,
-      "Kenya": 7,
       "Egypt": 6,
       "Poland": 6,
       "Iraq": 6,
@@ -872,7 +872,7 @@
       "Belgium": 1
     },
     "notice_collaborations": {
-      "Nigeria": 60,
+      "Nigeria": 61,
       "India": 31,
       "United States": 26,
       "Saudi Arabia": 24,
@@ -882,12 +882,12 @@
       "Iran": 11,
       "Turkey": 11,
       "Taiwan": 10,
+      "Kenya": 8,
       "Australia": 8,
       "Tunisia": 8,
       "Canada": 8,
       "Germany": 7,
       "Hungary": 7,
-      "Kenya": 7,
       "Egypt": 6,
       "Poland": 6,
       "Iraq": 6,

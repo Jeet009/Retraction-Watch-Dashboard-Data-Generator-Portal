@@ -15,7 +15,7 @@
       "2021": 0.6057,
       "2022": 1.7637,
       "2023": 0.4,
-      "2024": 1.5997
+      "2024": 1.7996
     },
     "notice_yearly_rates": {
       "2009": 0.7241,
@@ -32,7 +32,7 @@
       "2023": 1.0,
       "2024": 0.7998
     },
-    "average_rate": 0.6314,
+    "average_rate": 0.648,
     "yearly_retractions": {
       "2005": 1,
       "2009": 1,
@@ -47,7 +47,7 @@
       "2021": 3,
       "2022": 9,
       "2023": 2,
-      "2024": 8
+      "2024": 9
     },
     "notice_yearly_retractions": {
       "2009": 1,
@@ -67,19 +67,19 @@
   },
   "domainwise_data": {
     "country": "Kenya",
-    "total_retractions": 38,
+    "total_retractions": 39,
     "years": {
       "2024": {
-        "total": 8,
+        "total": 9,
         "marks": {
-          "alterations": 6,
-          "research": 2
+          "research": 3,
+          "alterations": 6
         },
         "domain": {
+          "ENV": 2,
+          "PHY": 5,
           "B/T": 4,
           "SOC": 1,
-          "ENV": 1,
-          "PHY": 3,
           "HSC": 11
         }
       },
@@ -232,6 +232,16 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "ENV": 1,
+          "PHY": 2
+        }
+      },
       "2025": {
         "total": 10,
         "marks": {
@@ -394,11 +404,11 @@
     },
     "collaborations": {
       "India": 10,
-      "South Africa": 7,
+      "South Africa": 8,
+      "Nigeria": 6,
       "Cameroon": 6,
       "Democratic Republic of the Congo": 6,
       "Zambia": 6,
-      "Nigeria": 5,
       "United Kingdom": 5,
       "United States": 5,
       "Libya": 5,
@@ -440,11 +450,11 @@
     },
     "notice_collaborations": {
       "India": 10,
-      "South Africa": 7,
+      "South Africa": 8,
+      "Nigeria": 6,
       "Cameroon": 6,
       "Democratic Republic of the Congo": 6,
       "Zambia": 6,
-      "Nigeria": 5,
       "United Kingdom": 5,
       "United States": 5,
       "Libya": 5,

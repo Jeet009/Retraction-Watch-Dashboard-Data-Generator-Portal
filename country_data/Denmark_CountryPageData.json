@@ -24,7 +24,7 @@
       "2018": 0.3314,
       "2019": 0.2492,
       "2020": 0.133,
-      "2021": 0.2169,
+      "2021": 0.2479,
       "2022": 0.44,
       "2023": 0.252,
       "2024": 0.1216
@@ -51,7 +51,7 @@
       "2023": 0.4725,
       "2024": 0.5166
     },
-    "average_rate": 0.2823,
+    "average_rate": 0.2842,
     "yearly_retractions": {
       "1999": 1,
       "2000": 2,
@@ -75,7 +75,7 @@
       "2018": 9,
       "2019": 7,
       "2020": 4,
-      "2021": 7,
+      "2021": 8,
       "2022": 14,
       "2023": 8,
       "2024": 4
@@ -105,7 +105,7 @@
   },
   "domainwise_data": {
     "country": "Denmark",
-    "total_retractions": 158,
+    "total_retractions": 159,
     "years": {
       "2025": {
         "total": 1,
@@ -163,17 +163,19 @@
         }
       },
       "2021": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "researcher_integrity": 1,
           "research": 5,
           "alterations": 1,
           "system": 1
         },
         "domain": {
+          "B/T": 4,
+          "ENV": 1,
           "BLS": 3,
           "HSC": 6,
           "PHY": 3,
-          "B/T": 2,
           "SOC": 1
         }
       },
@@ -491,14 +493,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "alterations": 1,
-          "researcher_integrity": 1
+          "researcher_integrity": 2,
+          "alterations": 1
         },
         "domain": {
+          "B/T": 3,
+          "ENV": 1,
           "BLS": 3,
-          "B/T": 1,
           "PHY": 1
         }
       },
@@ -802,7 +805,7 @@
       "Netherlands": 15,
       "Spain": 15,
       "Italy": 15,
-      "China": 13,
+      "China": 14,
       "Sweden": 11,
       "Saudi Arabia": 9,
       "Norway": 8,
@@ -816,8 +819,8 @@
       "Switzerland": 6,
       "Belgium": 5,
       "France": 5,
+      "Bangladesh": 4,
       "South Africa": 3,
-      "Bangladesh": 3,
       "Czech Republic": 3,
       "Austria": 3,
       "Hungary": 2,
@@ -853,7 +856,7 @@
       "Netherlands": 15,
       "Spain": 15,
       "Italy": 15,
-      "China": 13,
+      "China": 14,
       "Sweden": 11,
       "Saudi Arabia": 9,
       "Norway": 8,
@@ -867,8 +870,8 @@
       "Switzerland": 6,
       "Belgium": 5,
       "France": 5,
+      "Bangladesh": 4,
       "South Africa": 3,
-      "Bangladesh": 3,
       "Czech Republic": 3,
       "Austria": 3,
       "Hungary": 2,
