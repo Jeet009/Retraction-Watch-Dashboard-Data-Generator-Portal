@@ -44,15 +44,15 @@
       "2025": {
         "total": 7,
         "marks": {
-          "alterations": 2,
-          "researcher_integrity": 5
+          "researcher_integrity": 5,
+          "alterations": 2
         },
         "domain": {
+          "HSC": 10,
+          "BLS": 1,
           "B/T": 1,
           "ENV": 1,
-          "PHY": 1,
-          "HSC": 10,
-          "BLS": 1
+          "PHY": 1
         }
       },
       "2024": {
@@ -67,12 +67,12 @@
       "2023": {
         "total": 2,
         "marks": {
-          "research": 1,
-          "supplemental": 1
+          "supplemental": 1,
+          "research": 1
         },
         "domain": {
-          "HSC": 2,
-          "PHY": 1
+          "PHY": 1,
+          "HSC": 2
         }
       },
       "2022": {
@@ -82,27 +82,27 @@
           "alterations": 20
         },
         "domain": {
-          "B/T": 41,
-          "HSC": 18,
           "PHY": 18,
-          "SOC": 5,
+          "HSC": 18,
+          "HUM": 1,
+          "B/T": 41,
           "BLS": 6,
-          "HUM": 1
+          "SOC": 5
         }
       },
       "2021": {
         "total": 17,
         "marks": {
-          "alterations": 13,
           "researcher_integrity": 1,
+          "alterations": 13,
           "research": 1,
           "supplemental": 2
         },
         "domain": {
+          "HSC": 2,
           "B/T": 11,
           "PHY": 17,
           "SOC": 2,
-          "HSC": 2,
           "ENV": 1,
           "HUM": 2
         }
@@ -151,46 +151,46 @@
       "2025": {
         "total": 10,
         "marks": {
-          "research": 1,
+          "researcher_integrity": 5,
           "alterations": 4,
-          "researcher_integrity": 5
+          "research": 1
         },
         "domain": {
           "HSC": 12,
+          "BLS": 4,
           "B/T": 4,
           "ENV": 1,
-          "PHY": 1,
-          "BLS": 4
+          "PHY": 1
         }
       },
       "2024": {
         "total": 13,
         "marks": {
-          "supplemental": 1,
           "research": 3,
-          "alterations": 9
+          "alterations": 9,
+          "supplemental": 1
         },
         "domain": {
-          "PHY": 11,
           "B/T": 10,
           "HSC": 5,
-          "BLS": 5,
-          "HUM": 1
+          "HUM": 1,
+          "PHY": 11,
+          "BLS": 5
         }
       },
       "2023": {
         "total": 35,
         "marks": {
-          "alterations": 23,
           "research": 10,
           "researcher_integrity": 1,
+          "alterations": 23,
           "supplemental": 1
         },
         "domain": {
           "PHY": 22,
+          "HSC": 15,
           "B/T": 42,
           "SOC": 7,
-          "HSC": 15,
           "BLS": 1
         }
       },
@@ -235,63 +235,63 @@
     "collaborations": {
       "Saudi Arabia": 38,
       "Pakistan": 23,
-      "Egypt": 12,
       "Iraq": 12,
+      "Egypt": 12,
       "India": 10,
       "Malaysia": 7,
       "China": 6,
       "United States": 5,
-      "Turkey": 4,
       "Norway": 4,
+      "Turkey": 4,
       "United Kingdom": 3,
       "Brunei (Brunei Darussalam)": 3,
       "Ireland": 2,
-      "Jordan": 2,
+      "Russia": 2,
+      "Australia": 2,
+      "Spain": 2,
+      "Sudan": 2,
       "Hungary": 2,
+      "Jordan": 2,
       "South Korea": 2,
       "Canada": 2,
-      "Sudan": 2,
-      "Australia": 2,
-      "Russia": 2,
-      "Spain": 2,
+      "Algeria": 1,
+      "Thailand": 1,
       "Mexico": 1,
+      "Finland": 1,
+      "Palestine": 1,
       "Afghanistan": 1,
       "Taiwan": 1,
-      "Palestine": 1,
-      "Thailand": 1,
-      "Finland": 1,
-      "Algeria": 1,
       "Serbia": 1
     },
     "notice_collaborations": {
       "Saudi Arabia": 38,
       "Pakistan": 23,
-      "Egypt": 12,
       "Iraq": 12,
+      "Egypt": 12,
       "India": 10,
       "Malaysia": 7,
       "China": 6,
       "United States": 5,
-      "Turkey": 4,
       "Norway": 4,
+      "Turkey": 4,
       "United Kingdom": 3,
       "Brunei (Brunei Darussalam)": 3,
       "Ireland": 2,
-      "Jordan": 2,
+      "Russia": 2,
+      "Australia": 2,
+      "Spain": 2,
+      "Sudan": 2,
       "Hungary": 2,
+      "Jordan": 2,
       "South Korea": 2,
       "Canada": 2,
-      "Sudan": 2,
-      "Australia": 2,
-      "Russia": 2,
-      "Spain": 2,
+      "Algeria": 1,
+      "Thailand": 1,
       "Mexico": 1,
+      "Finland": 1,
+      "Palestine": 1,
       "Afghanistan": 1,
       "Taiwan": 1,
-      "Palestine": 1,
-      "Thailand": 1,
-      "Finland": 1,
-      "Algeria": 1,
       "Serbia": 1
     }
   },
