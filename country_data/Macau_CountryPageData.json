@@ -87,8 +87,8 @@
         },
         "domain": {
           "B/T": 6,
-          "PHY": 1,
-          "SOC": 2
+          "SOC": 2,
+          "PHY": 1
         }
       },
       "2020": {
@@ -188,13 +188,13 @@
       "2023": {
         "total": 4,
         "marks": {
-          "researcher_integrity": 1,
-          "research": 3
+          "research": 3,
+          "researcher_integrity": 1
         },
         "domain": {
-          "HSC": 1,
+          "B/T": 6,
           "SOC": 4,
-          "B/T": 6
+          "HSC": 1
         }
       },
       "2022": {
@@ -203,8 +203,8 @@
           "research": 3
         },
         "domain": {
-          "B/T": 4,
           "HSC": 2,
+          "B/T": 4,
           "PHY": 1
         }
       },
@@ -243,18 +243,16 @@
     },
     "collaborations": {
       "China": 14,
-      "Hong Kong": 4,
       "United States": 4,
+      "Hong Kong": 4,
       "Australia": 3,
-      "South Korea": 2,
       "Taiwan": 2,
+      "South Korea": 2,
       "Canada": 2,
-      "Japan": 1,
-      "Singapore": 1,
       "Pakistan": 1,
       "Vietnam": 1,
-      "Grenada": 1,
-      "Spain": 1,
+      "Japan": 1,
+      "Singapore": 1,
       "Algeria": 1,
       "Angola": 1,
       "Benin": 1,
@@ -280,22 +278,22 @@
       "Uganda": 1,
       "United Kingdom": 1,
       "Zambia": 1,
-      "Zimbabwe": 1
+      "Zimbabwe": 1,
+      "Grenada": 1,
+      "Spain": 1
     },
     "notice_collaborations": {
       "China": 14,
-      "Hong Kong": 4,
       "United States": 4,
+      "Hong Kong": 4,
       "Australia": 3,
-      "South Korea": 2,
       "Taiwan": 2,
+      "South Korea": 2,
       "Canada": 2,
-      "Japan": 1,
-      "Singapore": 1,
       "Pakistan": 1,
       "Vietnam": 1,
-      "Grenada": 1,
-      "Spain": 1,
+      "Japan": 1,
+      "Singapore": 1,
       "Algeria": 1,
       "Angola": 1,
       "Benin": 1,
@@ -321,7 +319,9 @@
       "Uganda": 1,
       "United Kingdom": 1,
       "Zambia": 1,
-      "Zimbabwe": 1
+      "Zimbabwe": 1,
+      "Grenada": 1,
+      "Spain": 1
     }
   },
   "country_flag": "/country_flags/Macau.svg"

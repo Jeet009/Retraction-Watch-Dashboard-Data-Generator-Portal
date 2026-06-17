@@ -72,15 +72,15 @@
       "2024": {
         "total": 9,
         "marks": {
-          "alterations": 6,
-          "research": 3
+          "research": 3,
+          "alterations": 6
         },
         "domain": {
-          "HSC": 11,
           "ENV": 2,
           "PHY": 5,
           "B/T": 4,
-          "SOC": 1
+          "SOC": 1,
+          "HSC": 11
         }
       },
       "2023": {
@@ -98,13 +98,13 @@
       "2022": {
         "total": 9,
         "marks": {
-          "research": 3,
-          "alterations": 6
+          "alterations": 6,
+          "research": 3
         },
         "domain": {
-          "B/T": 6,
-          "PHY": 8,
           "BLS": 4,
+          "PHY": 8,
+          "B/T": 6,
           "HSC": 4
         }
       },
@@ -123,34 +123,34 @@
       "2020": {
         "total": 2,
         "marks": {
-          "system": 1,
-          "researcher_integrity": 1
+          "researcher_integrity": 1,
+          "system": 1
         },
         "domain": {
-          "SOC": 2,
           "B/T": 1,
           "BLS": 1,
-          "ENV": 1
+          "ENV": 1,
+          "SOC": 2
         }
       },
       "2019": {
         "total": 3,
         "marks": {
-          "supplemental": 1,
-          "alterations": 2
+          "alterations": 2,
+          "supplemental": 1
         },
         "domain": {
-          "PHY": 1,
           "BLS": 3,
+          "PHY": 1,
           "ENV": 1
         }
       },
       "2017": {
         "total": 3,
         "marks": {
-          "supplemental": 1,
           "researcher_integrity": 1,
-          "research": 1
+          "research": 1,
+          "supplemental": 1
         },
         "domain": {
           "HSC": 4,
@@ -162,13 +162,13 @@
       "2016": {
         "total": 2,
         "marks": {
-          "research": 1,
-          "alterations": 1
+          "alterations": 1,
+          "research": 1
         },
         "domain": {
-          "PHY": 2,
           "BLS": 1,
-          "HSC": 2
+          "HSC": 2,
+          "PHY": 2
         }
       },
       "2014": {
@@ -249,8 +249,8 @@
           "research": 3
         },
         "domain": {
-          "HSC": 12,
           "BLS": 1,
+          "HSC": 12,
           "PHY": 5,
           "B/T": 4,
           "SOC": 1,
@@ -260,12 +260,12 @@
       "2024": {
         "total": 4,
         "marks": {
-          "research": 1,
-          "alterations": 3
+          "alterations": 3,
+          "research": 1
         },
         "domain": {
-          "PHY": 8,
-          "BLS": 3
+          "BLS": 3,
+          "PHY": 8
         }
       },
       "2023": {
@@ -275,9 +275,9 @@
           "alterations": 3
         },
         "domain": {
-          "B/T": 6,
-          "PHY": 2,
           "BLS": 1,
+          "PHY": 2,
+          "B/T": 6,
           "HSC": 2
         }
       },
@@ -293,28 +293,28 @@
       "2021": {
         "total": 5,
         "marks": {
-          "system": 2,
           "researcher_integrity": 1,
+          "system": 2,
           "research": 1,
           "alterations": 1
         },
         "domain": {
-          "SOC": 2,
-          "HSC": 7,
           "B/T": 1,
           "BLS": 3,
-          "ENV": 1
+          "ENV": 1,
+          "HSC": 7,
+          "SOC": 2
         }
       },
       "2020": {
         "total": 2,
         "marks": {
-          "supplemental": 1,
-          "alterations": 1
+          "alterations": 1,
+          "supplemental": 1
         },
         "domain": {
-          "PHY": 1,
-          "BLS": 2
+          "BLS": 2,
+          "PHY": 1
         }
       },
       "2019": {
@@ -330,14 +330,14 @@
       "2018": {
         "total": 2,
         "marks": {
-          "supplemental": 1,
-          "research": 1
+          "research": 1,
+          "supplemental": 1
         },
         "domain": {
-          "HSC": 2,
           "ENV": 1,
           "PHY": 1,
-          "SOC": 1
+          "SOC": 1,
+          "HSC": 2
         }
       },
       "2017": {
@@ -405,13 +405,13 @@
     "collaborations": {
       "India": 10,
       "South Africa": 8,
+      "Nigeria": 6,
       "Cameroon": 6,
       "Democratic Republic of the Congo": 6,
       "Zambia": 6,
-      "Nigeria": 6,
-      "Libya": 5,
       "United Kingdom": 5,
       "United States": 5,
+      "Libya": 5,
       "Pakistan": 4,
       "Saudi Arabia": 3,
       "Tanzania": 3,
@@ -419,13 +419,11 @@
       "Botswana": 2,
       "Canada": 2,
       "Norway": 2,
-      "Somalia": 1,
       "China": 1,
+      "Somalia": 1,
       "Indonesia": 1,
       "Australia": 1,
       "Egypt": 1,
-      "Belgium": 1,
-      "Sweden": 1,
       "Algeria": 1,
       "Angola": 1,
       "Benin": 1,
@@ -446,18 +444,20 @@
       "Senegal": 1,
       "Togo": 1,
       "Uganda": 1,
-      "Zimbabwe": 1
+      "Zimbabwe": 1,
+      "Belgium": 1,
+      "Sweden": 1
     },
     "notice_collaborations": {
       "India": 10,
       "South Africa": 8,
+      "Nigeria": 6,
       "Cameroon": 6,
       "Democratic Republic of the Congo": 6,
       "Zambia": 6,
-      "Nigeria": 6,
-      "Libya": 5,
       "United Kingdom": 5,
       "United States": 5,
+      "Libya": 5,
       "Pakistan": 4,
       "Saudi Arabia": 3,
       "Tanzania": 3,
@@ -465,13 +465,11 @@
       "Botswana": 2,
       "Canada": 2,
       "Norway": 2,
-      "Somalia": 1,
       "China": 1,
+      "Somalia": 1,
       "Indonesia": 1,
       "Australia": 1,
       "Egypt": 1,
-      "Belgium": 1,
-      "Sweden": 1,
       "Algeria": 1,
       "Angola": 1,
       "Benin": 1,
@@ -492,7 +490,9 @@
       "Senegal": 1,
       "Togo": 1,
       "Uganda": 1,
-      "Zimbabwe": 1
+      "Zimbabwe": 1,
+      "Belgium": 1,
+      "Sweden": 1
     }
   },
   "country_flag": "/country_flags/Kenya.svg"

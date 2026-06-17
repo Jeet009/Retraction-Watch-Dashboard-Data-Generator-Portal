@@ -52,9 +52,9 @@
         },
         "domain": {
           "B/T": 3,
+          "HSC": 1,
           "PHY": 1,
-          "SOC": 1,
-          "HSC": 1
+          "SOC": 1
         }
       },
       "2021": {
@@ -104,22 +104,22 @@
         },
         "domain": {
           "B/T": 3,
-          "ENV": 1,
           "PHY": 1,
-          "SOC": 1
+          "SOC": 1,
+          "ENV": 1
         }
       },
       "2023": {
         "total": 3,
         "marks": {
-          "alterations": 2,
-          "research": 1
+          "research": 1,
+          "alterations": 2
         },
         "domain": {
-          "BLS": 3,
           "B/T": 4,
           "HSC": 1,
-          "HUM": 1
+          "HUM": 1,
+          "BLS": 3
         }
       },
       "2022": {
@@ -144,20 +144,20 @@
     "collaborations": {
       "China": 4,
       "Taiwan": 2,
-      "Pakistan": 1,
-      "Vietnam": 1,
+      "India": 1,
       "Indonesia": 1,
       "United States": 1,
-      "India": 1
+      "Pakistan": 1,
+      "Vietnam": 1
     },
     "notice_collaborations": {
       "China": 4,
       "Taiwan": 2,
-      "Pakistan": 1,
-      "Vietnam": 1,
+      "India": 1,
       "Indonesia": 1,
       "United States": 1,
-      "India": 1
+      "Pakistan": 1,
+      "Vietnam": 1
     }
   },
   "country_flag": "/country_flags/Mongolia.svg"

@@ -48,47 +48,47 @@
       "2024": {
         "total": 4,
         "marks": {
-          "alterations": 1,
-          "researcher_integrity": 3
+          "researcher_integrity": 3,
+          "alterations": 1
         },
         "domain": {
+          "BLS": 1,
+          "ENV": 1,
+          "HSC": 4,
           "B/T": 2,
           "PHY": 5,
-          "HSC": 4,
-          "SOC": 1,
-          "BLS": 1,
-          "ENV": 1
+          "SOC": 1
         }
       },
       "2023": {
         "total": 8,
         "marks": {
+          "alterations": 4,
           "researcher_integrity": 3,
-          "research": 1,
-          "alterations": 4
+          "research": 1
         },
         "domain": {
-          "PHY": 10,
           "BLS": 6,
-          "ENV": 3,
           "HSC": 7,
-          "SOC": 1,
-          "B/T": 1
+          "B/T": 1,
+          "ENV": 3,
+          "PHY": 10,
+          "SOC": 1
         }
       },
       "2022": {
         "total": 12,
         "marks": {
-          "researcher_integrity": 4,
+          "research": 4,
           "alterations": 4,
-          "research": 4
+          "researcher_integrity": 4
         },
         "domain": {
-          "HSC": 11,
           "BLS": 12,
           "ENV": 3,
-          "B/T": 4,
           "PHY": 6,
+          "HSC": 11,
+          "B/T": 4,
           "SOC": 5
         }
       },
@@ -101,12 +101,12 @@
         },
         "domain": {
           "BLS": 3,
+          "HSC": 4,
           "B/T": 3,
           "ENV": 3,
           "PHY": 4,
-          "HSC": 4,
-          "HUM": 1,
-          "SOC": 2
+          "SOC": 2,
+          "HUM": 1
         }
       },
       "2020": {
@@ -168,59 +168,59 @@
       "2025": {
         "total": 12,
         "marks": {
-          "researcher_integrity": 6,
           "alterations": 5,
+          "researcher_integrity": 6,
           "research": 1
         },
         "domain": {
+          "BLS": 9,
           "HSC": 10,
-          "B/T": 5,
-          "PHY": 13,
           "ENV": 4,
-          "SOC": 2,
-          "BLS": 9
+          "PHY": 13,
+          "B/T": 5,
+          "SOC": 2
         }
       },
       "2024": {
         "total": 10,
         "marks": {
           "alterations": 4,
-          "researcher_integrity": 2,
-          "research": 4
+          "research": 4,
+          "researcher_integrity": 2
         },
         "domain": {
           "BLS": 14,
-          "PHY": 9,
           "ENV": 4,
           "HSC": 2,
+          "PHY": 9,
           "B/T": 2
         }
       },
       "2023": {
         "total": 4,
         "marks": {
-          "alterations": 1,
+          "research": 2,
           "researcher_integrity": 1,
-          "research": 2
+          "alterations": 1
         },
         "domain": {
+          "BLS": 2,
           "HSC": 12,
-          "SOC": 3,
-          "BLS": 2
+          "SOC": 3
         }
       },
       "2022": {
         "total": 5,
         "marks": {
-          "research": 1,
-          "alterations": 4
+          "alterations": 4,
+          "research": 1
         },
         "domain": {
-          "PHY": 3,
-          "HUM": 1,
-          "SOC": 4,
           "BLS": 1,
           "ENV": 1,
+          "SOC": 4,
+          "HUM": 1,
+          "PHY": 3,
           "B/T": 2,
           "HSC": 1
         }
@@ -271,96 +271,96 @@
       "Saudi Arabia": 9,
       "China": 9,
       "Pakistan": 8,
-      "Spain": 5,
-      "Chile": 5,
-      "Iran": 5,
       "Germany": 5,
       "Turkey": 5,
+      "Iran": 5,
+      "Spain": 5,
       "Hong Kong": 5,
-      "Egypt": 4,
-      "Iraq": 4,
-      "Vietnam": 4,
+      "Chile": 5,
       "Malaysia": 4,
-      "Indonesia": 3,
-      "United Arab Emirates": 3,
-      "Russia": 3,
+      "Vietnam": 4,
+      "Iraq": 4,
+      "Egypt": 4,
+      "Poland": 3,
+      "Romania": 3,
+      "United States": 3,
       "South Korea": 3,
       "Colombia": 3,
       "Jordan": 3,
-      "Argentina": 3,
-      "Poland": 3,
       "Italy": 3,
-      "Romania": 3,
-      "United States": 3,
+      "United Arab Emirates": 3,
+      "Indonesia": 3,
+      "Argentina": 3,
+      "Russia": 3,
       "Peru": 2,
-      "Thailand": 2,
       "Australia": 2,
       "Portugal": 2,
-      "Mexico": 1,
+      "Thailand": 2,
+      "Canada": 1,
+      "Oman": 1,
+      "Greece": 1,
+      "Israel": 1,
       "Uzbekistan": 1,
-      "Czech Republic": 1,
-      "Denmark": 1,
+      "United Kingdom": 1,
       "Bangladesh": 1,
       "Qatar": 1,
       "Syria": 1,
-      "United Kingdom": 1,
       "Kazakhstan": 1,
       "Ukraine": 1,
-      "Israel": 1,
-      "Greece": 1,
+      "Czech Republic": 1,
+      "Mexico": 1,
+      "Denmark": 1,
       "Nigeria": 1,
-      "Oman": 1,
-      "Canada": 1,
-      "Austria": 1,
-      "Venezuela": 1
+      "Venezuela": 1,
+      "Austria": 1
     },
     "notice_collaborations": {
       "India": 15,
       "Saudi Arabia": 9,
       "China": 9,
       "Pakistan": 8,
-      "Spain": 5,
-      "Chile": 5,
-      "Iran": 5,
       "Germany": 5,
       "Turkey": 5,
+      "Iran": 5,
+      "Spain": 5,
       "Hong Kong": 5,
-      "Egypt": 4,
-      "Iraq": 4,
-      "Vietnam": 4,
+      "Chile": 5,
       "Malaysia": 4,
-      "Indonesia": 3,
-      "United Arab Emirates": 3,
-      "Russia": 3,
+      "Vietnam": 4,
+      "Iraq": 4,
+      "Egypt": 4,
+      "Poland": 3,
+      "Romania": 3,
+      "United States": 3,
       "South Korea": 3,
       "Colombia": 3,
       "Jordan": 3,
-      "Argentina": 3,
-      "Poland": 3,
       "Italy": 3,
-      "Romania": 3,
-      "United States": 3,
+      "United Arab Emirates": 3,
+      "Indonesia": 3,
+      "Argentina": 3,
+      "Russia": 3,
       "Peru": 2,
-      "Thailand": 2,
       "Australia": 2,
       "Portugal": 2,
-      "Mexico": 1,
+      "Thailand": 2,
+      "Canada": 1,
+      "Oman": 1,
+      "Greece": 1,
+      "Israel": 1,
       "Uzbekistan": 1,
-      "Czech Republic": 1,
-      "Denmark": 1,
+      "United Kingdom": 1,
       "Bangladesh": 1,
       "Qatar": 1,
       "Syria": 1,
-      "United Kingdom": 1,
       "Kazakhstan": 1,
       "Ukraine": 1,
-      "Israel": 1,
-      "Greece": 1,
+      "Czech Republic": 1,
+      "Mexico": 1,
+      "Denmark": 1,
       "Nigeria": 1,
-      "Oman": 1,
-      "Canada": 1,
-      "Austria": 1,
-      "Venezuela": 1
+      "Venezuela": 1,
+      "Austria": 1
     }
   },
   "country_flag": "/country_flags/Ecuador.svg"

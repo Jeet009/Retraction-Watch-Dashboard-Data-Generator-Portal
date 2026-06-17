@@ -81,30 +81,30 @@
       "2024": {
         "total": 10,
         "marks": {
-          "alterations": 8,
-          "researcher_integrity": 2
+          "researcher_integrity": 2,
+          "alterations": 8
         },
         "domain": {
-          "HSC": 15,
           "BLS": 4,
           "PHY": 2,
           "ENV": 2,
-          "B/T": 2
+          "B/T": 2,
+          "HSC": 15
         }
       },
       "2023": {
         "total": 5,
         "marks": {
           "researcher_integrity": 3,
-          "research": 1,
-          "alterations": 1
+          "alterations": 1,
+          "research": 1
         },
         "domain": {
           "BLS": 4,
           "ENV": 2,
           "PHY": 3,
-          "HSC": 2,
-          "B/T": 1
+          "B/T": 1,
+          "HSC": 2
         }
       },
       "2022": {
@@ -124,8 +124,8 @@
         "total": 5,
         "marks": {
           "alterations": 2,
-          "system": 1,
-          "research": 2
+          "research": 2,
+          "system": 1
         },
         "domain": {
           "PHY": 5,
@@ -201,9 +201,9 @@
           "researcher_integrity": 1
         },
         "domain": {
+          "B/T": 1,
           "BLS": 2,
           "HSC": 2,
-          "B/T": 1,
           "PHY": 2
         }
       },
@@ -244,22 +244,22 @@
         },
         "domain": {
           "BLS": 3,
-          "ENV": 1,
-          "PHY": 1
+          "PHY": 1,
+          "ENV": 1
         }
       },
       "2025": {
         "total": 14,
         "marks": {
-          "alterations": 10,
           "research": 1,
-          "researcher_integrity": 3
+          "researcher_integrity": 3,
+          "alterations": 10
         },
         "domain": {
-          "HSC": 18,
-          "PHY": 7,
           "BLS": 2,
+          "HSC": 18,
           "B/T": 4,
+          "PHY": 7,
           "ENV": 2
         }
       },
@@ -267,8 +267,8 @@
         "total": 4,
         "marks": {
           "researcher_integrity": 2,
-          "research": 1,
-          "alterations": 1
+          "alterations": 1,
+          "research": 1
         },
         "domain": {
           "PHY": 1,
@@ -302,8 +302,8 @@
       "2021": {
         "total": 2,
         "marks": {
-          "system": 1,
-          "research": 1
+          "research": 1,
+          "system": 1
         },
         "domain": {
           "HSC": 3
@@ -371,9 +371,9 @@
           "researcher_integrity": 1
         },
         "domain": {
+          "B/T": 1,
           "BLS": 2,
           "HSC": 2,
-          "B/T": 1,
           "PHY": 2
         }
       },
@@ -398,19 +398,19 @@
     },
     "collaborations": {
       "India": 10,
-      "Democratic Republic of the Congo": 7,
       "Zambia": 7,
+      "Democratic Republic of the Congo": 7,
       "Kenya": 6,
-      "Libya": 5,
       "France": 5,
       "Germany": 5,
+      "Libya": 5,
       "South Africa": 4,
       "United States": 4,
       "Pakistan": 4,
       "Egypt": 3,
-      "Zimbabwe": 3,
       "Nigeria": 3,
       "United Kingdom": 3,
+      "Zimbabwe": 3,
       "Belgium": 2,
       "Jordan": 2,
       "Russia": 2,
@@ -420,17 +420,17 @@
       "Morocco": 2,
       "Benin": 2,
       "China": 2,
-      "Italy": 2,
       "Burkina Faso": 2,
+      "Italy": 2,
       "Indonesia": 1,
       "Azerbaijan": 1,
       "Hungary": 1,
       "Saudi Arabia": 1,
-      "Botswana": 1,
       "United Arab Emirates": 1,
       "Cote d'Ivoire": 1,
       "Switzerland": 1,
       "Turkey": 1,
+      "Botswana": 1,
       "Algeria": 1,
       "Angola": 1,
       "Canada": 1,
@@ -449,19 +449,19 @@
     },
     "notice_collaborations": {
       "India": 10,
-      "Democratic Republic of the Congo": 7,
       "Zambia": 7,
+      "Democratic Republic of the Congo": 7,
       "Kenya": 6,
-      "Libya": 5,
       "France": 5,
       "Germany": 5,
+      "Libya": 5,
       "South Africa": 4,
       "United States": 4,
       "Pakistan": 4,
       "Egypt": 3,
-      "Zimbabwe": 3,
       "Nigeria": 3,
       "United Kingdom": 3,
+      "Zimbabwe": 3,
       "Belgium": 2,
       "Jordan": 2,
       "Russia": 2,
@@ -471,17 +471,17 @@
       "Morocco": 2,
       "Benin": 2,
       "China": 2,
-      "Italy": 2,
       "Burkina Faso": 2,
+      "Italy": 2,
       "Indonesia": 1,
       "Azerbaijan": 1,
       "Hungary": 1,
       "Saudi Arabia": 1,
-      "Botswana": 1,
       "United Arab Emirates": 1,
       "Cote d'Ivoire": 1,
       "Switzerland": 1,
       "Turkey": 1,
+      "Botswana": 1,
       "Algeria": 1,
       "Angola": 1,
       "Canada": 1,

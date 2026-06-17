@@ -51,8 +51,8 @@
         },
         "domain": {
           "B/T": 2,
-          "PHY": 4,
-          "ENV": 1
+          "ENV": 1,
+          "PHY": 4
         }
       },
       "2018": {
@@ -82,10 +82,10 @@
           "alterations": 13
         },
         "domain": {
-          "BLS": 2,
-          "HUM": 4,
+          "HSC": 18,
           "SOC": 10,
-          "HSC": 18
+          "BLS": 2,
+          "HUM": 4
         }
       },
       "2015": {
@@ -115,14 +115,14 @@
       "2025": {
         "total": 4,
         "marks": {
-          "researcher_integrity": 1,
-          "research": 3
+          "research": 3,
+          "researcher_integrity": 1
         },
         "domain": {
-          "HSC": 2,
           "B/T": 2,
+          "ENV": 1,
           "PHY": 4,
-          "ENV": 1
+          "HSC": 2
         }
       },
       "2020": {
@@ -143,8 +143,8 @@
           "B/T": 20,
           "HUM": 11,
           "SOC": 26,
-          "BLS": 5,
-          "HSC": 49
+          "HSC": 49,
+          "BLS": 5
         }
       },
       "2018": {
@@ -169,8 +169,8 @@
     },
     "collaborations": {
       "Russia": 7,
-      "India": 2,
       "Uzbekistan": 2,
+      "India": 2,
       "Georgia": 1,
       "Pakistan": 1,
       "United Arab Emirates": 1,
@@ -178,8 +178,8 @@
     },
     "notice_collaborations": {
       "Russia": 7,
-      "India": 2,
       "Uzbekistan": 2,
+      "India": 2,
       "Georgia": 1,
       "Pakistan": 1,
       "United Arab Emirates": 1,
