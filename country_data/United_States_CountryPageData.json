@@ -30,7 +30,7 @@
       "2021": 0.4779,
       "2022": 0.4386,
       "2023": 0.3748,
-      "2024": 0.1493
+      "2024": 0.1509
     },
     "notice_yearly_rates": {
       "1996": 0.0396,
@@ -63,7 +63,7 @@
       "2023": 0.8265,
       "2024": 0.7229
     },
-    "average_rate": 0.3967,
+    "average_rate": 0.3968,
     "yearly_retractions": {
       "1996": 23,
       "1997": 23,
@@ -93,7 +93,7 @@
       "2021": 314,
       "2022": 275,
       "2023": 229,
-      "2024": 95
+      "2024": 96
     },
     "notice_yearly_retractions": {
       "1996": 14,
@@ -129,15 +129,17 @@
   },
   "domainwise_data": {
     "country": "United States",
-    "total_retractions": 6097,
+    "total_retractions": 6100,
     "years": {
       "2026": {
-        "total": 1,
+        "total": 3,
         "marks": {
-          "alterations": 1
+          "alterations": 2,
+          "research": 1
         },
         "domain": {
-          "SOC": 3
+          "HUM": 1,
+          "SOC": 5
         }
       },
       "2025": {
@@ -159,20 +161,20 @@
         }
       },
       "2024": {
-        "total": 95,
+        "total": 96,
         "marks": {
+          "research": 32,
           "alterations": 25,
-          "research": 31,
           "researcher_integrity": 24,
           "system": 5,
           "supplemental": 10
         },
         "domain": {
+          "PHY": 30,
           "B/T": 36,
           "BLS": 54,
           "ENV": 12,
           "HSC": 124,
-          "PHY": 28,
           "SOC": 11
         }
       },
@@ -1012,21 +1014,22 @@
     },
     "notice_years": {
       "2026": {
-        "total": 61,
+        "total": 64,
         "marks": {
-          "alterations": 35,
-          "research": 13,
+          "alterations": 36,
+          "research": 15,
           "researcher_integrity": 11,
           "system": 1,
           "supplemental": 1
         },
         "domain": {
-          "PHY": 18,
+          "HUM": 1,
+          "SOC": 7,
+          "PHY": 20,
           "HSC": 65,
           "B/T": 16,
           "BLS": 80,
-          "ENV": 7,
-          "SOC": 5
+          "ENV": 7
         }
       },
       "2025": {

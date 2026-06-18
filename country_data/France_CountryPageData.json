@@ -119,8 +119,18 @@
   },
   "domainwise_data": {
     "country": "France",
-    "total_retractions": 705,
+    "total_retractions": 706,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "HUM": 1,
+          "SOC": 1
+        }
+      },
       "2025": {
         "total": 8,
         "marks": {
@@ -660,18 +670,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 24,
+        "total": 25,
         "marks": {
+          "research": 2,
           "researcher_integrity": 18,
-          "alterations": 5,
-          "research": 1
+          "alterations": 5
         },
         "domain": {
+          "HUM": 1,
+          "SOC": 2,
           "BLS": 34,
           "HSC": 25,
           "PHY": 2,
-          "B/T": 2,
-          "SOC": 1
+          "B/T": 2
         }
       },
       "2025": {

@@ -12,7 +12,7 @@
       "2018": 0.1399,
       "2019": 0.303,
       "2020": 0.1361,
-      "2021": 0.3486,
+      "2021": 0.3921,
       "2022": 1.0146,
       "2023": 1.0834,
       "2024": 1.082
@@ -30,7 +30,7 @@
       "2023": 0.8125,
       "2024": 0.5645
     },
-    "average_rate": 0.3264,
+    "average_rate": 0.3296,
     "yearly_retractions": {
       "2007": 2,
       "2009": 1,
@@ -42,7 +42,7 @@
       "2018": 2,
       "2019": 6,
       "2020": 3,
-      "2021": 8,
+      "2021": 9,
       "2022": 21,
       "2023": 24,
       "2024": 23
@@ -63,7 +63,7 @@
   },
   "domainwise_data": {
     "country": "Ukraine",
-    "total_retractions": 104,
+    "total_retractions": 105,
     "years": {
       "2024": {
         "total": 23,
@@ -117,18 +117,18 @@
         }
       },
       "2021": {
-        "total": 8,
+        "total": 9,
         "marks": {
-          "alterations": 6,
+          "alterations": 7,
           "research": 1,
           "supplemental": 1
         },
         "domain": {
+          "ENV": 3,
           "BLS": 3,
           "HSC": 3,
           "PHY": 1,
           "B/T": 8,
-          "ENV": 1,
           "SOC": 4,
           "HUM": 1
         }
@@ -253,6 +253,15 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "ENV": 2
+        }
+      },
       "2025": {
         "total": 44,
         "marks": {
