@@ -20,12 +20,12 @@
       "2015": 2.1278,
       "2016": 2.2289,
       "2017": 2.562,
-      "2018": 2.4879,
+      "2018": 2.5349,
       "2019": 2.1789,
-      "2020": 3.8473,
+      "2020": 3.8793,
       "2021": 4.647,
       "2022": 5.2442,
-      "2023": 2.1633,
+      "2023": 2.1879,
       "2024": 1.1695
     },
     "notice_yearly_rates": {
@@ -51,7 +51,7 @@
       "2023": 5.8261,
       "2024": 5.1555
     },
-    "average_rate": 2.6239,
+    "average_rate": 2.6311,
     "yearly_retractions": {
       "1997": 1,
       "1999": 1,
@@ -71,12 +71,12 @@
       "2015": 35,
       "2016": 42,
       "2017": 48,
-      "2018": 53,
+      "2018": 54,
       "2019": 54,
-      "2020": 120,
+      "2020": 121,
       "2021": 172,
       "2022": 220,
-      "2023": 88,
+      "2023": 89,
       "2024": 49
     },
     "notice_yearly_retractions": {
@@ -105,7 +105,7 @@
   },
   "domainwise_data": {
     "country": "Egypt",
-    "total_retractions": 1106,
+    "total_retractions": 1109,
     "years": {
       "2025": {
         "total": 11,
@@ -142,18 +142,18 @@
         }
       },
       "2023": {
-        "total": 88,
+        "total": 89,
         "marks": {
+          "system": 8,
           "alterations": 38,
           "research": 27,
           "researcher_integrity": 13,
-          "system": 7,
           "supplemental": 3
         },
         "domain": {
-          "PHY": 81,
+          "ENV": 9,
+          "PHY": 82,
           "HSC": 77,
-          "ENV": 8,
           "B/T": 26,
           "BLS": 54,
           "SOC": 1
@@ -197,16 +197,16 @@
         }
       },
       "2020": {
-        "total": 120,
+        "total": 121,
         "marks": {
+          "supplemental": 6,
           "research": 46,
           "alterations": 59,
           "researcher_integrity": 7,
-          "system": 3,
-          "supplemental": 5
+          "system": 3
         },
         "domain": {
-          "HSC": 114,
+          "HSC": 116,
           "BLS": 121,
           "PHY": 78,
           "B/T": 22,
@@ -232,18 +232,18 @@
         }
       },
       "2018": {
-        "total": 53,
+        "total": 54,
         "marks": {
+          "research": 27,
           "alterations": 18,
-          "research": 26,
           "researcher_integrity": 6,
           "system": 2,
           "supplemental": 1
         },
         "domain": {
+          "HSC": 62,
           "ENV": 2,
           "PHY": 19,
-          "HSC": 60,
           "BLS": 35,
           "B/T": 18,
           "HUM": 1
@@ -495,15 +495,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 67,
+        "total": 68,
         "marks": {
+          "research": 39,
           "researcher_integrity": 5,
           "alterations": 23,
-          "research": 38,
           "system": 1
         },
         "domain": {
-          "HSC": 91,
+          "HSC": 93,
           "PHY": 46,
           "B/T": 9,
           "BLS": 16,
@@ -512,19 +512,19 @@
         }
       },
       "2025": {
-        "total": 221,
+        "total": 223,
         "marks": {
+          "system": 4,
+          "supplemental": 4,
           "research": 97,
           "alterations": 83,
-          "researcher_integrity": 35,
-          "system": 3,
-          "supplemental": 3
+          "researcher_integrity": 35
         },
         "domain": {
+          "ENV": 25,
+          "PHY": 167,
+          "HSC": 213,
           "BLS": 116,
-          "HSC": 211,
-          "ENV": 24,
-          "PHY": 166,
           "B/T": 77,
           "SOC": 7
         }
@@ -846,12 +846,12 @@
       "China": 112,
       "India": 110,
       "Pakistan": 93,
-      "United States": 76,
+      "United States": 77,
       "Iraq": 47,
       "Germany": 38,
       "Turkey": 32,
+      "Bangladesh": 28,
       "Russia": 28,
-      "Bangladesh": 27,
       "Malaysia": 27,
       "Iran": 26,
       "United Arab Emirates": 24,
@@ -932,12 +932,12 @@
       "China": 112,
       "India": 110,
       "Pakistan": 93,
-      "United States": 76,
+      "United States": 77,
       "Iraq": 47,
       "Germany": 38,
       "Turkey": 32,
+      "Bangladesh": 28,
       "Russia": 28,
-      "Bangladesh": 27,
       "Malaysia": 27,
       "Iran": 26,
       "United Arab Emirates": 24,
