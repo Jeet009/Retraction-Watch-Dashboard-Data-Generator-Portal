@@ -15,8 +15,8 @@
       "2007": 0.4427,
       "2008": 0.6185,
       "2009": 0.7675,
-      "2010": 1.196,
-      "2011": 0.9422,
+      "2010": 1.1792,
+      "2011": 0.9577,
       "2012": 0.7399,
       "2013": 0.9258,
       "2014": 0.6588,
@@ -29,7 +29,7 @@
       "2021": 1.4404,
       "2022": 2.7102,
       "2023": 0.7344,
-      "2024": 0.4174
+      "2024": 0.4269
     },
     "notice_yearly_rates": {
       "1999": 0.0587,
@@ -57,7 +57,7 @@
       "2023": 3.1621,
       "2024": 1.2049
     },
-    "average_rate": 0.8281,
+    "average_rate": 0.8287,
     "yearly_retractions": {
       "1997": 3,
       "1998": 4,
@@ -72,8 +72,8 @@
       "2007": 21,
       "2008": 31,
       "2009": 41,
-      "2010": 71,
-      "2011": 61,
+      "2010": 70,
+      "2011": 62,
       "2012": 51,
       "2013": 67,
       "2014": 50,
@@ -86,7 +86,7 @@
       "2021": 142,
       "2022": 269,
       "2023": 72,
-      "2024": 44
+      "2024": 45
     },
     "notice_yearly_retractions": {
       "1999": 1,
@@ -117,7 +117,7 @@
   },
   "domainwise_data": {
     "country": "South Korea",
-    "total_retractions": 1385,
+    "total_retractions": 1386,
     "years": {
       "2025": {
         "total": 7,
@@ -135,20 +135,20 @@
         }
       },
       "2024": {
-        "total": 44,
+        "total": 45,
         "marks": {
+          "alterations": 15,
           "researcher_integrity": 11,
-          "alterations": 14,
           "research": 14,
           "supplemental": 5
         },
         "domain": {
+          "BLS": 18,
+          "PHY": 23,
           "B/T": 28,
           "ENV": 11,
           "SOC": 17,
-          "BLS": 16,
           "HSC": 31,
-          "PHY": 22,
           "HUM": 1
         }
       },
@@ -374,9 +374,9 @@
         }
       },
       "2011": {
-        "total": 61,
+        "total": 62,
         "marks": {
-          "alterations": 26,
+          "alterations": 27,
           "supplemental": 11,
           "researcher_integrity": 12,
           "research": 10,
@@ -387,22 +387,22 @@
           "HSC": 52,
           "ENV": 1,
           "B/T": 13,
-          "PHY": 28,
+          "PHY": 30,
           "SOC": 1
         }
       },
       "2010": {
-        "total": 71,
+        "total": 70,
         "marks": {
           "system": 4,
           "researcher_integrity": 22,
-          "alterations": 16,
+          "alterations": 15,
           "research": 14,
           "supplemental": 15
         },
         "domain": {
           "B/T": 25,
-          "PHY": 31,
+          "PHY": 29,
           "HSC": 49,
           "BLS": 88,
           "SOC": 2,
@@ -617,20 +617,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 19,
+        "total": 20,
         "marks": {
+          "alterations": 8,
           "research": 8,
           "researcher_integrity": 2,
-          "alterations": 7,
           "supplemental": 2
         },
         "domain": {
+          "BLS": 16,
+          "PHY": 5,
           "B/T": 14,
           "ENV": 2,
           "SOC": 9,
-          "BLS": 14,
           "HSC": 13,
-          "PHY": 4,
           "HUM": 2
         }
       },
@@ -1050,7 +1050,7 @@
     },
     "collaborations": {
       "China": 298,
-      "India": 153,
+      "India": 154,
       "Saudi Arabia": 100,
       "United States": 93,
       "Pakistan": 47,
@@ -1072,11 +1072,11 @@
       "Norway": 8,
       "United Arab Emirates": 7,
       "Russia": 7,
+      "Iraq": 6,
       "Singapore": 6,
+      "Jordan": 5,
       "Hong Kong": 5,
       "Zambia": 5,
-      "Iraq": 5,
-      "Jordan": 4,
       "Indonesia": 4,
       "Romania": 4,
       "Ireland": 4,
@@ -1134,7 +1134,7 @@
     },
     "notice_collaborations": {
       "China": 298,
-      "India": 153,
+      "India": 154,
       "Saudi Arabia": 100,
       "United States": 93,
       "Pakistan": 47,
@@ -1156,11 +1156,11 @@
       "Norway": 8,
       "United Arab Emirates": 7,
       "Russia": 7,
+      "Iraq": 6,
       "Singapore": 6,
+      "Jordan": 5,
       "Hong Kong": 5,
       "Zambia": 5,
-      "Iraq": 5,
-      "Jordan": 4,
       "Indonesia": 4,
       "Romania": 4,
       "Ireland": 4,
