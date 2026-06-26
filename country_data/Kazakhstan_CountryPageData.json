@@ -15,7 +15,7 @@
       "2021": 6.5934,
       "2022": 5.1439,
       "2023": 3.1954,
-      "2024": 1.2509
+      "2024": 1.3646
     },
     "notice_yearly_rates": {
       "2010": 2.1097,
@@ -32,7 +32,7 @@
       "2023": 4.793,
       "2024": 3.184
     },
-    "average_rate": 3.2071,
+    "average_rate": 3.2231,
     "yearly_retractions": {
       "2010": 1,
       "2011": 1,
@@ -47,7 +47,7 @@
       "2021": 39,
       "2022": 32,
       "2023": 22,
-      "2024": 11
+      "2024": 12
     },
     "notice_yearly_retractions": {
       "2010": 1,
@@ -67,19 +67,20 @@
   },
   "domainwise_data": {
     "country": "Kazakhstan",
-    "total_retractions": 200,
+    "total_retractions": 201,
     "years": {
       "2024": {
-        "total": 11,
+        "total": 12,
         "marks": {
+          "researcher_integrity": 2,
           "supplemental": 3,
-          "research": 7,
-          "researcher_integrity": 1
+          "research": 7
         },
         "domain": {
-          "B/T": 6,
+          "B/T": 8,
+          "ENV": 1,
+          "PHY": 4,
           "SOC": 12,
-          "PHY": 3,
           "HUM": 1
         }
       },
@@ -280,19 +281,19 @@
         }
       },
       "2025": {
-        "total": 32,
+        "total": 33,
         "marks": {
+          "researcher_integrity": 3,
           "research": 23,
-          "alterations": 7,
-          "researcher_integrity": 2
+          "alterations": 7
         },
         "domain": {
-          "B/T": 10,
+          "B/T": 12,
+          "ENV": 10,
+          "PHY": 32,
           "HSC": 4,
-          "PHY": 31,
           "BLS": 6,
           "SOC": 11,
-          "ENV": 9,
           "HUM": 1
         }
       },
@@ -470,7 +471,7 @@
     },
     "collaborations": {
       "Russia": 60,
-      "China": 13,
+      "China": 14,
       "India": 9,
       "Belarus": 8,
       "Saudi Arabia": 7,
@@ -514,7 +515,7 @@
     },
     "notice_collaborations": {
       "Russia": 60,
-      "China": 13,
+      "China": 14,
       "India": 9,
       "Belarus": 8,
       "Saudi Arabia": 7,
