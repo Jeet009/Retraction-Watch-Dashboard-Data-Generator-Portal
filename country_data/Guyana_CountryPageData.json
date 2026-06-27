@@ -2,14 +2,16 @@
   "retraction_rate_data": {
     "country": "Guyana",
     "yearly_rates": {
-      "2007": 33.3333
+      "2007": 33.3333,
+      "2023": 6.8493
     },
     "notice_yearly_rates": {
       "2010": 26.3158
     },
-    "average_rate": 0.7168,
+    "average_rate": 1.4337,
     "yearly_retractions": {
-      "2007": 1
+      "2007": 1,
+      "2023": 1
     },
     "notice_yearly_retractions": {
       "2010": 1
@@ -17,8 +19,17 @@
   },
   "domainwise_data": {
     "country": "Guyana",
-    "total_retractions": 1,
+    "total_retractions": 2,
     "years": {
+      "2023": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "HSC": 2
+        }
+      },
       "2007": {
         "total": 1,
         "marks": {
@@ -31,6 +42,15 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "HSC": 2
+        }
+      },
       "2010": {
         "total": 1,
         "marks": {
@@ -43,12 +63,22 @@
       }
     },
     "collaborations": {
-      "Australia": 1,
-      "United States": 1
+      "Australia": 2,
+      "United States": 2,
+      "India": 1,
+      "Malaysia": 1,
+      "Nigeria": 1,
+      "Pakistan": 1,
+      "Russia": 1
     },
     "notice_collaborations": {
-      "Australia": 1,
-      "United States": 1
+      "Australia": 2,
+      "United States": 2,
+      "India": 1,
+      "Malaysia": 1,
+      "Nigeria": 1,
+      "Pakistan": 1,
+      "Russia": 1
     }
   },
   "country_flag": "/country_flags/Guyana.svg"
