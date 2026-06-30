@@ -12,7 +12,7 @@
       "2020": 2.5063,
       "2022": 0.4909,
       "2023": 4.4248,
-      "2024": 6.8337
+      "2024": 7.0615
     },
     "notice_yearly_rates": {
       "2011": 1.1249,
@@ -28,7 +28,7 @@
       "2023": 0.7375,
       "2024": 1.3667
     },
-    "average_rate": 2.3945,
+    "average_rate": 2.4297,
     "yearly_retractions": {
       "2011": 2,
       "2013": 3,
@@ -40,7 +40,7 @@
       "2020": 5,
       "2022": 1,
       "2023": 12,
-      "2024": 30
+      "2024": 31
     },
     "notice_yearly_retractions": {
       "2011": 1,
@@ -59,7 +59,7 @@
   },
   "domainwise_data": {
     "country": "Azerbaijan",
-    "total_retractions": 72,
+    "total_retractions": 73,
     "years": {
       "2025": {
         "total": 4,
@@ -79,19 +79,19 @@
         }
       },
       "2024": {
-        "total": 30,
+        "total": 31,
         "marks": {
+          "researcher_integrity": 7,
           "alterations": 4,
-          "research": 20,
-          "researcher_integrity": 6
+          "research": 20
         },
         "domain": {
-          "B/T": 17,
+          "B/T": 18,
+          "ENV": 3,
+          "PHY": 16,
           "HSC": 7,
           "BLS": 22,
-          "ENV": 2,
-          "SOC": 5,
-          "PHY": 15
+          "SOC": 5
         }
       },
       "2023": {
@@ -230,19 +230,19 @@
         }
       },
       "2025": {
-        "total": 29,
+        "total": 30,
         "marks": {
-          "researcher_integrity": 9,
+          "researcher_integrity": 10,
           "research": 17,
           "alterations": 3
         },
         "domain": {
+          "B/T": 21,
+          "ENV": 6,
+          "PHY": 20,
           "HSC": 4,
           "HUM": 3,
           "SOC": 7,
-          "PHY": 19,
-          "B/T": 20,
-          "ENV": 5,
           "BLS": 8
         }
       },
@@ -379,9 +379,9 @@
       }
     },
     "collaborations": {
-      "China": 23,
+      "China": 24,
       "Saudi Arabia": 17,
-      "Pakistan": 14,
+      "Pakistan": 15,
       "Russia": 12,
       "Turkey": 8,
       "India": 7,
@@ -416,9 +416,9 @@
       "Portugal": 1
     },
     "notice_collaborations": {
-      "China": 23,
+      "China": 24,
       "Saudi Arabia": 17,
-      "Pakistan": 14,
+      "Pakistan": 15,
       "Russia": 12,
       "Turkey": 8,
       "India": 7,

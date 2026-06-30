@@ -45,14 +45,17 @@
   },
   "domainwise_data": {
     "country": "Sudan",
-    "total_retractions": 53,
+    "total_retractions": 54,
     "years": {
       "2025": {
-        "total": 3,
+        "total": 4,
         "marks": {
+          "research": 1,
           "researcher_integrity": 3
         },
         "domain": {
+          "ENV": 1,
+          "PHY": 1,
           "HSC": 10
         }
       },
@@ -172,13 +175,15 @@
     },
     "notice_years": {
       "2025": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "research": 2,
           "researcher_integrity": 5,
-          "alterations": 1,
-          "research": 1
+          "alterations": 1
         },
         "domain": {
+          "ENV": 1,
+          "PHY": 1,
           "HSC": 21,
           "BLS": 1
         }
@@ -268,11 +273,11 @@
       "Iraq": 8,
       "Malaysia": 8,
       "Egypt": 6,
+      "China": 4,
       "Palestine": 4,
       "United Kingdom": 4,
       "United States": 4,
       "Nigeria": 3,
-      "China": 3,
       "Libya": 3,
       "Yemen": 2,
       "Germany": 1,
@@ -296,11 +301,11 @@
       "Iraq": 8,
       "Malaysia": 8,
       "Egypt": 6,
+      "China": 4,
       "Palestine": 4,
       "United Kingdom": 4,
       "United States": 4,
       "Nigeria": 3,
-      "China": 3,
       "Libya": 3,
       "Yemen": 2,
       "Germany": 1,

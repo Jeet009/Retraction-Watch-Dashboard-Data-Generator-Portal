@@ -24,8 +24,8 @@
       "2020": 3.6587,
       "2021": 10.1045,
       "2022": 13.7555,
-      "2023": 4.1017,
-      "2024": 2.5044
+      "2023": 4.1186,
+      "2024": 2.5476
     },
     "notice_yearly_rates": {
       "2000": 0.4995,
@@ -49,7 +49,7 @@
       "2023": 10.7521,
       "2024": 6.5488
     },
-    "average_rate": 4.438,
+    "average_rate": 4.4465,
     "yearly_retractions": {
       "1998": 1,
       "2001": 1,
@@ -73,8 +73,8 @@
       "2020": 133,
       "2021": 465,
       "2022": 769,
-      "2023": 243,
-      "2024": 174
+      "2023": 244,
+      "2024": 177
     },
     "notice_yearly_retractions": {
       "2000": 1,
@@ -101,7 +101,7 @@
   },
   "domainwise_data": {
     "country": "Saudi Arabia",
-    "total_retractions": 2118,
+    "total_retractions": 2122,
     "years": {
       "2026": {
         "total": 3,
@@ -134,35 +134,35 @@
         }
       },
       "2024": {
-        "total": 174,
+        "total": 177,
         "marks": {
+          "alterations": 56,
+          "researcher_integrity": 59,
           "system": 3,
           "research": 52,
-          "researcher_integrity": 57,
-          "alterations": 55,
           "supplemental": 7
         },
         "domain": {
+          "B/T": 100,
+          "ENV": 32,
+          "SOC": 9,
+          "BLS": 117,
           "PHY": 144,
-          "ENV": 30,
-          "BLS": 114,
-          "B/T": 97,
-          "HSC": 104,
-          "SOC": 7
+          "HSC": 104
         }
       },
       "2023": {
-        "total": 243,
+        "total": 244,
         "marks": {
+          "research": 66,
           "alterations": 104,
-          "research": 65,
           "researcher_integrity": 59,
           "supplemental": 9,
           "system": 6
         },
         "domain": {
-          "BLS": 191,
-          "HSC": 174,
+          "BLS": 192,
+          "HSC": 177,
           "PHY": 216,
           "B/T": 130,
           "ENV": 43,
@@ -520,21 +520,21 @@
         }
       },
       "2025": {
-        "total": 432,
+        "total": 436,
         "marks": {
-          "research": 111,
-          "alterations": 173,
-          "researcher_integrity": 140,
+          "alterations": 174,
+          "research": 112,
+          "researcher_integrity": 142,
           "system": 3,
           "supplemental": 5
         },
         "domain": {
-          "ENV": 76,
+          "B/T": 230,
+          "BLS": 263,
+          "HSC": 245,
+          "ENV": 78,
+          "SOC": 16,
           "PHY": 463,
-          "BLS": 259,
-          "B/T": 227,
-          "HSC": 242,
-          "SOC": 14,
           "HUM": 1
         }
       },
@@ -841,12 +841,12 @@
       }
     },
     "collaborations": {
-      "India": 598,
-      "Pakistan": 543,
-      "Egypt": 463,
-      "China": 355,
+      "India": 600,
+      "Pakistan": 544,
+      "Egypt": 464,
+      "China": 357,
       "United States": 148,
-      "Iraq": 145,
+      "Iraq": 146,
       "Malaysia": 135,
       "Ethiopia": 119,
       "Bangladesh": 118,
@@ -862,7 +862,7 @@
       "Poland": 45,
       "Thailand": 45,
       "Russia": 44,
-      "Vietnam": 41,
+      "Vietnam": 42,
       "Yemen": 38,
       "Germany": 35,
       "Italy": 33,
@@ -889,10 +889,10 @@
       "Norway": 15,
       "Qatar": 14,
       "Slovakia": 11,
+      "Ecuador": 10,
       "Algeria": 10,
       "Austria": 9,
       "Kuwait": 9,
-      "Ecuador": 9,
       "Morocco": 9,
       "Chile": 9,
       "Sweden": 9,
@@ -956,12 +956,12 @@
       "Belize": 1
     },
     "notice_collaborations": {
-      "India": 598,
-      "Pakistan": 543,
-      "Egypt": 463,
-      "China": 355,
+      "India": 600,
+      "Pakistan": 544,
+      "Egypt": 464,
+      "China": 357,
       "United States": 148,
-      "Iraq": 145,
+      "Iraq": 146,
       "Malaysia": 135,
       "Ethiopia": 119,
       "Bangladesh": 118,
@@ -977,7 +977,7 @@
       "Poland": 45,
       "Thailand": 45,
       "Russia": 44,
-      "Vietnam": 41,
+      "Vietnam": 42,
       "Yemen": 38,
       "Germany": 35,
       "Italy": 33,
@@ -1004,10 +1004,10 @@
       "Norway": 15,
       "Qatar": 14,
       "Slovakia": 11,
+      "Ecuador": 10,
       "Algeria": 10,
       "Austria": 9,
       "Kuwait": 9,
-      "Ecuador": 9,
       "Morocco": 9,
       "Chile": 9,
       "Sweden": 9,
