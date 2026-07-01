@@ -15,7 +15,7 @@
       "2021": 0.6057,
       "2022": 1.7637,
       "2023": 0.4,
-      "2024": 1.7996
+      "2024": 1.9996
     },
     "notice_yearly_rates": {
       "2009": 0.7241,
@@ -32,7 +32,7 @@
       "2023": 1.0,
       "2024": 0.7998
     },
-    "average_rate": 0.648,
+    "average_rate": 0.6646,
     "yearly_retractions": {
       "2005": 1,
       "2009": 1,
@@ -47,7 +47,7 @@
       "2021": 3,
       "2022": 9,
       "2023": 2,
-      "2024": 9
+      "2024": 10
     },
     "notice_yearly_retractions": {
       "2009": 1,
@@ -67,7 +67,7 @@
   },
   "domainwise_data": {
     "country": "Kenya",
-    "total_retractions": 40,
+    "total_retractions": 41,
     "years": {
       "2025": {
         "total": 1,
@@ -80,12 +80,13 @@
         }
       },
       "2024": {
-        "total": 9,
+        "total": 10,
         "marks": {
-          "research": 3,
-          "alterations": 6
+          "alterations": 7,
+          "research": 3
         },
         "domain": {
+          "BLS": 2,
           "ENV": 2,
           "PHY": 5,
           "B/T": 4,
@@ -253,13 +254,13 @@
         }
       },
       "2025": {
-        "total": 11,
+        "total": 12,
         "marks": {
-          "research": 4,
-          "alterations": 7
+          "alterations": 8,
+          "research": 4
         },
         "domain": {
-          "BLS": 2,
+          "BLS": 4,
           "ENV": 2,
           "HSC": 12,
           "PHY": 5,

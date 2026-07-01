@@ -9,7 +9,7 @@
       "2021": 0.3854,
       "2022": 2.8787,
       "2023": 0.3282,
-      "2024": 0.2887
+      "2024": 0.5774
     },
     "notice_yearly_rates": {
       "2009": 1.3966,
@@ -19,7 +19,7 @@
       "2023": 2.6255,
       "2024": 0.8661
     },
-    "average_rate": 0.4927,
+    "average_rate": 0.5235,
     "yearly_retractions": {
       "2009": 1,
       "2014": 2,
@@ -28,7 +28,7 @@
       "2021": 1,
       "2022": 8,
       "2023": 1,
-      "2024": 1
+      "2024": 2
     },
     "notice_yearly_retractions": {
       "2009": 1,
@@ -41,7 +41,7 @@
   },
   "domainwise_data": {
     "country": "Tanzania",
-    "total_retractions": 17,
+    "total_retractions": 18,
     "years": {
       "2025": {
         "total": 1,
@@ -53,11 +53,14 @@
         }
       },
       "2024": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "system": 1,
           "researcher_integrity": 1
         },
         "domain": {
+          "ENV": 1,
+          "PHY": 2,
           "HSC": 3
         }
       },
@@ -144,6 +147,16 @@
         },
         "domain": {
           "HSC": 3
+        }
+      },
+      "2025": {
+        "total": 1,
+        "marks": {
+          "system": 1
+        },
+        "domain": {
+          "ENV": 1,
+          "PHY": 2
         }
       },
       "2024": {
