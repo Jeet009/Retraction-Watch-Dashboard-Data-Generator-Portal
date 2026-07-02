@@ -24,7 +24,7 @@
       "2021": 0.429,
       "2022": 0.4954,
       "2023": 0.8811,
-      "2024": 0.3649
+      "2024": 0.4171
     },
     "notice_yearly_rates": {
       "1998": 0.3152,
@@ -48,7 +48,7 @@
       "2023": 0.9362,
       "2024": 0.2607
     },
-    "average_rate": 0.4167,
+    "average_rate": 0.4202,
     "yearly_retractions": {
       "1998": 1,
       "1999": 1,
@@ -72,7 +72,7 @@
       "2021": 8,
       "2022": 9,
       "2023": 16,
-      "2024": 7
+      "2024": 8
     },
     "notice_yearly_retractions": {
       "1998": 1,
@@ -99,7 +99,7 @@
   },
   "domainwise_data": {
     "country": "Ireland",
-    "total_retractions": 124,
+    "total_retractions": 125,
     "years": {
       "2025": {
         "total": 4,
@@ -115,16 +115,17 @@
         }
       },
       "2024": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "system": 1,
           "research": 3,
           "researcher_integrity": 2,
           "alterations": 2
         },
         "domain": {
-          "B/T": 7,
-          "PHY": 2,
-          "SOC": 2,
+          "B/T": 8,
+          "PHY": 3,
+          "SOC": 3,
           "BLS": 3,
           "HSC": 3
         }
@@ -426,19 +427,20 @@
         }
       },
       "2025": {
-        "total": 17,
+        "total": 18,
         "marks": {
+          "system": 1,
           "alterations": 7,
           "researcher_integrity": 9,
           "research": 1
         },
         "domain": {
+          "B/T": 15,
+          "PHY": 5,
+          "SOC": 3,
           "BLS": 13,
           "HSC": 11,
-          "PHY": 4,
-          "ENV": 1,
-          "B/T": 14,
-          "SOC": 2
+          "ENV": 1
         }
       },
       "2024": {
@@ -688,9 +690,9 @@
     },
     "collaborations": {
       "United Kingdom": 30,
+      "China": 15,
       "United States": 15,
-      "China": 14,
-      "Pakistan": 9,
+      "Pakistan": 10,
       "India": 8,
       "France": 7,
       "Saudi Arabia": 5,
@@ -714,6 +716,7 @@
       "Israel": 2,
       "Canada": 2,
       "Russia": 2,
+      "Hungary": 1,
       "Bangladesh": 1,
       "South Africa": 1,
       "Czech Republic": 1,
@@ -733,9 +736,9 @@
     },
     "notice_collaborations": {
       "United Kingdom": 30,
+      "China": 15,
       "United States": 15,
-      "China": 14,
-      "Pakistan": 9,
+      "Pakistan": 10,
       "India": 8,
       "France": 7,
       "Saudi Arabia": 5,
@@ -759,6 +762,7 @@
       "Israel": 2,
       "Canada": 2,
       "Russia": 2,
+      "Hungary": 1,
       "Bangladesh": 1,
       "South Africa": 1,
       "Czech Republic": 1,

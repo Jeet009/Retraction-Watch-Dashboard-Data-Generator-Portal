@@ -67,8 +67,18 @@
   },
   "domainwise_data": {
     "country": "Kuwait",
-    "total_retractions": 55,
+    "total_retractions": 56,
     "years": {
+      "2025": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "BLS": 1,
+          "PHY": 1
+        }
+      },
       "2024": {
         "total": 5,
         "marks": {
@@ -262,15 +272,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 3,
+        "total": 4,
         "marks": {
-          "alterations": 2,
+          "alterations": 3,
           "research": 1
         },
         "domain": {
+          "BLS": 1,
+          "PHY": 5,
           "B/T": 2,
-          "HSC": 4,
-          "PHY": 4
+          "HSC": 4
         }
       },
       "2025": {
@@ -429,30 +440,32 @@
     "collaborations": {
       "India": 15,
       "Egypt": 15,
-      "Saudi Arabia": 9,
+      "Saudi Arabia": 10,
+      "Pakistan": 7,
+      "China": 6,
       "Serbia": 6,
-      "Pakistan": 6,
-      "China": 5,
       "Malaysia": 5,
+      "Iraq": 4,
       "Taiwan": 4,
       "Ethiopia": 4,
       "Turkey": 3,
-      "Iraq": 3,
       "Japan": 3,
       "Iran": 3,
+      "South Korea": 2,
       "United States": 2,
       "Russia": 2,
       "Norway": 2,
       "Qatar": 2,
       "Czech Republic": 2,
       "Ghana": 2,
+      "Italy": 1,
+      "United Kingdom": 1,
       "Lebanon": 1,
       "Azerbaijan": 1,
       "Morocco": 1,
       "Kazakhstan": 1,
       "Jordan": 1,
       "Nepal": 1,
-      "South Korea": 1,
       "Bangladesh": 1,
       "Peru": 1,
       "Poland": 1,
@@ -467,30 +480,32 @@
     "notice_collaborations": {
       "India": 15,
       "Egypt": 15,
-      "Saudi Arabia": 9,
+      "Saudi Arabia": 10,
+      "Pakistan": 7,
+      "China": 6,
       "Serbia": 6,
-      "Pakistan": 6,
-      "China": 5,
       "Malaysia": 5,
+      "Iraq": 4,
       "Taiwan": 4,
       "Ethiopia": 4,
       "Turkey": 3,
-      "Iraq": 3,
       "Japan": 3,
       "Iran": 3,
+      "South Korea": 2,
       "United States": 2,
       "Russia": 2,
       "Norway": 2,
       "Qatar": 2,
       "Czech Republic": 2,
       "Ghana": 2,
+      "Italy": 1,
+      "United Kingdom": 1,
       "Lebanon": 1,
       "Azerbaijan": 1,
       "Morocco": 1,
       "Kazakhstan": 1,
       "Jordan": 1,
       "Nepal": 1,
-      "South Korea": 1,
       "Bangladesh": 1,
       "Peru": 1,
       "Poland": 1,

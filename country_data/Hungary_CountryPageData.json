@@ -22,7 +22,7 @@
       "2021": 0.575,
       "2022": 1.1094,
       "2023": 0.6007,
-      "2024": 0.7954
+      "2024": 0.8565
     },
     "notice_yearly_rates": {
       "2003": 0.1532,
@@ -41,7 +41,7 @@
       "2023": 0.4005,
       "2024": 0.7342
     },
-    "average_rate": 0.2869,
+    "average_rate": 0.2906,
     "yearly_retractions": {
       "1998": 1,
       "2002": 1,
@@ -63,7 +63,7 @@
       "2021": 8,
       "2022": 16,
       "2023": 9,
-      "2024": 13
+      "2024": 14
     },
     "notice_yearly_retractions": {
       "2003": 1,
@@ -85,7 +85,7 @@
   },
   "domainwise_data": {
     "country": "Hungary",
-    "total_retractions": 78,
+    "total_retractions": 79,
     "years": {
       "2025": {
         "total": 1,
@@ -98,16 +98,18 @@
         }
       },
       "2024": {
-        "total": 13,
+        "total": 14,
         "marks": {
+          "system": 1,
           "researcher_integrity": 9,
           "research": 1,
           "alterations": 3
         },
         "domain": {
-          "B/T": 10,
+          "B/T": 11,
+          "PHY": 17,
+          "SOC": 1,
           "ENV": 8,
-          "PHY": 16,
           "BLS": 8,
           "HSC": 1
         }
@@ -351,17 +353,18 @@
         }
       },
       "2025": {
-        "total": 25,
+        "total": 26,
         "marks": {
+          "system": 1,
           "researcher_integrity": 18,
           "research": 3,
           "alterations": 4
         },
         "domain": {
-          "B/T": 26,
-          "SOC": 5,
+          "B/T": 27,
+          "PHY": 18,
+          "SOC": 6,
           "ENV": 14,
-          "PHY": 17,
           "BLS": 6,
           "HSC": 5
         }
@@ -540,8 +543,8 @@
       "Poland": 13,
       "United States": 13,
       "Iraq": 13,
-      "China": 8,
-      "Pakistan": 7,
+      "China": 9,
+      "Pakistan": 8,
       "South Africa": 7,
       "Germany": 7,
       "India": 6,
@@ -569,6 +572,7 @@
       "Yemen": 2,
       "Switzerland": 2,
       "Norway": 2,
+      "Ireland": 1,
       "Cameroon": 1,
       "Botswana": 1,
       "Indonesia": 1,
@@ -590,8 +594,8 @@
       "Poland": 13,
       "United States": 13,
       "Iraq": 13,
-      "China": 8,
-      "Pakistan": 7,
+      "China": 9,
+      "Pakistan": 8,
       "South Africa": 7,
       "Germany": 7,
       "India": 6,
@@ -619,6 +623,7 @@
       "Yemen": 2,
       "Switzerland": 2,
       "Norway": 2,
+      "Ireland": 1,
       "Cameroon": 1,
       "Botswana": 1,
       "Indonesia": 1,
