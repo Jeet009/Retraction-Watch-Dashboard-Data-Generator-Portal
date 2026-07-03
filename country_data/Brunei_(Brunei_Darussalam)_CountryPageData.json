@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Brunei (Brunei Darussalam)",
     "yearly_rates": {
+      "2019": 0.0,
       "2020": 0.0,
       "2021": 0.0,
       "2022": 0.0,
@@ -14,6 +15,7 @@
     },
     "average_rate": 0.0,
     "yearly_retractions": {
+      "2019": 1,
       "2020": 1,
       "2021": 2,
       "2022": 10,
@@ -27,7 +29,7 @@
   },
   "domainwise_data": {
     "country": "Brunei (Brunei Darussalam)",
-    "total_retractions": 14,
+    "total_retractions": 15,
     "years": {
       "2023": {
         "total": 1,
@@ -73,9 +75,27 @@
           "HSC": 1,
           "SOC": 1
         }
+      },
+      "2019": {
+        "total": 1,
+        "marks": {
+          "system": 1
+        },
+        "domain": {
+          "PHY": 3
+        }
       }
     },
     "notice_years": {
+      "2025": {
+        "total": 1,
+        "marks": {
+          "system": 1
+        },
+        "domain": {
+          "PHY": 3
+        }
+      },
       "2024": {
         "total": 4,
         "marks": {
@@ -122,6 +142,7 @@
       "China": 3,
       "Yemen": 3,
       "India": 3,
+      "Malaysia": 2,
       "Argentina": 2,
       "Bangladesh": 2,
       "Brazil": 2,
@@ -129,8 +150,7 @@
       "Maldives": 2,
       "Tunisia": 2,
       "Afghanistan": 1,
-      "Iran": 1,
-      "Malaysia": 1
+      "Iran": 1
     },
     "notice_collaborations": {
       "Saudi Arabia": 8,
@@ -139,6 +159,7 @@
       "China": 3,
       "Yemen": 3,
       "India": 3,
+      "Malaysia": 2,
       "Argentina": 2,
       "Bangladesh": 2,
       "Brazil": 2,
@@ -146,8 +167,7 @@
       "Maldives": 2,
       "Tunisia": 2,
       "Afghanistan": 1,
-      "Iran": 1,
-      "Malaysia": 1
+      "Iran": 1
     }
   },
   "country_flag": "/country_flags/Brunei_(Brunei_Darussalam).svg"
