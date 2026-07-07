@@ -4,7 +4,7 @@
     "yearly_rates": {
       "2010": 7.5758,
       "2021": 5.2029,
-      "2022": 0.9524,
+      "2022": 1.9048,
       "2023": 0.8929,
       "2024": 0.7752
     },
@@ -12,11 +12,11 @@
       "2010": 7.5758,
       "2023": 6.25
     },
-    "average_rate": 1.0512,
+    "average_rate": 1.168,
     "yearly_retractions": {
       "2010": 1,
       "2021": 5,
-      "2022": 1,
+      "2022": 2,
       "2023": 1,
       "2024": 1
     },
@@ -27,7 +27,7 @@
   },
   "domainwise_data": {
     "country": "Rwanda",
-    "total_retractions": 10,
+    "total_retractions": 11,
     "years": {
       "2025": {
         "total": 1,
@@ -59,11 +59,15 @@
         }
       },
       "2022": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "system": 1,
           "alterations": 1
         },
         "domain": {
+          "B/T": 1,
+          "ENV": 1,
+          "HSC": 1,
           "PHY": 5
         }
       },
@@ -91,15 +95,17 @@
     },
     "notice_years": {
       "2025": {
-        "total": 2,
+        "total": 3,
         "marks": {
+          "system": 1,
           "researcher_integrity": 2
         },
         "domain": {
-          "HSC": 1,
+          "B/T": 1,
+          "ENV": 3,
+          "HSC": 2,
           "SOC": 2,
-          "BLS": 1,
-          "ENV": 2
+          "BLS": 1
         }
       },
       "2023": {
@@ -134,6 +140,7 @@
       "Denmark": 2,
       "Saudi Arabia": 2,
       "China": 2,
+      "Romania": 1,
       "Cote d'Ivoire": 1,
       "Gabon": 1,
       "Germany": 1,
@@ -153,6 +160,7 @@
       "Denmark": 2,
       "Saudi Arabia": 2,
       "China": 2,
+      "Romania": 1,
       "Cote d'Ivoire": 1,
       "Gabon": 1,
       "Germany": 1,

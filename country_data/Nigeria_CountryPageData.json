@@ -17,9 +17,9 @@
       "2019": 1.4918,
       "2020": 1.3303,
       "2021": 1.4733,
-      "2022": 1.9218,
+      "2022": 1.9819,
       "2023": 2.8694,
-      "2024": 1.1907
+      "2024": 1.2474
     },
     "notice_yearly_rates": {
       "2008": 0.2579,
@@ -38,7 +38,7 @@
       "2023": 0.8369,
       "2024": 1.2474
     },
-    "average_rate": 1.181,
+    "average_rate": 1.192,
     "yearly_retractions": {
       "2006": 2,
       "2008": 4,
@@ -55,9 +55,9 @@
       "2019": 18,
       "2020": 19,
       "2021": 24,
-      "2022": 32,
+      "2022": 33,
       "2023": 48,
-      "2024": 21
+      "2024": 22
     },
     "notice_yearly_retractions": {
       "2008": 1,
@@ -79,18 +79,18 @@
   },
   "domainwise_data": {
     "country": "Nigeria",
-    "total_retractions": 214,
+    "total_retractions": 216,
     "years": {
       "2024": {
-        "total": 21,
+        "total": 22,
         "marks": {
+          "researcher_integrity": 8,
           "research": 6,
-          "researcher_integrity": 7,
           "alterations": 8
         },
         "domain": {
+          "PHY": 31,
           "ENV": 6,
-          "PHY": 27,
           "BLS": 12,
           "HSC": 9,
           "SOC": 1,
@@ -115,17 +115,17 @@
         }
       },
       "2022": {
-        "total": 32,
+        "total": 33,
         "marks": {
+          "system": 2,
           "alterations": 15,
           "researcher_integrity": 8,
-          "research": 8,
-          "system": 1
+          "research": 8
         },
         "domain": {
+          "ENV": 4,
+          "HSC": 9,
           "PHY": 37,
-          "ENV": 3,
-          "HSC": 8,
           "B/T": 23,
           "BLS": 7,
           "HUM": 2,
@@ -368,18 +368,18 @@
         }
       },
       "2025": {
-        "total": 87,
+        "total": 89,
         "marks": {
+          "system": 3,
+          "researcher_integrity": 21,
           "research": 20,
           "alterations": 44,
-          "supplemental": 1,
-          "researcher_integrity": 20,
-          "system": 2
+          "supplemental": 1
         },
         "domain": {
-          "HSC": 35,
-          "PHY": 108,
-          "ENV": 15,
+          "ENV": 16,
+          "HSC": 36,
+          "PHY": 112,
           "BLS": 56,
           "B/T": 24,
           "SOC": 3
@@ -610,7 +610,7 @@
       "South Africa": 64,
       "India": 39,
       "Saudi Arabia": 21,
-      "China": 18,
+      "China": 19,
       "Pakistan": 16,
       "Malaysia": 14,
       "United States": 13,
@@ -670,7 +670,7 @@
       "South Africa": 64,
       "India": 39,
       "Saudi Arabia": 21,
-      "China": 18,
+      "China": 19,
       "Pakistan": 16,
       "Malaysia": 14,
       "United States": 13,

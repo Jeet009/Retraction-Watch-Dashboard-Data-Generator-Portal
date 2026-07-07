@@ -28,7 +28,7 @@
       "2021": 0.3016,
       "2022": 0.2766,
       "2023": 0.1886,
-      "2024": 0.0709
+      "2024": 0.0798
     },
     "notice_yearly_rates": {
       "1997": 0.0167,
@@ -58,7 +58,7 @@
       "2023": 0.3862,
       "2024": 0.6647
     },
-    "average_rate": 0.2562,
+    "average_rate": 0.2565,
     "yearly_retractions": {
       "1998": 1,
       "1999": 3,
@@ -86,7 +86,7 @@
       "2021": 36,
       "2022": 32,
       "2023": 21,
-      "2024": 8
+      "2024": 9
     },
     "notice_yearly_retractions": {
       "1997": 1,
@@ -119,7 +119,7 @@
   },
   "domainwise_data": {
     "country": "France",
-    "total_retractions": 708,
+    "total_retractions": 709,
     "years": {
       "2026": {
         "total": 1,
@@ -148,18 +148,19 @@
         }
       },
       "2024": {
-        "total": 8,
+        "total": 9,
         "marks": {
+          "alterations": 3,
           "researcher_integrity": 2,
-          "alterations": 2,
           "research": 2,
           "system": 1,
           "supplemental": 1
         },
         "domain": {
+          "B/T": 3,
+          "ENV": 1,
           "BLS": 2,
           "PHY": 4,
-          "B/T": 1,
           "SOC": 1,
           "HSC": 10
         }
@@ -686,19 +687,20 @@
         }
       },
       "2025": {
-        "total": 60,
+        "total": 61,
         "marks": {
+          "alterations": 21,
           "researcher_integrity": 29,
-          "alterations": 20,
           "research": 6,
           "system": 3,
           "supplemental": 2
         },
         "domain": {
+          "B/T": 11,
+          "ENV": 1,
           "BLS": 62,
           "HSC": 61,
           "SOC": 18,
-          "B/T": 9,
           "PHY": 24
         }
       },
@@ -1161,9 +1163,9 @@
       "United Kingdom": 45,
       "China": 42,
       "Spain": 33,
+      "India": 30,
       "Switzerland": 29,
-      "India": 29,
-      "Netherlands": 27,
+      "Netherlands": 28,
       "Saudi Arabia": 26,
       "Pakistan": 20,
       "Tunisia": 18,
@@ -1175,8 +1177,8 @@
       "Vietnam": 12,
       "Senegal": 11,
       "Romania": 11,
+      "Lebanon": 10,
       "Sweden": 9,
-      "Lebanon": 9,
       "Morocco": 9,
       "Iran": 9,
       "Brazil": 9,
@@ -1263,9 +1265,9 @@
       "United Kingdom": 45,
       "China": 42,
       "Spain": 33,
+      "India": 30,
       "Switzerland": 29,
-      "India": 29,
-      "Netherlands": 27,
+      "Netherlands": 28,
       "Saudi Arabia": 26,
       "Pakistan": 20,
       "Tunisia": 18,
@@ -1277,8 +1279,8 @@
       "Vietnam": 12,
       "Senegal": 11,
       "Romania": 11,
+      "Lebanon": 10,
       "Sweden": 9,
-      "Lebanon": 9,
       "Morocco": 9,
       "Iran": 9,
       "Brazil": 9,
