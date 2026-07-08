@@ -1,19 +1,19 @@
 [
   {
     "country": "China",
-    "alterations": 5370,
+    "alterations": 5371,
     "research": 3773,
-    "integrity": 1008,
-    "supplemental": 942,
+    "integrity": 1010,
+    "supplemental": 943,
     "system": 254,
-    "total": 11347,
-    "total_from_1996": 11347,
+    "total": 11351,
+    "total_from_1996": 11351,
     "total_publications": 11461281,
-    "retraction_rate": 0.99,
+    "retraction_rate": 0.9904,
     "yearly_retraction_rates": {
       "2022": 8.4978,
-      "2023": 1.4761,
-      "2024": 0.8148
+      "2023": 1.477,
+      "2024": 0.8174
     },
     "country_flag": "/country_flags/China.svg"
   },
@@ -38,14 +38,14 @@
   {
     "country": "Saudi Arabia",
     "alterations": 520,
-    "research": 359,
+    "research": 360,
     "integrity": 291,
     "supplemental": 33,
     "system": 33,
-    "total": 1236,
-    "total_from_1996": 1236,
+    "total": 1237,
+    "total_from_1996": 1237,
     "total_publications": 470933,
-    "retraction_rate": 2.6246,
+    "retraction_rate": 2.6267,
     "yearly_retraction_rates": {
       "2022": 13.7555,
       "2023": 4.203,
@@ -56,14 +56,14 @@
   {
     "country": "Pakistan",
     "alterations": 317,
-    "research": 195,
+    "research": 196,
     "integrity": 265,
     "supplemental": 22,
     "system": 22,
-    "total": 821,
-    "total_from_1996": 821,
+    "total": 822,
+    "total_from_1996": 822,
     "total_publications": 349594,
-    "retraction_rate": 2.3484,
+    "retraction_rate": 2.3513,
     "yearly_retraction_rates": {
       "2022": 13.2633,
       "2023": 3.8223,
@@ -144,6 +144,24 @@
     "country_flag": "/country_flags/South_Korea.svg"
   },
   {
+    "country": "Ethiopia",
+    "alterations": 203,
+    "research": 148,
+    "integrity": 20,
+    "supplemental": 4,
+    "system": 2,
+    "total": 377,
+    "total_from_1996": 377,
+    "total_publications": 75780,
+    "retraction_rate": 4.9749,
+    "yearly_retraction_rates": {
+      "2022": 27.689,
+      "2023": 4.3681,
+      "2024": 1.553
+    },
+    "country_flag": "/country_flags/Ethiopia.svg"
+  },
+  {
     "country": "Egypt",
     "alterations": 160,
     "research": 101,
@@ -162,37 +180,19 @@
     "country_flag": "/country_flags/Egypt.svg"
   },
   {
-    "country": "Ethiopia",
-    "alterations": 202,
-    "research": 148,
-    "integrity": 20,
-    "supplemental": 4,
-    "system": 2,
-    "total": 376,
-    "total_from_1996": 376,
-    "total_publications": 75780,
-    "retraction_rate": 4.9617,
-    "yearly_retraction_rates": {
-      "2022": 27.689,
-      "2023": 4.271,
-      "2024": 1.553
-    },
-    "country_flag": "/country_flags/Ethiopia.svg"
-  },
-  {
     "country": "Iran",
     "alterations": 102,
-    "research": 104,
+    "research": 105,
     "integrity": 114,
     "supplemental": 17,
     "system": 36,
-    "total": 373,
-    "total_from_1996": 373,
+    "total": 374,
+    "total_from_1996": 374,
     "total_publications": 933139,
-    "retraction_rate": 0.3997,
+    "retraction_rate": 0.4008,
     "yearly_retraction_rates": {
       "2022": 2.3555,
-      "2023": 1.5541,
+      "2023": 1.5682,
       "2024": 0.9399
     },
     "country_flag": "/country_flags/Iran.svg"
@@ -218,14 +218,14 @@
   {
     "country": "Malaysia",
     "alterations": 114,
-    "research": 66,
+    "research": 67,
     "integrity": 79,
     "supplemental": 14,
     "system": 14,
-    "total": 287,
-    "total_from_1996": 287,
+    "total": 288,
+    "total_from_1996": 288,
     "total_publications": 524435,
-    "retraction_rate": 0.5473,
+    "retraction_rate": 0.5492,
     "yearly_retraction_rates": {
       "2022": 4.1396,
       "2023": 1.4076,
@@ -272,14 +272,14 @@
   {
     "country": "Bangladesh",
     "alterations": 89,
-    "research": 89,
+    "research": 90,
     "integrity": 27,
     "supplemental": 2,
     "system": 8,
-    "total": 215,
-    "total_from_1996": 215,
+    "total": 216,
+    "total_from_1996": 216,
     "total_publications": 117517,
-    "retraction_rate": 1.8295,
+    "retraction_rate": 1.838,
     "yearly_retraction_rates": {
       "2022": 10.4143,
       "2023": 2.9988,
@@ -399,16 +399,16 @@
     "country": "Italy",
     "alterations": 30,
     "research": 31,
-    "integrity": 28,
+    "integrity": 29,
     "supplemental": 8,
     "system": 13,
-    "total": 110,
-    "total_from_1996": 110,
+    "total": 111,
+    "total_from_1996": 111,
     "total_publications": 2417621,
-    "retraction_rate": 0.0455,
+    "retraction_rate": 0.0459,
     "yearly_retraction_rates": {
       "2022": 0.3382,
-      "2023": 0.2451,
+      "2023": 0.2523,
       "2024": 0.1655
     },
     "country_flag": "/country_flags/Italy.svg"
@@ -1349,6 +1349,24 @@
     "country_flag": "/country_flags/Bahrain.svg"
   },
   {
+    "country": "New Zealand",
+    "alterations": 4,
+    "research": 4,
+    "integrity": 5,
+    "supplemental": 3,
+    "system": 0,
+    "total": 16,
+    "total_from_1996": 16,
+    "total_publications": 315819,
+    "retraction_rate": 0.0507,
+    "yearly_retraction_rates": {
+      "2022": 0.3498,
+      "2023": 0.5107,
+      "2024": 0.1216
+    },
+    "country_flag": "/country_flags/New_Zealand.svg"
+  },
+  {
     "country": "Austria",
     "alterations": 4,
     "research": 6,
@@ -1383,24 +1401,6 @@
       "2024": 0.0999
     },
     "country_flag": "/country_flags/Chile.svg"
-  },
-  {
-    "country": "New Zealand",
-    "alterations": 4,
-    "research": 3,
-    "integrity": 5,
-    "supplemental": 3,
-    "system": 0,
-    "total": 15,
-    "total_from_1996": 15,
-    "total_publications": 315819,
-    "retraction_rate": 0.0475,
-    "yearly_retraction_rates": {
-      "2022": 0.3498,
-      "2023": 0.4469,
-      "2024": 0.1216
-    },
-    "country_flag": "/country_flags/New_Zealand.svg"
   },
   {
     "country": "Belarus",
