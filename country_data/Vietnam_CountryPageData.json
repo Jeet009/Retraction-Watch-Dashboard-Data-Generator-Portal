@@ -46,10 +46,10 @@
       "2015": 2,
       "2017": 4,
       "2018": 7,
-      "2019": 27,
+      "2019": 28,
       "2020": 52,
       "2021": 45,
-      "2022": 55,
+      "2022": 56,
       "2023": 31,
       "2024": 19
     },
@@ -63,17 +63,17 @@
       "2016": 1,
       "2017": 2,
       "2018": 2,
-      "2019": 4,
+      "2019": 5,
       "2020": 13,
       "2021": 11,
-      "2022": 18,
+      "2022": 19,
       "2023": 48,
       "2024": 56
     }
   },
   "domainwise_data": {
     "country": "Vietnam",
-    "total_retractions": 253,
+    "total_retractions": 255,
     "years": {
       "2024": {
         "total": 19,
@@ -111,17 +111,18 @@
         }
       },
       "2022": {
-        "total": 55,
+        "total": 56,
         "marks": {
+          "system": 1,
           "research": 13,
           "researcher_integrity": 21,
           "alterations": 21
         },
         "domain": {
-          "B/T": 47,
+          "B/T": 48,
+          "PHY": 38,
           "HSC": 33,
           "ENV": 12,
-          "PHY": 36,
           "BLS": 17,
           "SOC": 16,
           "HUM": 1
@@ -162,17 +163,18 @@
         }
       },
       "2019": {
-        "total": 27,
+        "total": 28,
         "marks": {
+          "supplemental": 1,
           "researcher_integrity": 16,
           "alterations": 4,
           "research": 7
         },
         "domain": {
+          "BLS": 12,
           "B/T": 10,
           "PHY": 26,
           "HSC": 13,
-          "BLS": 8,
           "ENV": 2,
           "SOC": 4
         }
@@ -349,16 +351,17 @@
         }
       },
       "2022": {
-        "total": 18,
+        "total": 19,
         "marks": {
+          "system": 1,
           "research": 4,
           "researcher_integrity": 6,
           "alterations": 8
         },
         "domain": {
-          "B/T": 12,
+          "B/T": 13,
+          "PHY": 24,
           "SOC": 2,
-          "PHY": 22,
           "BLS": 3,
           "ENV": 2,
           "HSC": 4
@@ -394,12 +397,14 @@
         }
       },
       "2019": {
-        "total": 4,
+        "total": 5,
         "marks": {
+          "supplemental": 1,
           "alterations": 2,
           "research": 2
         },
         "domain": {
+          "BLS": 4,
           "B/T": 4,
           "SOC": 1,
           "HSC": 1,
@@ -506,11 +511,11 @@
     },
     "collaborations": {
       "China": 61,
-      "India": 54,
+      "India": 55,
       "Saudi Arabia": 42,
       "Iran": 41,
       "South Korea": 23,
-      "Taiwan": 21,
+      "Taiwan": 22,
       "Malaysia": 21,
       "United States": 19,
       "Iraq": 15,
@@ -575,11 +580,11 @@
     },
     "notice_collaborations": {
       "China": 61,
-      "India": 54,
+      "India": 55,
       "Saudi Arabia": 42,
       "Iran": 41,
       "South Korea": 23,
-      "Taiwan": 21,
+      "Taiwan": 22,
       "Malaysia": 21,
       "United States": 19,
       "Iraq": 15,

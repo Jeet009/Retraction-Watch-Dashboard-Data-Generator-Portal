@@ -27,7 +27,7 @@
       "2020": 0.5242,
       "2021": 0.5152,
       "2022": 0.4656,
-      "2023": 0.2155,
+      "2023": 0.2244,
       "2024": 0.1041
     },
     "notice_yearly_rates": {
@@ -57,7 +57,7 @@
       "2023": 0.5297,
       "2024": 0.9546
     },
-    "average_rate": 0.3085,
+    "average_rate": 0.309,
     "yearly_retractions": {
       "1997": 1,
       "1998": 1,
@@ -84,7 +84,7 @@
       "2020": 56,
       "2021": 59,
       "2022": 52,
-      "2023": 24,
+      "2023": 25,
       "2024": 12
     },
     "notice_yearly_retractions": {
@@ -117,7 +117,7 @@
   },
   "domainwise_data": {
     "country": "Spain",
-    "total_retractions": 600,
+    "total_retractions": 601,
     "years": {
       "2025": {
         "total": 3,
@@ -149,19 +149,19 @@
         }
       },
       "2023": {
-        "total": 24,
+        "total": 25,
         "marks": {
-          "researcher_integrity": 2,
+          "researcher_integrity": 3,
           "research": 8,
           "alterations": 6,
           "system": 6,
           "supplemental": 2
         },
         "domain": {
+          "B/T": 21,
+          "SOC": 6,
           "BLS": 15,
           "HSC": 28,
-          "B/T": 19,
-          "SOC": 5,
           "ENV": 3,
           "PHY": 7
         }
@@ -581,17 +581,17 @@
         }
       },
       "2025": {
-        "total": 39,
+        "total": 40,
         "marks": {
-          "researcher_integrity": 7,
+          "researcher_integrity": 8,
           "research": 7,
           "alterations": 25
         },
         "domain": {
+          "B/T": 53,
+          "SOC": 6,
           "BLS": 13,
           "HSC": 10,
-          "SOC": 5,
-          "B/T": 51,
           "PHY": 20,
           "ENV": 6
         }
