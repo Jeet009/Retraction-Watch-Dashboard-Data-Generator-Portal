@@ -11,13 +11,14 @@
       "2014": 0.4371,
       "2015": 0.4455,
       "2016": 0.508,
+      "2017": 0.1544,
       "2018": 0.5624,
       "2019": 0.1217,
       "2020": 0.6241,
       "2021": 0.4606,
       "2022": 1.1756,
       "2023": 0.9408,
-      "2024": 0.5872
+      "2024": 0.6459
     },
     "notice_yearly_rates": {
       "2009": 0.466,
@@ -30,14 +31,14 @@
       "2016": 0.508,
       "2017": 0.1544,
       "2018": 0.1406,
-      "2019": 0.2434,
+      "2019": 0.3651,
       "2020": 0.312,
       "2021": 0.4606,
       "2022": 0.5878,
       "2023": 0.2171,
       "2024": 0.7634
     },
-    "average_rate": 0.5552,
+    "average_rate": 0.5704,
     "yearly_retractions": {
       "2006": 1,
       "2009": 1,
@@ -48,13 +49,14 @@
       "2014": 2,
       "2015": 2,
       "2016": 3,
+      "2017": 1,
       "2018": 4,
       "2019": 1,
       "2020": 6,
       "2021": 5,
       "2022": 14,
       "2023": 13,
-      "2024": 10
+      "2024": 11
     },
     "notice_yearly_retractions": {
       "2009": 1,
@@ -67,7 +69,7 @@
       "2016": 3,
       "2017": 1,
       "2018": 1,
-      "2019": 2,
+      "2019": 3,
       "2020": 3,
       "2021": 5,
       "2022": 7,
@@ -77,23 +79,23 @@
   },
   "domainwise_data": {
     "country": "Morocco",
-    "total_retractions": 73,
+    "total_retractions": 75,
     "years": {
       "2024": {
-        "total": 10,
+        "total": 11,
         "marks": {
+          "alterations": 3,
           "research": 3,
-          "alterations": 2,
           "system": 1,
           "researcher_integrity": 2,
           "supplemental": 2
         },
         "domain": {
-          "BLS": 5,
+          "B/T": 6,
+          "BLS": 6,
+          "ENV": 3,
           "HSC": 4,
-          "ENV": 2,
-          "PHY": 8,
-          "B/T": 5
+          "PHY": 8
         }
       },
       "2023": {
@@ -180,6 +182,15 @@
           "B/T": 1,
           "ENV": 1,
           "HSC": 3
+        }
+      },
+      "2017": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "B/T": 2
         }
       },
       "2016": {
@@ -292,19 +303,19 @@
         }
       },
       "2025": {
-        "total": 14,
+        "total": 15,
         "marks": {
+          "alterations": 5,
           "researcher_integrity": 5,
           "research": 4,
-          "alterations": 4,
           "system": 1
         },
         "domain": {
+          "B/T": 11,
+          "BLS": 10,
+          "ENV": 5,
           "HSC": 9,
-          "B/T": 10,
-          "ENV": 4,
           "HUM": 1,
-          "BLS": 9,
           "PHY": 7
         }
       },
@@ -379,13 +390,13 @@
         }
       },
       "2019": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "alterations": 1,
+          "alterations": 2,
           "researcher_integrity": 1
         },
         "domain": {
-          "B/T": 1,
+          "B/T": 3,
           "ENV": 1,
           "HSC": 3
         }
@@ -497,16 +508,16 @@
     },
     "collaborations": {
       "Saudi Arabia": 10,
+      "India": 9,
       "Egypt": 9,
       "France": 9,
-      "India": 8,
       "China": 4,
       "Turkey": 4,
+      "United Kingdom": 3,
       "Pakistan": 3,
       "Bangladesh": 3,
       "Ethiopia": 3,
       "Malaysia": 2,
-      "United Kingdom": 2,
       "Hungary": 2,
       "Vietnam": 2,
       "Azerbaijan": 2,
@@ -518,6 +529,7 @@
       "Cameroon": 2,
       "Algeria": 2,
       "Italy": 2,
+      "Norway": 1,
       "Netherlands": 1,
       "Taiwan": 1,
       "Australia": 1,
@@ -557,16 +569,16 @@
     },
     "notice_collaborations": {
       "Saudi Arabia": 10,
+      "India": 9,
       "Egypt": 9,
       "France": 9,
-      "India": 8,
       "China": 4,
       "Turkey": 4,
+      "United Kingdom": 3,
       "Pakistan": 3,
       "Bangladesh": 3,
       "Ethiopia": 3,
       "Malaysia": 2,
-      "United Kingdom": 2,
       "Hungary": 2,
       "Vietnam": 2,
       "Azerbaijan": 2,
@@ -578,6 +590,7 @@
       "Cameroon": 2,
       "Algeria": 2,
       "Italy": 2,
+      "Norway": 1,
       "Netherlands": 1,
       "Taiwan": 1,
       "Australia": 1,

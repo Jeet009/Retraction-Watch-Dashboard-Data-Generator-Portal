@@ -10,7 +10,7 @@
       "2015": 5.4348,
       "2016": 5.7143,
       "2022": 5.9172,
-      "2024": 3.1746
+      "2024": 6.3492
     },
     "notice_yearly_rates": {
       "2005": 9.434,
@@ -18,7 +18,7 @@
       "2011": 6.2893,
       "2022": 2.9586
     },
-    "average_rate": 2.6297,
+    "average_rate": 2.8688,
     "yearly_retractions": {
       "1998": 1,
       "1999": 2,
@@ -28,7 +28,7 @@
       "2015": 1,
       "2016": 1,
       "2022": 2,
-      "2024": 1
+      "2024": 2
     },
     "notice_yearly_retractions": {
       "2005": 1,
@@ -39,14 +39,16 @@
   },
   "domainwise_data": {
     "country": "Gabon",
-    "total_retractions": 11,
+    "total_retractions": 12,
     "years": {
       "2024": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "system": 1,
           "researcher_integrity": 1
         },
         "domain": {
+          "B/T": 2,
           "BLS": 1,
           "ENV": 2
         }
@@ -143,11 +145,13 @@
         }
       },
       "2025": {
-        "total": 3,
+        "total": 4,
         "marks": {
+          "system": 1,
           "researcher_integrity": 3
         },
         "domain": {
+          "B/T": 2,
           "BLS": 6,
           "ENV": 2,
           "HSC": 2
@@ -194,10 +198,16 @@
     },
     "collaborations": {
       "France": 3,
+      "Canada": 2,
+      "South Africa": 2,
       "Burkina Faso": 2,
       "Cameroon": 2,
       "Germany": 2,
       "United States": 2,
+      "Pakistan": 1,
+      "Saudi Arabia": 1,
+      "South Korea": 1,
+      "Tunisia": 1,
       "Slovakia": 1,
       "Cote d'Ivoire": 1,
       "Nigeria": 1,
@@ -206,7 +216,6 @@
       "Algeria": 1,
       "Angola": 1,
       "Benin": 1,
-      "Canada": 1,
       "Democratic Republic of the Congo": 1,
       "Ethiopia": 1,
       "Gambia": 1,
@@ -220,7 +229,6 @@
       "Namibia": 1,
       "Niger": 1,
       "Senegal": 1,
-      "South Africa": 1,
       "Togo": 1,
       "Uganda": 1,
       "United Kingdom": 1,
@@ -229,10 +237,16 @@
     },
     "notice_collaborations": {
       "France": 3,
+      "Canada": 2,
+      "South Africa": 2,
       "Burkina Faso": 2,
       "Cameroon": 2,
       "Germany": 2,
       "United States": 2,
+      "Pakistan": 1,
+      "Saudi Arabia": 1,
+      "South Korea": 1,
+      "Tunisia": 1,
       "Slovakia": 1,
       "Cote d'Ivoire": 1,
       "Nigeria": 1,
@@ -241,7 +255,6 @@
       "Algeria": 1,
       "Angola": 1,
       "Benin": 1,
-      "Canada": 1,
       "Democratic Republic of the Congo": 1,
       "Ethiopia": 1,
       "Gambia": 1,
@@ -255,7 +268,6 @@
       "Namibia": 1,
       "Niger": 1,
       "Senegal": 1,
-      "South Africa": 1,
       "Togo": 1,
       "Uganda": 1,
       "United Kingdom": 1,

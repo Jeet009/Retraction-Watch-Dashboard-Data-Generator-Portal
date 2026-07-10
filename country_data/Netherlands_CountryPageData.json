@@ -119,14 +119,18 @@
   },
   "domainwise_data": {
     "country": "Netherlands",
-    "total_retractions": 428,
+    "total_retractions": 429,
     "years": {
       "2025": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "research": 1,
           "researcher_integrity": 1
         },
         "domain": {
+          "ENV": 1,
+          "HUM": 1,
+          "PHY": 1,
           "HSC": 3
         }
       },
@@ -649,18 +653,19 @@
         }
       },
       "2025": {
-        "total": 11,
+        "total": 12,
         "marks": {
+          "research": 5,
           "alterations": 5,
-          "research": 4,
           "researcher_integrity": 2
         },
         "domain": {
+          "ENV": 3,
+          "HUM": 1,
+          "PHY": 3,
           "B/T": 3,
-          "ENV": 2,
           "HSC": 15,
-          "BLS": 11,
-          "PHY": 2
+          "BLS": 11
         }
       },
       "2024": {
@@ -1083,6 +1088,7 @@
       "Greece": 3,
       "Mexico": 3,
       "New Zealand": 3,
+      "Iraq": 2,
       "South Korea": 2,
       "Pakistan": 2,
       "Lebanon": 1,
@@ -1091,7 +1097,6 @@
       "Bangladesh": 1,
       "Jordan": 1,
       "Zambia": 1,
-      "Iraq": 1,
       "Bahrain": 1,
       "Iceland": 1,
       "Ireland": 1,
@@ -1149,6 +1154,7 @@
       "Greece": 3,
       "Mexico": 3,
       "New Zealand": 3,
+      "Iraq": 2,
       "South Korea": 2,
       "Pakistan": 2,
       "Lebanon": 1,
@@ -1157,7 +1163,6 @@
       "Bangladesh": 1,
       "Jordan": 1,
       "Zambia": 1,
-      "Iraq": 1,
       "Bahrain": 1,
       "Iceland": 1,
       "Ireland": 1,

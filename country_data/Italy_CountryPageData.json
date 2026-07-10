@@ -19,13 +19,13 @@
       "2011": 0.7474,
       "2012": 0.7178,
       "2013": 0.6311,
-      "2014": 0.6406,
+      "2014": 0.6509,
       "2015": 0.377,
       "2016": 0.4569,
       "2017": 0.7312,
       "2018": 0.5349,
       "2019": 0.3915,
-      "2020": 0.3598,
+      "2020": 0.3675,
       "2021": 0.3406,
       "2022": 0.3382,
       "2023": 0.2523,
@@ -58,7 +58,7 @@
       "2023": 0.4542,
       "2024": 0.8139
     },
-    "average_rate": 0.4008,
+    "average_rate": 0.4016,
     "yearly_retractions": {
       "1997": 2,
       "1998": 3,
@@ -77,13 +77,13 @@
       "2011": 61,
       "2012": 63,
       "2013": 59,
-      "2014": 62,
+      "2014": 63,
       "2015": 38,
       "2016": 47,
       "2017": 78,
       "2018": 59,
       "2019": 46,
-      "2020": 47,
+      "2020": 48,
       "2021": 48,
       "2022": 47,
       "2023": 35,
@@ -119,7 +119,7 @@
   },
   "domainwise_data": {
     "country": "Italy",
-    "total_retractions": 980,
+    "total_retractions": 982,
     "years": {
       "2025": {
         "total": 5,
@@ -208,22 +208,22 @@
         }
       },
       "2020": {
-        "total": 47,
+        "total": 48,
         "marks": {
+          "system": 5,
           "researcher_integrity": 12,
           "alterations": 21,
           "research": 8,
-          "system": 4,
           "supplemental": 2
         },
         "domain": {
+          "ENV": 3,
+          "HSC": 49,
           "PHY": 13,
           "BLS": 44,
-          "HSC": 48,
           "HUM": 2,
           "SOC": 11,
-          "B/T": 7,
-          "ENV": 2
+          "B/T": 7
         }
       },
       "2019": {
@@ -318,21 +318,21 @@
         }
       },
       "2014": {
-        "total": 62,
+        "total": 63,
         "marks": {
-          "alterations": 33,
+          "alterations": 34,
           "research": 12,
           "system": 1,
           "researcher_integrity": 14,
           "supplemental": 2
         },
         "domain": {
+          "HSC": 56,
+          "PHY": 45,
           "BLS": 70,
-          "HSC": 55,
           "HUM": 1,
           "SOC": 4,
           "B/T": 2,
-          "PHY": 44,
           "ENV": 2
         }
       },
@@ -645,20 +645,20 @@
         }
       },
       "2025": {
-        "total": 72,
+        "total": 74,
         "marks": {
           "researcher_integrity": 21,
-          "system": 6,
-          "alterations": 33,
+          "system": 7,
+          "alterations": 34,
           "research": 10,
           "supplemental": 2
         },
         "domain": {
           "BLS": 86,
-          "HSC": 77,
+          "HSC": 79,
+          "ENV": 7,
+          "PHY": 27,
           "B/T": 14,
-          "PHY": 26,
-          "ENV": 6,
           "HUM": 1,
           "SOC": 1
         }
@@ -1070,10 +1070,10 @@
       }
     },
     "collaborations": {
-      "United States": 159,
+      "United States": 161,
       "United Kingdom": 83,
-      "France": 65,
-      "China": 53,
+      "France": 66,
+      "China": 54,
       "Germany": 51,
       "Spain": 48,
       "Saudi Arabia": 34,
@@ -1083,16 +1083,16 @@
       "Iran": 25,
       "Canada": 23,
       "Netherlands": 17,
+      "Greece": 16,
       "Sweden": 16,
-      "Greece": 15,
       "Egypt": 15,
       "Australia": 15,
       "Denmark": 15,
       "Turkey": 14,
       "Japan": 14,
       "Brazil": 12,
+      "Russia": 10,
       "Poland": 9,
-      "Russia": 9,
       "Malaysia": 8,
       "Israel": 8,
       "Jordan": 8,
@@ -1151,10 +1151,10 @@
       "Bulgaria": 1
     },
     "notice_collaborations": {
-      "United States": 159,
+      "United States": 161,
       "United Kingdom": 83,
-      "France": 65,
-      "China": 53,
+      "France": 66,
+      "China": 54,
       "Germany": 51,
       "Spain": 48,
       "Saudi Arabia": 34,
@@ -1164,16 +1164,16 @@
       "Iran": 25,
       "Canada": 23,
       "Netherlands": 17,
+      "Greece": 16,
       "Sweden": 16,
-      "Greece": 15,
       "Egypt": 15,
       "Australia": 15,
       "Denmark": 15,
       "Turkey": 14,
       "Japan": 14,
       "Brazil": 12,
+      "Russia": 10,
       "Poland": 9,
-      "Russia": 9,
       "Malaysia": 8,
       "Israel": 8,
       "Jordan": 8,
