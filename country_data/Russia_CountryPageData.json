@@ -69,7 +69,7 @@
       "2020": 214,
       "2021": 99,
       "2022": 71,
-      "2023": 225,
+      "2023": 226,
       "2024": 152
     },
     "notice_yearly_retractions": {
@@ -95,7 +95,7 @@
   },
   "domainwise_data": {
     "country": "Russia",
-    "total_retractions": 3103,
+    "total_retractions": 3104,
     "years": {
       "2026": {
         "total": 1,
@@ -139,19 +139,19 @@
         }
       },
       "2023": {
-        "total": 225,
+        "total": 226,
         "marks": {
+          "research": 193,
           "system": 3,
           "alterations": 17,
-          "research": 192,
           "researcher_integrity": 13
         },
         "domain": {
-          "PHY": 75,
+          "B/T": 121,
+          "ENV": 101,
+          "PHY": 76,
           "HSC": 47,
-          "ENV": 100,
           "SOC": 92,
-          "B/T": 120,
           "BLS": 94,
           "HUM": 8
         }
@@ -490,20 +490,20 @@
         }
       },
       "2025": {
-        "total": 382,
+        "total": 383,
         "marks": {
+          "research": 337,
           "system": 3,
           "alterations": 12,
-          "research": 336,
           "researcher_integrity": 31
         },
         "domain": {
-          "ENV": 123,
+          "B/T": 267,
+          "ENV": 124,
+          "PHY": 125,
           "HSC": 85,
           "BLS": 132,
           "SOC": 165,
-          "PHY": 124,
-          "B/T": 266,
           "HUM": 12
         }
       },
@@ -787,8 +787,8 @@
       "Egypt": 28,
       "Germany": 25,
       "United Kingdom": 20,
+      "Turkey": 17,
       "Belarus": 17,
-      "Turkey": 16,
       "Thailand": 15,
       "Uzbekistan": 15,
       "United Arab Emirates": 14,
@@ -811,9 +811,11 @@
       "South Africa": 5,
       "Armenia": 5,
       "Taiwan": 5,
+      "Norway": 4,
       "Croatia": 4,
       "Serbia": 4,
       "Czech Republic": 4,
+      "Oman": 3,
       "Hungary": 3,
       "Bangladesh": 3,
       "Algeria": 3,
@@ -822,7 +824,6 @@
       "Chile": 3,
       "Ecuador": 3,
       "Slovakia": 3,
-      "Norway": 3,
       "Bulgaria": 3,
       "Brazil": 3,
       "Switzerland": 3,
@@ -833,7 +834,6 @@
       "Cyprus": 2,
       "Philippines": 2,
       "Peru": 2,
-      "Oman": 2,
       "Portugal": 2,
       "Kuwait": 2,
       "Yemen": 2,
@@ -871,8 +871,8 @@
       "Egypt": 28,
       "Germany": 25,
       "United Kingdom": 20,
+      "Turkey": 17,
       "Belarus": 17,
-      "Turkey": 16,
       "Thailand": 15,
       "Uzbekistan": 15,
       "United Arab Emirates": 14,
@@ -895,9 +895,11 @@
       "South Africa": 5,
       "Armenia": 5,
       "Taiwan": 5,
+      "Norway": 4,
       "Croatia": 4,
       "Serbia": 4,
       "Czech Republic": 4,
+      "Oman": 3,
       "Hungary": 3,
       "Bangladesh": 3,
       "Algeria": 3,
@@ -906,7 +908,6 @@
       "Chile": 3,
       "Ecuador": 3,
       "Slovakia": 3,
-      "Norway": 3,
       "Bulgaria": 3,
       "Brazil": 3,
       "Switzerland": 3,
@@ -917,7 +918,6 @@
       "Cyprus": 2,
       "Philippines": 2,
       "Peru": 2,
-      "Oman": 2,
       "Portugal": 2,
       "Kuwait": 2,
       "Yemen": 2,

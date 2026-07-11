@@ -23,7 +23,7 @@
       "2020": 0.3657,
       "2021": 0.429,
       "2022": 0.4954,
-      "2023": 0.8811,
+      "2023": 0.9362,
       "2024": 0.4171
     },
     "notice_yearly_rates": {
@@ -48,7 +48,7 @@
       "2023": 0.9362,
       "2024": 0.2607
     },
-    "average_rate": 0.4202,
+    "average_rate": 0.4237,
     "yearly_retractions": {
       "1998": 1,
       "1999": 1,
@@ -71,7 +71,7 @@
       "2020": 6,
       "2021": 8,
       "2022": 9,
-      "2023": 16,
+      "2023": 17,
       "2024": 8
     },
     "notice_yearly_retractions": {
@@ -99,7 +99,7 @@
   },
   "domainwise_data": {
     "country": "Ireland",
-    "total_retractions": 125,
+    "total_retractions": 126,
     "years": {
       "2025": {
         "total": 4,
@@ -131,14 +131,17 @@
         }
       },
       "2023": {
-        "total": 16,
+        "total": 17,
         "marks": {
+          "alterations": 1,
           "researcher_integrity": 3,
           "system": 13
         },
         "domain": {
+          "BLS": 1,
+          "HSC": 32,
+          "PHY": 1,
           "B/T": 5,
-          "HSC": 30,
           "SOC": 4,
           "HUM": 2
         }
@@ -427,19 +430,19 @@
         }
       },
       "2025": {
-        "total": 18,
+        "total": 19,
         "marks": {
+          "alterations": 8,
           "system": 1,
-          "alterations": 7,
           "researcher_integrity": 9,
           "research": 1
         },
         "domain": {
+          "BLS": 14,
+          "HSC": 13,
+          "PHY": 6,
           "B/T": 15,
-          "PHY": 5,
           "SOC": 3,
-          "BLS": 13,
-          "HSC": 11,
           "ENV": 1
         }
       },
@@ -693,17 +696,18 @@
       "China": 15,
       "United States": 15,
       "Pakistan": 10,
-      "India": 8,
+      "India": 9,
       "France": 7,
+      "South Korea": 5,
       "Saudi Arabia": 5,
       "Australia": 5,
       "Italy": 5,
-      "South Korea": 4,
       "Germany": 4,
       "Turkey": 3,
       "Lebanon": 3,
       "Austria": 3,
       "Singapore": 3,
+      "Poland": 2,
       "Denmark": 2,
       "Vietnam": 2,
       "Iraq": 2,
@@ -722,7 +726,6 @@
       "Czech Republic": 1,
       "Malaysia": 1,
       "United Arab Emirates": 1,
-      "Poland": 1,
       "Egypt": 1,
       "Belgium": 1,
       "Netherlands": 1,
@@ -739,17 +742,18 @@
       "China": 15,
       "United States": 15,
       "Pakistan": 10,
-      "India": 8,
+      "India": 9,
       "France": 7,
+      "South Korea": 5,
       "Saudi Arabia": 5,
       "Australia": 5,
       "Italy": 5,
-      "South Korea": 4,
       "Germany": 4,
       "Turkey": 3,
       "Lebanon": 3,
       "Austria": 3,
       "Singapore": 3,
+      "Poland": 2,
       "Denmark": 2,
       "Vietnam": 2,
       "Iraq": 2,
@@ -768,7 +772,6 @@
       "Czech Republic": 1,
       "Malaysia": 1,
       "United Arab Emirates": 1,
-      "Poland": 1,
       "Egypt": 1,
       "Belgium": 1,
       "Netherlands": 1,

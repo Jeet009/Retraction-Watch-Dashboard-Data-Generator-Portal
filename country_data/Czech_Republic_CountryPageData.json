@@ -26,7 +26,7 @@
       "2021": 0.6658,
       "2022": 0.8192,
       "2023": 0.5205,
-      "2024": 0.6924
+      "2024": 0.7309
     },
     "notice_yearly_rates": {
       "2003": 0.117,
@@ -46,7 +46,7 @@
       "2023": 0.4004,
       "2024": 0.4616
     },
-    "average_rate": 0.3269,
+    "average_rate": 0.329,
     "yearly_retractions": {
       "1997": 1,
       "1998": 1,
@@ -72,7 +72,7 @@
       "2021": 18,
       "2022": 21,
       "2023": 13,
-      "2024": 18
+      "2024": 19
     },
     "notice_yearly_retractions": {
       "2003": 1,
@@ -95,7 +95,7 @@
   },
   "domainwise_data": {
     "country": "Czech Republic",
-    "total_retractions": 158,
+    "total_retractions": 159,
     "years": {
       "2025": {
         "total": 2,
@@ -110,18 +110,19 @@
         }
       },
       "2024": {
-        "total": 18,
+        "total": 19,
         "marks": {
+          "system": 1,
           "research": 13,
           "alterations": 1,
           "researcher_integrity": 1,
           "supplemental": 3
         },
         "domain": {
-          "BLS": 3,
-          "ENV": 3,
+          "BLS": 4,
+          "ENV": 4,
+          "PHY": 9,
           "HSC": 2,
-          "PHY": 8,
           "B/T": 10,
           "HUM": 1,
           "SOC": 7
@@ -456,18 +457,19 @@
         }
       },
       "2025": {
-        "total": 38,
+        "total": 39,
         "marks": {
+          "system": 1,
           "research": 22,
           "alterations": 7,
           "researcher_integrity": 8,
           "supplemental": 1
         },
         "domain": {
-          "BLS": 8,
-          "ENV": 7,
+          "BLS": 9,
+          "ENV": 8,
+          "PHY": 19,
           "HSC": 4,
-          "PHY": 18,
           "B/T": 35,
           "HUM": 2,
           "SOC": 18
@@ -696,11 +698,11 @@
       "Pakistan": 31,
       "Saudi Arabia": 27,
       "China": 23,
-      "United States": 19,
+      "United States": 20,
       "Ukraine": 14,
       "Germany": 13,
+      "India": 11,
       "Slovakia": 11,
-      "India": 10,
       "Iran": 10,
       "United Kingdom": 9,
       "Egypt": 9,
@@ -755,11 +757,11 @@
       "Pakistan": 31,
       "Saudi Arabia": 27,
       "China": 23,
-      "United States": 19,
+      "United States": 20,
       "Ukraine": 14,
       "Germany": 13,
+      "India": 11,
       "Slovakia": 11,
-      "India": 10,
       "Iran": 10,
       "United Kingdom": 9,
       "Egypt": 9,

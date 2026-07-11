@@ -25,7 +25,7 @@
       "2021": 0.6515,
       "2022": 1.1218,
       "2023": 0.4228,
-      "2024": 0.1575
+      "2024": 0.2101
     },
     "notice_yearly_rates": {
       "2003": 0.2668,
@@ -48,7 +48,7 @@
       "2023": 0.3699,
       "2024": 0.2626
     },
-    "average_rate": 0.6617,
+    "average_rate": 0.665,
     "yearly_retractions": {
       "2000": 1,
       "2001": 1,
@@ -73,7 +73,7 @@
       "2021": 12,
       "2022": 21,
       "2023": 8,
-      "2024": 3
+      "2024": 4
     },
     "notice_yearly_retractions": {
       "2003": 1,
@@ -99,17 +99,18 @@
   },
   "domainwise_data": {
     "country": "Romania",
-    "total_retractions": 202,
+    "total_retractions": 203,
     "years": {
       "2024": {
-        "total": 3,
+        "total": 4,
         "marks": {
-          "research": 1,
-          "researcher_integrity": 2
+          "researcher_integrity": 3,
+          "research": 1
         },
         "domain": {
+          "B/T": 3,
+          "SOC": 1,
           "PHY": 2,
-          "B/T": 2,
           "ENV": 1,
           "HSC": 2
         }
@@ -436,20 +437,20 @@
         }
       },
       "2025": {
-        "total": 26,
+        "total": 27,
         "marks": {
+          "researcher_integrity": 13,
           "system": 1,
           "alterations": 10,
-          "researcher_integrity": 12,
           "research": 3
         },
         "domain": {
-          "B/T": 19,
+          "B/T": 20,
+          "SOC": 2,
           "ENV": 5,
           "HSC": 15,
           "BLS": 10,
-          "PHY": 28,
-          "SOC": 1
+          "PHY": 28
         }
       },
       "2024": {
@@ -718,12 +719,12 @@
       }
     },
     "collaborations": {
+      "Turkey": 19,
       "India": 19,
       "Pakistan": 19,
-      "Turkey": 18,
       "Saudi Arabia": 17,
+      "China": 12,
       "France": 11,
-      "China": 11,
       "Iran": 11,
       "Iraq": 10,
       "Malaysia": 10,
@@ -769,12 +770,12 @@
       "Bulgaria": 1
     },
     "notice_collaborations": {
+      "Turkey": 19,
       "India": 19,
       "Pakistan": 19,
-      "Turkey": 18,
       "Saudi Arabia": 17,
+      "China": 12,
       "France": 11,
-      "China": 11,
       "Iran": 11,
       "Iraq": 10,
       "Malaysia": 10,

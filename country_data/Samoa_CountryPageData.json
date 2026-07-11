@@ -2,14 +2,16 @@
   "retraction_rate_data": {
     "country": "Samoa",
     "yearly_rates": {
-      "2022": 26.3158
+      "2022": 26.3158,
+      "2024": 16.6667
     },
     "notice_yearly_rates": {
       "2022": 26.3158
     },
-    "average_rate": 2.6144,
+    "average_rate": 3.9216,
     "yearly_retractions": {
-      "2022": 2
+      "2022": 2,
+      "2024": 1
     },
     "notice_yearly_retractions": {
       "2022": 2
@@ -17,8 +19,18 @@
   },
   "domainwise_data": {
     "country": "Samoa",
-    "total_retractions": 2,
+    "total_retractions": 3,
     "years": {
+      "2024": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "PHY": 1
+        }
+      },
       "2022": {
         "total": 2,
         "marks": {
@@ -30,6 +42,16 @@
       }
     },
     "notice_years": {
+      "2025": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "PHY": 1
+        }
+      },
       "2022": {
         "total": 2,
         "marks": {
@@ -44,6 +66,7 @@
       "Grenada": 2,
       "Pakistan": 2,
       "Thailand": 2,
+      "China": 1,
       "Jordan": 1,
       "United Arab Emirates": 1,
       "United States": 1,
@@ -54,6 +77,7 @@
       "Grenada": 2,
       "Pakistan": 2,
       "Thailand": 2,
+      "China": 1,
       "Jordan": 1,
       "United Arab Emirates": 1,
       "United States": 1,
