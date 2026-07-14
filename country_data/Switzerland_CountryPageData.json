@@ -125,8 +125,17 @@
   },
   "domainwise_data": {
     "country": "Switzerland",
-    "total_retractions": 249,
+    "total_retractions": 250,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "HSC": 3
+        }
+      },
       "2025": {
         "total": 5,
         "marks": {
@@ -600,14 +609,14 @@
     },
     "notice_years": {
       "2026": {
-        "total": 5,
+        "total": 6,
         "marks": {
-          "research": 4,
+          "research": 5,
           "alterations": 1
         },
         "domain": {
+          "HSC": 17,
           "B/T": 1,
-          "HSC": 14,
           "HUM": 1,
           "SOC": 1,
           "BLS": 1
@@ -1019,11 +1028,11 @@
     },
     "collaborations": {
       "United States": 59,
-      "Germany": 50,
-      "United Kingdom": 36,
+      "Germany": 51,
+      "United Kingdom": 37,
+      "France": 30,
       "Italy": 30,
-      "France": 29,
-      "China": 24,
+      "China": 25,
       "Spain": 16,
       "Canada": 11,
       "Sweden": 11,
@@ -1055,6 +1064,7 @@
       "Ireland": 2,
       "Serbia": 2,
       "Bulgaria": 2,
+      "Hong Kong": 1,
       "Malaysia": 1,
       "Lithuania": 1,
       "Cameroon": 1,
@@ -1083,11 +1093,11 @@
     },
     "notice_collaborations": {
       "United States": 59,
-      "Germany": 50,
-      "United Kingdom": 36,
+      "Germany": 51,
+      "United Kingdom": 37,
+      "France": 30,
       "Italy": 30,
-      "France": 29,
-      "China": 24,
+      "China": 25,
       "Spain": 16,
       "Canada": 11,
       "Sweden": 11,
@@ -1119,6 +1129,7 @@
       "Ireland": 2,
       "Serbia": 2,
       "Bulgaria": 2,
+      "Hong Kong": 1,
       "Malaysia": 1,
       "Lithuania": 1,
       "Cameroon": 1,

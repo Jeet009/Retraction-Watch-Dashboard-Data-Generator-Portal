@@ -26,7 +26,7 @@
       "2021": 0.3317,
       "2022": 0.3611,
       "2023": 0.0921,
-      "2024": 0.2137
+      "2024": 0.2404
     },
     "notice_yearly_rates": {
       "1999": 0.1535,
@@ -48,9 +48,9 @@
       "2021": 0.2212,
       "2022": 0.2626,
       "2023": 0.2149,
-      "2024": 0.374
+      "2024": 0.4007
     },
-    "average_rate": 0.2369,
+    "average_rate": 0.2391,
     "yearly_retractions": {
       "1999": 1,
       "2000": 2,
@@ -76,7 +76,7 @@
       "2021": 9,
       "2022": 11,
       "2023": 3,
-      "2024": 8
+      "2024": 9
     },
     "notice_yearly_retractions": {
       "1999": 1,
@@ -98,13 +98,22 @@
       "2021": 6,
       "2022": 8,
       "2023": 7,
-      "2024": 14
+      "2024": 15
     }
   },
   "domainwise_data": {
     "country": "Hong Kong",
-    "total_retractions": 111,
+    "total_retractions": 113,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "HSC": 3
+        }
+      },
       "2025": {
         "total": 1,
         "marks": {
@@ -116,19 +125,19 @@
         }
       },
       "2024": {
-        "total": 8,
+        "total": 9,
         "marks": {
+          "researcher_integrity": 2,
           "alterations": 2,
           "research": 3,
           "system": 1,
-          "supplemental": 1,
-          "researcher_integrity": 1
+          "supplemental": 1
         },
         "domain": {
+          "HSC": 8,
           "B/T": 2,
           "PHY": 8,
           "ENV": 2,
-          "HSC": 6,
           "BLS": 1
         }
       },
@@ -429,16 +438,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "supplemental": 1,
-          "research": 1
+          "research": 2,
+          "supplemental": 1
         },
         "domain": {
+          "HSC": 4,
           "B/T": 1,
           "SOC": 3,
-          "BLS": 1,
-          "HSC": 1
+          "BLS": 1
         }
       },
       "2025": {
@@ -459,16 +468,16 @@
         }
       },
       "2024": {
-        "total": 14,
+        "total": 15,
         "marks": {
-          "researcher_integrity": 5,
+          "researcher_integrity": 6,
           "alterations": 7,
           "research": 2
         },
         "domain": {
           "B/T": 9,
           "BLS": 18,
-          "HSC": 15,
+          "HSC": 17,
           "ENV": 3,
           "PHY": 1
         }
@@ -704,31 +713,33 @@
       }
     },
     "collaborations": {
-      "China": 59,
+      "China": 61,
       "United States": 16,
       "Australia": 11,
-      "United Kingdom": 10,
+      "United Kingdom": 11,
       "Pakistan": 8,
+      "India": 7,
       "Italy": 7,
       "Singapore": 7,
-      "India": 6,
       "South Korea": 5,
       "Ecuador": 5,
+      "Germany": 4,
       "Saudi Arabia": 4,
       "Japan": 4,
       "Chile": 4,
       "Spain": 4,
       "Macau": 4,
+      "France": 3,
       "Taiwan": 3,
       "Iran": 3,
       "Canada": 3,
-      "Germany": 3,
       "Turkey": 3,
       "Indonesia": 2,
       "Thailand": 2,
       "Egypt": 2,
       "Portugal": 2,
-      "France": 2,
+      "Sweden": 1,
+      "Switzerland": 1,
       "Jordan": 1,
       "Belarus": 1,
       "Czech Republic": 1,
@@ -742,31 +753,33 @@
       "Grenada": 1
     },
     "notice_collaborations": {
-      "China": 59,
+      "China": 61,
       "United States": 16,
       "Australia": 11,
-      "United Kingdom": 10,
+      "United Kingdom": 11,
       "Pakistan": 8,
+      "India": 7,
       "Italy": 7,
       "Singapore": 7,
-      "India": 6,
       "South Korea": 5,
       "Ecuador": 5,
+      "Germany": 4,
       "Saudi Arabia": 4,
       "Japan": 4,
       "Chile": 4,
       "Spain": 4,
       "Macau": 4,
+      "France": 3,
       "Taiwan": 3,
       "Iran": 3,
       "Canada": 3,
-      "Germany": 3,
       "Turkey": 3,
       "Indonesia": 2,
       "Thailand": 2,
       "Egypt": 2,
       "Portugal": 2,
-      "France": 2,
+      "Sweden": 1,
+      "Switzerland": 1,
       "Jordan": 1,
       "Belarus": 1,
       "Czech Republic": 1,

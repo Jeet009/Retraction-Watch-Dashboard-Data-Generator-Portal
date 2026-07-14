@@ -127,8 +127,17 @@
   },
   "domainwise_data": {
     "country": "Germany",
-    "total_retractions": 1325,
+    "total_retractions": 1326,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "HSC": 3
+        }
+      },
       "2025": {
         "total": 12,
         "marks": {
@@ -826,18 +835,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 24,
+        "total": 25,
         "marks": {
-          "research": 12,
+          "research": 13,
           "researcher_integrity": 5,
           "alterations": 7
         },
         "domain": {
           "BLS": 21,
+          "HSC": 40,
           "B/T": 2,
           "ENV": 2,
           "PHY": 4,
-          "HSC": 37,
           "SOC": 3
         }
       },
@@ -1377,13 +1386,13 @@
     },
     "collaborations": {
       "United States": 191,
-      "China": 112,
-      "United Kingdom": 88,
+      "China": 113,
+      "United Kingdom": 89,
       "India": 58,
       "Iran": 52,
+      "France": 51,
+      "Switzerland": 51,
       "Italy": 51,
-      "France": 50,
-      "Switzerland": 50,
       "Netherlands": 41,
       "Egypt": 40,
       "Saudi Arabia": 36,
@@ -1427,9 +1436,9 @@
       "Ethiopia": 5,
       "Chile": 5,
       "Bahrain": 5,
+      "Hong Kong": 4,
       "United Arab Emirates": 4,
       "Ireland": 4,
-      "Hong Kong": 3,
       "Oman": 3,
       "Peru": 3,
       "Argentina": 3,
@@ -1493,13 +1502,13 @@
     },
     "notice_collaborations": {
       "United States": 191,
-      "China": 112,
-      "United Kingdom": 88,
+      "China": 113,
+      "United Kingdom": 89,
       "India": 58,
       "Iran": 52,
+      "France": 51,
+      "Switzerland": 51,
       "Italy": 51,
-      "France": 50,
-      "Switzerland": 50,
       "Netherlands": 41,
       "Egypt": 40,
       "Saudi Arabia": 36,
@@ -1543,9 +1552,9 @@
       "Ethiopia": 5,
       "Chile": 5,
       "Bahrain": 5,
+      "Hong Kong": 4,
       "United Arab Emirates": 4,
       "Ireland": 4,
-      "Hong Kong": 3,
       "Oman": 3,
       "Peru": 3,
       "Argentina": 3,

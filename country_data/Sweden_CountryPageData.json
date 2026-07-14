@@ -30,7 +30,7 @@
       "2021": 0.3056,
       "2022": 0.3317,
       "2023": 0.2928,
-      "2024": 0.0847
+      "2024": 0.1059
     },
     "notice_yearly_rates": {
       "1996": 0.0601,
@@ -58,9 +58,9 @@
       "2021": 0.3711,
       "2022": 0.2875,
       "2023": 0.3603,
-      "2024": 0.5929
+      "2024": 0.6141
     },
-    "average_rate": 0.2997,
+    "average_rate": 0.3008,
     "yearly_retractions": {
       "1996": 1,
       "1997": 1,
@@ -90,7 +90,7 @@
       "2021": 14,
       "2022": 15,
       "2023": 13,
-      "2024": 4
+      "2024": 5
     },
     "notice_yearly_retractions": {
       "1996": 1,
@@ -118,12 +118,12 @@
       "2021": 17,
       "2022": 13,
       "2023": 16,
-      "2024": 28
+      "2024": 29
     }
   },
   "domainwise_data": {
     "country": "Sweden",
-    "total_retractions": 266,
+    "total_retractions": 267,
     "years": {
       "2025": {
         "total": 1,
@@ -136,12 +136,14 @@
         }
       },
       "2024": {
-        "total": 4,
+        "total": 5,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 1,
           "research": 3
         },
         "domain": {
+          "HSC": 2,
           "PHY": 3,
           "BLS": 4
         }
@@ -591,20 +593,20 @@
         }
       },
       "2024": {
-        "total": 28,
+        "total": 29,
         "marks": {
+          "researcher_integrity": 10,
           "research": 7,
           "supplemental": 2,
-          "researcher_integrity": 9,
           "alterations": 10
         },
         "domain": {
+          "HSC": 5,
           "B/T": 9,
           "SOC": 7,
           "PHY": 10,
           "BLS": 50,
-          "ENV": 8,
-          "HSC": 3
+          "ENV": 8
         }
       },
       "2023": {
@@ -965,11 +967,11 @@
     },
     "collaborations": {
       "United States": 53,
-      "China": 39,
+      "China": 40,
       "United Kingdom": 34,
       "Germany": 25,
+      "India": 17,
       "Italy": 16,
-      "India": 16,
       "Spain": 14,
       "Finland": 13,
       "Pakistan": 11,
@@ -1008,6 +1010,7 @@
       "Botswana": 2,
       "Tanzania": 2,
       "Slovakia": 2,
+      "Hong Kong": 1,
       "United Arab Emirates": 1,
       "Indonesia": 1,
       "Uzbekistan": 1,
@@ -1027,11 +1030,11 @@
     },
     "notice_collaborations": {
       "United States": 53,
-      "China": 39,
+      "China": 40,
       "United Kingdom": 34,
       "Germany": 25,
+      "India": 17,
       "Italy": 16,
-      "India": 16,
       "Spain": 14,
       "Finland": 13,
       "Pakistan": 11,
@@ -1070,6 +1073,7 @@
       "Botswana": 2,
       "Tanzania": 2,
       "Slovakia": 2,
+      "Hong Kong": 1,
       "United Arab Emirates": 1,
       "Indonesia": 1,
       "Uzbekistan": 1,
