@@ -30,7 +30,7 @@
       "2021": 0.3886,
       "2022": 0.5199,
       "2023": 0.3981,
-      "2024": 0.1448
+      "2024": 0.1618
     },
     "notice_yearly_rates": {
       "1997": 0.0464,
@@ -60,7 +60,7 @@
       "2023": 0.69,
       "2024": 0.511
     },
-    "average_rate": 0.3476,
+    "average_rate": 0.3485,
     "yearly_retractions": {
       "1996": 6,
       "1997": 3,
@@ -90,7 +90,7 @@
       "2021": 46,
       "2022": 61,
       "2023": 45,
-      "2024": 17
+      "2024": 19
     },
     "notice_yearly_retractions": {
       "1997": 2,
@@ -123,7 +123,7 @@
   },
   "domainwise_data": {
     "country": "Canada",
-    "total_retractions": 821,
+    "total_retractions": 823,
     "years": {
       "2025": {
         "total": 2,
@@ -137,21 +137,21 @@
         }
       },
       "2024": {
-        "total": 17,
+        "total": 19,
         "marks": {
+          "supplemental": 4,
           "system": 3,
           "research": 7,
-          "supplemental": 2,
           "alterations": 2,
           "researcher_integrity": 3
         },
         "domain": {
-          "B/T": 6,
+          "B/T": 8,
+          "SOC": 6,
           "PHY": 4,
           "HSC": 23,
           "BLS": 4,
-          "ENV": 1,
-          "SOC": 3
+          "ENV": 1
         }
       },
       "2023": {
@@ -733,15 +733,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 7,
+        "total": 9,
         "marks": {
+          "supplemental": 2,
           "research": 3,
           "researcher_integrity": 2,
           "alterations": 2
         },
         "domain": {
+          "B/T": 7,
+          "SOC": 3,
           "BLS": 5,
-          "B/T": 5,
           "HSC": 9,
           "PHY": 2
         }
@@ -1251,9 +1253,9 @@
       }
     },
     "collaborations": {
-      "United States": 180,
+      "United States": 181,
       "China": 118,
-      "United Kingdom": 81,
+      "United Kingdom": 82,
       "Iran": 42,
       "India": 32,
       "Germany": 30,
@@ -1261,35 +1263,36 @@
       "Pakistan": 24,
       "Italy": 23,
       "Australia": 22,
+      "France": 19,
       "South Korea": 19,
-      "France": 17,
+      "Netherlands": 14,
       "Spain": 14,
       "Japan": 13,
+      "South Africa": 12,
       "Turkey": 12,
-      "Netherlands": 12,
       "Brazil": 12,
       "Switzerland": 11,
-      "South Africa": 10,
       "Bangladesh": 10,
       "Poland": 10,
       "Egypt": 9,
       "Taiwan": 9,
+      "Belgium": 7,
       "Mexico": 7,
       "Iraq": 7,
       "Denmark": 7,
+      "Finland": 6,
+      "Norway": 6,
       "Jordan": 6,
       "Malaysia": 6,
-      "Belgium": 6,
       "Vietnam": 6,
       "Sweden": 6,
       "Tunisia": 5,
-      "Norway": 5,
-      "Finland": 5,
       "United Arab Emirates": 4,
       "Israel": 4,
       "New Zealand": 4,
       "Unknown": 4,
       "Croatia": 4,
+      "Ireland": 3,
       "Hong Kong": 3,
       "Ethiopia": 3,
       "Argentina": 3,
@@ -1312,7 +1315,6 @@
       "Indonesia": 2,
       "Colombia": 2,
       "Singapore": 2,
-      "Ireland": 2,
       "Armenia": 2,
       "Somalia": 1,
       "Ecuador": 1,
@@ -1351,9 +1353,9 @@
       "Bulgaria": 1
     },
     "notice_collaborations": {
-      "United States": 180,
+      "United States": 181,
       "China": 118,
-      "United Kingdom": 81,
+      "United Kingdom": 82,
       "Iran": 42,
       "India": 32,
       "Germany": 30,
@@ -1361,35 +1363,36 @@
       "Pakistan": 24,
       "Italy": 23,
       "Australia": 22,
+      "France": 19,
       "South Korea": 19,
-      "France": 17,
+      "Netherlands": 14,
       "Spain": 14,
       "Japan": 13,
+      "South Africa": 12,
       "Turkey": 12,
-      "Netherlands": 12,
       "Brazil": 12,
       "Switzerland": 11,
-      "South Africa": 10,
       "Bangladesh": 10,
       "Poland": 10,
       "Egypt": 9,
       "Taiwan": 9,
+      "Belgium": 7,
       "Mexico": 7,
       "Iraq": 7,
       "Denmark": 7,
+      "Finland": 6,
+      "Norway": 6,
       "Jordan": 6,
       "Malaysia": 6,
-      "Belgium": 6,
       "Vietnam": 6,
       "Sweden": 6,
       "Tunisia": 5,
-      "Norway": 5,
-      "Finland": 5,
       "United Arab Emirates": 4,
       "Israel": 4,
       "New Zealand": 4,
       "Unknown": 4,
       "Croatia": 4,
+      "Ireland": 3,
       "Hong Kong": 3,
       "Ethiopia": 3,
       "Argentina": 3,
@@ -1412,7 +1415,6 @@
       "Indonesia": 2,
       "Colombia": 2,
       "Singapore": 2,
-      "Ireland": 2,
       "Armenia": 2,
       "Somalia": 1,
       "Ecuador": 1,

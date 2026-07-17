@@ -91,8 +91,17 @@
   },
   "domainwise_data": {
     "country": "Portugal",
-    "total_retractions": 134,
+    "total_retractions": 135,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "HSC": 2
+        }
+      },
       "2025": {
         "total": 1,
         "marks": {
@@ -387,13 +396,14 @@
     },
     "notice_years": {
       "2026": {
-        "total": 2,
+        "total": 3,
         "marks": {
+          "researcher_integrity": 1,
           "research": 1,
           "alterations": 1
         },
         "domain": {
-          "HSC": 1,
+          "HSC": 3,
           "SOC": 1,
           "PHY": 1
         }

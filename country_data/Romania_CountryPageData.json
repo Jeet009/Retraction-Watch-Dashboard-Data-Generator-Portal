@@ -23,8 +23,8 @@
       "2019": 0.2849,
       "2020": 0.3524,
       "2021": 0.6515,
-      "2022": 1.1218,
-      "2023": 0.4228,
+      "2022": 1.1752,
+      "2023": 0.4756,
       "2024": 0.2101
     },
     "notice_yearly_rates": {
@@ -48,7 +48,7 @@
       "2023": 0.3699,
       "2024": 0.2626
     },
-    "average_rate": 0.665,
+    "average_rate": 0.6715,
     "yearly_retractions": {
       "2000": 1,
       "2001": 1,
@@ -71,8 +71,8 @@
       "2019": 5,
       "2020": 6,
       "2021": 12,
-      "2022": 21,
-      "2023": 8,
+      "2022": 22,
+      "2023": 9,
       "2024": 4
     },
     "notice_yearly_retractions": {
@@ -99,7 +99,7 @@
   },
   "domainwise_data": {
     "country": "Romania",
-    "total_retractions": 203,
+    "total_retractions": 205,
     "years": {
       "2024": {
         "total": 4,
@@ -116,34 +116,34 @@
         }
       },
       "2023": {
-        "total": 8,
+        "total": 9,
         "marks": {
+          "research": 5,
           "alterations": 3,
-          "research": 4,
           "researcher_integrity": 1
         },
         "domain": {
-          "PHY": 11,
+          "PHY": 13,
           "BLS": 3,
           "HSC": 4,
           "B/T": 5
         }
       },
       "2022": {
-        "total": 21,
+        "total": 22,
         "marks": {
+          "researcher_integrity": 6,
           "system": 3,
           "alterations": 9,
           "research": 2,
-          "researcher_integrity": 5,
           "supplemental": 2
         },
         "domain": {
+          "PHY": 20,
           "B/T": 11,
           "ENV": 3,
           "HSC": 19,
           "BLS": 12,
-          "PHY": 18,
           "SOC": 1
         }
       },
@@ -424,14 +424,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 6,
+        "total": 8,
         "marks": {
+          "research": 4,
+          "researcher_integrity": 1,
           "alterations": 2,
-          "research": 3,
           "system": 1
         },
         "domain": {
-          "PHY": 8,
+          "PHY": 12,
           "BLS": 2,
           "HSC": 6
         }
@@ -719,10 +720,10 @@
       }
     },
     "collaborations": {
-      "Turkey": 19,
-      "India": 19,
+      "India": 20,
+      "Turkey": 20,
+      "Saudi Arabia": 19,
       "Pakistan": 19,
-      "Saudi Arabia": 17,
       "China": 12,
       "France": 11,
       "Iran": 11,
@@ -770,10 +771,10 @@
       "Bulgaria": 1
     },
     "notice_collaborations": {
-      "Turkey": 19,
-      "India": 19,
+      "India": 20,
+      "Turkey": 20,
+      "Saudi Arabia": 19,
       "Pakistan": 19,
-      "Saudi Arabia": 17,
       "China": 12,
       "France": 11,
       "Iran": 11,
