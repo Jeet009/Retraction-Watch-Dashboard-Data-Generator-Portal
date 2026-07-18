@@ -14,7 +14,7 @@
       "2017": 0.2268,
       "2018": 0.1185,
       "2019": 0.1063,
-      "2020": 0.4195,
+      "2020": 0.5243,
       "2021": 1.1395,
       "2022": 0.8673,
       "2023": 0.3109,
@@ -35,7 +35,7 @@
       "2023": 0.3109,
       "2024": 0.5235
     },
-    "average_rate": 0.283,
+    "average_rate": 0.289,
     "yearly_retractions": {
       "2001": 1,
       "2007": 1,
@@ -49,7 +49,7 @@
       "2017": 2,
       "2018": 1,
       "2019": 1,
-      "2020": 4,
+      "2020": 5,
       "2021": 11,
       "2022": 8,
       "2023": 3,
@@ -73,7 +73,7 @@
   },
   "domainwise_data": {
     "country": "Slovakia",
-    "total_retractions": 47,
+    "total_retractions": 48,
     "years": {
       "2024": {
         "total": 2,
@@ -127,16 +127,16 @@
         }
       },
       "2020": {
-        "total": 4,
+        "total": 5,
         "marks": {
-          "alterations": 2,
+          "alterations": 3,
           "research": 2
         },
         "domain": {
+          "BLS": 4,
+          "PHY": 3,
           "B/T": 2,
-          "PHY": 1,
-          "HSC": 5,
-          "BLS": 2
+          "HSC": 5
         }
       },
       "2019": {
@@ -266,6 +266,16 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "BLS": 2,
+          "PHY": 2
+        }
+      },
       "2025": {
         "total": 11,
         "marks": {
@@ -428,10 +438,10 @@
       }
     },
     "collaborations": {
-      "Czech Republic": 11,
+      "Czech Republic": 12,
       "Saudi Arabia": 11,
+      "China": 10,
       "India": 9,
-      "China": 9,
       "Pakistan": 8,
       "United States": 6,
       "Malaysia": 5,
@@ -440,14 +450,17 @@
       "Spain": 3,
       "Russia": 3,
       "Germany": 3,
+      "Canada": 2,
+      "South Africa": 2,
+      "South Korea": 2,
       "Bangladesh": 2,
       "Sweden": 2,
       "Italy": 2,
+      "Iran": 1,
       "Hong Kong": 1,
       "Poland": 1,
       "Romania": 1,
       "Hungary": 1,
-      "South Africa": 1,
       "Uzbekistan": 1,
       "Burkina Faso": 1,
       "Gabon": 1,
@@ -462,15 +475,13 @@
       "United Kingdom": 1,
       "Thailand": 1,
       "Austria": 1,
-      "Luxembourg": 1,
-      "Canada": 1,
-      "South Korea": 1
+      "Luxembourg": 1
     },
     "notice_collaborations": {
-      "Czech Republic": 11,
+      "Czech Republic": 12,
       "Saudi Arabia": 11,
+      "China": 10,
       "India": 9,
-      "China": 9,
       "Pakistan": 8,
       "United States": 6,
       "Malaysia": 5,
@@ -479,14 +490,17 @@
       "Spain": 3,
       "Russia": 3,
       "Germany": 3,
+      "Canada": 2,
+      "South Africa": 2,
+      "South Korea": 2,
       "Bangladesh": 2,
       "Sweden": 2,
       "Italy": 2,
+      "Iran": 1,
       "Hong Kong": 1,
       "Poland": 1,
       "Romania": 1,
       "Hungary": 1,
-      "South Africa": 1,
       "Uzbekistan": 1,
       "Burkina Faso": 1,
       "Gabon": 1,
@@ -501,9 +515,7 @@
       "United Kingdom": 1,
       "Thailand": 1,
       "Austria": 1,
-      "Luxembourg": 1,
-      "Canada": 1,
-      "South Korea": 1
+      "Luxembourg": 1
     }
   },
   "country_flag": "/country_flags/Slovakia.svg"

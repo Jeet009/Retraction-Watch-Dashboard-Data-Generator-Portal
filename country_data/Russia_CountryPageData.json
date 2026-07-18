@@ -70,7 +70,7 @@
       "2021": 99,
       "2022": 71,
       "2023": 226,
-      "2024": 152
+      "2024": 153
     },
     "notice_yearly_retractions": {
       "2005": 1,
@@ -95,7 +95,7 @@
   },
   "domainwise_data": {
     "country": "Russia",
-    "total_retractions": 3104,
+    "total_retractions": 3105,
     "years": {
       "2026": {
         "total": 1,
@@ -122,18 +122,18 @@
         }
       },
       "2024": {
-        "total": 152,
+        "total": 153,
         "marks": {
+          "researcher_integrity": 8,
           "alterations": 5,
-          "research": 140,
-          "researcher_integrity": 7
+          "research": 140
         },
         "domain": {
+          "PHY": 35,
           "BLS": 43,
           "ENV": 21,
           "SOC": 70,
           "HSC": 38,
-          "PHY": 32,
           "HUM": 5,
           "B/T": 135
         }
@@ -475,15 +475,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 9,
+        "total": 10,
         "marks": {
+          "researcher_integrity": 3,
           "alterations": 4,
-          "research": 3,
-          "researcher_integrity": 2
+          "research": 3
         },
         "domain": {
+          "PHY": 17,
           "HSC": 4,
-          "PHY": 14,
           "ENV": 4,
           "B/T": 1,
           "BLS": 1
@@ -776,10 +776,10 @@
       }
     },
     "collaborations": {
-      "China": 84,
+      "China": 85,
       "Kazakhstan": 60,
-      "India": 44,
-      "Saudi Arabia": 44,
+      "India": 45,
+      "Saudi Arabia": 45,
       "Iran": 40,
       "Pakistan": 32,
       "United States": 31,
@@ -827,6 +827,7 @@
       "Bulgaria": 3,
       "Brazil": 3,
       "Switzerland": 3,
+      "Lebanon": 2,
       "Greece": 2,
       "Mexico": 2,
       "Cameroon": 2,
@@ -843,7 +844,6 @@
       "France": 2,
       "Guyana": 1,
       "Syria": 1,
-      "Lebanon": 1,
       "Morocco": 1,
       "Sri Lanka": 1,
       "Colombia": 1,
@@ -860,10 +860,10 @@
       "Netherlands": 1
     },
     "notice_collaborations": {
-      "China": 84,
+      "China": 85,
       "Kazakhstan": 60,
-      "India": 44,
-      "Saudi Arabia": 44,
+      "India": 45,
+      "Saudi Arabia": 45,
       "Iran": 40,
       "Pakistan": 32,
       "United States": 31,
@@ -911,6 +911,7 @@
       "Bulgaria": 3,
       "Brazil": 3,
       "Switzerland": 3,
+      "Lebanon": 2,
       "Greece": 2,
       "Mexico": 2,
       "Cameroon": 2,
@@ -927,7 +928,6 @@
       "France": 2,
       "Guyana": 1,
       "Syria": 1,
-      "Lebanon": 1,
       "Morocco": 1,
       "Sri Lanka": 1,
       "Colombia": 1,

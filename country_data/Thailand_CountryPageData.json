@@ -21,8 +21,8 @@
       "2018": 0.8129,
       "2019": 0.5152,
       "2020": 0.7546,
-      "2021": 1.7234,
-      "2022": 3.4334,
+      "2021": 1.8465,
+      "2022": 3.4703,
       "2023": 0.7403,
       "2024": 0.6147
     },
@@ -47,7 +47,7 @@
       "2023": 3.0389,
       "2024": 1.6391
     },
-    "average_rate": 0.9944,
+    "average_rate": 1.007,
     "yearly_retractions": {
       "1996": 1,
       "2001": 2,
@@ -68,8 +68,8 @@
       "2018": 15,
       "2019": 10,
       "2020": 16,
-      "2021": 42,
-      "2022": 93,
+      "2021": 45,
+      "2022": 94,
       "2023": 19,
       "2024": 18
     },
@@ -97,7 +97,7 @@
   },
   "domainwise_data": {
     "country": "Thailand",
-    "total_retractions": 319,
+    "total_retractions": 323,
     "years": {
       "2025": {
         "total": 2,
@@ -146,39 +146,39 @@
         }
       },
       "2022": {
-        "total": 93,
+        "total": 94,
         "marks": {
+          "researcher_integrity": 29,
           "research": 26,
-          "researcher_integrity": 28,
           "alterations": 33,
           "supplemental": 5,
           "system": 1
         },
         "domain": {
-          "BLS": 13,
+          "BLS": 16,
+          "PHY": 49,
           "SOC": 43,
           "B/T": 93,
           "ENV": 6,
           "HSC": 50,
-          "PHY": 48,
           "HUM": 8
         }
       },
       "2021": {
-        "total": 42,
+        "total": 45,
         "marks": {
-          "researcher_integrity": 17,
-          "alterations": 14,
+          "researcher_integrity": 19,
+          "alterations": 15,
           "research": 5,
           "supplemental": 3,
           "system": 3
         },
         "domain": {
+          "BLS": 34,
+          "PHY": 33,
           "B/T": 31,
           "SOC": 12,
-          "BLS": 22,
           "HSC": 18,
-          "PHY": 32,
           "ENV": 5,
           "HUM": 2
         }
@@ -444,35 +444,35 @@
     },
     "notice_years": {
       "2026": {
-        "total": 14,
+        "total": 15,
         "marks": {
-          "researcher_integrity": 3,
+          "researcher_integrity": 4,
           "research": 7,
           "alterations": 4
         },
         "domain": {
+          "BLS": 15,
+          "PHY": 7,
           "B/T": 6,
           "SOC": 2,
-          "PHY": 6,
-          "HSC": 15,
-          "BLS": 12
+          "HSC": 15
         }
       },
       "2025": {
-        "total": 49,
+        "total": 52,
         "marks": {
+          "researcher_integrity": 20,
+          "alterations": 22,
           "research": 9,
-          "system": 1,
-          "alterations": 21,
-          "researcher_integrity": 18
+          "system": 1
         },
         "domain": {
+          "BLS": 44,
+          "PHY": 24,
           "B/T": 36,
           "SOC": 24,
-          "BLS": 32,
           "ENV": 9,
-          "HSC": 24,
-          "PHY": 23
+          "HSC": 24
         }
       },
       "2024": {
@@ -748,19 +748,19 @@
       }
     },
     "collaborations": {
-      "China": 86,
-      "Saudi Arabia": 45,
-      "India": 40,
+      "China": 89,
+      "Saudi Arabia": 49,
+      "India": 44,
       "Pakistan": 34,
+      "Taiwan": 25,
       "Iran": 24,
-      "Taiwan": 21,
-      "United States": 19,
+      "United States": 20,
       "Indonesia": 17,
       "Iraq": 17,
       "Egypt": 16,
       "Russia": 15,
       "Malaysia": 14,
-      "Vietnam": 11,
+      "Vietnam": 13,
       "Japan": 8,
       "United Kingdom": 8,
       "South Korea": 8,
@@ -814,19 +814,19 @@
       "Switzerland": 1
     },
     "notice_collaborations": {
-      "China": 86,
-      "Saudi Arabia": 45,
-      "India": 40,
+      "China": 89,
+      "Saudi Arabia": 49,
+      "India": 44,
       "Pakistan": 34,
+      "Taiwan": 25,
       "Iran": 24,
-      "Taiwan": 21,
-      "United States": 19,
+      "United States": 20,
       "Indonesia": 17,
       "Iraq": 17,
       "Egypt": 16,
       "Russia": 15,
       "Malaysia": 14,
-      "Vietnam": 11,
+      "Vietnam": 13,
       "Japan": 8,
       "United Kingdom": 8,
       "South Korea": 8,
