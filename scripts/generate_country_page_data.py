@@ -149,14 +149,17 @@ def load_publication_data(publication_file=None):
             
             total = 0
             yearly = {}
-            for year in range(1996, 2025):
-                year_str = str(year)
-                if year_str in pub_df.columns:
-                    count = row.get(year_str, 0)
+            # Detect year columns dynamically (e.g. 1996..2025) instead of a
+            # hardcoded range, so newly added Scimago years are picked up with
+            # no code change.
+            for col in pub_df.columns:
+                col_str = str(col)
+                if col_str.isdigit() and 1900 <= int(col_str) <= 2100:
+                    count = row.get(col, 0)
                     if pd.notna(count):
                         count = int(count)
                         total += count
-                        yearly[year_str] = count
+                        yearly[col_str] = count
             
             publication_data[country] = total
             yearly_publication_data[country] = yearly
@@ -294,32 +297,43 @@ def generate_country_page_data(csv_file_path, output_folder):
     
     # Generate JSON for each country
     for country, data in country_data.items():
-        # Calculate yearly retraction rates (based on OriginalPaperDate)
-        yearly_rates = {}
+        # A retraction rate can only be computed for years that have a
+        # publication (denominator) figure. Those years are derived dynamically
+        # from the Scimago data, so new years (e.g. 2025, 2026) appear
+        # automatically once the publication data includes them. Years without a
+        # denominator are skipped rather than emitted as a misleading 0 rate.
         country_yearly_pubs = yearly_publication_data.get(country, {})
-        
-        for year in range(1996, 2025):
-            year_str = str(year)
-            retractions = data['yearly_retractions'].get(year_str, 0)
+
+        # Yearly retraction rates (based on OriginalPaperDate)
+        yearly_rates = {}
+        for year_str, retractions in data['yearly_retractions'].items():
+            if retractions <= 0:
+                continue
             publications = country_yearly_pubs.get(year_str, 0)
-            rate = calculate_retraction_rate(retractions, publications)
-            if rate > 0 or retractions > 0:
-                yearly_rates[year_str] = rate
-        
-        # Calculate notice yearly retraction rates (based on RetractionDate)
+            if publications <= 0:
+                continue
+            yearly_rates[year_str] = calculate_retraction_rate(retractions, publications)
+
+        # Notice yearly retraction rates (based on RetractionDate)
         notice_yearly_rates = {}
-        for year in range(1996, 2025):
-            year_str = str(year)
-            retractions = data['notice_yearly_retractions'].get(year_str, 0)
+        for year_str, retractions in data['notice_yearly_retractions'].items():
+            if retractions <= 0:
+                continue
             publications = country_yearly_pubs.get(year_str, 0)
-            rate = calculate_retraction_rate(retractions, publications)
-            if rate > 0 or retractions > 0:
-                notice_yearly_rates[year_str] = rate
-        
-        # Calculate average rate
-        total_retractions_from_1996 = sum(data['yearly_retractions'].get(str(y), 0) for y in range(1996, 2025))
-        total_publications = publication_data.get(country, 0)
-        average_rate = calculate_retraction_rate(total_retractions_from_1996, total_publications)
+            if publications <= 0:
+                continue
+            notice_yearly_rates[year_str] = calculate_retraction_rate(retractions, publications)
+
+        # Average rate — numerator and denominator span the same years (those
+        # for which we actually have publication data).
+        total_publications = sum(
+            pubs for pubs in country_yearly_pubs.values() if pubs > 0
+        )
+        total_retractions_for_rate = sum(
+            data['yearly_retractions'].get(year_str, 0)
+            for year_str, pubs in country_yearly_pubs.items() if pubs > 0
+        )
+        average_rate = calculate_retraction_rate(total_retractions_for_rate, total_publications)
         
         # Build yearly data structure
         years_data = {}
@@ -341,14 +355,16 @@ def generate_country_page_data(csv_file_path, output_folder):
                 'domain': dict(year_data['domain'])
             }
         
-        # Build yearly retractions counts (not rates)
-        yearly_retractions = {year_str: data['yearly_retractions'].get(year_str, 0) 
-                              for year_str in [str(y) for y in range(1996, 2025)] 
-                              if data['yearly_retractions'].get(year_str, 0) > 0}
-        
-        notice_yearly_retractions = {year_str: data['notice_yearly_retractions'].get(year_str, 0) 
-                                     for year_str in [str(y) for y in range(1996, 2025)] 
-                                     if data['notice_yearly_retractions'].get(year_str, 0) > 0}
+        # Build yearly retractions counts (not rates). These need no publication
+        # denominator, so they are not capped to a fixed end year — all years
+        # with retractions (including 2025/2026) are included.
+        yearly_retractions = {year_str: count
+                              for year_str, count in data['yearly_retractions'].items()
+                              if count > 0}
+
+        notice_yearly_retractions = {year_str: count
+                                     for year_str, count in data['notice_yearly_retractions'].items()
+                                     if count > 0}
         
         # Build output JSON
         output_data = {
