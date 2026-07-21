@@ -2,9 +2,9 @@
   "retraction_rate_data": {
     "country": "Hong Kong",
     "yearly_rates": {
+      "2025": 0.0455,
       "2020": 0.5446,
       "2024": 0.2404,
-      "2025": 0.0227,
       "2021": 0.3317,
       "2022": 0.3611,
       "2009": 0.1427,
@@ -52,12 +52,12 @@
       "2015": 0.1697,
       "2009": 0.0713
     },
-    "average_rate": 0.2204,
+    "average_rate": 0.2223,
     "yearly_retractions": {
+      "2025": 2,
       "2020": 13,
       "2024": 9,
       "2026": 1,
-      "2025": 1,
       "2021": 9,
       "2022": 11,
       "2009": 2,
@@ -83,8 +83,8 @@
       "2005": 1
     },
     "notice_yearly_retractions": {
+      "2026": 4,
       "2024": 15,
-      "2026": 3,
       "2025": 13,
       "2023": 7,
       "2021": 6,
@@ -109,7 +109,7 @@
   },
   "domainwise_data": {
     "country": "Hong Kong",
-    "total_retractions": 113,
+    "total_retractions": 114,
     "years": {
       "2026": {
         "total": 1,
@@ -121,13 +121,15 @@
         }
       },
       "2025": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "research": 1,
           "supplemental": 1
         },
         "domain": {
-          "B/T": 1,
-          "SOC": 3
+          "B/T": 2,
+          "ENV": 1,
+          "SOC": 4
         }
       },
       "2024": {
@@ -444,15 +446,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 3,
+        "total": 4,
         "marks": {
-          "research": 2,
+          "research": 3,
           "supplemental": 1
         },
         "domain": {
+          "B/T": 2,
+          "ENV": 1,
+          "SOC": 4,
           "HSC": 4,
-          "B/T": 1,
-          "SOC": 3,
           "BLS": 1
         }
       },
@@ -727,13 +730,13 @@
       "India": 7,
       "Italy": 7,
       "Singapore": 7,
+      "Spain": 5,
       "South Korea": 5,
       "Ecuador": 5,
       "Germany": 4,
       "Saudi Arabia": 4,
       "Japan": 4,
       "Chile": 4,
-      "Spain": 4,
       "Macau": 4,
       "France": 3,
       "Taiwan": 3,
@@ -744,6 +747,7 @@
       "Thailand": 2,
       "Egypt": 2,
       "Portugal": 2,
+      "Azerbaijan": 1,
       "Sweden": 1,
       "Switzerland": 1,
       "Jordan": 1,
@@ -767,13 +771,13 @@
       "India": 7,
       "Italy": 7,
       "Singapore": 7,
+      "Spain": 5,
       "South Korea": 5,
       "Ecuador": 5,
       "Germany": 4,
       "Saudi Arabia": 4,
       "Japan": 4,
       "Chile": 4,
-      "Spain": 4,
       "Macau": 4,
       "France": 3,
       "Taiwan": 3,
@@ -784,6 +788,7 @@
       "Thailand": 2,
       "Egypt": 2,
       "Portugal": 2,
+      "Azerbaijan": 1,
       "Sweden": 1,
       "Switzerland": 1,
       "Jordan": 1,

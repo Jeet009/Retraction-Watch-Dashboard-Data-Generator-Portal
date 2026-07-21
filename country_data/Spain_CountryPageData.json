@@ -2,12 +2,12 @@
   "retraction_rate_data": {
     "country": "Spain",
     "yearly_rates": {
+      "2025": 0.0309,
       "2024": 0.1215,
       "2023": 0.2334,
       "2022": 0.4656,
       "2021": 0.5152,
       "2014": 0.3522,
-      "2025": 0.0232,
       "2018": 0.4197,
       "2019": 0.2566,
       "2020": 0.5242,
@@ -59,14 +59,14 @@
       "1999": 0.0347,
       "2003": 0.027
     },
-    "average_rate": 0.2926,
+    "average_rate": 0.2931,
     "yearly_retractions": {
+      "2025": 4,
       "2024": 14,
       "2023": 26,
       "2022": 52,
       "2021": 59,
       "2014": 29,
-      "2025": 3,
       "2018": 38,
       "2019": 25,
       "2020": 56,
@@ -91,7 +91,7 @@
       "1997": 1
     },
     "notice_yearly_retractions": {
-      "2026": 7,
+      "2026": 8,
       "2025": 41,
       "2024": 110,
       "2019": 32,
@@ -122,16 +122,18 @@
   },
   "domainwise_data": {
     "country": "Spain",
-    "total_retractions": 604,
+    "total_retractions": 605,
     "years": {
       "2025": {
-        "total": 3,
+        "total": 4,
         "marks": {
-          "research": 1,
+          "research": 2,
           "researcher_integrity": 2
         },
         "domain": {
-          "SOC": 2,
+          "B/T": 1,
+          "ENV": 1,
+          "SOC": 3,
           "BLS": 5,
           "HSC": 1
         }
@@ -572,19 +574,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "research": 5,
           "alterations": 2,
-          "research": 4,
           "researcher_integrity": 1
         },
         "domain": {
-          "SOC": 1,
-          "B/T": 3,
+          "B/T": 4,
+          "ENV": 2,
+          "SOC": 2,
           "BLS": 7,
           "PHY": 2,
-          "HSC": 4,
-          "ENV": 1
+          "HSC": 4
         }
       },
       "2025": {
@@ -1024,6 +1026,7 @@
       "Colombia": 6,
       "Finland": 6,
       "Austria": 6,
+      "Hong Kong": 5,
       "Bangladesh": 5,
       "Ecuador": 5,
       "Norway": 5,
@@ -1031,7 +1034,6 @@
       "Ethiopia": 4,
       "Qatar": 4,
       "Taiwan": 4,
-      "Hong Kong": 4,
       "Singapore": 4,
       "Tunisia": 4,
       "Hungary": 3,
@@ -1054,6 +1056,7 @@
       "Cyprus": 2,
       "Ireland": 2,
       "Uruguay": 2,
+      "Azerbaijan": 1,
       "Algeria": 1,
       "Uzbekistan": 1,
       "Vietnam": 1,
@@ -1108,6 +1111,7 @@
       "Colombia": 6,
       "Finland": 6,
       "Austria": 6,
+      "Hong Kong": 5,
       "Bangladesh": 5,
       "Ecuador": 5,
       "Norway": 5,
@@ -1115,7 +1119,6 @@
       "Ethiopia": 4,
       "Qatar": 4,
       "Taiwan": 4,
-      "Hong Kong": 4,
       "Singapore": 4,
       "Tunisia": 4,
       "Hungary": 3,
@@ -1138,6 +1141,7 @@
       "Cyprus": 2,
       "Ireland": 2,
       "Uruguay": 2,
+      "Azerbaijan": 1,
       "Algeria": 1,
       "Uzbekistan": 1,
       "Vietnam": 1,

@@ -2,11 +2,11 @@
   "retraction_rate_data": {
     "country": "Iraq",
     "yearly_rates": {
+      "2022": 8.3903,
       "2023": 15.3085,
       "2024": 3.7255,
       "2019": 1.2494,
       "2025": 0.344,
-      "2022": 8.34,
       "2021": 4.2838,
       "2020": 1.3025,
       "2018": 2.061,
@@ -35,13 +35,13 @@
       "2016": 0.3198,
       "2014": 0.5126
     },
-    "average_rate": 4.4941,
+    "average_rate": 4.4994,
     "yearly_retractions": {
+      "2022": 167,
       "2023": 399,
       "2024": 104,
       "2019": 18,
       "2025": 12,
-      "2022": 166,
       "2021": 75,
       "2020": 25,
       "2018": 19,
@@ -56,7 +56,7 @@
       "2009": 1
     },
     "notice_yearly_retractions": {
-      "2026": 17,
+      "2026": 18,
       "2025": 505,
       "2024": 100,
       "2021": 13,
@@ -76,7 +76,7 @@
   },
   "domainwise_data": {
     "country": "Iraq",
-    "total_retractions": 848,
+    "total_retractions": 849,
     "years": {
       "2025": {
         "total": 12,
@@ -132,16 +132,16 @@
         }
       },
       "2022": {
-        "total": 166,
+        "total": 167,
         "marks": {
+          "researcher_integrity": 66,
           "research": 43,
-          "researcher_integrity": 65,
           "alterations": 53,
           "supplemental": 5
         },
         "domain": {
-          "BLS": 79,
-          "HSC": 113,
+          "BLS": 81,
+          "HSC": 114,
           "B/T": 125,
           "PHY": 147,
           "SOC": 23,
@@ -329,17 +329,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 17,
+        "total": 18,
         "marks": {
+          "researcher_integrity": 4,
           "system": 2,
           "alterations": 4,
-          "research": 8,
-          "researcher_integrity": 3
+          "research": 8
         },
         "domain": {
-          "HSC": 15,
+          "BLS": 8,
+          "HSC": 16,
           "PHY": 14,
-          "BLS": 6,
           "B/T": 9,
           "ENV": 2
         }
@@ -551,10 +551,10 @@
       }
     },
     "collaborations": {
-      "India": 201,
-      "Saudi Arabia": 149,
+      "India": 202,
+      "Saudi Arabia": 150,
       "Iran": 117,
-      "China": 86,
+      "China": 87,
       "Malaysia": 60,
       "Egypt": 48,
       "Pakistan": 36,
@@ -570,9 +570,9 @@
       "Indonesia": 22,
       "Germany": 20,
       "Thailand": 17,
+      "Australia": 15,
+      "Bangladesh": 15,
       "Vietnam": 15,
-      "Australia": 14,
-      "Bangladesh": 14,
       "Peru": 13,
       "Hungary": 13,
       "Tunisia": 12,
@@ -600,17 +600,18 @@
       "Kuwait": 4,
       "Lebanon": 4,
       "Afghanistan": 4,
+      "Philippines": 3,
       "Argentina": 3,
       "Norway": 3,
       "France": 3,
       "Czech Republic": 3,
       "Sweden": 3,
+      "Austria": 2,
       "Netherlands": 2,
       "Myanmar (formerly Burma)": 2,
       "Kenya": 2,
       "Switzerland": 2,
       "Ireland": 2,
-      "Philippines": 2,
       "Portugal": 2,
       "Nepal": 2,
       "Palestine": 2,
@@ -620,7 +621,6 @@
       "Fiji": 1,
       "Malta": 1,
       "Sint Maarten": 1,
-      "Austria": 1,
       "Albania": 1,
       "Singapore": 1,
       "Morocco": 1,
@@ -632,10 +632,10 @@
       "Belize": 1
     },
     "notice_collaborations": {
-      "India": 201,
-      "Saudi Arabia": 149,
+      "India": 202,
+      "Saudi Arabia": 150,
       "Iran": 117,
-      "China": 86,
+      "China": 87,
       "Malaysia": 60,
       "Egypt": 48,
       "Pakistan": 36,
@@ -651,9 +651,9 @@
       "Indonesia": 22,
       "Germany": 20,
       "Thailand": 17,
+      "Australia": 15,
+      "Bangladesh": 15,
       "Vietnam": 15,
-      "Australia": 14,
-      "Bangladesh": 14,
       "Peru": 13,
       "Hungary": 13,
       "Tunisia": 12,
@@ -681,17 +681,18 @@
       "Kuwait": 4,
       "Lebanon": 4,
       "Afghanistan": 4,
+      "Philippines": 3,
       "Argentina": 3,
       "Norway": 3,
       "France": 3,
       "Czech Republic": 3,
       "Sweden": 3,
+      "Austria": 2,
       "Netherlands": 2,
       "Myanmar (formerly Burma)": 2,
       "Kenya": 2,
       "Switzerland": 2,
       "Ireland": 2,
-      "Philippines": 2,
       "Portugal": 2,
       "Nepal": 2,
       "Palestine": 2,
@@ -701,7 +702,6 @@
       "Fiji": 1,
       "Malta": 1,
       "Sint Maarten": 1,
-      "Austria": 1,
       "Albania": 1,
       "Singapore": 1,
       "Morocco": 1,

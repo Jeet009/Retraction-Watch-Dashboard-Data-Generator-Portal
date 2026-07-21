@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Portugal",
     "yearly_rates": {
+      "2011": 0.5244,
       "2024": 0.1175,
       "2013": 0.6356,
       "2021": 0.4532,
@@ -16,7 +17,6 @@
       "2016": 0.2644,
       "2017": 0.2125,
       "2007": 0.191,
-      "2011": 0.4661,
       "2012": 0.3681,
       "2014": 0.5601,
       "2002": 0.3718,
@@ -46,8 +46,9 @@
       "2003": 0.1565,
       "2004": 0.1391
     },
-    "average_rate": 0.2608,
+    "average_rate": 0.2627,
     "yearly_retractions": {
+      "2011": 9,
       "2026": 1,
       "2024": 4,
       "2013": 13,
@@ -63,7 +64,6 @@
       "2016": 6,
       "2017": 5,
       "2007": 2,
-      "2011": 8,
       "2012": 7,
       "2014": 12,
       "2002": 2,
@@ -72,7 +72,7 @@
       "2003": 2
     },
     "notice_yearly_retractions": {
-      "2026": 3,
+      "2026": 4,
       "2025": 7,
       "2024": 15,
       "2023": 6,
@@ -97,7 +97,7 @@
   },
   "domainwise_data": {
     "country": "Portugal",
-    "total_retractions": 135,
+    "total_retractions": 136,
     "years": {
       "2026": {
         "total": 1,
@@ -320,17 +320,17 @@
         }
       },
       "2011": {
-        "total": 8,
+        "total": 9,
         "marks": {
+          "alterations": 7,
           "supplemental": 1,
-          "alterations": 6,
           "system": 1
         },
         "domain": {
-          "HSC": 2,
+          "BLS": 10,
+          "HSC": 4,
           "B/T": 2,
           "SOC": 1,
-          "BLS": 9,
           "ENV": 6,
           "PHY": 4
         }
@@ -402,14 +402,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 3,
+        "total": 4,
         "marks": {
+          "alterations": 2,
           "researcher_integrity": 1,
-          "research": 1,
-          "alterations": 1
+          "research": 1
         },
         "domain": {
-          "HSC": 3,
+          "BLS": 1,
+          "HSC": 5,
           "SOC": 1,
           "PHY": 1
         }

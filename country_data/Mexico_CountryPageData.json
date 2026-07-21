@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Mexico",
     "yearly_rates": {
+      "2019": 0.3329,
       "2024": 0.2598,
       "2022": 0.6187,
       "2023": 0.3041,
@@ -16,7 +17,6 @@
       "2017": 0.5206,
       "2014": 0.2539,
       "2012": 0.4043,
-      "2019": 0.2959,
       "2011": 0.2462,
       "2006": 0.0802,
       "2008": 0.1456,
@@ -43,8 +43,9 @@
       "2013": 0.1638,
       "2002": 0.1303
     },
-    "average_rate": 0.2649,
+    "average_rate": 0.2668,
     "yearly_retractions": {
+      "2019": 9,
       "2024": 8,
       "2022": 19,
       "2023": 9,
@@ -59,7 +60,6 @@
       "2017": 12,
       "2014": 5,
       "2012": 7,
-      "2019": 8,
       "2011": 4,
       "2006": 1,
       "2008": 2,
@@ -68,8 +68,8 @@
       "2000": 1
     },
     "notice_yearly_retractions": {
+      "2026": 5,
       "2025": 22,
-      "2026": 4,
       "2024": 17,
       "2023": 17,
       "2012": 2,
@@ -90,7 +90,7 @@
   },
   "domainwise_data": {
     "country": "Mexico",
-    "total_retractions": 137,
+    "total_retractions": 138,
     "years": {
       "2025": {
         "total": 1,
@@ -186,13 +186,14 @@
         }
       },
       "2019": {
-        "total": 8,
+        "total": 9,
         "marks": {
+          "alterations": 2,
           "supplemental": 6,
-          "research": 1,
-          "alterations": 1
+          "research": 1
         },
         "domain": {
+          "BLS": 1,
           "ENV": 2,
           "PHY": 9
         }
@@ -377,12 +378,14 @@
     },
     "notice_years": {
       "2026": {
-        "total": 4,
+        "total": 5,
         "marks": {
+          "alterations": 1,
           "research": 3,
           "researcher_integrity": 1
         },
         "domain": {
+          "BLS": 1,
           "HSC": 5,
           "B/T": 3,
           "ENV": 1,

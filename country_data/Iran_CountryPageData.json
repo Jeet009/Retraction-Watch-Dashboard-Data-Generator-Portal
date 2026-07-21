@@ -4,12 +4,12 @@
     "yearly_rates": {
       "2020": 1.8216,
       "2021": 2.1133,
+      "2019": 1.5716,
       "2022": 2.3821,
       "2013": 1.7126,
       "2024": 0.9537,
       "2011": 3.0558,
       "2023": 1.5965,
-      "2019": 1.5563,
       "2025": 0.2332,
       "2017": 1.8539,
       "2014": 2.7106,
@@ -52,16 +52,16 @@
       "2017": 1.2359,
       "2005": 0.2413
     },
-    "average_rate": 1.9004,
+    "average_rate": 1.9013,
     "yearly_retractions": {
       "2020": 130,
       "2021": 158,
+      "2019": 103,
       "2022": 179,
       "2013": 70,
       "2024": 69,
       "2011": 119,
       "2023": 113,
-      "2019": 102,
       "2025": 18,
       "2017": 102,
       "2014": 119,
@@ -81,7 +81,7 @@
       "2001": 1
     },
     "notice_yearly_retractions": {
-      "2026": 36,
+      "2026": 37,
       "2025": 273,
       "2013": 63,
       "2024": 256,
@@ -108,7 +108,7 @@
   },
   "domainwise_data": {
     "country": "Iran",
-    "total_retractions": 1920,
+    "total_retractions": 1921,
     "years": {
       "2025": {
         "total": 18,
@@ -221,19 +221,19 @@
         }
       },
       "2019": {
-        "total": 102,
+        "total": 103,
         "marks": {
+          "research": 23,
           "alterations": 46,
           "researcher_integrity": 25,
           "supplemental": 6,
-          "research": 22,
           "system": 3
         },
         "domain": {
-          "BLS": 72,
+          "BLS": 73,
+          "HSC": 74,
           "PHY": 94,
           "B/T": 21,
-          "HSC": 71,
           "ENV": 9,
           "SOC": 6,
           "HUM": 1
@@ -528,19 +528,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 36,
+        "total": 37,
         "marks": {
           "alterations": 5,
-          "research": 20,
+          "research": 21,
           "researcher_integrity": 5,
           "supplemental": 3,
           "system": 3
         },
         "domain": {
-          "BLS": 15,
+          "BLS": 16,
           "PHY": 34,
+          "HSC": 19,
           "B/T": 16,
-          "HSC": 16,
           "ENV": 7,
           "SOC": 17
         }

@@ -2,10 +2,10 @@
   "retraction_rate_data": {
     "country": "United Kingdom",
     "yearly_rates": {
+      "2022": 0.8037,
       "2024": 0.2128,
       "2012": 0.3843,
       "2025": 0.0806,
-      "2022": 0.7988,
       "2020": 0.4352,
       "2015": 0.3484,
       "2021": 0.5263,
@@ -65,12 +65,12 @@
       "2003": 0.0194,
       "2000": 0.0303
     },
-    "average_rate": 0.3787,
+    "average_rate": 0.3789,
     "yearly_retractions": {
+      "2022": 164,
       "2024": 45,
       "2012": 59,
       "2025": 21,
-      "2022": 163,
       "2020": 86,
       "2015": 59,
       "2021": 111,
@@ -116,7 +116,7 @@
       "1975": 4
     },
     "notice_yearly_retractions": {
-      "2026": 38,
+      "2026": 39,
       "2023": 178,
       "2024": 134,
       "2025": 120,
@@ -162,7 +162,7 @@
   },
   "domainwise_data": {
     "country": "United Kingdom",
-    "total_retractions": 1748,
+    "total_retractions": 1749,
     "years": {
       "2026": {
         "total": 1,
@@ -229,19 +229,19 @@
         }
       },
       "2022": {
-        "total": 163,
+        "total": 164,
         "marks": {
+          "alterations": 58,
           "research": 57,
-          "alterations": 57,
           "researcher_integrity": 31,
           "supplemental": 12,
           "system": 6
         },
         "domain": {
+          "BLS": 60,
+          "PHY": 46,
           "B/T": 184,
-          "BLS": 57,
           "HSC": 113,
-          "PHY": 45,
           "SOC": 52,
           "ENV": 21,
           "HUM": 3
@@ -873,20 +873,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 38,
+        "total": 39,
         "marks": {
+          "alterations": 17,
           "researcher_integrity": 7,
           "supplemental": 2,
-          "alterations": 16,
           "research": 12,
           "system": 1
         },
         "domain": {
+          "BLS": 28,
+          "PHY": 20,
           "B/T": 22,
           "SOC": 7,
           "HSC": 25,
-          "BLS": 25,
-          "PHY": 19,
           "ENV": 7
         }
       },
@@ -1508,7 +1508,7 @@
       "Canada": 82,
       "Pakistan": 78,
       "Australia": 73,
-      "Saudi Arabia": 68,
+      "Saudi Arabia": 69,
       "Netherlands": 51,
       "France": 47,
       "Iran": 45,
@@ -1518,8 +1518,8 @@
       "Ireland": 31,
       "Malaysia": 30,
       "Brazil": 28,
+      "Egypt": 24,
       "Denmark": 24,
-      "Egypt": 23,
       "Russia": 20,
       "Poland": 20,
       "Singapore": 19,
@@ -1541,13 +1541,13 @@
       "Portugal": 11,
       "United Arab Emirates": 10,
       "Qatar": 10,
+      "Oman": 9,
       "Jordan": 9,
       "Ukraine": 9,
       "Czech Republic": 9,
       "Unknown": 9,
       "Thailand": 8,
       "Bangladesh": 8,
-      "Oman": 8,
       "Israel": 7,
       "Mexico": 7,
       "Lebanon": 6,
@@ -1571,6 +1571,7 @@
       "Yemen": 3,
       "Cameroon": 3,
       "Tanzania": 3,
+      "Romania": 2,
       "Libya": 2,
       "Hungary": 2,
       "Georgia": 2,
@@ -1583,7 +1584,6 @@
       "Zimbabwe": 2,
       "Kuwait": 1,
       "Malta": 1,
-      "Romania": 1,
       "Ecuador": 1,
       "Uzbekistan": 1,
       "Tajikistan": 1,
@@ -1625,7 +1625,7 @@
       "Canada": 82,
       "Pakistan": 78,
       "Australia": 73,
-      "Saudi Arabia": 68,
+      "Saudi Arabia": 69,
       "Netherlands": 51,
       "France": 47,
       "Iran": 45,
@@ -1635,8 +1635,8 @@
       "Ireland": 31,
       "Malaysia": 30,
       "Brazil": 28,
+      "Egypt": 24,
       "Denmark": 24,
-      "Egypt": 23,
       "Russia": 20,
       "Poland": 20,
       "Singapore": 19,
@@ -1658,13 +1658,13 @@
       "Portugal": 11,
       "United Arab Emirates": 10,
       "Qatar": 10,
+      "Oman": 9,
       "Jordan": 9,
       "Ukraine": 9,
       "Czech Republic": 9,
       "Unknown": 9,
       "Thailand": 8,
       "Bangladesh": 8,
-      "Oman": 8,
       "Israel": 7,
       "Mexico": 7,
       "Lebanon": 6,
@@ -1688,6 +1688,7 @@
       "Yemen": 3,
       "Cameroon": 3,
       "Tanzania": 3,
+      "Romania": 2,
       "Libya": 2,
       "Hungary": 2,
       "Georgia": 2,
@@ -1700,7 +1701,6 @@
       "Zimbabwe": 2,
       "Kuwait": 1,
       "Malta": 1,
-      "Romania": 1,
       "Ecuador": 1,
       "Uzbekistan": 1,
       "Tajikistan": 1,

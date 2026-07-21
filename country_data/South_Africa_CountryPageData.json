@@ -4,9 +4,9 @@
     "yearly_rates": {
       "2020": 0.4544,
       "2023": 1.3015,
+      "2018": 0.3736,
       "2024": 1.1234,
       "2025": 0.1001,
-      "2018": 0.3321,
       "2022": 0.9003,
       "2019": 0.7099,
       "2021": 1.0586,
@@ -49,13 +49,13 @@
       "2001": 0.1877,
       "2005": 0.1322
     },
-    "average_rate": 0.5602,
+    "average_rate": 0.5623,
     "yearly_retractions": {
       "2020": 13,
       "2023": 39,
+      "2018": 9,
       "2024": 36,
       "2025": 4,
-      "2018": 8,
       "2022": 28,
       "2019": 19,
       "2021": 32,
@@ -79,7 +79,7 @@
       "2006": 1
     },
     "notice_yearly_retractions": {
-      "2026": 25,
+      "2026": 26,
       "2025": 76,
       "2023": 18,
       "2024": 25,
@@ -104,7 +104,7 @@
   },
   "domainwise_data": {
     "country": "South Africa",
-    "total_retractions": 267,
+    "total_retractions": 268,
     "years": {
       "2025": {
         "total": 4,
@@ -225,17 +225,17 @@
         }
       },
       "2018": {
-        "total": 8,
+        "total": 9,
         "marks": {
-          "alterations": 3,
+          "alterations": 4,
           "system": 4,
           "research": 1
         },
         "domain": {
-          "PHY": 7,
+          "BLS": 2,
+          "PHY": 8,
           "B/T": 5,
           "ENV": 1,
-          "BLS": 1,
           "HSC": 9
         }
       },
@@ -479,16 +479,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 25,
+        "total": 26,
         "marks": {
-          "alterations": 12,
+          "alterations": 13,
           "supplemental": 8,
           "research": 4,
           "researcher_integrity": 1
         },
         "domain": {
-          "BLS": 7,
-          "PHY": 28,
+          "BLS": 8,
+          "PHY": 29,
           "B/T": 10,
           "SOC": 7,
           "HSC": 6,
@@ -797,7 +797,7 @@
       }
     },
     "collaborations": {
-      "Nigeria": 70,
+      "Nigeria": 71,
       "India": 32,
       "United States": 31,
       "Saudi Arabia": 25,
@@ -884,7 +884,7 @@
       "Spain": 1
     },
     "notice_collaborations": {
-      "Nigeria": 70,
+      "Nigeria": 71,
       "India": 32,
       "United States": 31,
       "Saudi Arabia": 25,
