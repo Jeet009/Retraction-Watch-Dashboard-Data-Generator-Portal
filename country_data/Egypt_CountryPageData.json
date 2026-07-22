@@ -2,18 +2,18 @@
   "retraction_rate_data": {
     "country": "Egypt",
     "yearly_rates": {
+      "2015": 2.2494,
+      "2014": 2.839,
+      "2025": 0.261,
       "2023": 2.3354,
       "2013": 2.5238,
       "2024": 1.3127,
       "2022": 5.3634,
-      "2014": 2.773,
       "2020": 3.9755,
       "2021": 4.7551,
       "2017": 2.6688,
       "2012": 2.5573,
-      "2015": 2.1886,
       "2018": 2.5349,
-      "2025": 0.2393,
       "2016": 2.2289,
       "2019": 2.1789,
       "2011": 2.1171,
@@ -53,20 +53,20 @@
       "2010": 0.5421,
       "1998": 0.3331
     },
-    "average_rate": 2.4585,
+    "average_rate": 2.465,
     "yearly_retractions": {
+      "2015": 37,
+      "2014": 43,
+      "2025": 12,
       "2023": 95,
       "2013": 36,
       "2024": 55,
       "2022": 225,
-      "2014": 42,
       "2020": 124,
       "2021": 176,
       "2017": 50,
       "2012": 33,
-      "2015": 36,
       "2018": 54,
-      "2025": 11,
       "2016": 42,
       "2019": 54,
       "2011": 23,
@@ -83,7 +83,7 @@
       "2004": 3
     },
     "notice_yearly_retractions": {
-      "2026": 88,
+      "2026": 91,
       "2025": 233,
       "2024": 216,
       "2023": 237,
@@ -110,18 +110,18 @@
   },
   "domainwise_data": {
     "country": "Egypt",
-    "total_retractions": 1139,
+    "total_retractions": 1142,
     "years": {
       "2025": {
-        "total": 11,
+        "total": 12,
         "marks": {
-          "alterations": 5,
+          "alterations": 6,
           "research": 2,
           "system": 1,
           "researcher_integrity": 3
         },
         "domain": {
-          "HSC": 17,
+          "HSC": 19,
           "PHY": 5,
           "BLS": 5,
           "ENV": 3,
@@ -287,32 +287,32 @@
         }
       },
       "2015": {
-        "total": 36,
+        "total": 37,
         "marks": {
-          "alterations": 20,
+          "alterations": 21,
           "research": 9,
           "researcher_integrity": 4,
           "supplemental": 3
         },
         "domain": {
+          "PHY": 22,
           "BLS": 26,
           "HSC": 48,
-          "PHY": 19,
           "ENV": 5,
           "B/T": 1
         }
       },
       "2014": {
-        "total": 42,
+        "total": 43,
         "marks": {
-          "alterations": 20,
+          "alterations": 21,
           "research": 15,
           "supplemental": 4,
           "researcher_integrity": 2,
           "system": 1
         },
         "domain": {
-          "PHY": 15,
+          "PHY": 17,
           "HSC": 69,
           "ENV": 5,
           "BLS": 30,
@@ -500,17 +500,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 88,
+        "total": 91,
         "marks": {
-          "alterations": 35,
+          "alterations": 38,
           "researcher_integrity": 7,
           "research": 45,
           "system": 1
         },
         "domain": {
-          "HSC": 112,
+          "PHY": 61,
+          "HSC": 114,
           "BLS": 39,
-          "PHY": 56,
           "ENV": 8,
           "B/T": 11,
           "SOC": 2
@@ -847,7 +847,7 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 479,
+      "Saudi Arabia": 482,
       "China": 117,
       "India": 116,
       "Pakistan": 98,
@@ -934,7 +934,7 @@
       "Finland": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 479,
+      "Saudi Arabia": 482,
       "China": 117,
       "India": 116,
       "Pakistan": 98,

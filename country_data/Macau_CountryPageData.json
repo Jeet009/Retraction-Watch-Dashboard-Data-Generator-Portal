@@ -5,8 +5,8 @@
     "notice_yearly_rates": {},
     "average_rate": 0.0,
     "yearly_retractions": {
+      "2024": 2,
       "2022": 2,
-      "2024": 1,
       "2021": 3,
       "2023": 2,
       "2019": 1,
@@ -17,7 +17,7 @@
       "2008": 1
     },
     "notice_yearly_retractions": {
-      "2026": 1,
+      "2026": 2,
       "2025": 1,
       "2023": 4,
       "2024": 2,
@@ -29,16 +29,16 @@
   },
   "domainwise_data": {
     "country": "Macau",
-    "total_retractions": 16,
+    "total_retractions": 17,
     "years": {
       "2024": {
-        "total": 1,
+        "total": 2,
         "marks": {
-          "researcher_integrity": 1
+          "researcher_integrity": 2
         },
         "domain": {
-          "B/T": 1,
-          "PHY": 1,
+          "B/T": 2,
+          "PHY": 2,
           "SOC": 1
         }
       },
@@ -138,12 +138,14 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "research": 1
         },
         "domain": {
-          "B/T": 1
+          "B/T": 2,
+          "PHY": 1
         }
       },
       "2025": {
@@ -227,12 +229,13 @@
     },
     "collaborations": {
       "China": 14,
+      "Hong Kong": 5,
       "United States": 4,
-      "Hong Kong": 4,
       "Australia": 3,
       "Taiwan": 2,
       "South Korea": 2,
       "Canada": 2,
+      "Denmark": 1,
       "Pakistan": 1,
       "Vietnam": 1,
       "Japan": 1,
@@ -268,12 +271,13 @@
     },
     "notice_collaborations": {
       "China": 14,
+      "Hong Kong": 5,
       "United States": 4,
-      "Hong Kong": 4,
       "Australia": 3,
       "Taiwan": 2,
       "South Korea": 2,
       "Canada": 2,
+      "Denmark": 1,
       "Pakistan": 1,
       "Vietnam": 1,
       "Japan": 1,

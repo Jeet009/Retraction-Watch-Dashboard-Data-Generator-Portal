@@ -2,9 +2,9 @@
   "retraction_rate_data": {
     "country": "Malaysia",
     "yearly_rates": {
-      "2022": 4.1872,
+      "2025": 0.1984,
+      "2022": 4.211,
       "2024": 0.9866,
-      "2025": 0.1803,
       "2023": 1.4076,
       "2019": 0.9048,
       "2021": 2.4936,
@@ -45,11 +45,11 @@
       "2010": 2.6625,
       "2007": 0.1935
     },
-    "average_rate": 1.6158,
+    "average_rate": 1.6193,
     "yearly_retractions": {
-      "2022": 176,
+      "2025": 11,
+      "2022": 177,
       "2024": 46,
-      "2025": 10,
       "2023": 60,
       "2019": 33,
       "2021": 100,
@@ -70,7 +70,7 @@
       "2005": 1
     },
     "notice_yearly_retractions": {
-      "2026": 29,
+      "2026": 31,
       "2024": 104,
       "2025": 123,
       "2022": 78,
@@ -94,21 +94,21 @@
   },
   "domainwise_data": {
     "country": "Malaysia",
-    "total_retractions": 937,
+    "total_retractions": 939,
     "years": {
       "2025": {
-        "total": 10,
+        "total": 11,
         "marks": {
+          "alterations": 3,
           "research": 2,
           "researcher_integrity": 2,
           "system": 1,
-          "supplemental": 3,
-          "alterations": 2
+          "supplemental": 3
         },
         "domain": {
+          "HSC": 7,
           "B/T": 11,
           "BLS": 2,
-          "HSC": 5,
           "SOC": 12,
           "ENV": 3,
           "PHY": 1
@@ -151,17 +151,17 @@
         }
       },
       "2022": {
-        "total": 176,
+        "total": 177,
         "marks": {
-          "research": 36,
+          "research": 37,
           "researcher_integrity": 46,
           "supplemental": 4,
           "alterations": 83,
           "system": 7
         },
         "domain": {
+          "PHY": 85,
           "ENV": 35,
-          "PHY": 83,
           "B/T": 207,
           "HSC": 70,
           "SOC": 56,
@@ -437,18 +437,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 29,
+        "total": 31,
         "marks": {
-          "research": 4,
-          "alterations": 7,
+          "alterations": 8,
+          "research": 5,
           "researcher_integrity": 8,
           "system": 1,
           "supplemental": 9
         },
         "domain": {
+          "HSC": 19,
+          "PHY": 12,
           "ENV": 9,
-          "PHY": 10,
-          "HSC": 17,
           "B/T": 20,
           "SOC": 17,
           "BLS": 11
@@ -764,9 +764,9 @@
       }
     },
     "collaborations": {
-      "China": 196,
-      "Saudi Arabia": 139,
-      "India": 126,
+      "China": 197,
+      "Saudi Arabia": 140,
+      "India": 127,
       "Pakistan": 105,
       "Iran": 73,
       "Iraq": 60,
@@ -778,10 +778,10 @@
       "United States": 26,
       "Indonesia": 25,
       "Japan": 24,
+      "Vietnam": 23,
       "Serbia": 23,
-      "Vietnam": 22,
-      "Bangladesh": 21,
-      "South Korea": 20,
+      "Bangladesh": 22,
+      "South Korea": 21,
       "Turkey": 17,
       "Spain": 16,
       "Nigeria": 14,
@@ -789,12 +789,12 @@
       "Oman": 11,
       "Romania": 10,
       "Russia": 9,
+      "Yemen": 8,
       "Italy": 8,
       "Singapore": 8,
       "Sudan": 8,
       "Sweden": 7,
       "Poland": 7,
-      "Yemen": 7,
       "Czech Republic": 7,
       "Jordan": 6,
       "Canada": 6,
@@ -851,9 +851,9 @@
       "Hungary": 1
     },
     "notice_collaborations": {
-      "China": 196,
-      "Saudi Arabia": 139,
-      "India": 126,
+      "China": 197,
+      "Saudi Arabia": 140,
+      "India": 127,
       "Pakistan": 105,
       "Iran": 73,
       "Iraq": 60,
@@ -865,10 +865,10 @@
       "United States": 26,
       "Indonesia": 25,
       "Japan": 24,
+      "Vietnam": 23,
       "Serbia": 23,
-      "Vietnam": 22,
-      "Bangladesh": 21,
-      "South Korea": 20,
+      "Bangladesh": 22,
+      "South Korea": 21,
       "Turkey": 17,
       "Spain": 16,
       "Nigeria": 14,
@@ -876,12 +876,12 @@
       "Oman": 11,
       "Romania": 10,
       "Russia": 9,
+      "Yemen": 8,
       "Italy": 8,
       "Singapore": 8,
       "Sudan": 8,
       "Sweden": 7,
       "Poland": 7,
-      "Yemen": 7,
       "Czech Republic": 7,
       "Jordan": 6,
       "Canada": 6,

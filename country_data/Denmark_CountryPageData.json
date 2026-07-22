@@ -2,11 +2,11 @@
   "retraction_rate_data": {
     "country": "Denmark",
     "yearly_rates": {
+      "2024": 0.1519,
       "2021": 0.2479,
       "2023": 0.252,
       "2022": 0.44,
       "2025": 0.0271,
-      "2024": 0.1216,
       "2013": 0.5596,
       "2000": 0.2012,
       "2017": 0.3831,
@@ -53,13 +53,13 @@
       "2012": 0.197,
       "2001": 0.1014
     },
-    "average_rate": 0.268,
+    "average_rate": 0.2697,
     "yearly_retractions": {
+      "2024": 5,
       "2021": 8,
       "2023": 8,
       "2022": 14,
       "2025": 1,
-      "2024": 4,
       "2013": 12,
       "2000": 2,
       "2017": 10,
@@ -86,7 +86,7 @@
       "1991": 1
     },
     "notice_yearly_retractions": {
-      "2026": 3,
+      "2026": 4,
       "2025": 4,
       "2024": 17,
       "2023": 15,
@@ -112,7 +112,7 @@
   },
   "domainwise_data": {
     "country": "Denmark",
-    "total_retractions": 159,
+    "total_retractions": 160,
     "years": {
       "2025": {
         "total": 1,
@@ -124,14 +124,15 @@
         }
       },
       "2024": {
-        "total": 4,
+        "total": 5,
         "marks": {
-          "researcher_integrity": 2,
+          "researcher_integrity": 3,
           "system": 1,
           "supplemental": 1
         },
         "domain": {
-          "PHY": 2,
+          "B/T": 1,
+          "PHY": 3,
           "HSC": 2,
           "ENV": 2
         }
@@ -500,16 +501,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 3,
+        "total": 4,
         "marks": {
-          "researcher_integrity": 2,
+          "researcher_integrity": 3,
           "alterations": 1
         },
         "domain": {
-          "B/T": 3,
+          "B/T": 4,
+          "PHY": 2,
           "ENV": 1,
-          "BLS": 3,
-          "PHY": 1
+          "BLS": 3
         }
       },
       "2025": {
@@ -838,6 +839,8 @@
       "Iran": 2,
       "Iceland": 2,
       "Israel": 2,
+      "Hong Kong": 1,
+      "Macau": 1,
       "Turkey": 1,
       "Vietnam": 1,
       "Malaysia": 1,
@@ -889,6 +892,8 @@
       "Iran": 2,
       "Iceland": 2,
       "Israel": 2,
+      "Hong Kong": 1,
+      "Macau": 1,
       "Turkey": 1,
       "Vietnam": 1,
       "Malaysia": 1,

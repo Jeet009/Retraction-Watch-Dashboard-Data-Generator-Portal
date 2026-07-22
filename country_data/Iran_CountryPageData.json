@@ -2,6 +2,9 @@
   "retraction_rate_data": {
     "country": "Iran",
     "yearly_rates": {
+      "2014": 2.7334,
+      "2017": 1.8721,
+      "2023": 1.6106,
       "2020": 1.8216,
       "2021": 2.1133,
       "2019": 1.5716,
@@ -9,10 +12,7 @@
       "2013": 1.7126,
       "2024": 0.9537,
       "2011": 3.0558,
-      "2023": 1.5965,
       "2025": 0.2332,
-      "2017": 1.8539,
-      "2014": 2.7106,
       "2009": 2.7848,
       "2018": 1.9092,
       "2015": 3.1658,
@@ -52,8 +52,11 @@
       "2017": 1.2359,
       "2005": 0.2413
     },
-    "average_rate": 1.9013,
+    "average_rate": 1.9043,
     "yearly_retractions": {
+      "2014": 120,
+      "2017": 103,
+      "2023": 114,
       "2020": 130,
       "2021": 158,
       "2019": 103,
@@ -61,10 +64,7 @@
       "2013": 70,
       "2024": 69,
       "2011": 119,
-      "2023": 113,
       "2025": 18,
-      "2017": 102,
-      "2014": 119,
       "2009": 67,
       "2018": 110,
       "2015": 142,
@@ -81,7 +81,7 @@
       "2001": 1
     },
     "notice_yearly_retractions": {
-      "2026": 37,
+      "2026": 40,
       "2025": 273,
       "2013": 63,
       "2024": 256,
@@ -108,7 +108,7 @@
   },
   "domainwise_data": {
     "country": "Iran",
-    "total_retractions": 1921,
+    "total_retractions": 1924,
     "years": {
       "2025": {
         "total": 18,
@@ -148,20 +148,20 @@
         }
       },
       "2023": {
-        "total": 113,
+        "total": 114,
         "marks": {
-          "alterations": 30,
+          "alterations": 31,
           "research": 36,
           "system": 23,
           "researcher_integrity": 23,
           "supplemental": 1
         },
         "domain": {
-          "BLS": 74,
+          "BLS": 75,
+          "HSC": 115,
           "PHY": 75,
           "B/T": 48,
           "SOC": 16,
-          "HSC": 114,
           "ENV": 11
         }
       },
@@ -259,17 +259,17 @@
         }
       },
       "2017": {
-        "total": 102,
+        "total": 103,
         "marks": {
-          "alterations": 48,
+          "alterations": 49,
           "research": 24,
           "supplemental": 15,
           "researcher_integrity": 14,
           "system": 1
         },
         "domain": {
-          "BLS": 103,
-          "HSC": 80,
+          "BLS": 104,
+          "HSC": 81,
           "SOC": 9,
           "PHY": 54,
           "B/T": 22,
@@ -313,18 +313,18 @@
         }
       },
       "2014": {
-        "total": 119,
+        "total": 120,
         "marks": {
+          "research": 8,
           "alterations": 79,
-          "research": 7,
           "supplemental": 9,
           "researcher_integrity": 19,
           "system": 5
         },
         "domain": {
+          "BLS": 83,
           "ENV": 11,
           "PHY": 109,
-          "BLS": 80,
           "HSC": 84,
           "B/T": 30,
           "SOC": 5,
@@ -528,18 +528,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 37,
+        "total": 40,
         "marks": {
-          "alterations": 5,
-          "research": 21,
+          "research": 22,
+          "alterations": 7,
           "researcher_integrity": 5,
           "supplemental": 3,
           "system": 3
         },
         "domain": {
-          "BLS": 16,
+          "BLS": 21,
+          "HSC": 21,
           "PHY": 34,
-          "HSC": 19,
           "B/T": 16,
           "ENV": 7,
           "SOC": 17
@@ -921,13 +921,13 @@
       "Saudi Arabia": 58,
       "Germany": 52,
       "Turkey": 52,
-      "United Kingdom": 45,
+      "United Kingdom": 47,
       "Canada": 43,
       "Vietnam": 41,
       "Russia": 40,
       "Pakistan": 34,
+      "Italy": 27,
       "Egypt": 26,
-      "Italy": 25,
       "Thailand": 24,
       "Australia": 23,
       "Indonesia": 18,
@@ -1006,13 +1006,13 @@
       "Saudi Arabia": 58,
       "Germany": 52,
       "Turkey": 52,
-      "United Kingdom": 45,
+      "United Kingdom": 47,
       "Canada": 43,
       "Vietnam": 41,
       "Russia": 40,
       "Pakistan": 34,
+      "Italy": 27,
       "Egypt": 26,
-      "Italy": 25,
       "Thailand": 24,
       "Australia": 23,
       "Indonesia": 18,
