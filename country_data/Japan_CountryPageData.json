@@ -2,10 +2,10 @@
   "retraction_rate_data": {
     "country": "Japan",
     "yearly_rates": {
+      "2023": 0.2698,
       "2021": 0.3269,
       "2024": 0.1236,
       "2025": 0.0418,
-      "2023": 0.2619,
       "2014": 0.4927,
       "2018": 0.6801,
       "2019": 0.6044,
@@ -34,8 +34,8 @@
       "1996": 0.1781
     },
     "notice_yearly_rates": {
+      "2025": 0.3417,
       "2023": 0.6032,
-      "2025": 0.3347,
       "2024": 0.9117,
       "2019": 0.9341,
       "2021": 0.4576,
@@ -65,12 +65,12 @@
       "1996": 0.0223,
       "2001": 0.0294
     },
-    "average_rate": 0.4381,
+    "average_rate": 0.4384,
     "yearly_retractions": {
+      "2023": 34,
       "2021": 45,
       "2024": 16,
       "2025": 6,
-      "2023": 33,
       "2014": 61,
       "2018": 87,
       "2019": 77,
@@ -107,8 +107,8 @@
       "1984": 1
     },
     "notice_yearly_retractions": {
+      "2025": 49,
       "2023": 76,
-      "2025": 48,
       "2026": 6,
       "2024": 118,
       "2019": 119,
@@ -148,7 +148,7 @@
   },
   "domainwise_data": {
     "country": "Japan",
-    "total_retractions": 1605,
+    "total_retractions": 1606,
     "years": {
       "2025": {
         "total": 6,
@@ -184,18 +184,18 @@
         }
       },
       "2023": {
-        "total": 33,
+        "total": 34,
         "marks": {
+          "alterations": 12,
           "research": 10,
           "researcher_integrity": 6,
-          "alterations": 11,
           "system": 4,
           "supplemental": 2
         },
         "domain": {
+          "BLS": 36,
           "B/T": 8,
           "HSC": 46,
-          "BLS": 34,
           "ENV": 2,
           "SOC": 2,
           "PHY": 1
@@ -762,16 +762,16 @@
         }
       },
       "2025": {
-        "total": 48,
+        "total": 49,
         "marks": {
+          "alterations": 26,
           "research": 11,
-          "alterations": 25,
           "supplemental": 2,
           "researcher_integrity": 9,
           "system": 1
         },
         "domain": {
-          "BLS": 83,
+          "BLS": 85,
           "HSC": 27,
           "ENV": 5,
           "B/T": 13,
@@ -1296,8 +1296,8 @@
       "United States": 163,
       "China": 107,
       "India": 29,
+      "Germany": 25,
       "Malaysia": 24,
-      "Germany": 24,
       "Spain": 23,
       "Saudi Arabia": 19,
       "South Korea": 19,
@@ -1310,9 +1310,9 @@
       "Canada": 13,
       "Pakistan": 9,
       "Indonesia": 9,
+      "Belgium": 8,
       "Bangladesh": 8,
       "Thailand": 8,
-      "Belgium": 7,
       "Vietnam": 7,
       "Sweden": 7,
       "Iran": 6,
@@ -1359,8 +1359,8 @@
       "United States": 163,
       "China": 107,
       "India": 29,
+      "Germany": 25,
       "Malaysia": 24,
-      "Germany": 24,
       "Spain": 23,
       "Saudi Arabia": 19,
       "South Korea": 19,
@@ -1373,9 +1373,9 @@
       "Canada": 13,
       "Pakistan": 9,
       "Indonesia": 9,
+      "Belgium": 8,
       "Bangladesh": 8,
       "Thailand": 8,
-      "Belgium": 7,
       "Vietnam": 7,
       "Sweden": 7,
       "Iran": 6,

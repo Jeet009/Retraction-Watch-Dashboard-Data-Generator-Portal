@@ -7,7 +7,7 @@
       "2017": 0.2763,
       "2021": 0.5947,
       "2023": 0.5037,
-      "2024": 0.1913,
+      "2024": 0.2004,
       "2025": 0.0466,
       "2014": 0.4555,
       "2019": 0.4106,
@@ -33,7 +33,7 @@
       "2000": 0.1024
     },
     "notice_yearly_rates": {
-      "2025": 0.6055,
+      "2025": 0.6133,
       "2024": 0.7013,
       "2023": 0.988,
       "2020": 0.3733,
@@ -58,14 +58,14 @@
       "2005": 0.0701,
       "1998": 0.037
     },
-    "average_rate": 0.3986,
+    "average_rate": 0.3991,
     "yearly_retractions": {
       "2022": 95,
       "2020": 69,
       "2017": 25,
       "2021": 66,
       "2023": 52,
-      "2024": 21,
+      "2024": 22,
       "2025": 6,
       "2014": 37,
       "2019": 41,
@@ -98,7 +98,7 @@
     },
     "notice_yearly_retractions": {
       "2026": 23,
-      "2025": 78,
+      "2025": 79,
       "2024": 77,
       "2023": 102,
       "2020": 39,
@@ -129,7 +129,7 @@
   },
   "domainwise_data": {
     "country": "Australia",
-    "total_retractions": 807,
+    "total_retractions": 808,
     "years": {
       "2025": {
         "total": 6,
@@ -149,20 +149,20 @@
         }
       },
       "2024": {
-        "total": 21,
+        "total": 22,
         "marks": {
-          "research": 8,
+          "research": 9,
           "researcher_integrity": 4,
           "alterations": 6,
           "system": 1,
           "supplemental": 2
         },
         "domain": {
+          "BLS": 13,
+          "ENV": 8,
+          "PHY": 8,
           "HSC": 19,
-          "PHY": 7,
-          "B/T": 18,
-          "ENV": 7,
-          "BLS": 12
+          "B/T": 18
         }
       },
       "2023": {
@@ -681,19 +681,19 @@
         }
       },
       "2025": {
-        "total": 78,
+        "total": 79,
         "marks": {
           "alterations": 29,
-          "research": 22,
+          "research": 23,
           "researcher_integrity": 26,
           "supplemental": 1
         },
         "domain": {
-          "BLS": 67,
+          "BLS": 68,
+          "ENV": 13,
+          "PHY": 32,
           "HSC": 62,
-          "PHY": 31,
           "B/T": 47,
-          "ENV": 12,
           "SOC": 6,
           "HUM": 1
         }
@@ -1112,7 +1112,7 @@
       "India": 70,
       "Saudi Arabia": 48,
       "Pakistan": 37,
-      "Malaysia": 32,
+      "Malaysia": 33,
       "Iran": 23,
       "Canada": 22,
       "South Korea": 20,
@@ -1164,6 +1164,8 @@
       "Romania": 2,
       "Yemen": 2,
       "Norway": 2,
+      "Algeria": 1,
+      "Somalia": 1,
       "Azerbaijan": 1,
       "Morocco": 1,
       "Jordan": 1,
@@ -1193,7 +1195,7 @@
       "India": 70,
       "Saudi Arabia": 48,
       "Pakistan": 37,
-      "Malaysia": 32,
+      "Malaysia": 33,
       "Iran": 23,
       "Canada": 22,
       "South Korea": 20,
@@ -1245,6 +1247,8 @@
       "Romania": 2,
       "Yemen": 2,
       "Norway": 2,
+      "Algeria": 1,
+      "Somalia": 1,
       "Azerbaijan": 1,
       "Morocco": 1,
       "Jordan": 1,

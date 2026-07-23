@@ -2,34 +2,37 @@
   "retraction_rate_data": {
     "country": "Somalia",
     "yearly_rates": {
-      "2024": 1.8587,
+      "2024": 3.7175,
       "2022": 3.8462
     },
     "notice_yearly_rates": {
-      "2025": 1.1876,
+      "2025": 2.3753,
       "2023": 3.2468
     },
-    "average_rate": 0.8316,
+    "average_rate": 1.2474,
     "yearly_retractions": {
-      "2024": 1,
+      "2024": 2,
       "2022": 1
     },
     "notice_yearly_retractions": {
-      "2025": 1,
+      "2025": 2,
       "2023": 1
     }
   },
   "domainwise_data": {
     "country": "Somalia",
-    "total_retractions": 2,
+    "total_retractions": 3,
     "years": {
       "2024": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "research": 1,
           "system": 1
         },
         "domain": {
-          "PHY": 1
+          "BLS": 1,
+          "ENV": 1,
+          "PHY": 2
         }
       },
       "2022": {
@@ -45,12 +48,15 @@
     },
     "notice_years": {
       "2025": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "research": 1,
           "system": 1
         },
         "domain": {
-          "PHY": 1
+          "BLS": 1,
+          "ENV": 1,
+          "PHY": 2
         }
       },
       "2023": {
@@ -65,6 +71,9 @@
       }
     },
     "collaborations": {
+      "Algeria": 1,
+      "Australia": 1,
+      "Malaysia": 1,
       "Canada": 1,
       "India": 1,
       "South Africa": 1,
@@ -72,6 +81,9 @@
       "Pakistan": 1
     },
     "notice_collaborations": {
+      "Algeria": 1,
+      "Australia": 1,
+      "Malaysia": 1,
       "Canada": 1,
       "India": 1,
       "South Africa": 1,

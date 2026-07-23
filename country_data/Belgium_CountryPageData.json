@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Belgium",
     "yearly_rates": {
-      "2023": 0.2765,
+      "2023": 0.3041,
       "2024": 0.131,
       "2020": 0.1726,
       "2022": 0.3255,
@@ -29,7 +29,7 @@
       "2001": 0.0741
     },
     "notice_yearly_rates": {
-      "2025": 0.2539,
+      "2025": 0.277,
       "2024": 0.3144,
       "2023": 0.47,
       "2010": 0.3242,
@@ -49,9 +49,9 @@
       "2007": 0.0964,
       "2008": 0.0453
     },
-    "average_rate": 0.2221,
+    "average_rate": 0.2235,
     "yearly_retractions": {
-      "2023": 10,
+      "2023": 11,
       "2024": 5,
       "2020": 6,
       "2022": 12,
@@ -80,8 +80,8 @@
       "2001": 1
     },
     "notice_yearly_retractions": {
+      "2025": 12,
       "2026": 3,
-      "2025": 11,
       "2024": 12,
       "2023": 17,
       "2010": 8,
@@ -106,7 +106,7 @@
   },
   "domainwise_data": {
     "country": "Belgium",
-    "total_retractions": 169,
+    "total_retractions": 170,
     "years": {
       "2024": {
         "total": 5,
@@ -122,17 +122,17 @@
         }
       },
       "2023": {
-        "total": 10,
+        "total": 11,
         "marks": {
+          "alterations": 4,
           "supplemental": 2,
-          "alterations": 3,
           "research": 1,
           "researcher_integrity": 2,
           "system": 2
         },
         "domain": {
+          "BLS": 10,
           "B/T": 7,
-          "BLS": 8,
           "HSC": 12,
           "PHY": 5,
           "ENV": 2,
@@ -492,15 +492,15 @@
         }
       },
       "2025": {
-        "total": 11,
+        "total": 12,
         "marks": {
+          "alterations": 5,
           "research": 4,
-          "alterations": 4,
           "researcher_integrity": 3
         },
         "domain": {
+          "BLS": 12,
           "HSC": 11,
-          "BLS": 10,
           "B/T": 5,
           "HUM": 1,
           "PHY": 3,
@@ -791,15 +791,15 @@
     "collaborations": {
       "United States": 31,
       "China": 20,
+      "Germany": 19,
       "Netherlands": 19,
-      "Germany": 18,
       "United Kingdom": 16,
       "France": 14,
       "Spain": 13,
       "India": 9,
+      "Japan": 8,
       "Canada": 7,
       "Mexico": 7,
-      "Japan": 7,
       "Switzerland": 7,
       "Australia": 6,
       "Italy": 6,
@@ -852,15 +852,15 @@
     "notice_collaborations": {
       "United States": 31,
       "China": 20,
+      "Germany": 19,
       "Netherlands": 19,
-      "Germany": 18,
       "United Kingdom": 16,
       "France": 14,
       "Spain": 13,
       "India": 9,
+      "Japan": 8,
       "Canada": 7,
       "Mexico": 7,
-      "Japan": 7,
       "Switzerland": 7,
       "Australia": 6,
       "Italy": 6,

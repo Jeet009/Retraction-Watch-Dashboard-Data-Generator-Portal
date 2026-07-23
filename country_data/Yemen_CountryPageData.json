@@ -3,16 +3,16 @@
     "country": "Yemen",
     "yearly_rates": {
       "2025": 3.7933,
+      "2024": 1.1242,
       "2022": 17.4577,
       "2023": 1.1737,
       "2014": 5.2493,
-      "2024": 0.5621,
       "2021": 10.7595,
       "2020": 0.9208,
       "2015": 3.0581
     },
     "notice_yearly_rates": {
-      "2025": 4.7416,
+      "2025": 5.2157,
       "2024": 7.3075,
       "2023": 20.5399,
       "2022": 0.5456,
@@ -20,20 +20,20 @@
       "2014": 2.6247,
       "2019": 1.4065
     },
-    "average_rate": 4.2567,
+    "average_rate": 4.3232,
     "yearly_retractions": {
       "2025": 8,
+      "2024": 2,
       "2022": 32,
       "2023": 2,
       "2014": 2,
-      "2024": 1,
       "2021": 17,
       "2020": 1,
       "2015": 1
     },
     "notice_yearly_retractions": {
       "2026": 2,
-      "2025": 10,
+      "2025": 11,
       "2024": 13,
       "2023": 35,
       "2022": 1,
@@ -44,7 +44,7 @@
   },
   "domainwise_data": {
     "country": "Yemen",
-    "total_retractions": 64,
+    "total_retractions": 65,
     "years": {
       "2025": {
         "total": 8,
@@ -61,12 +61,13 @@
         }
       },
       "2024": {
-        "total": 1,
+        "total": 2,
         "marks": {
-          "alterations": 1
+          "alterations": 2
         },
         "domain": {
-          "B/T": 3
+          "B/T": 4,
+          "SOC": 1
         }
       },
       "2023": {
@@ -155,15 +156,16 @@
         }
       },
       "2025": {
-        "total": 10,
+        "total": 11,
         "marks": {
+          "alterations": 5,
           "research": 1,
-          "alterations": 4,
           "researcher_integrity": 5
         },
         "domain": {
+          "B/T": 5,
+          "SOC": 1,
           "HSC": 12,
-          "B/T": 4,
           "ENV": 1,
           "PHY": 1,
           "BLS": 4
@@ -245,7 +247,7 @@
       "Iraq": 12,
       "India": 10,
       "Malaysia": 8,
-      "China": 6,
+      "China": 7,
       "United States": 5,
       "Turkey": 4,
       "Norway": 4,
@@ -260,6 +262,7 @@
       "Australia": 2,
       "Russia": 2,
       "Spain": 2,
+      "Iran": 1,
       "Mexico": 1,
       "Afghanistan": 1,
       "Taiwan": 1,
@@ -276,7 +279,7 @@
       "Iraq": 12,
       "India": 10,
       "Malaysia": 8,
-      "China": 6,
+      "China": 7,
       "United States": 5,
       "Turkey": 4,
       "Norway": 4,
@@ -291,6 +294,7 @@
       "Australia": 2,
       "Russia": 2,
       "Spain": 2,
+      "Iran": 1,
       "Mexico": 1,
       "Afghanistan": 1,
       "Taiwan": 1,

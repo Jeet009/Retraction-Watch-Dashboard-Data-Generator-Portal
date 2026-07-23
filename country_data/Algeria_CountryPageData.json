@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Algeria",
     "yearly_rates": {
-      "2024": 0.2356,
+      "2024": 0.3141,
       "2022": 1.1216,
       "2018": 1.6334,
       "2025": 0.1424,
@@ -25,7 +25,7 @@
     },
     "notice_yearly_rates": {
       "2024": 0.7067,
-      "2025": 0.5694,
+      "2025": 0.6406,
       "2012": 0.9361,
       "2023": 0.6517,
       "2015": 2.0367,
@@ -42,9 +42,9 @@
       "2009": 0.3187,
       "2010": 0.3165
     },
-    "average_rate": 0.6799,
+    "average_rate": 0.687,
     "yearly_retractions": {
-      "2024": 3,
+      "2024": 4,
       "2022": 12,
       "2018": 13,
       "2025": 2,
@@ -68,7 +68,7 @@
     "notice_yearly_retractions": {
       "2026": 3,
       "2024": 9,
-      "2025": 8,
+      "2025": 9,
       "2012": 4,
       "2023": 7,
       "2015": 12,
@@ -88,7 +88,7 @@
   },
   "domainwise_data": {
     "country": "Algeria",
-    "total_retractions": 95,
+    "total_retractions": 96,
     "years": {
       "2025": {
         "total": 2,
@@ -102,15 +102,16 @@
         }
       },
       "2024": {
-        "total": 3,
+        "total": 4,
         "marks": {
-          "research": 2,
+          "research": 3,
           "alterations": 1
         },
         "domain": {
           "B/T": 3,
-          "BLS": 1,
-          "PHY": 5
+          "BLS": 2,
+          "PHY": 6,
+          "ENV": 1
         }
       },
       "2023": {
@@ -351,16 +352,18 @@
         }
       },
       "2025": {
-        "total": 8,
+        "total": 9,
         "marks": {
+          "research": 1,
           "alterations": 5,
           "researcher_integrity": 3
         },
         "domain": {
-          "PHY": 12,
+          "BLS": 2,
+          "ENV": 1,
+          "PHY": 13,
           "B/T": 13,
-          "HSC": 1,
-          "BLS": 1
+          "HSC": 1
         }
       },
       "2024": {
@@ -568,13 +571,13 @@
       "India": 6,
       "Iraq": 5,
       "China": 5,
+      "Malaysia": 4,
       "Egypt": 4,
       "Iran": 4,
       "United States": 3,
       "Russia": 3,
       "Thailand": 3,
       "United Arab Emirates": 3,
-      "Malaysia": 3,
       "Belarus": 2,
       "South Africa": 2,
       "Poland": 2,
@@ -585,6 +588,8 @@
       "Morocco": 2,
       "Senegal": 2,
       "Spain": 1,
+      "Australia": 1,
+      "Somalia": 1,
       "Uzbekistan": 1,
       "Estonia": 1,
       "Indonesia": 1,
@@ -624,13 +629,13 @@
       "India": 6,
       "Iraq": 5,
       "China": 5,
+      "Malaysia": 4,
       "Egypt": 4,
       "Iran": 4,
       "United States": 3,
       "Russia": 3,
       "Thailand": 3,
       "United Arab Emirates": 3,
-      "Malaysia": 3,
       "Belarus": 2,
       "South Africa": 2,
       "Poland": 2,
@@ -641,6 +646,8 @@
       "Morocco": 2,
       "Senegal": 2,
       "Spain": 1,
+      "Australia": 1,
+      "Somalia": 1,
       "Uzbekistan": 1,
       "Estonia": 1,
       "Indonesia": 1,

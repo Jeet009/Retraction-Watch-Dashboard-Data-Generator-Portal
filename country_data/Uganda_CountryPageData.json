@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Uganda",
     "yearly_rates": {
+      "2024": 0.8581,
       "2023": 0.3067,
-      "2024": 0.5721,
       "2022": 0.3312,
       "2006": 2.2075,
       "2008": 1.7921,
@@ -15,7 +15,7 @@
       "2010": 1.1312
     },
     "notice_yearly_rates": {
-      "2025": 0.4077,
+      "2025": 0.6115,
       "2022": 0.3312,
       "2011": 2.045,
       "2021": 0.3499,
@@ -24,10 +24,10 @@
       "2014": 1.6584,
       "2013": 0.9311
     },
-    "average_rate": 0.3173,
+    "average_rate": 0.3437,
     "yearly_retractions": {
+      "2024": 3,
       "2023": 1,
-      "2024": 2,
       "2022": 1,
       "2006": 1,
       "2008": 1,
@@ -39,8 +39,8 @@
       "2010": 1
     },
     "notice_yearly_retractions": {
+      "2025": 3,
       "2026": 1,
-      "2025": 2,
       "2022": 1,
       "2011": 2,
       "2021": 1,
@@ -52,16 +52,16 @@
   },
   "domainwise_data": {
     "country": "Uganda",
-    "total_retractions": 12,
+    "total_retractions": 13,
     "years": {
       "2024": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "alterations": 2
+          "alterations": 3
         },
         "domain": {
+          "HSC": 7,
           "BLS": 2,
-          "HSC": 4,
           "PHY": 1
         }
       },
@@ -174,13 +174,13 @@
         }
       },
       "2025": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "alterations": 2
+          "alterations": 3
         },
         "domain": {
+          "HSC": 7,
           "BLS": 2,
-          "HSC": 4,
           "PHY": 1
         }
       },
@@ -256,13 +256,15 @@
     },
     "collaborations": {
       "United Kingdom": 4,
+      "India": 2,
+      "South Africa": 2,
       "Pakistan": 2,
       "Saudi Arabia": 2,
       "France": 2,
       "Morocco": 2,
       "Nigeria": 2,
       "Republic of the Congo (Congo-Brazzaville)": 2,
-      "India": 1,
+      "Malaysia": 1,
       "Czech Republic": 1,
       "Algeria": 1,
       "Angola": 1,
@@ -284,7 +286,6 @@
       "Namibia": 1,
       "Niger": 1,
       "Senegal": 1,
-      "South Africa": 1,
       "Togo": 1,
       "Zambia": 1,
       "Zimbabwe": 1,
@@ -293,13 +294,15 @@
     },
     "notice_collaborations": {
       "United Kingdom": 4,
+      "India": 2,
+      "South Africa": 2,
       "Pakistan": 2,
       "Saudi Arabia": 2,
       "France": 2,
       "Morocco": 2,
       "Nigeria": 2,
       "Republic of the Congo (Congo-Brazzaville)": 2,
-      "India": 1,
+      "Malaysia": 1,
       "Czech Republic": 1,
       "Algeria": 1,
       "Angola": 1,
@@ -321,7 +324,6 @@
       "Namibia": 1,
       "Niger": 1,
       "Senegal": 1,
-      "South Africa": 1,
       "Togo": 1,
       "Zambia": 1,
       "Zimbabwe": 1,

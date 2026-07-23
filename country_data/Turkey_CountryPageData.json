@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Turkey",
     "yearly_rates": {
-      "2024": 0.58,
+      "2024": 0.5931,
       "2025": 0.1506,
       "2023": 0.8998,
       "2022": 2.256,
@@ -31,7 +31,7 @@
       "1996": 0.177
     },
     "notice_yearly_rates": {
-      "2025": 1.0744,
+      "2025": 1.0845,
       "2024": 1.8321,
       "2020": 0.6225,
       "2023": 1.3061,
@@ -57,9 +57,9 @@
       "2003": 0.0659,
       "2000": 0.1295
     },
-    "average_rate": 0.7238,
+    "average_rate": 0.7248,
     "yearly_retractions": {
-      "2024": 44,
+      "2024": 45,
       "2025": 15,
       "2023": 62,
       "2022": 151,
@@ -88,8 +88,8 @@
       "1996": 1
     },
     "notice_yearly_retractions": {
+      "2025": 108,
       "2026": 34,
-      "2025": 107,
       "2024": 139,
       "2020": 34,
       "2023": 90,
@@ -118,7 +118,7 @@
   },
   "domainwise_data": {
     "country": "Turkey",
-    "total_retractions": 745,
+    "total_retractions": 746,
     "years": {
       "2025": {
         "total": 15,
@@ -137,15 +137,15 @@
         }
       },
       "2024": {
-        "total": 44,
+        "total": 45,
         "marks": {
+          "alterations": 12,
           "research": 17,
           "researcher_integrity": 9,
-          "alterations": 11,
           "supplemental": 7
         },
         "domain": {
-          "HSC": 29,
+          "HSC": 31,
           "BLS": 19,
           "PHY": 29,
           "B/T": 29,
@@ -564,21 +564,21 @@
         }
       },
       "2025": {
-        "total": 107,
+        "total": 108,
         "marks": {
+          "alterations": 54,
           "research": 16,
           "researcher_integrity": 36,
-          "alterations": 53,
           "system": 1,
           "supplemental": 1
         },
         "domain": {
+          "HSC": 49,
           "BLS": 48,
           "PHY": 84,
           "B/T": 118,
           "SOC": 9,
           "ENV": 20,
-          "HSC": 47,
           "HUM": 1
         }
       },
@@ -963,7 +963,7 @@
       "Pakistan": 66,
       "China": 63,
       "Iran": 52,
-      "United States": 35,
+      "United States": 36,
       "Egypt": 33,
       "Iraq": 31,
       "Taiwan": 26,
@@ -1043,7 +1043,7 @@
       "Pakistan": 66,
       "China": 63,
       "Iran": 52,
-      "United States": 35,
+      "United States": 36,
       "Egypt": 33,
       "Iraq": 31,
       "Taiwan": 26,

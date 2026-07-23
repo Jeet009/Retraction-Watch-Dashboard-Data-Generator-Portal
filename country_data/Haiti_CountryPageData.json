@@ -5,16 +5,27 @@
     "notice_yearly_rates": {},
     "average_rate": 0.0,
     "yearly_retractions": {
+      "2024": 1,
       "2022": 1
     },
     "notice_yearly_retractions": {
+      "2025": 1,
       "2024": 1
     }
   },
   "domainwise_data": {
     "country": "Haiti",
-    "total_retractions": 1,
+    "total_retractions": 2,
     "years": {
+      "2024": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "HSC": 1
+        }
+      },
       "2022": {
         "total": 1,
         "marks": {
@@ -26,6 +37,15 @@
       }
     },
     "notice_years": {
+      "2025": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "HSC": 1
+        }
+      },
       "2024": {
         "total": 1,
         "marks": {
@@ -37,10 +57,14 @@
       }
     },
     "collaborations": {
+      "China": 1,
+      "Pakistan": 1,
       "India": 1,
       "Mexico": 1
     },
     "notice_collaborations": {
+      "China": 1,
+      "Pakistan": 1,
       "India": 1,
       "Mexico": 1
     }

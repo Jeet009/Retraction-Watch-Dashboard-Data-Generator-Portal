@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Argentina",
     "yearly_rates": {
+      "2018": 0.2815,
       "2023": 0.2626,
       "2025": 0.0566,
       "2015": 0.2409,
@@ -17,7 +18,6 @@
       "2002": 0.1647,
       "2005": 0.1473,
       "2003": 0.3265,
-      "2018": 0.2111,
       "2017": 0.5982,
       "2006": 0.3943,
       "2011": 0.2753,
@@ -25,7 +25,7 @@
       "2010": 0.1977
     },
     "notice_yearly_rates": {
-      "2025": 0.1699,
+      "2025": 0.2266,
       "2024": 0.503,
       "2023": 0.5909,
       "2020": 0.4243,
@@ -45,8 +45,9 @@
       "2006": 0.2629,
       "2003": 0.1633
     },
-    "average_rate": 0.2159,
+    "average_rate": 0.2191,
     "yearly_retractions": {
+      "2018": 4,
       "2023": 4,
       "2025": 1,
       "2015": 3,
@@ -62,7 +63,6 @@
       "2002": 1,
       "2005": 1,
       "2003": 2,
-      "2018": 3,
       "2017": 8,
       "2006": 3,
       "2011": 3,
@@ -72,7 +72,7 @@
       "1987": 1
     },
     "notice_yearly_retractions": {
-      "2025": 3,
+      "2025": 4,
       "2026": 2,
       "2024": 8,
       "2023": 9,
@@ -97,7 +97,7 @@
   },
   "domainwise_data": {
     "country": "Argentina",
-    "total_retractions": 69,
+    "total_retractions": 70,
     "years": {
       "2025": {
         "total": 1,
@@ -176,16 +176,16 @@
         }
       },
       "2018": {
-        "total": 3,
+        "total": 4,
         "marks": {
-          "alterations": 1,
+          "alterations": 2,
           "researcher_integrity": 2
         },
         "domain": {
+          "BLS": 7,
           "HSC": 3,
           "SOC": 1,
-          "PHY": 1,
-          "BLS": 3
+          "PHY": 1
         }
       },
       "2017": {
@@ -385,15 +385,15 @@
         }
       },
       "2025": {
-        "total": 3,
+        "total": 4,
         "marks": {
+          "alterations": 2,
           "researcher_integrity": 1,
-          "alterations": 1,
           "research": 1
         },
         "domain": {
+          "BLS": 6,
           "HSC": 7,
-          "BLS": 2,
           "PHY": 2,
           "SOC": 1
         }
