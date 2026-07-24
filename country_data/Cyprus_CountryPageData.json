@@ -2,10 +2,10 @@
   "retraction_rate_data": {
     "country": "Cyprus",
     "yearly_rates": {
+      "2022": 2.2396,
       "2020": 1.3609,
       "2023": 0.215,
       "2021": 0.9622,
-      "2022": 2.0157,
       "2018": 0.3604,
       "2015": 0.5297,
       "2017": 0.3885,
@@ -28,12 +28,12 @@
       "2016": 0.9141,
       "2017": 0.3885
     },
-    "average_rate": 0.5242,
+    "average_rate": 0.5423,
     "yearly_retractions": {
+      "2022": 10,
       "2020": 5,
       "2023": 1,
       "2021": 4,
-      "2022": 9,
       "2018": 1,
       "2015": 1,
       "2017": 1,
@@ -44,6 +44,7 @@
       "2016": 1
     },
     "notice_yearly_retractions": {
+      "2026": 1,
       "2021": 5,
       "2024": 3,
       "2025": 4,
@@ -59,7 +60,7 @@
   },
   "domainwise_data": {
     "country": "Cyprus",
-    "total_retractions": 29,
+    "total_retractions": 30,
     "years": {
       "2023": {
         "total": 1,
@@ -71,17 +72,17 @@
         }
       },
       "2022": {
-        "total": 9,
+        "total": 10,
         "marks": {
-          "researcher_integrity": 2,
+          "researcher_integrity": 3,
           "supplemental": 2,
           "research": 5
         },
         "domain": {
+          "PHY": 3,
           "B/T": 12,
           "ENV": 3,
           "HSC": 8,
-          "PHY": 1,
           "BLS": 2
         }
       },
@@ -197,6 +198,15 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "PHY": 2
+        }
+      },
       "2025": {
         "total": 4,
         "marks": {
@@ -330,9 +340,9 @@
     "collaborations": {
       "United Kingdom": 5,
       "Turkey": 5,
+      "China": 4,
       "Greece": 4,
       "United States": 3,
-      "China": 3,
       "Egypt": 3,
       "Saudi Arabia": 3,
       "Germany": 3,
@@ -341,6 +351,8 @@
       "Russia": 2,
       "Spain": 2,
       "Brazil": 2,
+      "Georgia": 1,
+      "South Africa": 1,
       "Iceland": 1,
       "Malta": 1,
       "Uzbekistan": 1,
@@ -366,9 +378,9 @@
     "notice_collaborations": {
       "United Kingdom": 5,
       "Turkey": 5,
+      "China": 4,
       "Greece": 4,
       "United States": 3,
-      "China": 3,
       "Egypt": 3,
       "Saudi Arabia": 3,
       "Germany": 3,
@@ -377,6 +389,8 @@
       "Russia": 2,
       "Spain": 2,
       "Brazil": 2,
+      "Georgia": 1,
+      "South Africa": 1,
       "Iceland": 1,
       "Malta": 1,
       "Uzbekistan": 1,

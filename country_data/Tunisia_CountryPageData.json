@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Tunisia",
     "yearly_rates": {
-      "2024": 0.7388,
+      "2024": 0.8311,
       "2023": 0.945,
       "2021": 3.0668,
       "2022": 2.0665,
@@ -25,8 +25,8 @@
       "2005": 0.4596
     },
     "notice_yearly_rates": {
+      "2024": 2.0316,
       "2025": 1.118,
-      "2024": 1.9392,
       "2023": 2.8349,
       "2022": 0.4133,
       "2010": 0.6471,
@@ -45,9 +45,9 @@
       "2009": 0.7018,
       "2005": 0.4596
     },
-    "average_rate": 0.9438,
+    "average_rate": 0.9505,
     "yearly_retractions": {
-      "2024": 8,
+      "2024": 9,
       "2023": 9,
       "2021": 27,
       "2022": 20,
@@ -70,9 +70,9 @@
       "2005": 1
     },
     "notice_yearly_retractions": {
+      "2024": 22,
       "2026": 3,
       "2025": 13,
-      "2024": 21,
       "2023": 27,
       "2022": 4,
       "2010": 3,
@@ -94,19 +94,20 @@
   },
   "domainwise_data": {
     "country": "Tunisia",
-    "total_retractions": 141,
+    "total_retractions": 142,
     "years": {
       "2024": {
-        "total": 8,
+        "total": 9,
         "marks": {
+          "supplemental": 1,
           "researcher_integrity": 3,
           "system": 1,
           "research": 1,
           "alterations": 3
         },
         "domain": {
+          "B/T": 9,
           "BLS": 5,
-          "B/T": 7,
           "PHY": 3,
           "HSC": 4
         }
@@ -407,14 +408,15 @@
         }
       },
       "2024": {
-        "total": 21,
+        "total": 22,
         "marks": {
+          "supplemental": 1,
           "alterations": 13,
           "research": 3,
           "researcher_integrity": 5
         },
         "domain": {
-          "B/T": 14,
+          "B/T": 16,
           "BLS": 17,
           "HSC": 10,
           "PHY": 18,

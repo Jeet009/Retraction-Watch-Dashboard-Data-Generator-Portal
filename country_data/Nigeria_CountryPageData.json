@@ -2,11 +2,11 @@
   "retraction_rate_data": {
     "country": "Nigeria",
     "yearly_rates": {
+      "2025": 0.0944,
       "2023": 3.1086,
       "2018": 0.8643,
       "2020": 1.4003,
       "2022": 2.0419,
-      "2025": 0.0472,
       "2021": 1.5347,
       "2024": 1.2474,
       "2014": 1.3596,
@@ -23,7 +23,7 @@
       "2011": 0.8547
     },
     "notice_yearly_rates": {
-      "2025": 4.2945,
+      "2025": 4.3417,
       "2014": 1.3596,
       "2024": 1.2474,
       "2023": 0.8369,
@@ -40,13 +40,13 @@
       "2013": 0.3586,
       "2015": 0.8537
     },
-    "average_rate": 1.1166,
+    "average_rate": 1.1216,
     "yearly_retractions": {
+      "2025": 2,
       "2023": 52,
       "2018": 8,
       "2020": 20,
       "2022": 34,
-      "2025": 1,
       "2021": 25,
       "2024": 22,
       "2014": 8,
@@ -63,8 +63,8 @@
       "2011": 5
     },
     "notice_yearly_retractions": {
+      "2025": 92,
       "2026": 22,
-      "2025": 91,
       "2014": 8,
       "2024": 22,
       "2023": 14,
@@ -84,14 +84,16 @@
   },
   "domainwise_data": {
     "country": "Nigeria",
-    "total_retractions": 226,
+    "total_retractions": 227,
     "years": {
       "2025": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "alterations": 1,
           "research": 1
         },
         "domain": {
+          "B/T": 1,
           "ENV": 1
         }
       },
@@ -382,20 +384,20 @@
         }
       },
       "2025": {
-        "total": 91,
+        "total": 92,
         "marks": {
+          "alterations": 46,
           "research": 21,
-          "alterations": 45,
           "system": 3,
           "researcher_integrity": 21,
           "supplemental": 1
         },
         "domain": {
+          "B/T": 25,
           "ENV": 18,
           "HSC": 37,
           "PHY": 112,
           "BLS": 56,
-          "B/T": 24,
           "SOC": 3
         }
       },

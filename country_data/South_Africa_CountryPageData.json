@@ -2,12 +2,12 @@
   "retraction_rate_data": {
     "country": "South Africa",
     "yearly_rates": {
+      "2022": 0.9324,
       "2020": 0.4544,
       "2023": 1.3015,
       "2018": 0.3736,
       "2024": 1.1858,
       "2025": 0.1001,
-      "2022": 0.9003,
       "2019": 0.7099,
       "2021": 1.0586,
       "2015": 0.5282,
@@ -49,14 +49,14 @@
       "2001": 0.1877,
       "2005": 0.1322
     },
-    "average_rate": 0.5665,
+    "average_rate": 0.5686,
     "yearly_retractions": {
+      "2022": 29,
       "2020": 13,
       "2023": 39,
       "2018": 9,
       "2024": 38,
       "2025": 4,
-      "2022": 28,
       "2019": 19,
       "2021": 32,
       "2015": 10,
@@ -79,7 +79,7 @@
       "2006": 1
     },
     "notice_yearly_retractions": {
-      "2026": 26,
+      "2026": 27,
       "2025": 78,
       "2023": 18,
       "2024": 25,
@@ -104,7 +104,7 @@
   },
   "domainwise_data": {
     "country": "South Africa",
-    "total_retractions": 270,
+    "total_retractions": 271,
     "years": {
       "2025": {
         "total": 4,
@@ -155,17 +155,17 @@
         }
       },
       "2022": {
-        "total": 28,
+        "total": 29,
         "marks": {
+          "researcher_integrity": 10,
           "alterations": 11,
           "research": 7,
-          "researcher_integrity": 9,
           "system": 1
         },
         "domain": {
+          "PHY": 43,
           "BLS": 8,
           "HSC": 8,
-          "PHY": 41,
           "ENV": 6,
           "B/T": 14,
           "SOC": 2
@@ -479,16 +479,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 26,
+        "total": 27,
         "marks": {
+          "researcher_integrity": 2,
           "alterations": 13,
           "supplemental": 8,
-          "research": 4,
-          "researcher_integrity": 1
+          "research": 4
         },
         "domain": {
+          "PHY": 31,
           "BLS": 8,
-          "PHY": 29,
           "B/T": 10,
           "SOC": 7,
           "HSC": 6,
@@ -801,8 +801,8 @@
       "India": 34,
       "United States": 32,
       "Saudi Arabia": 26,
+      "China": 22,
       "Pakistan": 22,
-      "China": 21,
       "United Kingdom": 18,
       "Canada": 13,
       "Iran": 12,
@@ -854,6 +854,8 @@
       "Austria": 2,
       "Romania": 2,
       "Italy": 2,
+      "Cyprus": 1,
+      "Georgia": 1,
       "Somalia": 1,
       "New Zealand": 1,
       "Malawi": 1,
@@ -888,8 +890,8 @@
       "India": 34,
       "United States": 32,
       "Saudi Arabia": 26,
+      "China": 22,
       "Pakistan": 22,
-      "China": 21,
       "United Kingdom": 18,
       "Canada": 13,
       "Iran": 12,
@@ -941,6 +943,8 @@
       "Austria": 2,
       "Romania": 2,
       "Italy": 2,
+      "Cyprus": 1,
+      "Georgia": 1,
       "Somalia": 1,
       "New Zealand": 1,
       "Malawi": 1,

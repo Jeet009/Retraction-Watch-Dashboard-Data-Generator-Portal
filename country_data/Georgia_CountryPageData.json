@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Georgia",
     "yearly_rates": {
+      "2022": 4.8733,
       "2021": 0.9718,
-      "2022": 4.386,
       "2024": 1.3393,
       "2023": 2.741,
       "2025": 0.3683,
@@ -27,10 +27,10 @@
       "2013": 1.0515,
       "2015": 0.8525
     },
-    "average_rate": 0.9109,
+    "average_rate": 0.9413,
     "yearly_retractions": {
+      "2022": 10,
       "2021": 2,
-      "2022": 9,
       "2024": 3,
       "2023": 6,
       "2025": 1,
@@ -43,7 +43,7 @@
       "2014": 1
     },
     "notice_yearly_retractions": {
-      "2026": 1,
+      "2026": 2,
       "2025": 8,
       "2023": 5,
       "2022": 4,
@@ -58,7 +58,7 @@
   },
   "domainwise_data": {
     "country": "Georgia",
-    "total_retractions": 30,
+    "total_retractions": 31,
     "years": {
       "2025": {
         "total": 1,
@@ -95,16 +95,16 @@
         }
       },
       "2022": {
-        "total": 9,
+        "total": 10,
         "marks": {
-          "researcher_integrity": 2,
+          "researcher_integrity": 3,
           "alterations": 5,
           "system": 2
         },
         "domain": {
+          "PHY": 9,
           "BLS": 3,
           "HSC": 2,
-          "PHY": 7,
           "B/T": 8,
           "ENV": 1,
           "SOC": 4,
@@ -193,11 +193,13 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "research": 1
         },
         "domain": {
+          "PHY": 2,
           "HSC": 2
         }
       },
@@ -318,7 +320,7 @@
       }
     },
     "collaborations": {
-      "China": 10,
+      "China": 11,
       "Pakistan": 7,
       "Saudi Arabia": 5,
       "Turkey": 5,
@@ -329,6 +331,8 @@
       "United Kingdom": 2,
       "Nigeria": 2,
       "Spain": 2,
+      "Cyprus": 1,
+      "South Africa": 1,
       "Italy": 1,
       "Jordan": 1,
       "Tajikistan": 1,
@@ -340,7 +344,7 @@
       "France": 1
     },
     "notice_collaborations": {
-      "China": 10,
+      "China": 11,
       "Pakistan": 7,
       "Saudi Arabia": 5,
       "Turkey": 5,
@@ -351,6 +355,8 @@
       "United Kingdom": 2,
       "Nigeria": 2,
       "Spain": 2,
+      "Cyprus": 1,
+      "South Africa": 1,
       "Italy": 1,
       "Jordan": 1,
       "Tajikistan": 1,
