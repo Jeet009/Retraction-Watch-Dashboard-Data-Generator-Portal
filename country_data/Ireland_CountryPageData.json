@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Ireland",
     "yearly_rates": {
+      "2023": 0.9912,
       "2024": 0.4692,
-      "2023": 0.9362,
       "2020": 0.3657,
       "2015": 0.4236,
       "2025": 0.1724,
@@ -50,10 +50,10 @@
       "1999": 0.312,
       "1998": 0.3152
     },
-    "average_rate": 0.4082,
+    "average_rate": 0.4114,
     "yearly_retractions": {
+      "2023": 18,
       "2024": 9,
-      "2023": 17,
       "2020": 6,
       "2015": 5,
       "2025": 4,
@@ -78,7 +78,7 @@
       "1998": 1
     },
     "notice_yearly_retractions": {
-      "2026": 12,
+      "2026": 13,
       "2025": 19,
       "2024": 5,
       "2023": 17,
@@ -104,7 +104,7 @@
   },
   "domainwise_data": {
     "country": "Ireland",
-    "total_retractions": 127,
+    "total_retractions": 128,
     "years": {
       "2025": {
         "total": 4,
@@ -137,15 +137,15 @@
         }
       },
       "2023": {
-        "total": 17,
+        "total": 18,
         "marks": {
-          "alterations": 1,
+          "alterations": 2,
           "researcher_integrity": 3,
           "system": 13
         },
         "domain": {
-          "BLS": 1,
-          "HSC": 32,
+          "BLS": 4,
+          "HSC": 35,
           "PHY": 1,
           "B/T": 5,
           "SOC": 4,
@@ -422,19 +422,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 12,
+        "total": 13,
         "marks": {
+          "alterations": 2,
           "supplemental": 1,
           "research": 2,
-          "alterations": 1,
           "researcher_integrity": 8
         },
         "domain": {
+          "BLS": 6,
+          "HSC": 4,
           "B/T": 16,
           "SOC": 1,
-          "PHY": 4,
-          "BLS": 3,
-          "HSC": 1
+          "PHY": 4
         }
       },
       "2025": {
@@ -701,14 +701,14 @@
     },
     "collaborations": {
       "United Kingdom": 31,
-      "United States": 16,
+      "United States": 17,
       "China": 15,
       "Pakistan": 10,
       "India": 9,
       "France": 8,
+      "Australia": 6,
       "South Korea": 5,
       "Saudi Arabia": 5,
-      "Australia": 5,
       "Italy": 5,
       "Germany": 4,
       "Canada": 3,
@@ -749,14 +749,14 @@
     },
     "notice_collaborations": {
       "United Kingdom": 31,
-      "United States": 16,
+      "United States": 17,
       "China": 15,
       "Pakistan": 10,
       "India": 9,
       "France": 8,
+      "Australia": 6,
       "South Korea": 5,
       "Saudi Arabia": 5,
-      "Australia": 5,
       "Italy": 5,
       "Germany": 4,
       "Canada": 3,

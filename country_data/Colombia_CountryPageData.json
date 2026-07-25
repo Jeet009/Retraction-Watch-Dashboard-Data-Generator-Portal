@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Colombia",
     "yearly_rates": {
+      "2013": 0.5645,
       "2023": 0.1209,
       "2021": 1.1167,
       "2017": 0.3509,
@@ -12,17 +13,16 @@
       "2019": 1.7825,
       "2018": 0.5514,
       "2016": 0.5876,
-      "2013": 0.2822,
       "2004": 0.7402,
       "2006": 0.4587,
       "2012": 0.1555,
       "2014": 0.1265
     },
     "notice_yearly_rates": {
-      "2025": 0.3582,
+      "2025": 0.4094,
+      "2022": 0.9109,
       "2023": 0.7862,
       "2024": 0.4112,
-      "2022": 0.8502,
       "2018": 0.5514,
       "2019": 0.2742,
       "2021": 0.7641,
@@ -32,8 +32,9 @@
       "2015": 0.2285,
       "2016": 0.0979
     },
-    "average_rate": 0.4863,
+    "average_rate": 0.4957,
     "yearly_retractions": {
+      "2013": 4,
       "2023": 2,
       "2021": 19,
       "2017": 4,
@@ -44,18 +45,17 @@
       "2019": 26,
       "2018": 7,
       "2016": 6,
-      "2013": 2,
       "2004": 1,
       "2006": 1,
       "2012": 1,
       "2014": 1
     },
     "notice_yearly_retractions": {
-      "2025": 7,
+      "2025": 8,
+      "2022": 15,
       "2026": 1,
       "2023": 13,
       "2024": 7,
-      "2022": 14,
       "2018": 7,
       "2019": 4,
       "2021": 13,
@@ -68,7 +68,7 @@
   },
   "domainwise_data": {
     "country": "Colombia",
-    "total_retractions": 104,
+    "total_retractions": 106,
     "years": {
       "2024": {
         "total": 2,
@@ -220,11 +220,13 @@
         }
       },
       "2013": {
-        "total": 2,
+        "total": 4,
         "marks": {
+          "researcher_integrity": 2,
           "alterations": 2
         },
         "domain": {
+          "HSC": 5,
           "PHY": 2,
           "SOC": 1
         }
@@ -271,14 +273,14 @@
         }
       },
       "2025": {
-        "total": 7,
+        "total": 8,
         "marks": {
-          "researcher_integrity": 3,
+          "researcher_integrity": 4,
           "research": 1,
           "alterations": 3
         },
         "domain": {
-          "HSC": 3,
+          "HSC": 6,
           "PHY": 6,
           "B/T": 5,
           "BLS": 6
@@ -317,14 +319,14 @@
         }
       },
       "2022": {
-        "total": 14,
+        "total": 15,
         "marks": {
+          "researcher_integrity": 9,
           "research": 5,
-          "alterations": 1,
-          "researcher_integrity": 8
+          "alterations": 1
         },
         "domain": {
-          "HSC": 22,
+          "HSC": 24,
           "B/T": 10,
           "BLS": 3
         }
@@ -438,13 +440,13 @@
       "United States": 17,
       "China": 11,
       "Pakistan": 9,
+      "Spain": 7,
       "India": 7,
+      "Saudi Arabia": 6,
       "Iraq": 6,
-      "Spain": 6,
       "United Kingdom": 6,
-      "Saudi Arabia": 5,
+      "Argentina": 4,
       "Ecuador": 4,
-      "Argentina": 3,
       "Jordan": 3,
       "Malaysia": 3,
       "Brazil": 3,
@@ -460,6 +462,8 @@
       "Aruba": 2,
       "Canada": 2,
       "Israel": 2,
+      "Austria": 1,
+      "Finland": 1,
       "Vietnam": 1,
       "Azerbaijan": 1,
       "Uzbekistan": 1,
@@ -484,13 +488,13 @@
       "United States": 17,
       "China": 11,
       "Pakistan": 9,
+      "Spain": 7,
       "India": 7,
+      "Saudi Arabia": 6,
       "Iraq": 6,
-      "Spain": 6,
       "United Kingdom": 6,
-      "Saudi Arabia": 5,
+      "Argentina": 4,
       "Ecuador": 4,
-      "Argentina": 3,
       "Jordan": 3,
       "Malaysia": 3,
       "Brazil": 3,
@@ -506,6 +510,8 @@
       "Aruba": 2,
       "Canada": 2,
       "Israel": 2,
+      "Austria": 1,
+      "Finland": 1,
       "Vietnam": 1,
       "Azerbaijan": 1,
       "Uzbekistan": 1,
