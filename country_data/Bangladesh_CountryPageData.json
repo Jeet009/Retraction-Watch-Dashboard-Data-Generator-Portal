@@ -4,8 +4,8 @@
     "yearly_rates": {
       "2024": 2.3386,
       "2022": 10.5685,
+      "2025": 0.4723,
       "2023": 3.072,
-      "2025": 0.4198,
       "2020": 2.7347,
       "2021": 2.399,
       "2019": 2.2646,
@@ -22,7 +22,7 @@
     },
     "notice_yearly_rates": {
       "2024": 4.41,
-      "2025": 3.936,
+      "2025": 3.9885,
       "2020": 1.1395,
       "2023": 6.6559,
       "2018": 1.0879,
@@ -38,12 +38,12 @@
       "2014": 0.5068,
       "2016": 0.7057
     },
-    "average_rate": 2.387,
+    "average_rate": 2.3943,
     "yearly_retractions": {
       "2024": 35,
       "2022": 137,
+      "2025": 9,
       "2023": 42,
-      "2025": 8,
       "2020": 24,
       "2021": 30,
       "2019": 17,
@@ -61,7 +61,7 @@
     "notice_yearly_retractions": {
       "2024": 66,
       "2026": 26,
-      "2025": 75,
+      "2025": 76,
       "2020": 10,
       "2023": 91,
       "2018": 6,
@@ -80,21 +80,21 @@
   },
   "domainwise_data": {
     "country": "Bangladesh",
-    "total_retractions": 326,
+    "total_retractions": 327,
     "years": {
       "2025": {
-        "total": 8,
+        "total": 9,
         "marks": {
-          "research": 4,
+          "research": 5,
           "researcher_integrity": 2,
           "alterations": 2
         },
         "domain": {
+          "PHY": 3,
           "BLS": 10,
           "HSC": 9,
           "ENV": 2,
-          "B/T": 6,
-          "PHY": 1
+          "B/T": 6
         }
       },
       "2024": {
@@ -340,15 +340,15 @@
         }
       },
       "2025": {
-        "total": 75,
+        "total": 76,
         "marks": {
-          "research": 36,
+          "research": 37,
           "researcher_integrity": 22,
           "system": 3,
           "alterations": 14
         },
         "domain": {
-          "PHY": 39,
+          "PHY": 41,
           "BLS": 45,
           "HSC": 63,
           "ENV": 17,
@@ -556,7 +556,7 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 124,
+      "Saudi Arabia": 125,
       "India": 107,
       "Pakistan": 49,
       "China": 39,
@@ -626,7 +626,7 @@
       "Cambodia": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 124,
+      "Saudi Arabia": 125,
       "India": 107,
       "Pakistan": 49,
       "China": 39,

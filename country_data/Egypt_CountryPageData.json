@@ -2,22 +2,22 @@
   "retraction_rate_data": {
     "country": "Egypt",
     "yearly_rates": {
+      "2012": 2.6348,
+      "2011": 2.3012,
+      "2014": 2.9051,
       "2021": 4.8091,
+      "2009": 1.6817,
       "2023": 2.3599,
       "2025": 0.3045,
       "2015": 2.2494,
-      "2014": 2.839,
       "2013": 2.5238,
       "2024": 1.3127,
       "2022": 5.3872,
       "2020": 3.9755,
       "2017": 2.6688,
-      "2012": 2.5573,
       "2018": 2.5349,
       "2016": 2.2289,
       "2019": 2.1789,
-      "2011": 2.1171,
-      "2009": 1.5616,
       "2010": 2.4938,
       "2008": 2.9003,
       "2005": 1.0589,
@@ -30,7 +30,9 @@
       "2004": 0.6634
     },
     "notice_yearly_rates": {
-      "2025": 5.1765,
+      "2025": 5.22,
+      "2011": 1.2887,
+      "2014": 1.1224,
       "2024": 5.1555,
       "2023": 5.8261,
       "2022": 2.6936,
@@ -40,7 +42,6 @@
       "2015": 1.3983,
       "2019": 0.9281,
       "2018": 0.9388,
-      "2011": 1.1046,
       "2021": 0.9186,
       "2001": 0.2828,
       "2006": 0.7658,
@@ -49,28 +50,27 @@
       "2013": 1.332,
       "2009": 1.2012,
       "2017": 0.7473,
-      "2014": 1.0564,
       "2010": 0.5421,
       "1998": 0.3331
     },
-    "average_rate": 2.4779,
+    "average_rate": 2.4887,
     "yearly_retractions": {
+      "2012": 34,
+      "2011": 25,
+      "2014": 44,
       "2021": 178,
+      "2009": 14,
       "2023": 96,
       "2025": 14,
       "2015": 37,
-      "2014": 43,
       "2013": 36,
       "2024": 55,
       "2022": 226,
       "2020": 124,
       "2017": 50,
-      "2012": 33,
       "2018": 54,
       "2016": 42,
       "2019": 54,
-      "2011": 23,
-      "2009": 13,
       "2010": 23,
       "2008": 19,
       "2005": 5,
@@ -83,7 +83,9 @@
       "2004": 3
     },
     "notice_yearly_retractions": {
-      "2025": 238,
+      "2025": 240,
+      "2011": 14,
+      "2014": 17,
       "2026": 92,
       "2024": 216,
       "2023": 237,
@@ -94,7 +96,6 @@
       "2015": 23,
       "2019": 23,
       "2018": 20,
-      "2011": 12,
       "2021": 34,
       "2001": 1,
       "2006": 4,
@@ -103,14 +104,13 @@
       "2013": 19,
       "2009": 10,
       "2017": 14,
-      "2014": 16,
       "2010": 5,
       "1998": 1
     }
   },
   "domainwise_data": {
     "country": "Egypt",
-    "total_retractions": 1148,
+    "total_retractions": 1153,
     "years": {
       "2025": {
         "total": 14,
@@ -304,20 +304,20 @@
         }
       },
       "2014": {
-        "total": 43,
+        "total": 44,
         "marks": {
+          "supplemental": 5,
           "alterations": 21,
           "research": 15,
-          "supplemental": 4,
           "researcher_integrity": 2,
           "system": 1
         },
         "domain": {
-          "PHY": 17,
+          "B/T": 5,
+          "PHY": 18,
           "HSC": 69,
           "ENV": 5,
-          "BLS": 30,
-          "B/T": 4
+          "BLS": 30
         }
       },
       "2013": {
@@ -336,37 +336,37 @@
         }
       },
       "2012": {
-        "total": 33,
+        "total": 34,
         "marks": {
+          "alterations": 20,
           "researcher_integrity": 4,
           "research": 6,
-          "alterations": 19,
           "system": 2,
           "supplemental": 2
         },
         "domain": {
+          "PHY": 18,
           "HSC": 44,
           "BLS": 27,
-          "PHY": 14,
           "B/T": 5,
           "SOC": 1,
           "ENV": 2
         }
       },
       "2011": {
-        "total": 23,
+        "total": 25,
         "marks": {
+          "supplemental": 3,
           "research": 5,
           "researcher_integrity": 1,
           "alterations": 15,
-          "supplemental": 1,
           "system": 1
         },
         "domain": {
+          "B/T": 5,
+          "PHY": 4,
           "BLS": 18,
-          "HSC": 30,
-          "B/T": 2,
-          "PHY": 3
+          "HSC": 30
         }
       },
       "2010": {
@@ -385,13 +385,13 @@
         }
       },
       "2009": {
-        "total": 13,
+        "total": 14,
         "marks": {
-          "research": 2,
+          "research": 3,
           "alterations": 11
         },
         "domain": {
-          "HSC": 17,
+          "HSC": 19,
           "BLS": 14,
           "B/T": 1,
           "PHY": 2
@@ -518,18 +518,18 @@
         }
       },
       "2025": {
-        "total": 238,
+        "total": 240,
         "marks": {
-          "alterations": 87,
-          "research": 106,
+          "alterations": 88,
+          "research": 107,
           "researcher_integrity": 37,
           "system": 4,
           "supplemental": 4
         },
         "domain": {
-          "PHY": 187,
+          "PHY": 191,
+          "HSC": 219,
           "BLS": 118,
-          "HSC": 217,
           "SOC": 11,
           "ENV": 27,
           "B/T": 77
@@ -705,17 +705,17 @@
         }
       },
       "2014": {
-        "total": 16,
+        "total": 17,
         "marks": {
+          "supplemental": 5,
           "alterations": 9,
-          "supplemental": 4,
           "research": 2,
           "system": 1
         },
         "domain": {
-          "B/T": 4,
+          "B/T": 5,
+          "PHY": 7,
           "HSC": 13,
-          "PHY": 6,
           "BLS": 10
         }
       },
@@ -751,17 +751,17 @@
         }
       },
       "2011": {
-        "total": 12,
+        "total": 14,
         "marks": {
-          "supplemental": 1,
+          "supplemental": 3,
           "alterations": 7,
           "research": 1,
           "researcher_integrity": 2,
           "system": 1
         },
         "domain": {
-          "B/T": 1,
-          "PHY": 4,
+          "B/T": 4,
+          "PHY": 5,
           "HSC": 18,
           "BLS": 9
         }
@@ -879,12 +879,12 @@
       "Morocco": 9,
       "Uzbekistan": 9,
       "Czech Republic": 9,
+      "Spain": 8,
       "Romania": 8,
       "Vietnam": 8,
       "France": 8,
       "Brazil": 8,
       "Peru": 7,
-      "Spain": 7,
       "Nigeria": 6,
       "South Africa": 6,
       "Tunisia": 6,
@@ -966,12 +966,12 @@
       "Morocco": 9,
       "Uzbekistan": 9,
       "Czech Republic": 9,
+      "Spain": 8,
       "Romania": 8,
       "Vietnam": 8,
       "France": 8,
       "Brazil": 8,
       "Peru": 7,
-      "Spain": 7,
       "Nigeria": 6,
       "South Africa": 6,
       "Tunisia": 6,

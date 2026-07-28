@@ -3,8 +3,8 @@
     "country": "Georgia",
     "yearly_rates": {
       "2022": 4.8733,
+      "2024": 1.7857,
       "2021": 0.9718,
-      "2024": 1.3393,
       "2023": 2.741,
       "2025": 0.3683,
       "2020": 0.9643,
@@ -16,7 +16,7 @@
       "2014": 1.0121
     },
     "notice_yearly_rates": {
-      "2025": 2.9466,
+      "2025": 3.3149,
       "2023": 2.2841,
       "2022": 1.9493,
       "2024": 2.2321,
@@ -27,11 +27,11 @@
       "2013": 1.0515,
       "2015": 0.8525
     },
-    "average_rate": 0.9413,
+    "average_rate": 0.9716,
     "yearly_retractions": {
       "2022": 10,
+      "2024": 4,
       "2021": 2,
-      "2024": 3,
       "2023": 6,
       "2025": 1,
       "2020": 2,
@@ -44,7 +44,7 @@
     },
     "notice_yearly_retractions": {
       "2026": 2,
-      "2025": 8,
+      "2025": 9,
       "2023": 5,
       "2022": 4,
       "2024": 5,
@@ -58,7 +58,7 @@
   },
   "domainwise_data": {
     "country": "Georgia",
-    "total_retractions": 31,
+    "total_retractions": 32,
     "years": {
       "2025": {
         "total": 1,
@@ -70,12 +70,14 @@
         }
       },
       "2024": {
-        "total": 3,
+        "total": 4,
         "marks": {
+          "research": 1,
           "researcher_integrity": 3
         },
         "domain": {
-          "B/T": 3,
+          "B/T": 4,
+          "ENV": 1,
           "PHY": 1,
           "HSC": 7
         }
@@ -204,18 +206,18 @@
         }
       },
       "2025": {
-        "total": 8,
+        "total": 9,
         "marks": {
+          "research": 2,
           "researcher_integrity": 6,
-          "alterations": 1,
-          "research": 1
+          "alterations": 1
         },
         "domain": {
+          "B/T": 7,
+          "ENV": 2,
           "BLS": 3,
           "HSC": 11,
-          "B/T": 6,
           "PHY": 2,
-          "ENV": 1,
           "SOC": 1
         }
       },
@@ -320,7 +322,7 @@
       }
     },
     "collaborations": {
-      "China": 11,
+      "China": 12,
       "Pakistan": 7,
       "Saudi Arabia": 5,
       "Turkey": 5,
@@ -344,7 +346,7 @@
       "France": 1
     },
     "notice_collaborations": {
-      "China": 11,
+      "China": 12,
       "Pakistan": 7,
       "Saudi Arabia": 5,
       "Turkey": 5,
