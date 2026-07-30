@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Tunisia",
     "yearly_rates": {
-      "2024": 0.8311,
+      "2024": 0.9234,
       "2023": 0.945,
       "2021": 3.0668,
       "2022": 2.0665,
@@ -26,7 +26,7 @@
     },
     "notice_yearly_rates": {
       "2024": 2.0316,
-      "2025": 1.118,
+      "2025": 1.204,
       "2023": 2.8349,
       "2022": 0.4133,
       "2010": 0.6471,
@@ -45,9 +45,9 @@
       "2009": 0.7018,
       "2005": 0.4596
     },
-    "average_rate": 0.9505,
+    "average_rate": 0.9572,
     "yearly_retractions": {
-      "2024": 9,
+      "2024": 10,
       "2023": 9,
       "2021": 27,
       "2022": 20,
@@ -72,7 +72,7 @@
     "notice_yearly_retractions": {
       "2024": 22,
       "2026": 3,
-      "2025": 13,
+      "2025": 14,
       "2023": 27,
       "2022": 4,
       "2010": 3,
@@ -94,21 +94,21 @@
   },
   "domainwise_data": {
     "country": "Tunisia",
-    "total_retractions": 142,
+    "total_retractions": 143,
     "years": {
       "2024": {
-        "total": 9,
+        "total": 10,
         "marks": {
           "supplemental": 1,
           "researcher_integrity": 3,
+          "alterations": 4,
           "system": 1,
-          "research": 1,
-          "alterations": 3
+          "research": 1
         },
         "domain": {
           "B/T": 9,
           "BLS": 5,
-          "PHY": 3,
+          "PHY": 5,
           "HSC": 4
         }
       },
@@ -391,17 +391,17 @@
         }
       },
       "2025": {
-        "total": 13,
+        "total": 14,
         "marks": {
+          "alterations": 2,
           "system": 1,
           "research": 3,
-          "researcher_integrity": 8,
-          "alterations": 1
+          "researcher_integrity": 8
         },
         "domain": {
+          "PHY": 15,
           "B/T": 11,
           "BLS": 2,
-          "PHY": 13,
           "ENV": 2,
           "HSC": 3,
           "SOC": 4
@@ -642,7 +642,7 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 53,
+      "Saudi Arabia": 54,
       "China": 20,
       "Pakistan": 19,
       "France": 18,
@@ -696,7 +696,7 @@
       "Switzerland": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 53,
+      "Saudi Arabia": 54,
       "China": 20,
       "Pakistan": 19,
       "France": 18,

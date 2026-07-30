@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Taiwan",
     "yearly_rates": {
-      "2021": 1.6612,
+      "2021": 1.6843,
       "2023": 0.9593,
       "2019": 0.5156,
       "2022": 2.0079,
@@ -56,9 +56,9 @@
       "1998": 0.2411,
       "2006": 0.0344
     },
-    "average_rate": 0.7399,
+    "average_rate": 0.741,
     "yearly_retractions": {
-      "2021": 72,
+      "2021": 73,
       "2023": 40,
       "2019": 19,
       "2022": 90,
@@ -89,7 +89,7 @@
       "1995": 1
     },
     "notice_yearly_retractions": {
-      "2026": 20,
+      "2026": 21,
       "2024": 71,
       "2022": 31,
       "2025": 74,
@@ -119,7 +119,7 @@
   },
   "domainwise_data": {
     "country": "Taiwan",
-    "total_retractions": 696,
+    "total_retractions": 697,
     "years": {
       "2025": {
         "total": 4,
@@ -191,18 +191,18 @@
         }
       },
       "2021": {
-        "total": 72,
+        "total": 73,
         "marks": {
+          "system": 3,
           "researcher_integrity": 24,
           "research": 16,
           "alterations": 26,
-          "system": 2,
           "supplemental": 4
         },
         "domain": {
+          "B/T": 64,
           "PHY": 48,
           "BLS": 43,
-          "B/T": 62,
           "HSC": 41,
           "ENV": 7,
           "SOC": 9,
@@ -566,17 +566,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 20,
+        "total": 21,
         "marks": {
+          "system": 1,
           "researcher_integrity": 5,
           "alterations": 7,
           "research": 6,
           "supplemental": 2
         },
         "domain": {
+          "B/T": 11,
           "PHY": 12,
           "BLS": 22,
-          "B/T": 9,
           "HSC": 10,
           "ENV": 4
         }

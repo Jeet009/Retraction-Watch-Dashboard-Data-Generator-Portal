@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Serbia",
     "yearly_rates": {
+      "2021": 1.1901,
       "2024": 0.4026,
-      "2021": 1.0819,
       "2022": 0.8441,
       "2023": 0.9244,
       "2014": 3.4877,
@@ -45,10 +45,10 @@
       "2011": 0.3195,
       "2009": 0.2124
     },
-    "average_rate": 0.9218,
+    "average_rate": 0.9283,
     "yearly_retractions": {
+      "2021": 11,
       "2024": 4,
-      "2021": 10,
       "2022": 8,
       "2023": 9,
       "2014": 25,
@@ -71,8 +71,8 @@
       "2004": 2
     },
     "notice_yearly_retractions": {
+      "2026": 6,
       "2025": 6,
-      "2026": 5,
       "2023": 13,
       "2024": 7,
       "2016": 13,
@@ -95,7 +95,7 @@
   },
   "domainwise_data": {
     "country": "Serbia",
-    "total_retractions": 144,
+    "total_retractions": 145,
     "years": {
       "2024": {
         "total": 4,
@@ -142,15 +142,15 @@
         }
       },
       "2021": {
-        "total": 10,
+        "total": 11,
         "marks": {
+          "system": 2,
           "researcher_integrity": 5,
           "alterations": 3,
-          "research": 1,
-          "system": 1
+          "research": 1
         },
         "domain": {
-          "B/T": 4,
+          "B/T": 5,
           "PHY": 7,
           "BLS": 3,
           "ENV": 5,
@@ -384,14 +384,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 5,
+        "total": 6,
         "marks": {
+          "system": 1,
           "alterations": 3,
           "research": 1,
           "researcher_integrity": 1
         },
         "domain": {
-          "B/T": 3,
+          "B/T": 4,
           "HSC": 6,
           "ENV": 2,
           "BLS": 3
