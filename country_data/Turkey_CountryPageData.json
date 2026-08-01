@@ -2,11 +2,11 @@
   "retraction_rate_data": {
     "country": "Turkey",
     "yearly_rates": {
+      "2023": 0.9288,
       "2021": 2.0248,
       "2022": 2.2709,
-      "2024": 0.6063,
+      "2024": 0.6195,
       "2025": 0.1506,
-      "2023": 0.9143,
       "2020": 1.2084,
       "2017": 0.523,
       "2019": 0.5748,
@@ -31,7 +31,7 @@
       "1996": 0.177
     },
     "notice_yearly_rates": {
-      "2025": 1.1146,
+      "2025": 1.1246,
       "2024": 1.8321,
       "2020": 0.6225,
       "2023": 1.3061,
@@ -57,13 +57,13 @@
       "2003": 0.0659,
       "2000": 0.1295
     },
-    "average_rate": 0.7607,
+    "average_rate": 0.7626,
     "yearly_retractions": {
+      "2023": 64,
       "2021": 126,
       "2022": 152,
-      "2024": 46,
+      "2024": 47,
       "2025": 15,
-      "2023": 63,
       "2020": 66,
       "2017": 22,
       "2019": 28,
@@ -88,8 +88,8 @@
       "1996": 1
     },
     "notice_yearly_retractions": {
-      "2026": 68,
-      "2025": 111,
+      "2026": 69,
+      "2025": 112,
       "2024": 139,
       "2020": 34,
       "2023": 90,
@@ -118,7 +118,7 @@
   },
   "domainwise_data": {
     "country": "Turkey",
-    "total_retractions": 783,
+    "total_retractions": 785,
     "years": {
       "2025": {
         "total": 15,
@@ -137,17 +137,17 @@
         }
       },
       "2024": {
-        "total": 46,
+        "total": 47,
         "marks": {
           "alterations": 12,
-          "research": 17,
+          "research": 18,
           "researcher_integrity": 10,
           "supplemental": 7
         },
         "domain": {
           "HSC": 32,
           "PHY": 30,
-          "BLS": 19,
+          "BLS": 20,
           "B/T": 29,
           "SOC": 5,
           "ENV": 7,
@@ -155,17 +155,17 @@
         }
       },
       "2023": {
-        "total": 63,
+        "total": 64,
         "marks": {
+          "research": 24,
           "alterations": 17,
-          "research": 23,
           "system": 4,
           "researcher_integrity": 18,
           "supplemental": 1
         },
         "domain": {
+          "B/T": 42,
           "PHY": 45,
-          "B/T": 40,
           "ENV": 9,
           "BLS": 32,
           "HSC": 42,
@@ -547,15 +547,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 68,
+        "total": 69,
         "marks": {
+          "research": 19,
           "system": 40,
-          "research": 18,
           "researcher_integrity": 4,
           "alterations": 6
         },
         "domain": {
-          "B/T": 63,
+          "B/T": 65,
           "HSC": 26,
           "BLS": 15,
           "SOC": 18,
@@ -564,18 +564,18 @@
         }
       },
       "2025": {
-        "total": 111,
+        "total": 112,
         "marks": {
           "alterations": 55,
           "researcher_integrity": 37,
-          "research": 17,
+          "research": 18,
           "system": 1,
           "supplemental": 1
         },
         "domain": {
           "PHY": 88,
           "HSC": 50,
-          "BLS": 48,
+          "BLS": 49,
           "B/T": 120,
           "SOC": 9,
           "ENV": 20,
@@ -960,7 +960,7 @@
     "collaborations": {
       "Saudi Arabia": 89,
       "India": 71,
-      "Pakistan": 67,
+      "Pakistan": 68,
       "China": 66,
       "Iran": 54,
       "United States": 36,
@@ -968,9 +968,9 @@
       "Iraq": 31,
       "Taiwan": 26,
       "Romania": 20,
+      "Malaysia": 18,
       "Russia": 17,
       "United Kingdom": 17,
-      "Malaysia": 17,
       "South Korea": 15,
       "Germany": 14,
       "Lebanon": 14,
@@ -1018,6 +1018,7 @@
       "Syria": 2,
       "Portugal": 2,
       "Slovenia": 2,
+      "Philippines": 1,
       "Norway": 1,
       "Denmark": 1,
       "Singapore": 1,
@@ -1040,7 +1041,7 @@
     "notice_collaborations": {
       "Saudi Arabia": 89,
       "India": 71,
-      "Pakistan": 67,
+      "Pakistan": 68,
       "China": 66,
       "Iran": 54,
       "United States": 36,
@@ -1048,9 +1049,9 @@
       "Iraq": 31,
       "Taiwan": 26,
       "Romania": 20,
+      "Malaysia": 18,
       "Russia": 17,
       "United Kingdom": 17,
-      "Malaysia": 17,
       "South Korea": 15,
       "Germany": 14,
       "Lebanon": 14,
@@ -1098,6 +1099,7 @@
       "Syria": 2,
       "Portugal": 2,
       "Slovenia": 2,
+      "Philippines": 1,
       "Norway": 1,
       "Denmark": 1,
       "Singapore": 1,

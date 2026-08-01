@@ -2,10 +2,10 @@
   "retraction_rate_data": {
     "country": "Philippines",
     "yearly_rates": {
+      "2023": 1.6645,
       "2022": 8.0277,
-      "2023": 1.5365,
+      "2024": 0.7719,
       "2013": 1.6722,
-      "2024": 0.6616,
       "2021": 3.1508,
       "2020": 3.4501,
       "2011": 1.3072,
@@ -15,7 +15,7 @@
       "2016": 0.3426
     },
     "notice_yearly_rates": {
-      "2025": 0.7119,
+      "2025": 0.8009,
       "2024": 1.5437,
       "2023": 6.7862,
       "2021": 3.1508,
@@ -28,12 +28,12 @@
       "2010": 0.8361,
       "2016": 0.3426
     },
-    "average_rate": 1.5276,
+    "average_rate": 1.5515,
     "yearly_retractions": {
+      "2023": 13,
       "2022": 58,
-      "2023": 12,
+      "2024": 7,
       "2013": 3,
-      "2024": 6,
       "2021": 21,
       "2020": 20,
       "2011": 2,
@@ -43,8 +43,8 @@
       "2016": 1
     },
     "notice_yearly_retractions": {
-      "2026": 9,
-      "2025": 8,
+      "2026": 10,
+      "2025": 9,
       "2024": 14,
       "2023": 53,
       "2021": 21,
@@ -60,31 +60,32 @@
   },
   "domainwise_data": {
     "country": "Philippines",
-    "total_retractions": 128,
+    "total_retractions": 130,
     "years": {
       "2024": {
-        "total": 6,
+        "total": 7,
         "marks": {
+          "research": 3,
           "alterations": 3,
-          "supplemental": 1,
-          "research": 2
+          "supplemental": 1
         },
         "domain": {
+          "BLS": 1,
           "B/T": 7,
           "SOC": 2,
           "HSC": 6
         }
       },
       "2023": {
-        "total": 12,
+        "total": 13,
         "marks": {
-          "research": 9,
+          "research": 10,
           "supplemental": 3
         },
         "domain": {
-          "B/T": 22,
+          "B/T": 23,
+          "SOC": 6,
           "HSC": 3,
-          "SOC": 5,
           "ENV": 1
         }
       },
@@ -210,26 +211,27 @@
     },
     "notice_years": {
       "2026": {
-        "total": 9,
+        "total": 10,
         "marks": {
+          "research": 8,
           "researcher_integrity": 1,
-          "research": 7,
           "supplemental": 1
         },
         "domain": {
+          "B/T": 13,
+          "SOC": 6,
           "BLS": 2,
-          "HSC": 4,
-          "B/T": 12,
-          "SOC": 5
+          "HSC": 4
         }
       },
       "2025": {
-        "total": 8,
+        "total": 9,
         "marks": {
-          "research": 6,
+          "research": 7,
           "alterations": 2
         },
         "domain": {
+          "BLS": 1,
           "SOC": 4,
           "B/T": 7,
           "ENV": 2,
@@ -376,17 +378,17 @@
       }
     },
     "collaborations": {
-      "China": 74,
+      "China": 75,
       "United States": 20,
       "Australia": 18,
       "India": 11,
       "Saudi Arabia": 8,
+      "Malaysia": 5,
       "Pakistan": 5,
       "Bangladesh": 4,
       "Indonesia": 4,
       "Thailand": 4,
       "South Korea": 4,
-      "Malaysia": 4,
       "Iraq": 3,
       "Taiwan": 3,
       "Austria": 2,
@@ -396,6 +398,7 @@
       "Ethiopia": 2,
       "United Kingdom": 2,
       "Germany": 2,
+      "Turkey": 1,
       "Egypt": 1,
       "Uzbekistan": 1,
       "Cote d'Ivoire": 1,
@@ -416,17 +419,17 @@
       "Myanmar (formerly Burma)": 1
     },
     "notice_collaborations": {
-      "China": 74,
+      "China": 75,
       "United States": 20,
       "Australia": 18,
       "India": 11,
       "Saudi Arabia": 8,
+      "Malaysia": 5,
       "Pakistan": 5,
       "Bangladesh": 4,
       "Indonesia": 4,
       "Thailand": 4,
       "South Korea": 4,
-      "Malaysia": 4,
       "Iraq": 3,
       "Taiwan": 3,
       "Austria": 2,
@@ -436,6 +439,7 @@
       "Ethiopia": 2,
       "United Kingdom": 2,
       "Germany": 2,
+      "Turkey": 1,
       "Egypt": 1,
       "Uzbekistan": 1,
       "Cote d'Ivoire": 1,
