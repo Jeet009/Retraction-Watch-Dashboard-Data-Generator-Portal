@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Malaysia",
     "yearly_rates": {
-      "2023": 1.4545,
+      "2023": 1.478,
       "2022": 4.2586,
       "2025": 0.1984,
       "2021": 2.5435,
@@ -26,8 +26,8 @@
     },
     "notice_yearly_rates": {
       "2022": 1.8795,
+      "2025": 2.4706,
       "2024": 2.2306,
-      "2025": 2.4526,
       "2023": 3.7067,
       "2021": 0.4987,
       "2020": 0.6457,
@@ -45,9 +45,9 @@
       "2010": 2.6625,
       "2007": 0.1935
     },
-    "average_rate": 1.6486,
+    "average_rate": 1.6503,
     "yearly_retractions": {
-      "2023": 62,
+      "2023": 63,
       "2022": 179,
       "2025": 11,
       "2021": 102,
@@ -72,8 +72,8 @@
     "notice_yearly_retractions": {
       "2026": 34,
       "2022": 79,
+      "2025": 137,
       "2024": 104,
-      "2025": 136,
       "2023": 158,
       "2021": 20,
       "2020": 24,
@@ -94,7 +94,7 @@
   },
   "domainwise_data": {
     "country": "Malaysia",
-    "total_retractions": 956,
+    "total_retractions": 957,
     "years": {
       "2025": {
         "total": 11,
@@ -133,19 +133,19 @@
         }
       },
       "2023": {
-        "total": 62,
+        "total": 63,
         "marks": {
           "research": 23,
+          "researcher_integrity": 17,
           "alterations": 14,
           "system": 6,
-          "researcher_integrity": 16,
           "supplemental": 3
         },
         "domain": {
-          "B/T": 61,
-          "SOC": 21,
+          "B/T": 62,
+          "HSC": 42,
+          "SOC": 22,
           "PHY": 24,
-          "HSC": 41,
           "ENV": 18,
           "BLS": 18
         }
@@ -455,22 +455,22 @@
         }
       },
       "2025": {
-        "total": 136,
+        "total": 137,
         "marks": {
+          "researcher_integrity": 63,
           "research": 32,
-          "researcher_integrity": 62,
           "alterations": 35,
           "system": 5,
           "supplemental": 2
         },
         "domain": {
+          "B/T": 93,
+          "HSC": 80,
+          "SOC": 30,
           "BLS": 44,
-          "B/T": 92,
           "ENV": 36,
           "PHY": 100,
-          "HSC": 79,
-          "HUM": 1,
-          "SOC": 29
+          "HUM": 1
         }
       },
       "2024": {
@@ -775,9 +775,9 @@
       "United Kingdom": 31,
       "Taiwan": 30,
       "Egypt": 29,
+      "Indonesia": 27,
       "United Arab Emirates": 27,
       "United States": 27,
-      "Indonesia": 26,
       "Japan": 24,
       "Vietnam": 23,
       "Serbia": 23,
@@ -864,9 +864,9 @@
       "United Kingdom": 31,
       "Taiwan": 30,
       "Egypt": 29,
+      "Indonesia": 27,
       "United Arab Emirates": 27,
       "United States": 27,
-      "Indonesia": 26,
       "Japan": 24,
       "Vietnam": 23,
       "Serbia": 23,

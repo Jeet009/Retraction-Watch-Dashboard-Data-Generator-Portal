@@ -2,11 +2,11 @@
   "retraction_rate_data": {
     "country": "Netherlands",
     "yearly_rates": {
+      "2021": 0.2826,
       "2023": 0.2342,
       "2024": 0.1925,
       "2025": 0.0637,
       "2022": 0.1831,
-      "2021": 0.2677,
       "2000": 0.0807,
       "2017": 0.4866,
       "2011": 0.8418,
@@ -34,8 +34,8 @@
       "2005": 0.174
     },
     "notice_yearly_rates": {
+      "2024": 0.3258,
       "2025": 0.1529,
-      "2024": 0.311,
       "2023": 0.3123,
       "2002": 0.0379,
       "2020": 0.7416,
@@ -60,13 +60,13 @@
       "1997": 0.0423,
       "1999": 0.0432
     },
-    "average_rate": 0.3163,
+    "average_rate": 0.317,
     "yearly_retractions": {
+      "2021": 19,
       "2023": 15,
       "2024": 13,
       "2025": 5,
       "2022": 12,
-      "2021": 18,
       "2000": 2,
       "2017": 27,
       "2011": 39,
@@ -98,9 +98,9 @@
       "1923": 2
     },
     "notice_yearly_retractions": {
+      "2024": 22,
       "2026": 15,
       "2025": 12,
-      "2024": 21,
       "2023": 20,
       "2002": 1,
       "2020": 46,
@@ -130,7 +130,7 @@
   },
   "domainwise_data": {
     "country": "Netherlands",
-    "total_retractions": 437,
+    "total_retractions": 438,
     "years": {
       "2025": {
         "total": 5,
@@ -202,17 +202,17 @@
         }
       },
       "2021": {
-        "total": 18,
+        "total": 19,
         "marks": {
+          "research": 8,
           "alterations": 1,
-          "research": 7,
           "researcher_integrity": 4,
           "system": 5,
           "supplemental": 1
         },
         "domain": {
+          "PHY": 3,
           "HSC": 29,
-          "PHY": 2,
           "BLS": 8,
           "SOC": 4,
           "B/T": 2
@@ -685,14 +685,15 @@
         }
       },
       "2024": {
-        "total": 21,
+        "total": 22,
         "marks": {
+          "research": 8,
           "researcher_integrity": 6,
           "alterations": 7,
-          "research": 7,
           "supplemental": 1
         },
         "domain": {
+          "PHY": 1,
           "HSC": 21,
           "B/T": 14,
           "BLS": 15,
@@ -1073,7 +1074,7 @@
       "United Kingdom": 51,
       "Germany": 41,
       "France": 31,
-      "China": 27,
+      "China": 28,
       "Belgium": 19,
       "Italy": 17,
       "Australia": 16,
@@ -1104,6 +1105,7 @@
       "Greece": 3,
       "Mexico": 3,
       "New Zealand": 3,
+      "Brazil": 2,
       "Ireland": 2,
       "Iraq": 2,
       "South Korea": 2,
@@ -1124,7 +1126,6 @@
       "Chile": 1,
       "Cyprus": 1,
       "Taiwan": 1,
-      "Brazil": 1,
       "Ethiopia": 1,
       "Nepal": 1,
       "Albania": 1,
@@ -1139,7 +1140,7 @@
       "United Kingdom": 51,
       "Germany": 41,
       "France": 31,
-      "China": 27,
+      "China": 28,
       "Belgium": 19,
       "Italy": 17,
       "Australia": 16,
@@ -1170,6 +1171,7 @@
       "Greece": 3,
       "Mexico": 3,
       "New Zealand": 3,
+      "Brazil": 2,
       "Ireland": 2,
       "Iraq": 2,
       "South Korea": 2,
@@ -1190,7 +1192,6 @@
       "Chile": 1,
       "Cyprus": 1,
       "Taiwan": 1,
-      "Brazil": 1,
       "Ethiopia": 1,
       "Nepal": 1,
       "Albania": 1,

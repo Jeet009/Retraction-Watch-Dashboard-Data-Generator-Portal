@@ -4,7 +4,7 @@
     "yearly_rates": {
       "2022": 1.2286,
       "2023": 0.4756,
-      "2024": 0.2626,
+      "2024": 0.3151,
       "2012": 1.1388,
       "2020": 0.3524,
       "2021": 0.6515,
@@ -28,7 +28,7 @@
       "2000": 0.3249
     },
     "notice_yearly_rates": {
-      "2025": 1.2237,
+      "2025": 1.2674,
       "2019": 0.3419,
       "2023": 0.3699,
       "2024": 0.2626,
@@ -49,11 +49,11 @@
       "2003": 0.2668,
       "2004": 0.2518
     },
-    "average_rate": 0.6308,
+    "average_rate": 0.6339,
     "yearly_retractions": {
       "2022": 23,
       "2023": 9,
-      "2024": 5,
+      "2024": 6,
       "2012": 16,
       "2020": 6,
       "2021": 12,
@@ -78,7 +78,7 @@
     },
     "notice_yearly_retractions": {
       "2026": 9,
-      "2025": 28,
+      "2025": 29,
       "2019": 6,
       "2023": 7,
       "2024": 5,
@@ -102,19 +102,19 @@
   },
   "domainwise_data": {
     "country": "Romania",
-    "total_retractions": 207,
+    "total_retractions": 208,
     "years": {
       "2024": {
-        "total": 5,
+        "total": 6,
         "marks": {
-          "research": 2,
+          "research": 3,
           "researcher_integrity": 3
         },
         "domain": {
+          "PHY": 4,
           "B/T": 4,
           "HSC": 3,
           "SOC": 1,
-          "PHY": 2,
           "ENV": 1
         }
       },
@@ -441,20 +441,20 @@
         }
       },
       "2025": {
-        "total": 28,
+        "total": 29,
         "marks": {
-          "research": 4,
+          "research": 5,
           "researcher_integrity": 13,
           "system": 1,
           "alterations": 10
         },
         "domain": {
+          "PHY": 30,
           "B/T": 21,
           "HSC": 16,
           "SOC": 2,
           "ENV": 5,
-          "BLS": 10,
-          "PHY": 28
+          "BLS": 10
         }
       },
       "2024": {
@@ -738,9 +738,9 @@
       "Germany": 7,
       "Poland": 6,
       "Italy": 6,
+      "Hungary": 5,
       "Russia": 5,
       "South Korea": 4,
-      "Hungary": 4,
       "Oman": 3,
       "Jordan": 3,
       "Ecuador": 3,
@@ -789,9 +789,9 @@
       "Germany": 7,
       "Poland": 6,
       "Italy": 6,
+      "Hungary": 5,
       "Russia": 5,
       "South Korea": 4,
-      "Hungary": 4,
       "Oman": 3,
       "Jordan": 3,
       "Ecuador": 3,
