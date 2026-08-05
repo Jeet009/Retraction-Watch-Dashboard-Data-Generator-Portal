@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Bangladesh",
     "yearly_rates": {
-      "2024": 2.3386,
+      "2024": 2.4055,
       "2022": 10.5685,
       "2021": 2.479,
       "2025": 0.4723,
@@ -22,7 +22,7 @@
     },
     "notice_yearly_rates": {
       "2024": 4.41,
-      "2025": 4.0409,
+      "2025": 4.0934,
       "2020": 1.1395,
       "2023": 6.6559,
       "2018": 1.0879,
@@ -38,9 +38,9 @@
       "2014": 0.5068,
       "2016": 0.7057
     },
-    "average_rate": 2.4017,
+    "average_rate": 2.409,
     "yearly_retractions": {
-      "2024": 35,
+      "2024": 36,
       "2022": 137,
       "2021": 31,
       "2025": 9,
@@ -61,7 +61,7 @@
     "notice_yearly_retractions": {
       "2024": 66,
       "2026": 26,
-      "2025": 77,
+      "2025": 78,
       "2020": 10,
       "2023": 91,
       "2018": 6,
@@ -80,7 +80,7 @@
   },
   "domainwise_data": {
     "country": "Bangladesh",
-    "total_retractions": 328,
+    "total_retractions": 329,
     "years": {
       "2025": {
         "total": 9,
@@ -98,17 +98,17 @@
         }
       },
       "2024": {
-        "total": 35,
+        "total": 36,
         "marks": {
           "supplemental": 2,
           "researcher_integrity": 13,
+          "alterations": 6,
           "research": 12,
-          "system": 3,
-          "alterations": 5
+          "system": 3
         },
         "domain": {
-          "PHY": 26,
-          "HSC": 32,
+          "PHY": 27,
+          "HSC": 33,
           "BLS": 14,
           "ENV": 8,
           "B/T": 20,
@@ -340,18 +340,18 @@
         }
       },
       "2025": {
-        "total": 77,
+        "total": 78,
         "marks": {
+          "alterations": 15,
           "research": 38,
           "researcher_integrity": 22,
-          "system": 3,
-          "alterations": 14
+          "system": 3
         },
         "domain": {
+          "HSC": 64,
+          "PHY": 42,
           "BLS": 46,
           "ENV": 18,
-          "PHY": 41,
-          "HSC": 63,
           "B/T": 41,
           "SOC": 8
         }

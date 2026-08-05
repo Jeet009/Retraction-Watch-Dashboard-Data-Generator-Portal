@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "India",
     "yearly_rates": {
-      "2023": 2.1726,
-      "2024": 1.7008,
+      "2023": 2.2017,
+      "2024": 1.7041,
       "2019": 1.6272,
       "2016": 0.9471,
       "2022": 4.1009,
@@ -34,8 +34,8 @@
       "1997": 0.0451
     },
     "notice_yearly_rates": {
+      "2025": 2.7547,
       "2024": 3.1474,
-      "2025": 2.7495,
       "2007": 0.4629,
       "2010": 1.0114,
       "2014": 0.7011,
@@ -62,10 +62,10 @@
       "1998": 0.0442,
       "1997": 0.0451
     },
-    "average_rate": 1.7419,
+    "average_rate": 1.7445,
     "yearly_retractions": {
-      "2023": 596,
-      "2024": 515,
+      "2023": 604,
+      "2024": 516,
       "2019": 302,
       "2016": 137,
       "2022": 1015,
@@ -104,9 +104,9 @@
       "1994": 1
     },
     "notice_yearly_retractions": {
-      "2026": 180,
+      "2026": 187,
+      "2025": 1051,
       "2024": 953,
-      "2025": 1049,
       "2007": 23,
       "2010": 77,
       "2014": 87,
@@ -141,7 +141,7 @@
   },
   "domainwise_data": {
     "country": "India",
-    "total_retractions": 5918,
+    "total_retractions": 5927,
     "years": {
       "2026": {
         "total": 2,
@@ -172,17 +172,17 @@
         }
       },
       "2024": {
-        "total": 515,
+        "total": 516,
         "marks": {
-          "alterations": 271,
+          "alterations": 272,
           "research": 123,
           "researcher_integrity": 49,
           "system": 9,
           "supplemental": 63
         },
         "domain": {
+          "HSC": 514,
           "PHY": 269,
-          "HSC": 512,
           "BLS": 133,
           "SOC": 42,
           "B/T": 447,
@@ -191,22 +191,22 @@
         }
       },
       "2023": {
-        "total": 596,
+        "total": 604,
         "marks": {
-          "research": 213,
+          "research": 221,
           "researcher_integrity": 56,
           "alterations": 266,
           "supplemental": 52,
           "system": 9
         },
         "domain": {
-          "B/T": 755,
-          "HSC": 380,
-          "SOC": 43,
+          "B/T": 769,
+          "HUM": 8,
+          "PHY": 350,
+          "HSC": 384,
+          "SOC": 45,
           "BLS": 242,
-          "PHY": 348,
-          "ENV": 66,
-          "HUM": 7
+          "ENV": 66
         }
       },
       "2022": {
@@ -722,38 +722,38 @@
     },
     "notice_years": {
       "2026": {
-        "total": 180,
+        "total": 187,
         "marks": {
-          "research": 86,
+          "research": 93,
           "researcher_integrity": 25,
           "alterations": 60,
           "system": 6,
           "supplemental": 3
         },
         "domain": {
-          "B/T": 100,
-          "HSC": 142,
-          "SOC": 15,
+          "B/T": 112,
+          "HUM": 4,
+          "PHY": 104,
+          "HSC": 145,
+          "SOC": 17,
           "BLS": 91,
-          "PHY": 102,
-          "ENV": 30,
-          "HUM": 3
+          "ENV": 30
         }
       },
       "2025": {
-        "total": 1049,
+        "total": 1051,
         "marks": {
-          "alterations": 615,
-          "research": 233,
+          "research": 234,
+          "alterations": 616,
           "researcher_integrity": 130,
           "system": 36,
           "supplemental": 35
         },
         "domain": {
+          "B/T": 1035,
+          "HSC": 743,
           "PHY": 647,
-          "HSC": 740,
           "BLS": 422,
-          "B/T": 1033,
           "ENV": 117,
           "SOC": 63,
           "HUM": 9
@@ -1234,10 +1234,10 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 632,
+      "Saudi Arabia": 633,
       "Ethiopia": 390,
       "China": 295,
-      "United States": 239,
+      "United States": 241,
       "Iraq": 205,
       "South Korea": 159,
       "Pakistan": 140,
@@ -1362,10 +1362,10 @@
       "Cyprus": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 632,
+      "Saudi Arabia": 633,
       "Ethiopia": 390,
       "China": 295,
-      "United States": 239,
+      "United States": 241,
       "Iraq": 205,
       "South Korea": 159,
       "Pakistan": 140,

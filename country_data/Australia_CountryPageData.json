@@ -5,9 +5,9 @@
       "2023": 0.5231,
       "2022": 0.8739,
       "2020": 0.6604,
+      "2024": 0.2186,
       "2017": 0.2763,
       "2021": 0.5947,
-      "2024": 0.2095,
       "2025": 0.0466,
       "2014": 0.4555,
       "2019": 0.4106,
@@ -34,7 +34,7 @@
     },
     "notice_yearly_rates": {
       "2024": 0.7104,
-      "2025": 0.621,
+      "2025": 0.6288,
       "2023": 0.988,
       "2020": 0.3733,
       "2008": 0.0772,
@@ -58,14 +58,14 @@
       "2005": 0.0701,
       "1998": 0.037
     },
-    "average_rate": 0.4006,
+    "average_rate": 0.4011,
     "yearly_retractions": {
       "2023": 54,
       "2022": 95,
       "2020": 69,
+      "2024": 24,
       "2017": 25,
       "2021": 66,
-      "2024": 23,
       "2025": 6,
       "2014": 37,
       "2019": 41,
@@ -99,7 +99,7 @@
     "notice_yearly_retractions": {
       "2024": 78,
       "2026": 24,
-      "2025": 80,
+      "2025": 81,
       "2023": 102,
       "2020": 39,
       "2008": 4,
@@ -129,7 +129,7 @@
   },
   "domainwise_data": {
     "country": "Australia",
-    "total_retractions": 811,
+    "total_retractions": 812,
     "years": {
       "2025": {
         "total": 6,
@@ -149,18 +149,18 @@
         }
       },
       "2024": {
-        "total": 23,
+        "total": 24,
         "marks": {
+          "researcher_integrity": 5,
           "research": 10,
-          "researcher_integrity": 4,
           "alterations": 6,
           "system": 1,
           "supplemental": 2
         },
         "domain": {
-          "B/T": 19,
+          "B/T": 20,
+          "PHY": 10,
           "ENV": 9,
-          "PHY": 9,
           "BLS": 13,
           "HSC": 19
         }
@@ -681,18 +681,18 @@
         }
       },
       "2025": {
-        "total": 80,
+        "total": 81,
         "marks": {
+          "researcher_integrity": 27,
           "alterations": 29,
           "research": 24,
-          "researcher_integrity": 26,
           "supplemental": 1
         },
         "domain": {
+          "B/T": 49,
+          "PHY": 34,
           "BLS": 68,
-          "B/T": 48,
           "ENV": 14,
-          "PHY": 33,
           "HSC": 62,
           "SOC": 6,
           "HUM": 1
@@ -1106,7 +1106,7 @@
       }
     },
     "collaborations": {
-      "China": 180,
+      "China": 181,
       "United States": 115,
       "United Kingdom": 73,
       "India": 70,
@@ -1189,7 +1189,7 @@
       "Lebanon": 1
     },
     "notice_collaborations": {
-      "China": 180,
+      "China": 181,
       "United States": 115,
       "United Kingdom": 73,
       "India": 70,

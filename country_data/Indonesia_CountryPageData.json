@@ -4,7 +4,7 @@
     "yearly_rates": {
       "2021": 0.7306,
       "2023": 0.4037,
-      "2024": 0.3048,
+      "2024": 0.3208,
       "2022": 0.7701,
       "2019": 0.3289,
       "2020": 0.2084,
@@ -23,7 +23,7 @@
       "1998": 1.6367
     },
     "notice_yearly_rates": {
-      "2025": 0.6556,
+      "2025": 0.6705,
       "2024": 0.4812,
       "2023": 0.5383,
       "2022": 0.374,
@@ -41,11 +41,11 @@
       "2009": 0.4897,
       "2004": 3.0675
     },
-    "average_rate": 0.5042,
+    "average_rate": 0.5061,
     "yearly_retractions": {
       "2021": 39,
       "2023": 24,
-      "2024": 19,
+      "2024": 20,
       "2022": 35,
       "2019": 16,
       "2020": 11,
@@ -65,7 +65,7 @@
     },
     "notice_yearly_retractions": {
       "2026": 10,
-      "2025": 44,
+      "2025": 45,
       "2024": 30,
       "2023": 32,
       "2022": 17,
@@ -86,7 +86,7 @@
   },
   "domainwise_data": {
     "country": "Indonesia",
-    "total_retractions": 253,
+    "total_retractions": 254,
     "years": {
       "2025": {
         "total": 5,
@@ -107,19 +107,19 @@
         }
       },
       "2024": {
-        "total": 19,
+        "total": 20,
         "marks": {
-          "researcher_integrity": 9,
+          "researcher_integrity": 10,
           "alterations": 7,
           "research": 3
         },
         "domain": {
+          "BLS": 8,
+          "HSC": 16,
           "ENV": 5,
           "PHY": 9,
-          "BLS": 7,
           "SOC": 1,
-          "B/T": 9,
-          "HSC": 15
+          "B/T": 9
         }
       },
       "2023": {
@@ -370,20 +370,20 @@
         }
       },
       "2025": {
-        "total": 44,
+        "total": 45,
         "marks": {
-          "researcher_integrity": 19,
+          "researcher_integrity": 20,
           "research": 12,
           "alterations": 12,
           "system": 1
         },
         "domain": {
+          "BLS": 15,
+          "HSC": 21,
           "B/T": 31,
-          "HSC": 20,
           "SOC": 18,
           "ENV": 14,
           "PHY": 21,
-          "BLS": 14,
           "HUM": 2
         }
       },

@@ -3,8 +3,8 @@
     "country": "Netherlands",
     "yearly_rates": {
       "2021": 0.2826,
+      "2024": 0.2073,
       "2023": 0.2342,
-      "2024": 0.1925,
       "2025": 0.0637,
       "2022": 0.1831,
       "2000": 0.0807,
@@ -35,7 +35,7 @@
     },
     "notice_yearly_rates": {
       "2024": 0.3258,
-      "2025": 0.1529,
+      "2025": 0.1656,
       "2023": 0.3123,
       "2002": 0.0379,
       "2020": 0.7416,
@@ -60,11 +60,11 @@
       "1997": 0.0423,
       "1999": 0.0432
     },
-    "average_rate": 0.317,
+    "average_rate": 0.3178,
     "yearly_retractions": {
       "2021": 19,
+      "2024": 14,
       "2023": 15,
-      "2024": 13,
       "2025": 5,
       "2022": 12,
       "2000": 2,
@@ -99,8 +99,8 @@
     },
     "notice_yearly_retractions": {
       "2024": 22,
+      "2025": 13,
       "2026": 15,
-      "2025": 12,
       "2023": 20,
       "2002": 1,
       "2020": 46,
@@ -130,7 +130,7 @@
   },
   "domainwise_data": {
     "country": "Netherlands",
-    "total_retractions": 438,
+    "total_retractions": 439,
     "years": {
       "2025": {
         "total": 5,
@@ -149,20 +149,20 @@
         }
       },
       "2024": {
-        "total": 13,
+        "total": 14,
         "marks": {
+          "researcher_integrity": 4,
           "supplemental": 5,
           "alterations": 3,
-          "research": 2,
-          "researcher_integrity": 3
+          "research": 2
         },
         "domain": {
+          "HSC": 10,
           "B/T": 8,
           "SOC": 5,
           "PHY": 1,
           "ENV": 2,
-          "BLS": 2,
-          "HSC": 9
+          "BLS": 2
         }
       },
       "2023": {
@@ -669,18 +669,18 @@
         }
       },
       "2025": {
-        "total": 12,
+        "total": 13,
         "marks": {
+          "researcher_integrity": 3,
           "research": 5,
-          "alterations": 5,
-          "researcher_integrity": 2
+          "alterations": 5
         },
         "domain": {
+          "HSC": 16,
           "ENV": 3,
           "HUM": 1,
           "PHY": 3,
           "B/T": 3,
-          "HSC": 15,
           "BLS": 11
         }
       },
