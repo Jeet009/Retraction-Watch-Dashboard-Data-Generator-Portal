@@ -24,6 +24,7 @@
     "average_rate": 0.6179,
     "yearly_retractions": {
       "2024": 7,
+      "2026": 1,
       "2023": 9,
       "2022": 12,
       "2021": 7,
@@ -34,7 +35,7 @@
     },
     "notice_yearly_retractions": {
       "2025": 16,
-      "2026": 1,
+      "2026": 2,
       "2023": 4,
       "2024": 10,
       "2022": 5,
@@ -46,8 +47,18 @@
   },
   "domainwise_data": {
     "country": "Ecuador",
-    "total_retractions": 41,
+    "total_retractions": 42,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "HSC": 1,
+          "SOC": 1
+        }
+      },
       "2024": {
         "total": 7,
         "marks": {
@@ -158,14 +169,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "research": 1,
           "researcher_integrity": 1
         },
         "domain": {
+          "HSC": 2,
+          "SOC": 1,
           "B/T": 1,
-          "ENV": 1,
-          "HSC": 1
+          "ENV": 1
         }
       },
       "2025": {

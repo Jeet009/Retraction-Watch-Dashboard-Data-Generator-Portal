@@ -4,11 +4,11 @@
     "yearly_rates": {
       "2015": 0.2137,
       "2020": 0.2711,
+      "2021": 0.7027,
       "2024": 0.7309,
       "2022": 0.8192,
       "2025": 0.0712,
       "2019": 0.3079,
-      "2021": 0.6658,
       "2023": 0.5205,
       "2010": 0.9137,
       "2000": 0.1501,
@@ -30,7 +30,7 @@
       "1997": 0.1707
     },
     "notice_yearly_rates": {
-      "2025": 1.4242,
+      "2025": 1.4598,
       "2024": 0.4616,
       "2023": 0.4004,
       "2021": 0.2219,
@@ -48,15 +48,15 @@
       "2007": 0.0765,
       "2003": 0.117
     },
-    "average_rate": 0.3186,
+    "average_rate": 0.3206,
     "yearly_retractions": {
       "2015": 5,
       "2020": 7,
+      "2021": 19,
       "2024": 19,
       "2022": 21,
       "2025": 2,
       "2019": 8,
-      "2021": 18,
       "2023": 13,
       "2010": 15,
       "2000": 1,
@@ -79,7 +79,7 @@
       "1997": 1
     },
     "notice_yearly_retractions": {
-      "2025": 40,
+      "2025": 41,
       "2026": 4,
       "2024": 12,
       "2023": 10,
@@ -101,7 +101,7 @@
   },
   "domainwise_data": {
     "country": "Czech Republic",
-    "total_retractions": 161,
+    "total_retractions": 162,
     "years": {
       "2025": {
         "total": 2,
@@ -168,17 +168,18 @@
         }
       },
       "2021": {
-        "total": 18,
+        "total": 19,
         "marks": {
+          "system": 1,
           "researcher_integrity": 13,
           "alterations": 2,
           "research": 3
         },
         "domain": {
+          "PHY": 6,
           "B/T": 5,
           "SOC": 6,
           "HUM": 2,
-          "PHY": 4,
           "BLS": 29,
           "ENV": 3,
           "HSC": 3
@@ -463,18 +464,18 @@
         }
       },
       "2025": {
-        "total": 40,
+        "total": 41,
         "marks": {
           "research": 23,
-          "system": 1,
+          "system": 2,
           "alterations": 7,
           "researcher_integrity": 8,
           "supplemental": 1
         },
         "domain": {
           "BLS": 10,
+          "PHY": 21,
           "ENV": 8,
-          "PHY": 19,
           "HSC": 4,
           "B/T": 35,
           "HUM": 2,
@@ -708,8 +709,8 @@
       "Ukraine": 14,
       "Germany": 13,
       "Slovakia": 12,
+      "India": 12,
       "Iran": 11,
-      "India": 11,
       "United Kingdom": 9,
       "Egypt": 9,
       "France": 8,
@@ -719,12 +720,12 @@
       "Uzbekistan": 5,
       "Italy": 5,
       "South Africa": 4,
+      "Denmark": 4,
       "Turkey": 4,
       "Russia": 4,
       "Canada": 3,
       "Bangladesh": 3,
       "Iraq": 3,
-      "Denmark": 3,
       "Austria": 3,
       "Israel": 3,
       "Netherlands": 3,
@@ -767,8 +768,8 @@
       "Ukraine": 14,
       "Germany": 13,
       "Slovakia": 12,
+      "India": 12,
       "Iran": 11,
-      "India": 11,
       "United Kingdom": 9,
       "Egypt": 9,
       "France": 8,
@@ -778,12 +779,12 @@
       "Uzbekistan": 5,
       "Italy": 5,
       "South Africa": 4,
+      "Denmark": 4,
       "Turkey": 4,
       "Russia": 4,
       "Canada": 3,
       "Bangladesh": 3,
       "Iraq": 3,
-      "Denmark": 3,
       "Austria": 3,
       "Israel": 3,
       "Netherlands": 3,

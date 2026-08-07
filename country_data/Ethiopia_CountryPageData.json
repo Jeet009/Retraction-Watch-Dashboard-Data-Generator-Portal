@@ -5,8 +5,8 @@
       "2024": 1.88,
       "2021": 12.3782,
       "2022": 27.8665,
+      "2023": 4.5622,
       "2025": 0.1459,
-      "2023": 4.4652,
       "2018": 1.4053,
       "2014": 1.1105,
       "2019": 1.3109,
@@ -18,7 +18,7 @@
       "2003": 2.8329
     },
     "notice_yearly_rates": {
-      "2025": 2.9176,
+      "2025": 2.9905,
       "2024": 7.1113,
       "2023": 33.1974,
       "2022": 1.5087,
@@ -32,13 +32,13 @@
       "2016": 0.9465,
       "2004": 2.6882
     },
-    "average_rate": 5.9001,
+    "average_rate": 5.9113,
     "yearly_retractions": {
       "2024": 23,
       "2021": 108,
       "2022": 314,
+      "2023": 47,
       "2025": 2,
-      "2023": 46,
       "2018": 5,
       "2014": 2,
       "2019": 6,
@@ -50,7 +50,7 @@
       "2003": 1
     },
     "notice_yearly_retractions": {
-      "2025": 40,
+      "2025": 41,
       "2026": 11,
       "2024": 87,
       "2023": 342,
@@ -68,7 +68,7 @@
   },
   "domainwise_data": {
     "country": "Ethiopia",
-    "total_retractions": 528,
+    "total_retractions": 529,
     "years": {
       "2025": {
         "total": 2,
@@ -100,21 +100,21 @@
         }
       },
       "2023": {
-        "total": 46,
+        "total": 47,
         "marks": {
+          "alterations": 19,
           "research": 18,
-          "alterations": 18,
           "system": 1,
           "researcher_integrity": 8,
           "supplemental": 1
         },
         "domain": {
+          "BLS": 13,
+          "PHY": 28,
           "HSC": 46,
           "ENV": 2,
           "B/T": 36,
-          "BLS": 12,
           "SOC": 10,
-          "PHY": 26,
           "HUM": 1
         }
       },
@@ -290,19 +290,19 @@
         }
       },
       "2025": {
-        "total": 40,
+        "total": 41,
         "marks": {
-          "alterations": 17,
+          "alterations": 18,
           "research": 11,
           "researcher_integrity": 10,
           "system": 1,
           "supplemental": 1
         },
         "domain": {
-          "PHY": 30,
+          "PHY": 32,
+          "BLS": 12,
           "ENV": 6,
           "HSC": 40,
-          "BLS": 11,
           "B/T": 18,
           "SOC": 2
         }

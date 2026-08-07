@@ -54,6 +54,7 @@
     "yearly_retractions": {
       "2023": 19,
       "2024": 9,
+      "2026": 1,
       "2020": 6,
       "2015": 5,
       "2025": 4,
@@ -78,7 +79,7 @@
       "1998": 1
     },
     "notice_yearly_retractions": {
-      "2026": 13,
+      "2026": 14,
       "2025": 20,
       "2024": 5,
       "2023": 17,
@@ -104,8 +105,17 @@
   },
   "domainwise_data": {
     "country": "Ireland",
-    "total_retractions": 129,
+    "total_retractions": 130,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "HSC": 3
+        }
+      },
       "2025": {
         "total": 4,
         "marks": {
@@ -423,16 +433,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 13,
+        "total": 14,
         "marks": {
           "alterations": 2,
           "supplemental": 1,
-          "research": 2,
-          "researcher_integrity": 8
+          "researcher_integrity": 9,
+          "research": 2
         },
         "domain": {
           "BLS": 6,
-          "HSC": 4,
+          "HSC": 7,
           "B/T": 16,
           "SOC": 1,
           "PHY": 4
