@@ -4,8 +4,8 @@
     "yearly_rates": {
       "2024": 1.88,
       "2021": 12.3782,
+      "2023": 4.6593,
       "2022": 27.8665,
-      "2023": 4.5622,
       "2025": 0.1459,
       "2018": 1.4053,
       "2014": 1.1105,
@@ -32,12 +32,12 @@
       "2016": 0.9465,
       "2004": 2.6882
     },
-    "average_rate": 5.9113,
+    "average_rate": 5.9224,
     "yearly_retractions": {
       "2024": 23,
       "2021": 108,
+      "2023": 48,
       "2022": 314,
-      "2023": 47,
       "2025": 2,
       "2018": 5,
       "2014": 2,
@@ -51,7 +51,7 @@
     },
     "notice_yearly_retractions": {
       "2025": 41,
-      "2026": 11,
+      "2026": 12,
       "2024": 87,
       "2023": 342,
       "2022": 17,
@@ -68,7 +68,7 @@
   },
   "domainwise_data": {
     "country": "Ethiopia",
-    "total_retractions": 529,
+    "total_retractions": 530,
     "years": {
       "2025": {
         "total": 2,
@@ -100,17 +100,17 @@
         }
       },
       "2023": {
-        "total": 47,
+        "total": 48,
         "marks": {
+          "researcher_integrity": 9,
           "alterations": 19,
           "research": 18,
           "system": 1,
-          "researcher_integrity": 8,
           "supplemental": 1
         },
         "domain": {
+          "PHY": 30,
           "BLS": 13,
-          "PHY": 28,
           "HSC": 46,
           "ENV": 2,
           "B/T": 36,
@@ -274,17 +274,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 11,
+        "total": 12,
         "marks": {
           "research": 7,
-          "researcher_integrity": 1,
+          "researcher_integrity": 2,
           "alterations": 3
         },
         "domain": {
           "ENV": 5,
+          "PHY": 11,
           "BLS": 1,
           "HSC": 8,
-          "PHY": 9,
           "B/T": 4,
           "SOC": 3
         }
@@ -476,10 +476,10 @@
       }
     },
     "collaborations": {
-      "India": 390,
-      "Saudi Arabia": 120,
+      "India": 391,
+      "Saudi Arabia": 121,
+      "China": 32,
       "Iraq": 32,
-      "China": 31,
       "South Korea": 21,
       "Pakistan": 21,
       "United States": 20,
@@ -553,10 +553,10 @@
       "Netherlands": 1
     },
     "notice_collaborations": {
-      "India": 390,
-      "Saudi Arabia": 120,
+      "India": 391,
+      "Saudi Arabia": 121,
+      "China": 32,
       "Iraq": 32,
-      "China": 31,
       "South Korea": 21,
       "Pakistan": 21,
       "United States": 20,
