@@ -4,11 +4,11 @@
     "yearly_rates": {
       "2023": 1.7849,
       "2024": 2.0888,
+      "2025": 0.3461,
       "2022": 6.4872,
       "2018": 3.2588,
       "2019": 2.0611,
       "2015": 1.171,
-      "2025": 0.2885,
       "2014": 0.8019,
       "2020": 0.9229,
       "2021": 5.1975,
@@ -27,7 +27,7 @@
     },
     "notice_yearly_rates": {
       "2024": 2.238,
-      "2025": 3.6922,
+      "2025": 3.7499,
       "2023": 5.5332,
       "2022": 0.865,
       "2014": 1.2029,
@@ -46,15 +46,15 @@
       "2011": 0.8282,
       "2008": 0.5429
     },
-    "average_rate": 1.9237,
+    "average_rate": 1.9328,
     "yearly_retractions": {
       "2023": 20,
       "2024": 28,
+      "2025": 6,
       "2022": 60,
       "2018": 14,
       "2019": 11,
       "2015": 3,
-      "2025": 5,
       "2014": 2,
       "2026": 1,
       "2020": 6,
@@ -74,7 +74,7 @@
     },
     "notice_yearly_retractions": {
       "2024": 30,
-      "2025": 64,
+      "2025": 65,
       "2026": 15,
       "2023": 62,
       "2022": 8,
@@ -97,7 +97,7 @@
   },
   "domainwise_data": {
     "country": "Jordan",
-    "total_retractions": 213,
+    "total_retractions": 214,
     "years": {
       "2026": {
         "total": 1,
@@ -109,16 +109,16 @@
         }
       },
       "2025": {
-        "total": 5,
+        "total": 6,
         "marks": {
-          "research": 2,
+          "research": 3,
           "supplemental": 1,
           "alterations": 1,
           "researcher_integrity": 1
         },
         "domain": {
-          "HSC": 6,
-          "B/T": 5,
+          "B/T": 6,
+          "HSC": 9,
           "SOC": 3,
           "ENV": 1,
           "PHY": 2
@@ -405,18 +405,18 @@
         }
       },
       "2025": {
-        "total": 64,
+        "total": 65,
         "marks": {
           "alterations": 23,
-          "research": 6,
+          "research": 7,
           "researcher_integrity": 16,
           "system": 19
         },
         "domain": {
-          "HSC": 40,
+          "HSC": 43,
           "PHY": 26,
+          "B/T": 73,
           "BLS": 36,
-          "B/T": 72,
           "ENV": 3
         }
       },
@@ -638,7 +638,7 @@
     },
     "collaborations": {
       "Saudi Arabia": 91,
-      "India": 46,
+      "India": 47,
       "Pakistan": 36,
       "Iraq": 26,
       "China": 21,
@@ -714,7 +714,7 @@
     },
     "notice_collaborations": {
       "Saudi Arabia": 91,
-      "India": 46,
+      "India": 47,
       "Pakistan": 36,
       "Iraq": 26,
       "China": 21,

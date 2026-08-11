@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Palestine",
     "yearly_rates": {
-      "2023": 0.4585,
+      "2023": 0.917,
       "2019": 2.0121,
       "2024": 0.8909,
       "2025": 0.9265,
@@ -14,7 +14,7 @@
       "2001": 12.6582
     },
     "notice_yearly_rates": {
-      "2025": 1.5442,
+      "2025": 1.853,
       "2024": 0.4454,
       "2023": 2.2925,
       "2022": 0.5634,
@@ -23,9 +23,9 @@
       "2011": 2.6247,
       "2001": 12.6582
     },
-    "average_rate": 0.9049,
+    "average_rate": 0.9552,
     "yearly_retractions": {
-      "2023": 1,
+      "2023": 2,
       "2019": 2,
       "2024": 2,
       "2025": 3,
@@ -37,8 +37,8 @@
       "2001": 1
     },
     "notice_yearly_retractions": {
+      "2025": 6,
       "2026": 2,
-      "2025": 5,
       "2024": 1,
       "2023": 5,
       "2022": 1,
@@ -50,7 +50,7 @@
   },
   "domainwise_data": {
     "country": "Palestine",
-    "total_retractions": 18,
+    "total_retractions": 19,
     "years": {
       "2025": {
         "total": 3,
@@ -73,11 +73,14 @@
         }
       },
       "2023": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "research": 1,
           "researcher_integrity": 1
         },
         "domain": {
+          "B/T": 1,
+          "SOC": 1,
           "PHY": 3
         }
       },
@@ -172,17 +175,17 @@
         }
       },
       "2025": {
-        "total": 5,
+        "total": 6,
         "marks": {
-          "research": 1,
+          "research": 2,
           "researcher_integrity": 3,
           "alterations": 1
         },
         "domain": {
+          "B/T": 4,
+          "SOC": 2,
           "HUM": 2,
-          "SOC": 1,
-          "HSC": 10,
-          "B/T": 3
+          "HSC": 10
         }
       },
       "2024": {
@@ -271,6 +274,7 @@
       "Egypt": 3,
       "Iraq": 2,
       "Sri Lanka": 2,
+      "Turkey": 1,
       "Taiwan": 1,
       "Germany": 1,
       "United Arab Emirates": 1,
@@ -293,6 +297,7 @@
       "Egypt": 3,
       "Iraq": 2,
       "Sri Lanka": 2,
+      "Turkey": 1,
       "Taiwan": 1,
       "Germany": 1,
       "United Arab Emirates": 1,

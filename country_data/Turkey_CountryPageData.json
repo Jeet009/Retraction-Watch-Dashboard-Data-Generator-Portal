@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Turkey",
     "yearly_rates": {
-      "2023": 0.9288,
+      "2023": 0.9433,
       "2021": 2.0248,
       "2022": 2.2709,
       "2024": 0.6195,
@@ -31,7 +31,7 @@
       "1996": 0.177
     },
     "notice_yearly_rates": {
-      "2025": 1.1246,
+      "2025": 1.1347,
       "2024": 1.8321,
       "2020": 0.6225,
       "2023": 1.3061,
@@ -57,9 +57,9 @@
       "2003": 0.0659,
       "2000": 0.1295
     },
-    "average_rate": 0.7626,
+    "average_rate": 0.7636,
     "yearly_retractions": {
-      "2023": 64,
+      "2023": 65,
       "2021": 126,
       "2022": 152,
       "2024": 47,
@@ -88,8 +88,8 @@
       "1996": 1
     },
     "notice_yearly_retractions": {
+      "2025": 113,
       "2026": 69,
-      "2025": 112,
       "2024": 139,
       "2020": 34,
       "2023": 90,
@@ -118,7 +118,7 @@
   },
   "domainwise_data": {
     "country": "Turkey",
-    "total_retractions": 785,
+    "total_retractions": 786,
     "years": {
       "2025": {
         "total": 15,
@@ -155,22 +155,22 @@
         }
       },
       "2023": {
-        "total": 64,
+        "total": 65,
         "marks": {
-          "research": 24,
+          "research": 25,
           "alterations": 17,
           "system": 4,
           "researcher_integrity": 18,
           "supplemental": 1
         },
         "domain": {
-          "B/T": 42,
+          "B/T": 43,
+          "SOC": 8,
           "PHY": 45,
           "ENV": 9,
           "BLS": 32,
           "HSC": 42,
-          "HUM": 14,
-          "SOC": 7
+          "HUM": 14
         }
       },
       "2022": {
@@ -564,20 +564,20 @@
         }
       },
       "2025": {
-        "total": 112,
+        "total": 113,
         "marks": {
+          "research": 19,
           "alterations": 55,
           "researcher_integrity": 37,
-          "research": 18,
           "system": 1,
           "supplemental": 1
         },
         "domain": {
+          "B/T": 121,
+          "SOC": 10,
           "PHY": 88,
           "HSC": 50,
           "BLS": 49,
-          "B/T": 120,
-          "SOC": 9,
           "ENV": 20,
           "HUM": 1
         }
@@ -1018,6 +1018,7 @@
       "Syria": 2,
       "Portugal": 2,
       "Slovenia": 2,
+      "Palestine": 1,
       "Philippines": 1,
       "Norway": 1,
       "Denmark": 1,
@@ -1099,6 +1100,7 @@
       "Syria": 2,
       "Portugal": 2,
       "Slovenia": 2,
+      "Palestine": 1,
       "Philippines": 1,
       "Norway": 1,
       "Denmark": 1,

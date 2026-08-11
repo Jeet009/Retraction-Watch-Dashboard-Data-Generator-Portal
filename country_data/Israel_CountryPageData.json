@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Israel",
     "yearly_rates": {
+      "2024": 0.1631,
       "2022": 0.2877,
       "2023": 0.1251,
       "2010": 0.4377,
@@ -11,7 +12,6 @@
       "2025": 0.037,
       "1998": 0.091,
       "2020": 0.1774,
-      "2024": 0.1223,
       "2017": 0.2534,
       "2007": 0.5201,
       "2018": 0.1938,
@@ -31,7 +31,7 @@
       "2002": 0.0789
     },
     "notice_yearly_rates": {
-      "2025": 0.4808,
+      "2025": 0.5178,
       "2024": 0.4484,
       "2023": 0.1251,
       "2022": 0.2877,
@@ -54,8 +54,9 @@
       "1996": 0.0933,
       "1998": 0.091
     },
-    "average_rate": 0.2361,
+    "average_rate": 0.2381,
     "yearly_retractions": {
+      "2024": 4,
       "2022": 7,
       "2023": 3,
       "2010": 7,
@@ -65,7 +66,6 @@
       "2025": 1,
       "1998": 1,
       "2020": 4,
-      "2024": 3,
       "2017": 5,
       "2007": 8,
       "2018": 4,
@@ -90,8 +90,8 @@
       "2002": 1
     },
     "notice_yearly_retractions": {
+      "2025": 14,
       "2026": 1,
-      "2025": 13,
       "2024": 11,
       "2023": 3,
       "2022": 7,
@@ -118,7 +118,7 @@
   },
   "domainwise_data": {
     "country": "Israel",
-    "total_retractions": 128,
+    "total_retractions": 129,
     "years": {
       "2025": {
         "total": 1,
@@ -131,14 +131,14 @@
         }
       },
       "2024": {
-        "total": 3,
+        "total": 4,
         "marks": {
+          "research": 2,
           "system": 1,
-          "research": 1,
           "supplemental": 1
         },
         "domain": {
-          "HSC": 4,
+          "HSC": 6,
           "SOC": 3,
           "BLS": 1
         }
@@ -507,17 +507,17 @@
         }
       },
       "2025": {
-        "total": 13,
+        "total": 14,
         "marks": {
+          "research": 5,
           "researcher_integrity": 1,
           "system": 2,
           "supplemental": 1,
-          "alterations": 5,
-          "research": 4
+          "alterations": 5
         },
         "domain": {
+          "HSC": 19,
           "B/T": 3,
-          "HSC": 17,
           "BLS": 15,
           "SOC": 4
         }
@@ -793,8 +793,8 @@
       "Italy": 8,
       "Germany": 8,
       "United Kingdom": 7,
+      "India": 6,
       "Spain": 6,
-      "India": 5,
       "Austria": 4,
       "Switzerland": 4,
       "Canada": 4,
@@ -835,8 +835,8 @@
       "Italy": 8,
       "Germany": 8,
       "United Kingdom": 7,
+      "India": 6,
       "Spain": 6,
-      "India": 5,
       "Austria": 4,
       "Switzerland": 4,
       "Canada": 4,
