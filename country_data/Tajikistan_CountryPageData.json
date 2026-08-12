@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Tajikistan",
     "yearly_rates": {
+      "2021": 3.1546,
       "2024": 9.0361,
       "2025": 2.5063,
       "2015": 196.7213,
@@ -11,14 +12,16 @@
       "2012": 8.9286
     },
     "notice_yearly_rates": {
+      "2022": 3.6364,
       "2025": 10.0251,
       "2019": 175.7322,
       "2018": 19.8675,
       "2020": 8.5714,
       "2015": 8.1967
     },
-    "average_rate": 13.3771,
+    "average_rate": 13.6295,
     "yearly_retractions": {
+      "2021": 1,
       "2024": 3,
       "2025": 1,
       "2015": 24,
@@ -28,6 +31,7 @@
       "2012": 1
     },
     "notice_yearly_retractions": {
+      "2022": 1,
       "2025": 4,
       "2019": 42,
       "2018": 3,
@@ -37,7 +41,7 @@
   },
   "domainwise_data": {
     "country": "Tajikistan",
-    "total_retractions": 53,
+    "total_retractions": 54,
     "years": {
       "2025": {
         "total": 1,
@@ -57,6 +61,15 @@
           "B/T": 2,
           "ENV": 1,
           "PHY": 4
+        }
+      },
+      "2021": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "PHY": 2
         }
       },
       "2018": {
@@ -129,6 +142,15 @@
           "HSC": 2
         }
       },
+      "2022": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "PHY": 2
+        }
+      },
       "2020": {
         "total": 3,
         "marks": {
@@ -175,6 +197,8 @@
       "Russia": 7,
       "Uzbekistan": 2,
       "India": 2,
+      "Algeria": 1,
+      "China": 1,
       "Georgia": 1,
       "Pakistan": 1,
       "United Arab Emirates": 1,
@@ -184,6 +208,8 @@
       "Russia": 7,
       "Uzbekistan": 2,
       "India": 2,
+      "Algeria": 1,
+      "China": 1,
       "Georgia": 1,
       "Pakistan": 1,
       "United Arab Emirates": 1,

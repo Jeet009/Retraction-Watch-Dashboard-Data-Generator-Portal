@@ -3,9 +3,9 @@
     "country": "Cameroon",
     "yearly_rates": {
       "2024": 3.481,
-      "2023": 1.7825,
       "2022": 1.1025,
       "2025": 0.5556,
+      "2023": 1.426,
       "2021": 1.96,
       "2018": 0.6139,
       "2019": 1.0971,
@@ -33,12 +33,12 @@
       "2014": 1.7889,
       "2010": 1.3643
     },
-    "average_rate": 1.1945,
+    "average_rate": 1.1654,
     "yearly_retractions": {
       "2024": 11,
-      "2023": 5,
       "2022": 3,
       "2025": 2,
+      "2023": 4,
       "2021": 5,
       "2018": 1,
       "2019": 2,
@@ -53,7 +53,7 @@
     },
     "notice_yearly_retractions": {
       "2025": 15,
-      "2026": 2,
+      "2026": 1,
       "2024": 4,
       "2023": 2,
       "2021": 2,
@@ -70,7 +70,7 @@
   },
   "domainwise_data": {
     "country": "Cameroon",
-    "total_retractions": 41,
+    "total_retractions": 40,
     "years": {
       "2025": {
         "total": 2,
@@ -99,17 +99,17 @@
         }
       },
       "2023": {
-        "total": 5,
+        "total": 4,
         "marks": {
-          "researcher_integrity": 3,
           "alterations": 1,
+          "researcher_integrity": 2,
           "research": 1
         },
         "domain": {
-          "BLS": 4,
-          "ENV": 2,
           "PHY": 3,
           "B/T": 1,
+          "BLS": 2,
+          "ENV": 1,
           "HSC": 2
         }
       },
@@ -244,14 +244,13 @@
     },
     "notice_years": {
       "2026": {
-        "total": 2,
+        "total": 1,
         "marks": {
-          "researcher_integrity": 2
+          "researcher_integrity": 1
         },
         "domain": {
-          "BLS": 3,
-          "PHY": 1,
-          "ENV": 1
+          "BLS": 1,
+          "PHY": 1
         }
       },
       "2025": {

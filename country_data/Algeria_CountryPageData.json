@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Algeria",
     "yearly_rates": {
-      "2021": 0.6196,
+      "2021": 0.7229,
       "2024": 0.3141,
       "2022": 1.1216,
       "2018": 1.6334,
@@ -24,6 +24,7 @@
       "2007": 0.489
     },
     "notice_yearly_rates": {
+      "2022": 0.5608,
       "2021": 0.3098,
       "2024": 0.7067,
       "2025": 0.6406,
@@ -33,7 +34,6 @@
       "2017": 0.8202,
       "2020": 0.4837,
       "2014": 1.3377,
-      "2022": 0.4673,
       "2005": 0.7634,
       "2018": 2.3872,
       "2019": 0.124,
@@ -42,9 +42,9 @@
       "2009": 0.3187,
       "2010": 0.3165
     },
-    "average_rate": 0.6942,
+    "average_rate": 0.7014,
     "yearly_retractions": {
-      "2021": 6,
+      "2021": 7,
       "2024": 4,
       "2022": 12,
       "2018": 13,
@@ -66,6 +66,7 @@
       "2007": 1
     },
     "notice_yearly_retractions": {
+      "2022": 6,
       "2021": 3,
       "2026": 3,
       "2024": 9,
@@ -76,7 +77,6 @@
       "2017": 6,
       "2020": 4,
       "2014": 7,
-      "2022": 5,
       "2005": 1,
       "2018": 19,
       "2019": 1,
@@ -88,7 +88,7 @@
   },
   "domainwise_data": {
     "country": "Algeria",
-    "total_retractions": 97,
+    "total_retractions": 98,
     "years": {
       "2025": {
         "total": 2,
@@ -142,16 +142,16 @@
         }
       },
       "2021": {
-        "total": 6,
+        "total": 7,
         "marks": {
-          "alterations": 4,
+          "alterations": 5,
           "researcher_integrity": 1,
           "system": 1
         },
         "domain": {
+          "PHY": 9,
           "B/T": 7,
           "HSC": 2,
-          "PHY": 7,
           "BLS": 1
         }
       },
@@ -397,15 +397,15 @@
         }
       },
       "2022": {
-        "total": 5,
+        "total": 6,
         "marks": {
-          "alterations": 2,
+          "alterations": 3,
           "research": 1,
           "system": 1,
           "supplemental": 1
         },
         "domain": {
-          "PHY": 4,
+          "PHY": 6,
           "HSC": 3,
           "B/T": 2,
           "BLS": 1
@@ -568,10 +568,10 @@
     "collaborations": {
       "France": 15,
       "Saudi Arabia": 11,
+      "China": 6,
       "Pakistan": 6,
       "India": 6,
       "Iraq": 5,
-      "China": 5,
       "Malaysia": 4,
       "Egypt": 4,
       "Iran": 4,
@@ -588,6 +588,7 @@
       "Germany": 2,
       "Morocco": 2,
       "Senegal": 2,
+      "Tajikistan": 1,
       "Spain": 1,
       "Australia": 1,
       "Somalia": 1,
@@ -626,10 +627,10 @@
     "notice_collaborations": {
       "France": 15,
       "Saudi Arabia": 11,
+      "China": 6,
       "Pakistan": 6,
       "India": 6,
       "Iraq": 5,
-      "China": 5,
       "Malaysia": 4,
       "Egypt": 4,
       "Iran": 4,
@@ -646,6 +647,7 @@
       "Germany": 2,
       "Morocco": 2,
       "Senegal": 2,
+      "Tajikistan": 1,
       "Spain": 1,
       "Australia": 1,
       "Somalia": 1,
