@@ -2,9 +2,9 @@
   "retraction_rate_data": {
     "country": "Sri Lanka",
     "yearly_rates": {
+      "2022": 0.5042,
       "2024": 0.7331,
       "2025": 0.2074,
-      "2022": 0.2521,
       "2023": 0.5172,
       "2021": 1.3014,
       "2019": 0.7613,
@@ -32,11 +32,11 @@
       "2017": 0.4792,
       "2011": 1.1099
     },
-    "average_rate": 0.6212,
+    "average_rate": 0.6433,
     "yearly_retractions": {
+      "2022": 2,
       "2024": 3,
       "2025": 1,
-      "2022": 1,
       "2023": 2,
       "2021": 5,
       "2019": 2,
@@ -51,6 +51,7 @@
       "2011": 1
     },
     "notice_yearly_retractions": {
+      "2026": 1,
       "2025": 4,
       "2024": 4,
       "2023": 2,
@@ -67,7 +68,7 @@
   },
   "domainwise_data": {
     "country": "Sri Lanka",
-    "total_retractions": 28,
+    "total_retractions": 29,
     "years": {
       "2025": {
         "total": 1,
@@ -105,13 +106,15 @@
         }
       },
       "2022": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "research": 1,
           "researcher_integrity": 1
         },
         "domain": {
+          "BLS": 2,
+          "ENV": 1,
           "B/T": 2,
-          "BLS": 1,
           "HSC": 1
         }
       },
@@ -232,6 +235,16 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "BLS": 1,
+          "ENV": 1
+        }
+      },
       "2025": {
         "total": 4,
         "marks": {
@@ -367,21 +380,21 @@
       }
     },
     "collaborations": {
+      "China": 5,
       "India": 5,
-      "China": 4,
       "United Kingdom": 4,
+      "United States": 3,
+      "South Korea": 2,
       "Bangladesh": 2,
       "Saudi Arabia": 2,
       "Uzbekistan": 2,
       "Pakistan": 2,
-      "United States": 2,
       "Palestine": 2,
       "United Arab Emirates": 1,
       "Egypt": 1,
       "Iraq": 1,
       "Russia": 1,
       "Jordan": 1,
-      "South Korea": 1,
       "Myanmar (formerly Burma)": 1,
       "Nepal": 1,
       "South Africa": 1,
@@ -391,21 +404,21 @@
       "Singapore": 1
     },
     "notice_collaborations": {
+      "China": 5,
       "India": 5,
-      "China": 4,
       "United Kingdom": 4,
+      "United States": 3,
+      "South Korea": 2,
       "Bangladesh": 2,
       "Saudi Arabia": 2,
       "Uzbekistan": 2,
       "Pakistan": 2,
-      "United States": 2,
       "Palestine": 2,
       "United Arab Emirates": 1,
       "Egypt": 1,
       "Iraq": 1,
       "Russia": 1,
       "Jordan": 1,
-      "South Korea": 1,
       "Myanmar (formerly Burma)": 1,
       "Nepal": 1,
       "South Africa": 1,

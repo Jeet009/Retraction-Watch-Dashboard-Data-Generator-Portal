@@ -2,9 +2,9 @@
   "retraction_rate_data": {
     "country": "Estonia",
     "yearly_rates": {
+      "2021": 0.4669,
       "2022": 0.4797,
       "2023": 0.7091,
-      "2021": 0.2334,
       "2017": 0.3194,
       "2020": 0.2569,
       "2014": 0.3473,
@@ -22,11 +22,11 @@
       "2017": 0.3194,
       "2012": 0.417
     },
-    "average_rate": 0.1787,
+    "average_rate": 0.1936,
     "yearly_retractions": {
+      "2021": 2,
       "2022": 2,
       "2023": 3,
-      "2021": 1,
       "2017": 1,
       "2020": 1,
       "2014": 1,
@@ -35,7 +35,7 @@
       "2008": 1
     },
     "notice_yearly_retractions": {
-      "2026": 2,
+      "2026": 3,
       "2025": 1,
       "2024": 2,
       "2023": 1,
@@ -48,7 +48,7 @@
   },
   "domainwise_data": {
     "country": "Estonia",
-    "total_retractions": 12,
+    "total_retractions": 13,
     "years": {
       "2023": {
         "total": 3,
@@ -75,13 +75,16 @@
         }
       },
       "2021": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 1
         },
         "domain": {
-          "B/T": 1,
-          "SOC": 2
+          "B/T": 2,
+          "BLS": 1,
+          "ENV": 1,
+          "SOC": 3
         }
       },
       "2020": {
@@ -143,13 +146,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "researcher_integrity": 2
+          "researcher_integrity": 3
         },
         "domain": {
-          "BLS": 5,
-          "ENV": 1
+          "B/T": 1,
+          "BLS": 6,
+          "ENV": 2,
+          "SOC": 1
         }
       },
       "2025": {
@@ -236,6 +241,11 @@
     "collaborations": {
       "India": 5,
       "Saudi Arabia": 4,
+      "Netherlands": 2,
+      "Belgium": 1,
+      "China": 1,
+      "Czech Republic": 1,
+      "Iran": 1,
       "Vietnam": 1,
       "Algeria": 1,
       "Indonesia": 1,
@@ -245,13 +255,17 @@
       "Pakistan": 1,
       "Ireland": 1,
       "Australia": 1,
-      "Netherlands": 1,
       "United States": 1,
       "Latvia": 1
     },
     "notice_collaborations": {
       "India": 5,
       "Saudi Arabia": 4,
+      "Netherlands": 2,
+      "Belgium": 1,
+      "China": 1,
+      "Czech Republic": 1,
+      "Iran": 1,
       "Vietnam": 1,
       "Algeria": 1,
       "Indonesia": 1,
@@ -261,7 +275,6 @@
       "Pakistan": 1,
       "Ireland": 1,
       "Australia": 1,
-      "Netherlands": 1,
       "United States": 1,
       "Latvia": 1
     }

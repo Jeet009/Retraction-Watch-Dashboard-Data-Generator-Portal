@@ -2,13 +2,13 @@
   "retraction_rate_data": {
     "country": "Portugal",
     "yearly_rates": {
+      "2023": 0.2395,
       "2011": 0.5244,
       "2024": 0.1175,
       "2013": 0.6356,
       "2021": 0.4532,
       "2025": 0.0254,
       "2022": 0.3904,
-      "2023": 0.2096,
       "2020": 0.368,
       "2010": 0.2649,
       "2008": 0.1644,
@@ -25,7 +25,7 @@
       "2003": 0.3129
     },
     "notice_yearly_rates": {
-      "2025": 0.1775,
+      "2025": 0.2028,
       "2024": 0.4405,
       "2023": 0.1796,
       "2022": 0.6006,
@@ -46,8 +46,9 @@
       "2003": 0.1565,
       "2004": 0.1391
     },
-    "average_rate": 0.2627,
+    "average_rate": 0.2646,
     "yearly_retractions": {
+      "2023": 8,
       "2011": 9,
       "2026": 1,
       "2024": 4,
@@ -55,7 +56,6 @@
       "2021": 15,
       "2025": 1,
       "2022": 13,
-      "2023": 7,
       "2020": 11,
       "2010": 4,
       "2008": 2,
@@ -72,8 +72,8 @@
       "2003": 2
     },
     "notice_yearly_retractions": {
+      "2025": 8,
       "2026": 4,
-      "2025": 7,
       "2024": 15,
       "2023": 6,
       "2022": 20,
@@ -97,7 +97,7 @@
   },
   "domainwise_data": {
     "country": "Portugal",
-    "total_retractions": 136,
+    "total_retractions": 137,
     "years": {
       "2026": {
         "total": 1,
@@ -131,17 +131,18 @@
         }
       },
       "2023": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "system": 1,
           "alterations": 2,
           "researcher_integrity": 3,
           "research": 1,
           "supplemental": 1
         },
         "domain": {
+          "B/T": 8,
+          "SOC": 3,
           "BLS": 3,
-          "B/T": 7,
-          "SOC": 2,
           "PHY": 3,
           "ENV": 1,
           "HSC": 3
@@ -416,18 +417,20 @@
         }
       },
       "2025": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "system": 1,
           "research": 1,
           "researcher_integrity": 4,
           "alterations": 2
         },
         "domain": {
+          "B/T": 3,
+          "SOC": 1,
           "BLS": 3,
           "HSC": 5,
           "ENV": 2,
-          "PHY": 6,
-          "B/T": 2
+          "PHY": 6
         }
       },
       "2024": {
@@ -698,9 +701,9 @@
       "United Kingdom": 11,
       "India": 8,
       "Saudi Arabia": 7,
+      "Brazil": 5,
       "Australia": 5,
       "Pakistan": 5,
-      "Brazil": 4,
       "Malaysia": 4,
       "Italy": 3,
       "Canada": 3,
@@ -748,9 +751,9 @@
       "United Kingdom": 11,
       "India": 8,
       "Saudi Arabia": 7,
+      "Brazil": 5,
       "Australia": 5,
       "Pakistan": 5,
-      "Brazil": 4,
       "Malaysia": 4,
       "Italy": 3,
       "Canada": 3,

@@ -2,10 +2,10 @@
   "retraction_rate_data": {
     "country": "Lithuania",
     "yearly_rates": {
+      "2021": 0.3746,
       "2025": 0.1497,
       "2023": 0.9318,
       "2022": 0.759,
-      "2021": 0.1873,
       "2017": 0.8084,
       "2010": 0.3412,
       "2020": 0.1992,
@@ -22,12 +22,12 @@
       "2019": 0.2219,
       "2013": 0.33
     },
-    "average_rate": 0.2254,
+    "average_rate": 0.2367,
     "yearly_retractions": {
+      "2021": 2,
       "2025": 1,
       "2023": 5,
       "2022": 4,
-      "2021": 1,
       "2017": 3,
       "2010": 1,
       "2020": 1,
@@ -35,6 +35,7 @@
       "2009": 1
     },
     "notice_yearly_retractions": {
+      "2026": 1,
       "2025": 6,
       "2024": 5,
       "2023": 2,
@@ -47,7 +48,7 @@
   },
   "domainwise_data": {
     "country": "Lithuania",
-    "total_retractions": 20,
+    "total_retractions": 21,
     "years": {
       "2025": {
         "total": 1,
@@ -86,11 +87,12 @@
         }
       },
       "2021": {
-        "total": 1,
+        "total": 2,
         "marks": {
-          "alterations": 1
+          "alterations": 2
         },
         "domain": {
+          "HSC": 2,
           "HUM": 1,
           "SOC": 1
         }
@@ -148,6 +150,15 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "HSC": 2
+        }
+      },
       "2025": {
         "total": 6,
         "marks": {
@@ -238,24 +249,32 @@
       }
     },
     "collaborations": {
-      "Poland": 3,
+      "Poland": 4,
       "Ukraine": 3,
       "United Kingdom": 3,
       "Germany": 2,
       "India": 2,
       "United States": 2,
+      "China": 1,
+      "Finland": 1,
+      "Italy": 1,
+      "Netherlands": 1,
       "Switzerland": 1,
       "Portugal": 1,
       "Iran": 1,
       "Pakistan": 1
     },
     "notice_collaborations": {
-      "Poland": 3,
+      "Poland": 4,
       "Ukraine": 3,
       "United Kingdom": 3,
       "Germany": 2,
       "India": 2,
       "United States": 2,
+      "China": 1,
+      "Finland": 1,
+      "Italy": 1,
+      "Netherlands": 1,
       "Switzerland": 1,
       "Portugal": 1,
       "Iran": 1,

@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Nepal",
     "yearly_rates": {
-      "2024": 2.2516,
+      "2024": 2.5331,
       "2025": 0.4373,
       "2022": 8.0715,
       "2021": 1.8354,
@@ -38,9 +38,9 @@
       "2015": 0.9515,
       "2006": 1.8553
     },
-    "average_rate": 2.0574,
+    "average_rate": 2.0848,
     "yearly_retractions": {
-      "2024": 8,
+      "2024": 9,
       "2025": 2,
       "2022": 28,
       "2021": 6,
@@ -60,7 +60,7 @@
     },
     "notice_yearly_retractions": {
       "2025": 4,
-      "2026": 2,
+      "2026": 3,
       "2024": 9,
       "2023": 31,
       "2022": 5,
@@ -80,7 +80,7 @@
   },
   "domainwise_data": {
     "country": "Nepal",
-    "total_retractions": 75,
+    "total_retractions": 76,
     "years": {
       "2025": {
         "total": 2,
@@ -95,17 +95,18 @@
         }
       },
       "2024": {
-        "total": 8,
+        "total": 9,
         "marks": {
-          "research": 2,
+          "research": 3,
           "alterations": 3,
           "researcher_integrity": 3
         },
         "domain": {
           "PHY": 5,
+          "B/T": 2,
+          "SOC": 1,
           "BLS": 3,
-          "HSC": 12,
-          "B/T": 1
+          "HSC": 12
         }
       },
       "2023": {
@@ -277,14 +278,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "research": 1,
+          "research": 2,
           "alterations": 1
         },
         "domain": {
           "ENV": 1,
           "PHY": 2,
+          "B/T": 1,
+          "SOC": 1,
           "HSC": 3
         }
       },
@@ -468,7 +471,7 @@
       }
     },
     "collaborations": {
-      "India": 37,
+      "India": 38,
       "Saudi Arabia": 15,
       "Pakistan": 12,
       "United States": 6,
@@ -507,7 +510,7 @@
       "New Zealand": 1
     },
     "notice_collaborations": {
-      "India": 37,
+      "India": 38,
       "Saudi Arabia": 15,
       "Pakistan": 12,
       "United States": 6,

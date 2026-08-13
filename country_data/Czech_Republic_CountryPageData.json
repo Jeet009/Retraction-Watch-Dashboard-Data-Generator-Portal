@@ -2,9 +2,9 @@
   "retraction_rate_data": {
     "country": "Czech Republic",
     "yearly_rates": {
+      "2021": 0.7397,
       "2015": 0.2137,
       "2020": 0.2711,
-      "2021": 0.7027,
       "2024": 0.7309,
       "2022": 0.8192,
       "2025": 0.0712,
@@ -48,11 +48,11 @@
       "2007": 0.0765,
       "2003": 0.117
     },
-    "average_rate": 0.3206,
+    "average_rate": 0.3226,
     "yearly_retractions": {
+      "2021": 20,
       "2015": 5,
       "2020": 7,
-      "2021": 19,
       "2024": 19,
       "2022": 21,
       "2025": 2,
@@ -79,8 +79,8 @@
       "1997": 1
     },
     "notice_yearly_retractions": {
+      "2026": 5,
       "2025": 41,
-      "2026": 4,
       "2024": 12,
       "2023": 10,
       "2021": 6,
@@ -101,7 +101,7 @@
   },
   "domainwise_data": {
     "country": "Czech Republic",
-    "total_retractions": 162,
+    "total_retractions": 163,
     "years": {
       "2025": {
         "total": 2,
@@ -168,20 +168,20 @@
         }
       },
       "2021": {
-        "total": 19,
+        "total": 20,
         "marks": {
+          "researcher_integrity": 14,
           "system": 1,
-          "researcher_integrity": 13,
           "alterations": 2,
           "research": 3
         },
         "domain": {
+          "B/T": 6,
+          "BLS": 30,
+          "ENV": 4,
+          "SOC": 7,
           "PHY": 6,
-          "B/T": 5,
-          "SOC": 6,
           "HUM": 2,
-          "BLS": 29,
-          "ENV": 3,
           "HSC": 3
         }
       },
@@ -450,17 +450,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 4,
+        "total": 5,
         "marks": {
+          "researcher_integrity": 2,
           "alterations": 2,
-          "research": 1,
-          "researcher_integrity": 1
+          "research": 1
         },
         "domain": {
-          "BLS": 3,
-          "PHY": 6,
-          "ENV": 1,
-          "B/T": 1
+          "B/T": 2,
+          "BLS": 4,
+          "ENV": 2,
+          "SOC": 1,
+          "PHY": 6
         }
       },
       "2025": {
@@ -704,13 +705,13 @@
     "collaborations": {
       "Pakistan": 31,
       "Saudi Arabia": 27,
-      "China": 24,
+      "China": 25,
       "United States": 20,
       "Ukraine": 14,
       "Germany": 13,
+      "Iran": 12,
       "Slovakia": 12,
       "India": 12,
-      "Iran": 11,
       "United Kingdom": 9,
       "Egypt": 9,
       "France": 8,
@@ -719,16 +720,17 @@
       "Spain": 6,
       "Uzbekistan": 5,
       "Italy": 5,
+      "Netherlands": 4,
       "South Africa": 4,
       "Denmark": 4,
       "Turkey": 4,
       "Russia": 4,
+      "Belgium": 3,
       "Canada": 3,
       "Bangladesh": 3,
       "Iraq": 3,
       "Austria": 3,
       "Israel": 3,
-      "Netherlands": 3,
       "Sweden": 3,
       "Singapore": 3,
       "South Korea": 2,
@@ -737,10 +739,10 @@
       "Taiwan": 2,
       "Hungary": 2,
       "Indonesia": 2,
-      "Belgium": 2,
       "Norway": 2,
       "Kuwait": 2,
       "Switzerland": 2,
+      "Estonia": 1,
       "Japan": 1,
       "Uganda": 1,
       "Ireland": 1,
@@ -763,13 +765,13 @@
     "notice_collaborations": {
       "Pakistan": 31,
       "Saudi Arabia": 27,
-      "China": 24,
+      "China": 25,
       "United States": 20,
       "Ukraine": 14,
       "Germany": 13,
+      "Iran": 12,
       "Slovakia": 12,
       "India": 12,
-      "Iran": 11,
       "United Kingdom": 9,
       "Egypt": 9,
       "France": 8,
@@ -778,16 +780,17 @@
       "Spain": 6,
       "Uzbekistan": 5,
       "Italy": 5,
+      "Netherlands": 4,
       "South Africa": 4,
       "Denmark": 4,
       "Turkey": 4,
       "Russia": 4,
+      "Belgium": 3,
       "Canada": 3,
       "Bangladesh": 3,
       "Iraq": 3,
       "Austria": 3,
       "Israel": 3,
-      "Netherlands": 3,
       "Sweden": 3,
       "Singapore": 3,
       "South Korea": 2,
@@ -796,10 +799,10 @@
       "Taiwan": 2,
       "Hungary": 2,
       "Indonesia": 2,
-      "Belgium": 2,
       "Norway": 2,
       "Kuwait": 2,
       "Switzerland": 2,
+      "Estonia": 1,
       "Japan": 1,
       "Uganda": 1,
       "Ireland": 1,
