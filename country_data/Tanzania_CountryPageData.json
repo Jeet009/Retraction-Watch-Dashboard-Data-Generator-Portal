@@ -3,6 +3,7 @@
     "country": "Tanzania",
     "yearly_rates": {
       "2024": 0.5774,
+      "2025": 0.2256,
       "2021": 0.3854,
       "2022": 2.8787,
       "2023": 0.3282,
@@ -20,9 +21,10 @@
       "2017": 0.6601,
       "2009": 1.3966
     },
-    "average_rate": 0.4606,
+    "average_rate": 0.4877,
     "yearly_retractions": {
       "2024": 2,
+      "2025": 1,
       "2021": 1,
       "2022": 8,
       "2023": 1,
@@ -33,6 +35,7 @@
     },
     "notice_yearly_retractions": {
       "2025": 1,
+      "2026": 1,
       "2023": 8,
       "2024": 3,
       "2014": 2,
@@ -43,8 +46,17 @@
   },
   "domainwise_data": {
     "country": "Tanzania",
-    "total_retractions": 17,
+    "total_retractions": 18,
     "years": {
+      "2025": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "HSC": 3
+        }
+      },
       "2024": {
         "total": 2,
         "marks": {
@@ -133,6 +145,15 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "HSC": 3
+        }
+      },
       "2025": {
         "total": 1,
         "marks": {
@@ -218,14 +239,14 @@
       "United Kingdom": 3,
       "South Africa": 3,
       "Kenya": 3,
+      "Norway": 2,
       "Botswana": 2,
       "Sweden": 2,
       "Brazil": 1,
       "Poland": 1,
       "United Arab Emirates": 1,
       "Canada": 1,
-      "Nigeria": 1,
-      "Norway": 1
+      "Nigeria": 1
     },
     "notice_collaborations": {
       "India": 10,
@@ -234,14 +255,14 @@
       "United Kingdom": 3,
       "South Africa": 3,
       "Kenya": 3,
+      "Norway": 2,
       "Botswana": 2,
       "Sweden": 2,
       "Brazil": 1,
       "Poland": 1,
       "United Arab Emirates": 1,
       "Canada": 1,
-      "Nigeria": 1,
-      "Norway": 1
+      "Nigeria": 1
     }
   },
   "country_flag": "/country_flags/Tanzania.svg"

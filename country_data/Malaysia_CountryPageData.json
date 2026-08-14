@@ -2,10 +2,10 @@
   "retraction_rate_data": {
     "country": "Malaysia",
     "yearly_rates": {
+      "2025": 0.2344,
       "2023": 1.6187,
       "2024": 1.2011,
       "2022": 4.2586,
-      "2025": 0.2164,
       "2021": 2.5435,
       "2020": 0.9147,
       "2019": 0.9048,
@@ -45,12 +45,12 @@
       "2010": 2.6625,
       "2007": 0.1935
     },
-    "average_rate": 1.6624,
+    "average_rate": 1.6641,
     "yearly_retractions": {
+      "2025": 13,
       "2023": 69,
       "2024": 56,
       "2022": 179,
-      "2025": 12,
       "2021": 102,
       "2020": 34,
       "2019": 33,
@@ -70,7 +70,7 @@
       "2005": 1
     },
     "notice_yearly_retractions": {
-      "2026": 35,
+      "2026": 36,
       "2024": 107,
       "2025": 140,
       "2022": 79,
@@ -94,21 +94,21 @@
   },
   "domainwise_data": {
     "country": "Malaysia",
-    "total_retractions": 964,
+    "total_retractions": 965,
     "years": {
       "2025": {
-        "total": 12,
+        "total": 13,
         "marks": {
-          "research": 3,
+          "research": 4,
           "alterations": 3,
           "researcher_integrity": 2,
           "system": 1,
           "supplemental": 3
         },
         "domain": {
+          "BLS": 5,
           "HSC": 8,
           "B/T": 11,
-          "BLS": 2,
           "SOC": 12,
           "ENV": 3,
           "PHY": 1
@@ -438,21 +438,21 @@
     },
     "notice_years": {
       "2026": {
-        "total": 35,
+        "total": 36,
         "marks": {
-          "research": 8,
+          "research": 9,
           "alterations": 8,
           "researcher_integrity": 9,
           "system": 1,
           "supplemental": 9
         },
         "domain": {
+          "BLS": 14,
           "HSC": 22,
           "B/T": 22,
           "PHY": 14,
           "SOC": 18,
-          "ENV": 9,
-          "BLS": 11
+          "ENV": 9
         }
       },
       "2025": {
@@ -766,7 +766,7 @@
       }
     },
     "collaborations": {
-      "China": 208,
+      "China": 209,
       "Saudi Arabia": 146,
       "India": 132,
       "Pakistan": 113,
@@ -855,7 +855,7 @@
       "Hungary": 1
     },
     "notice_collaborations": {
-      "China": 208,
+      "China": 209,
       "Saudi Arabia": 146,
       "India": 132,
       "Pakistan": 113,

@@ -2,10 +2,10 @@
   "retraction_rate_data": {
     "country": "Oman",
     "yearly_rates": {
+      "2025": 0.2577,
       "2022": 8.6957,
       "2023": 3.2314,
       "2024": 1.6726,
-      "2025": 0.1288,
       "2016": 2.3753,
       "2018": 2.1942,
       "2019": 0.9033,
@@ -32,12 +32,12 @@
       "2014": 2.2971,
       "2016": 1.1876
     },
-    "average_rate": 2.1935,
+    "average_rate": 2.2148,
     "yearly_retractions": {
+      "2025": 2,
       "2022": 33,
       "2023": 13,
       "2024": 9,
-      "2025": 1,
       "2016": 4,
       "2018": 4,
       "2019": 2,
@@ -51,7 +51,7 @@
       "2014": 2
     },
     "notice_yearly_retractions": {
-      "2026": 7,
+      "2026": 8,
       "2025": 21,
       "2024": 20,
       "2023": 22,
@@ -68,15 +68,17 @@
   },
   "domainwise_data": {
     "country": "Oman",
-    "total_retractions": 103,
+    "total_retractions": 104,
     "years": {
       "2025": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 1
         },
         "domain": {
-          "B/T": 1,
+          "B/T": 2,
+          "BLS": 1,
           "ENV": 1,
           "HSC": 1
         }
@@ -260,17 +262,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "researcher_integrity": 2,
           "alterations": 3,
-          "research": 3,
-          "researcher_integrity": 1
+          "research": 3
         },
         "domain": {
-          "BLS": 3,
+          "B/T": 7,
+          "BLS": 4,
           "PHY": 5,
           "HSC": 6,
-          "B/T": 6,
           "ENV": 2
         }
       },
@@ -426,14 +428,14 @@
       }
     },
     "collaborations": {
-      "India": 57,
+      "India": 58,
       "Saudi Arabia": 32,
       "China": 15,
       "Pakistan": 14,
+      "Ethiopia": 11,
       "Egypt": 11,
       "Malaysia": 11,
       "Iraq": 10,
-      "Ethiopia": 10,
       "United Kingdom": 9,
       "Iran": 6,
       "Australia": 6,
@@ -472,14 +474,14 @@
       "Netherlands": 1
     },
     "notice_collaborations": {
-      "India": 57,
+      "India": 58,
       "Saudi Arabia": 32,
       "China": 15,
       "Pakistan": 14,
+      "Ethiopia": 11,
       "Egypt": 11,
       "Malaysia": 11,
       "Iraq": 10,
-      "Ethiopia": 10,
       "United Kingdom": 9,
       "Iran": 6,
       "Australia": 6,

@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Palestine",
     "yearly_rates": {
-      "2023": 0.4585,
+      "2023": 0.917,
       "2019": 2.0121,
       "2024": 0.8909,
       "2025": 0.9265,
@@ -23,9 +23,9 @@
       "2011": 2.6247,
       "2001": 12.6582
     },
-    "average_rate": 0.9049,
+    "average_rate": 0.9552,
     "yearly_retractions": {
-      "2023": 1,
+      "2023": 2,
       "2019": 2,
       "2024": 2,
       "2025": 3,
@@ -38,7 +38,7 @@
     },
     "notice_yearly_retractions": {
       "2025": 6,
-      "2026": 1,
+      "2026": 2,
       "2024": 1,
       "2023": 5,
       "2022": 1,
@@ -50,7 +50,7 @@
   },
   "domainwise_data": {
     "country": "Palestine",
-    "total_retractions": 18,
+    "total_retractions": 19,
     "years": {
       "2025": {
         "total": 3,
@@ -73,13 +73,15 @@
         }
       },
       "2023": {
-        "total": 1,
+        "total": 2,
         "marks": {
-          "research": 1
+          "research": 1,
+          "researcher_integrity": 1
         },
         "domain": {
           "B/T": 1,
-          "SOC": 1
+          "SOC": 1,
+          "PHY": 3
         }
       },
       "2022": {
@@ -163,12 +165,13 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "research": 1
         },
         "domain": {
-          "PHY": 2
+          "PHY": 5
         }
       },
       "2025": {
@@ -263,10 +266,10 @@
     },
     "collaborations": {
       "China": 6,
+      "Pakistan": 5,
+      "Saudi Arabia": 5,
+      "United States": 5,
       "United Kingdom": 5,
-      "United States": 4,
-      "Pakistan": 4,
-      "Saudi Arabia": 4,
       "Sudan": 4,
       "Egypt": 3,
       "Iraq": 2,
@@ -286,10 +289,10 @@
     },
     "notice_collaborations": {
       "China": 6,
+      "Pakistan": 5,
+      "Saudi Arabia": 5,
+      "United States": 5,
       "United Kingdom": 5,
-      "United States": 4,
-      "Pakistan": 4,
-      "Saudi Arabia": 4,
       "Sudan": 4,
       "Egypt": 3,
       "Iraq": 2,
