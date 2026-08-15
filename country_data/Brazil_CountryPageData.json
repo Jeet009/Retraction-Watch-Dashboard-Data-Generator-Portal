@@ -3,6 +3,7 @@
     "country": "Brazil",
     "yearly_rates": {
       "2021": 0.362,
+      "2010": 0.2879,
       "2023": 0.3005,
       "2022": 0.4619,
       "2025": 0.0505,
@@ -15,7 +16,6 @@
       "2024": 0.0691,
       "2020": 0.444,
       "2016": 0.2264,
-      "2010": 0.2674,
       "2011": 0.3619,
       "2008": 0.3167,
       "2009": 0.3982,
@@ -32,7 +32,7 @@
       "1997": 0.2659
     },
     "notice_yearly_rates": {
-      "2024": 0.7832,
+      "2024": 0.7947,
       "2025": 0.303,
       "2023": 0.3005,
       "2019": 0.1984,
@@ -56,9 +56,10 @@
       "2006": 0.0603,
       "2000": 0.0654
     },
-    "average_rate": 0.2705,
+    "average_rate": 0.2711,
     "yearly_retractions": {
       "2021": 35,
+      "2010": 14,
       "2023": 25,
       "2022": 41,
       "2025": 5,
@@ -71,7 +72,6 @@
       "2024": 6,
       "2020": 41,
       "2016": 16,
-      "2010": 13,
       "2011": 19,
       "2008": 13,
       "2009": 18,
@@ -88,7 +88,7 @@
       "1997": 3
     },
     "notice_yearly_retractions": {
-      "2024": 68,
+      "2024": 69,
       "2025": 30,
       "2026": 5,
       "2023": 25,
@@ -116,7 +116,7 @@
   },
   "domainwise_data": {
     "country": "Brazil",
-    "total_retractions": 415,
+    "total_retractions": 416,
     "years": {
       "2025": {
         "total": 5,
@@ -364,18 +364,18 @@
         }
       },
       "2010": {
-        "total": 13,
+        "total": 14,
         "marks": {
+          "research": 4,
           "researcher_integrity": 2,
           "alterations": 6,
           "supplemental": 1,
-          "research": 3,
           "system": 1
         },
         "domain": {
-          "BLS": 11,
-          "PHY": 6,
-          "HSC": 9
+          "BLS": 12,
+          "HSC": 10,
+          "PHY": 6
         }
       },
       "2009": {
@@ -563,9 +563,9 @@
         }
       },
       "2024": {
-        "total": 68,
+        "total": 69,
         "marks": {
-          "research": 47,
+          "research": 48,
           "researcher_integrity": 6,
           "alterations": 8,
           "supplemental": 5,
@@ -573,10 +573,10 @@
         },
         "domain": {
           "PHY": 19,
+          "BLS": 121,
+          "HSC": 30,
           "B/T": 17,
           "SOC": 2,
-          "HSC": 29,
-          "BLS": 120,
           "ENV": 38
         }
       },
@@ -895,8 +895,8 @@
       "India": 33,
       "United States": 30,
       "United Kingdom": 28,
+      "Spain": 17,
       "China": 16,
-      "Spain": 16,
       "Germany": 16,
       "Bangladesh": 16,
       "Saudi Arabia": 16,
@@ -958,8 +958,8 @@
       "India": 33,
       "United States": 30,
       "United Kingdom": 28,
+      "Spain": 17,
       "China": 16,
-      "Spain": 16,
       "Germany": 16,
       "Bangladesh": 16,
       "Saudi Arabia": 16,

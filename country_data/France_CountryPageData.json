@@ -2,12 +2,13 @@
   "retraction_rate_data": {
     "country": "France",
     "yearly_rates": {
+      "2019": 0.4147,
+      "2009": 0.2272,
       "2011": 0.3313,
       "2024": 0.0975,
       "2025": 0.079,
       "2015": 0.232,
       "2022": 0.2853,
-      "2019": 0.4059,
       "2012": 0.3664,
       "2014": 0.36,
       "2008": 0.2206,
@@ -20,7 +21,6 @@
       "2021": 0.3016,
       "2016": 0.3513,
       "2004": 0.1499,
-      "2009": 0.2169,
       "2002": 0.1696,
       "2007": 0.1391,
       "2005": 0.2374,
@@ -32,8 +32,8 @@
       "1999": 0.0493
     },
     "notice_yearly_rates": {
+      "2022": 0.3026,
       "2025": 0.5054,
-      "2022": 0.2939,
       "2024": 0.6647,
       "2023": 0.3862,
       "2020": 0.5809,
@@ -60,14 +60,15 @@
       "2004": 0.0409,
       "1997": 0.0167
     },
-    "average_rate": 0.2514,
+    "average_rate": 0.2521,
     "yearly_retractions": {
+      "2019": 47,
+      "2009": 22,
       "2011": 34,
       "2024": 11,
       "2025": 10,
       "2015": 26,
       "2022": 33,
-      "2019": 46,
       "2026": 2,
       "2012": 39,
       "2014": 40,
@@ -81,7 +82,6 @@
       "2021": 36,
       "2016": 40,
       "2004": 11,
-      "2009": 21,
       "2002": 11,
       "2007": 12,
       "2005": 19,
@@ -101,9 +101,9 @@
       "1988": 1
     },
     "notice_yearly_retractions": {
-      "2026": 33,
+      "2026": 34,
+      "2022": 35,
       "2025": 64,
-      "2022": 34,
       "2024": 75,
       "2023": 43,
       "2020": 67,
@@ -138,7 +138,7 @@
   },
   "domainwise_data": {
     "country": "France",
-    "total_retractions": 720,
+    "total_retractions": 722,
     "years": {
       "2026": {
         "total": 2,
@@ -259,17 +259,17 @@
         }
       },
       "2019": {
-        "total": 46,
+        "total": 47,
         "marks": {
+          "system": 7,
           "alterations": 17,
           "researcher_integrity": 13,
-          "system": 6,
           "research": 7,
           "supplemental": 3
         },
         "domain": {
-          "BLS": 38,
-          "ENV": 5,
+          "BLS": 39,
+          "ENV": 7,
           "HSC": 47,
           "B/T": 10,
           "PHY": 9,
@@ -439,16 +439,16 @@
         }
       },
       "2009": {
-        "total": 21,
+        "total": 22,
         "marks": {
+          "researcher_integrity": 5,
           "alterations": 10,
-          "researcher_integrity": 4,
           "supplemental": 1,
           "system": 1,
           "research": 5
         },
         "domain": {
-          "BLS": 29,
+          "BLS": 31,
           "PHY": 2,
           "SOC": 8,
           "HSC": 8,
@@ -692,19 +692,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 33,
+        "total": 34,
         "marks": {
+          "system": 1,
           "alterations": 7,
           "supplemental": 3,
           "research": 5,
           "researcher_integrity": 18
         },
         "domain": {
-          "BLS": 37,
+          "BLS": 38,
+          "ENV": 4,
           "B/T": 6,
           "SOC": 6,
           "HSC": 34,
-          "ENV": 2,
           "HUM": 1,
           "PHY": 2
         }
@@ -764,21 +765,21 @@
         }
       },
       "2022": {
-        "total": 34,
+        "total": 35,
         "marks": {
+          "researcher_integrity": 8,
           "supplemental": 2,
           "research": 13,
           "alterations": 8,
-          "system": 4,
-          "researcher_integrity": 7
+          "system": 4
         },
         "domain": {
+          "BLS": 27,
           "B/T": 15,
           "PHY": 17,
           "HSC": 16,
           "ENV": 2,
-          "SOC": 1,
-          "BLS": 25
+          "SOC": 1
         }
       },
       "2021": {
@@ -1190,15 +1191,15 @@
       "Switzerland": 31,
       "India": 30,
       "Saudi Arabia": 26,
-      "Pakistan": 20,
+      "Pakistan": 21,
       "Canada": 19,
       "Tunisia": 18,
       "Japan": 17,
+      "Australia": 16,
       "Algeria": 15,
-      "Australia": 15,
       "Belgium": 14,
+      "Senegal": 12,
       "Vietnam": 12,
-      "Senegal": 11,
       "Romania": 11,
       "Lebanon": 10,
       "Sweden": 9,
@@ -1292,15 +1293,15 @@
       "Switzerland": 31,
       "India": 30,
       "Saudi Arabia": 26,
-      "Pakistan": 20,
+      "Pakistan": 21,
       "Canada": 19,
       "Tunisia": 18,
       "Japan": 17,
+      "Australia": 16,
       "Algeria": 15,
-      "Australia": 15,
       "Belgium": 14,
+      "Senegal": 12,
       "Vietnam": 12,
-      "Senegal": 11,
       "Romania": 11,
       "Lebanon": 10,
       "Sweden": 9,

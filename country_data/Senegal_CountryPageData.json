@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Senegal",
     "yearly_rates": {
+      "2009": 2.6042,
       "2010": 2.551,
       "2024": 0.834,
       "2020": 3.9761,
@@ -14,16 +15,17 @@
       "2014": 1.5748
     },
     "notice_yearly_rates": {
+      "2022": 1.7986,
       "2025": 2.7875,
       "2024": 2.5021,
       "2023": 1.773,
-      "2022": 0.8993,
       "2020": 0.994,
       "2021": 0.9891,
       "2016": 2.7855
     },
-    "average_rate": 0.9706,
+    "average_rate": 1.0277,
     "yearly_retractions": {
+      "2009": 1,
       "2010": 1,
       "2024": 1,
       "2020": 4,
@@ -36,11 +38,11 @@
       "2014": 1
     },
     "notice_yearly_retractions": {
+      "2022": 2,
       "2026": 3,
       "2025": 4,
       "2024": 3,
       "2023": 2,
-      "2022": 1,
       "2020": 1,
       "2021": 1,
       "2016": 2
@@ -48,7 +50,7 @@
   },
   "domainwise_data": {
     "country": "Senegal",
-    "total_retractions": 17,
+    "total_retractions": 18,
     "years": {
       "2024": {
         "total": 1,
@@ -149,6 +151,15 @@
         "domain": {
           "BLS": 2
         }
+      },
+      "2009": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "BLS": 2
+        }
       }
     },
     "notice_years": {
@@ -195,11 +206,13 @@
         }
       },
       "2022": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "research": 1
         },
         "domain": {
+          "BLS": 2,
           "HSC": 2
         }
       },
@@ -232,7 +245,7 @@
       }
     },
     "collaborations": {
-      "France": 11,
+      "France": 12,
       "Saudi Arabia": 5,
       "Mali": 3,
       "Vietnam": 3,
@@ -267,7 +280,7 @@
       "Central African Republic": 1
     },
     "notice_collaborations": {
-      "France": 11,
+      "France": 12,
       "Saudi Arabia": 5,
       "Mali": 3,
       "Vietnam": 3,
