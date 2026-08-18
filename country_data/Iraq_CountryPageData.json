@@ -2,10 +2,10 @@
   "retraction_rate_data": {
     "country": "Iraq",
     "yearly_rates": {
+      "2025": 0.4587,
       "2022": 8.4908,
       "2023": 15.5003,
       "2024": 3.8687,
-      "2025": 0.43,
       "2019": 1.2494,
       "2021": 4.2838,
       "2020": 1.3025,
@@ -35,12 +35,12 @@
       "2016": 0.3198,
       "2014": 0.5126
     },
-    "average_rate": 4.5737,
+    "average_rate": 4.579,
     "yearly_retractions": {
+      "2025": 16,
       "2022": 169,
       "2023": 404,
       "2024": 108,
-      "2025": 15,
       "2019": 18,
       "2021": 75,
       "2020": 25,
@@ -56,8 +56,8 @@
       "2009": 1
     },
     "notice_yearly_retractions": {
+      "2026": 22,
       "2025": 514,
-      "2026": 21,
       "2024": 102,
       "2021": 13,
       "2022": 47,
@@ -76,20 +76,20 @@
   },
   "domainwise_data": {
     "country": "Iraq",
-    "total_retractions": 863,
+    "total_retractions": 864,
     "years": {
       "2025": {
-        "total": 15,
+        "total": 16,
         "marks": {
+          "researcher_integrity": 8,
           "research": 4,
-          "alterations": 4,
-          "researcher_integrity": 7
+          "alterations": 4
         },
         "domain": {
+          "BLS": 8,
           "HSC": 13,
           "SOC": 1,
           "B/T": 3,
-          "BLS": 6,
           "PHY": 8,
           "ENV": 2,
           "HUM": 1
@@ -330,15 +330,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 21,
+        "total": 22,
         "marks": {
+          "researcher_integrity": 6,
           "alterations": 6,
-          "researcher_integrity": 5,
           "system": 2,
           "research": 8
         },
         "domain": {
-          "BLS": 9,
+          "BLS": 11,
           "HSC": 18,
           "B/T": 10,
           "PHY": 17,

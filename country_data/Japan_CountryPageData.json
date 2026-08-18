@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Japan",
     "yearly_rates": {
-      "2023": 0.2698,
+      "2023": 0.2778,
       "2021": 0.3269,
       "2024": 0.1236,
       "2025": 0.0418,
@@ -65,9 +65,9 @@
       "1996": 0.0223,
       "2001": 0.0294
     },
-    "average_rate": 0.4384,
+    "average_rate": 0.4387,
     "yearly_retractions": {
-      "2023": 34,
+      "2023": 35,
       "2021": 45,
       "2024": 16,
       "2025": 6,
@@ -107,9 +107,9 @@
       "1984": 1
     },
     "notice_yearly_retractions": {
+      "2026": 7,
       "2025": 49,
       "2023": 76,
-      "2026": 6,
       "2024": 118,
       "2019": 119,
       "2021": 63,
@@ -148,7 +148,7 @@
   },
   "domainwise_data": {
     "country": "Japan",
-    "total_retractions": 1606,
+    "total_retractions": 1607,
     "years": {
       "2025": {
         "total": 6,
@@ -184,18 +184,18 @@
         }
       },
       "2023": {
-        "total": 34,
+        "total": 35,
         "marks": {
+          "researcher_integrity": 7,
           "alterations": 12,
           "research": 10,
-          "researcher_integrity": 6,
           "system": 4,
           "supplemental": 2
         },
         "domain": {
-          "BLS": 36,
+          "BLS": 39,
+          "HSC": 48,
           "B/T": 8,
-          "HSC": 46,
           "ENV": 2,
           "SOC": 2,
           "PHY": 1
@@ -745,16 +745,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 6,
+        "total": 7,
         "marks": {
-          "researcher_integrity": 3,
+          "researcher_integrity": 4,
           "supplemental": 1,
           "research": 1,
           "alterations": 1
         },
         "domain": {
-          "BLS": 9,
-          "HSC": 2,
+          "BLS": 12,
+          "HSC": 4,
           "B/T": 1,
           "SOC": 1,
           "ENV": 2,
@@ -1295,11 +1295,11 @@
     "collaborations": {
       "United States": 163,
       "China": 107,
-      "India": 29,
+      "India": 30,
       "Germany": 25,
       "Malaysia": 24,
       "Spain": 23,
-      "Saudi Arabia": 19,
+      "Saudi Arabia": 20,
       "South Korea": 19,
       "Egypt": 18,
       "France": 17,
@@ -1358,11 +1358,11 @@
     "notice_collaborations": {
       "United States": 163,
       "China": 107,
-      "India": 29,
+      "India": 30,
       "Germany": 25,
       "Malaysia": 24,
       "Spain": 23,
-      "Saudi Arabia": 19,
+      "Saudi Arabia": 20,
       "South Korea": 19,
       "Egypt": 18,
       "France": 17,

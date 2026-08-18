@@ -2,10 +2,10 @@
   "retraction_rate_data": {
     "country": "Poland",
     "yearly_rates": {
+      "2022": 0.8128,
+      "2024": 0.4194,
       "2021": 0.6507,
       "2025": 0.0612,
-      "2022": 0.7951,
-      "2024": 0.402,
       "2023": 0.6847,
       "2013": 0.2648,
       "2017": 0.1079,
@@ -28,8 +28,8 @@
       "2004": 0.0443
     },
     "notice_yearly_rates": {
-      "2025": 1.0564,
-      "2024": 0.6641,
+      "2025": 1.0717,
+      "2024": 0.6816,
       "2023": 0.2162,
       "2022": 0.3887,
       "2020": 0.1949,
@@ -53,12 +53,12 @@
       "2000": 0.0671,
       "2009": 0.1025
     },
-    "average_rate": 0.2626,
+    "average_rate": 0.2645,
     "yearly_retractions": {
+      "2022": 46,
+      "2024": 24,
       "2021": 39,
       "2025": 4,
-      "2022": 45,
-      "2024": 23,
       "2023": 38,
       "2013": 10,
       "2017": 5,
@@ -90,9 +90,9 @@
       "2004": 1
     },
     "notice_yearly_retractions": {
+      "2025": 70,
+      "2024": 39,
       "2026": 20,
-      "2025": 69,
-      "2024": 38,
       "2023": 12,
       "2022": 22,
       "2020": 11,
@@ -119,7 +119,7 @@
   },
   "domainwise_data": {
     "country": "Poland",
-    "total_retractions": 290,
+    "total_retractions": 292,
     "years": {
       "2025": {
         "total": 4,
@@ -135,16 +135,16 @@
         }
       },
       "2024": {
-        "total": 23,
+        "total": 24,
         "marks": {
+          "supplemental": 3,
           "system": 1,
           "alterations": 7,
           "researcher_integrity": 10,
-          "research": 3,
-          "supplemental": 2
+          "research": 3
         },
         "domain": {
-          "BLS": 6,
+          "BLS": 12,
           "HSC": 11,
           "PHY": 24,
           "B/T": 13,
@@ -170,21 +170,21 @@
         }
       },
       "2022": {
-        "total": 45,
+        "total": 46,
         "marks": {
+          "alterations": 11,
           "research": 9,
           "system": 4,
           "researcher_integrity": 19,
-          "alterations": 10,
           "supplemental": 3
         },
         "domain": {
+          "B/T": 13,
+          "SOC": 4,
           "BLS": 33,
           "PHY": 42,
           "ENV": 6,
-          "HSC": 19,
-          "B/T": 12,
-          "SOC": 3
+          "HSC": 19
         }
       },
       "2021": {
@@ -569,35 +569,35 @@
         }
       },
       "2025": {
-        "total": 69,
+        "total": 70,
         "marks": {
+          "alterations": 19,
           "research": 17,
-          "alterations": 18,
           "system": 1,
           "researcher_integrity": 33
         },
         "domain": {
+          "B/T": 49,
+          "SOC": 7,
           "PHY": 71,
           "BLS": 13,
           "HSC": 19,
-          "B/T": 48,
-          "ENV": 29,
-          "SOC": 6
+          "ENV": 29
         }
       },
       "2024": {
-        "total": 38,
+        "total": 39,
         "marks": {
+          "supplemental": 4,
           "alterations": 12,
           "researcher_integrity": 16,
-          "supplemental": 3,
           "research": 7
         },
         "domain": {
+          "BLS": 38,
           "B/T": 7,
           "PHY": 33,
           "SOC": 2,
-          "BLS": 32,
           "HSC": 20,
           "ENV": 3
         }
@@ -905,16 +905,16 @@
     "collaborations": {
       "China": 46,
       "Saudi Arabia": 46,
-      "India": 37,
+      "India": 38,
       "Pakistan": 33,
       "Iraq": 33,
       "United States": 25,
       "Germany": 21,
       "United Kingdom": 20,
       "Egypt": 16,
-      "Ukraine": 14,
+      "Ukraine": 15,
       "Hungary": 13,
-      "South Korea": 11,
+      "South Korea": 12,
       "Iran": 11,
       "Canada": 10,
       "Spain": 9,
@@ -980,16 +980,16 @@
     "notice_collaborations": {
       "China": 46,
       "Saudi Arabia": 46,
-      "India": 37,
+      "India": 38,
       "Pakistan": 33,
       "Iraq": 33,
       "United States": 25,
       "Germany": 21,
       "United Kingdom": 20,
       "Egypt": 16,
-      "Ukraine": 14,
+      "Ukraine": 15,
       "Hungary": 13,
-      "South Korea": 11,
+      "South Korea": 12,
       "Iran": 11,
       "Canada": 10,
       "Spain": 9,

@@ -3,7 +3,7 @@
     "country": "Norway",
     "yearly_rates": {
       "2023": 0.7213,
-      "2024": 0.2462,
+      "2024": 0.2813,
       "2016": 0.2493,
       "2022": 0.7722,
       "2025": 0.095,
@@ -30,7 +30,7 @@
       "2003": 0.3931
     },
     "notice_yearly_rates": {
-      "2025": 0.5698,
+      "2025": 0.6015,
       "2023": 1.1902,
       "2024": 0.5626,
       "2022": 0.3309,
@@ -53,10 +53,10 @@
       "2003": 0.131,
       "2014": 0.1104
     },
-    "average_rate": 0.343,
+    "average_rate": 0.3451,
     "yearly_retractions": {
       "2023": 20,
-      "2024": 7,
+      "2024": 8,
       "2016": 5,
       "2022": 21,
       "2025": 3,
@@ -85,7 +85,7 @@
     },
     "notice_yearly_retractions": {
       "2026": 5,
-      "2025": 18,
+      "2025": 19,
       "2023": 33,
       "2024": 16,
       "2022": 9,
@@ -112,7 +112,7 @@
   },
   "domainwise_data": {
     "country": "Norway",
-    "total_retractions": 164,
+    "total_retractions": 165,
     "years": {
       "2025": {
         "total": 3,
@@ -127,18 +127,18 @@
         }
       },
       "2024": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "alterations": 3,
           "supplemental": 1,
-          "research": 4,
-          "alterations": 2
+          "research": 4
         },
         "domain": {
+          "BLS": 4,
+          "PHY": 4,
           "B/T": 8,
           "SOC": 1,
           "HSC": 3,
-          "PHY": 3,
-          "BLS": 2,
           "ENV": 2
         }
       },
@@ -481,18 +481,18 @@
         }
       },
       "2025": {
-        "total": 18,
+        "total": 19,
         "marks": {
-          "alterations": 6,
+          "alterations": 7,
           "research": 11,
           "researcher_integrity": 1
         },
         "domain": {
-          "BLS": 13,
+          "BLS": 15,
+          "PHY": 13,
           "B/T": 12,
           "ENV": 7,
           "HSC": 6,
-          "PHY": 12,
           "SOC": 1
         }
       },
@@ -791,11 +791,11 @@
       "Pakistan": 16,
       "Saudi Arabia": 16,
       "Germany": 11,
+      "Iran": 10,
       "South Korea": 10,
       "Sweden": 10,
       "Denmark": 9,
       "Finland": 9,
-      "Iran": 9,
       "Taiwan": 6,
       "Canada": 6,
       "Netherlands": 6,
@@ -858,11 +858,11 @@
       "Pakistan": 16,
       "Saudi Arabia": 16,
       "Germany": 11,
+      "Iran": 10,
       "South Korea": 10,
       "Sweden": 10,
       "Denmark": 9,
       "Finland": 9,
-      "Iran": 9,
       "Taiwan": 6,
       "Canada": 6,
       "Netherlands": 6,
