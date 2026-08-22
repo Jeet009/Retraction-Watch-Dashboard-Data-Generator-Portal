@@ -32,6 +32,7 @@
     },
     "average_rate": 2.1886,
     "yearly_retractions": {
+      "2026": 1,
       "2025": 6,
       "2024": 34,
       "2023": 12,
@@ -46,7 +47,7 @@
       "2017": 1
     },
     "notice_yearly_retractions": {
-      "2026": 14,
+      "2026": 15,
       "2025": 33,
       "2024": 6,
       "2023": 2,
@@ -64,8 +65,18 @@
   },
   "domainwise_data": {
     "country": "Azerbaijan",
-    "total_retractions": 78,
+    "total_retractions": 79,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "BLS": 1,
+          "HSC": 2
+        }
+      },
       "2025": {
         "total": 6,
         "marks": {
@@ -222,18 +233,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 14,
+        "total": 15,
         "marks": {
-          "research": 12,
-          "alterations": 2
+          "alterations": 3,
+          "research": 12
         },
         "domain": {
+          "BLS": 22,
+          "HSC": 7,
           "B/T": 2,
           "ENV": 2,
           "SOC": 1,
-          "BLS": 21,
-          "PHY": 2,
-          "HSC": 5
+          "PHY": 2
         }
       },
       "2025": {
@@ -387,8 +398,8 @@
     },
     "collaborations": {
       "China": 28,
-      "Saudi Arabia": 20,
-      "Pakistan": 19,
+      "Saudi Arabia": 21,
+      "Pakistan": 20,
       "Russia": 12,
       "Turkey": 8,
       "India": 7,
@@ -427,8 +438,8 @@
     },
     "notice_collaborations": {
       "China": 28,
-      "Saudi Arabia": 20,
-      "Pakistan": 19,
+      "Saudi Arabia": 21,
+      "Pakistan": 20,
       "Russia": 12,
       "Turkey": 8,
       "India": 7,

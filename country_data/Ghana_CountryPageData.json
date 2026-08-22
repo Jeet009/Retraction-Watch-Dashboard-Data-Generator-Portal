@@ -2,9 +2,9 @@
   "retraction_rate_data": {
     "country": "Ghana",
     "yearly_rates": {
+      "2025": 0.2277,
       "2024": 0.8564,
       "2023": 1.2778,
-      "2025": 0.1139,
       "2022": 10.0846,
       "2021": 1.5576,
       "2019": 0.8688,
@@ -30,11 +30,11 @@
       "2016": 0.9742,
       "2007": 1.9531
     },
-    "average_rate": 1.6712,
+    "average_rate": 1.6879,
     "yearly_retractions": {
+      "2025": 2,
       "2024": 6,
       "2023": 8,
-      "2025": 1,
       "2022": 62,
       "2021": 8,
       "2019": 3,
@@ -47,9 +47,9 @@
       "2006": 1
     },
     "notice_yearly_retractions": {
+      "2026": 2,
       "2024": 30,
       "2025": 6,
-      "2026": 1,
       "2023": 42,
       "2019": 4,
       "2022": 6,
@@ -64,15 +64,18 @@
   },
   "domainwise_data": {
     "country": "Ghana",
-    "total_retractions": 100,
+    "total_retractions": 101,
     "years": {
       "2025": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "alterations": 1,
           "research": 1
         },
         "domain": {
-          "BLS": 1,
+          "BLS": 2,
+          "HSC": 1,
+          "PHY": 1,
           "ENV": 1
         }
       },
@@ -231,12 +234,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "alterations": 1,
           "research": 1
         },
         "domain": {
-          "BLS": 2
+          "BLS": 3,
+          "HSC": 1,
+          "PHY": 1
         }
       },
       "2025": {
@@ -395,7 +401,7 @@
     },
     "collaborations": {
       "India": 43,
-      "China": 19,
+      "China": 20,
       "Saudi Arabia": 17,
       "Pakistan": 14,
       "United States": 9,
@@ -406,10 +412,10 @@
       "Belgium": 4,
       "Mexico": 4,
       "Iran": 4,
+      "Ethiopia": 3,
       "Sweden": 3,
       "Bangladesh": 3,
       "South Africa": 3,
-      "Ethiopia": 2,
       "Kenya": 2,
       "Burkina Faso": 2,
       "Mali": 2,
@@ -456,7 +462,7 @@
     },
     "notice_collaborations": {
       "India": 43,
-      "China": 19,
+      "China": 20,
       "Saudi Arabia": 17,
       "Pakistan": 14,
       "United States": 9,
@@ -467,10 +473,10 @@
       "Belgium": 4,
       "Mexico": 4,
       "Iran": 4,
+      "Ethiopia": 3,
       "Sweden": 3,
       "Bangladesh": 3,
       "South Africa": 3,
-      "Ethiopia": 2,
       "Kenya": 2,
       "Burkina Faso": 2,
       "Mali": 2,

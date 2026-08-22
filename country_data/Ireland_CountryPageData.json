@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Ireland",
     "yearly_rates": {
-      "2023": 1.0463,
+      "2023": 1.1014,
       "2024": 0.4692,
       "2020": 0.3657,
       "2015": 0.4236,
@@ -28,7 +28,7 @@
       "1998": 0.3152
     },
     "notice_yearly_rates": {
-      "2025": 0.8621,
+      "2025": 0.9053,
       "2024": 0.2607,
       "2023": 0.9362,
       "2021": 0.3754,
@@ -50,9 +50,9 @@
       "1999": 0.312,
       "1998": 0.3152
     },
-    "average_rate": 0.4146,
+    "average_rate": 0.4178,
     "yearly_retractions": {
-      "2023": 19,
+      "2023": 20,
       "2024": 9,
       "2026": 1,
       "2020": 6,
@@ -79,8 +79,8 @@
       "1998": 1
     },
     "notice_yearly_retractions": {
+      "2025": 21,
       "2026": 14,
-      "2025": 20,
       "2024": 5,
       "2023": 17,
       "2021": 7,
@@ -105,7 +105,7 @@
   },
   "domainwise_data": {
     "country": "Ireland",
-    "total_retractions": 130,
+    "total_retractions": 131,
     "years": {
       "2026": {
         "total": 1,
@@ -147,16 +147,16 @@
         }
       },
       "2023": {
-        "total": 19,
+        "total": 20,
         "marks": {
+          "researcher_integrity": 4,
           "alterations": 2,
           "research": 1,
-          "researcher_integrity": 3,
           "system": 13
         },
         "domain": {
+          "HSC": 36,
           "BLS": 4,
-          "HSC": 35,
           "PHY": 3,
           "B/T": 5,
           "SOC": 4,
@@ -449,17 +449,17 @@
         }
       },
       "2025": {
-        "total": 20,
+        "total": 21,
         "marks": {
+          "researcher_integrity": 10,
           "research": 2,
           "alterations": 8,
-          "system": 1,
-          "researcher_integrity": 9
+          "system": 1
         },
         "domain": {
+          "HSC": 14,
           "PHY": 8,
           "BLS": 14,
-          "HSC": 13,
           "B/T": 15,
           "SOC": 3,
           "ENV": 1
@@ -713,10 +713,10 @@
     "collaborations": {
       "United Kingdom": 31,
       "United States": 17,
-      "China": 15,
+      "China": 16,
       "Pakistan": 11,
+      "France": 9,
       "India": 9,
-      "France": 8,
       "Australia": 6,
       "Saudi Arabia": 6,
       "South Korea": 5,
@@ -761,10 +761,10 @@
     "notice_collaborations": {
       "United Kingdom": 31,
       "United States": 17,
-      "China": 15,
+      "China": 16,
       "Pakistan": 11,
+      "France": 9,
       "India": 9,
-      "France": 8,
       "Australia": 6,
       "Saudi Arabia": 6,
       "South Korea": 5,

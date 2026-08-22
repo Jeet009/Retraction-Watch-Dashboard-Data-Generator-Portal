@@ -2,9 +2,9 @@
   "retraction_rate_data": {
     "country": "Jordan",
     "yearly_rates": {
+      "2024": 2.1634,
       "2023": 1.8742,
       "2022": 6.5953,
-      "2024": 2.0888,
       "2025": 0.3461,
       "2018": 3.2588,
       "2019": 2.0611,
@@ -46,11 +46,11 @@
       "2011": 0.8282,
       "2008": 0.5429
     },
-    "average_rate": 1.9509,
+    "average_rate": 1.96,
     "yearly_retractions": {
+      "2024": 29,
       "2023": 21,
       "2022": 61,
-      "2024": 28,
       "2025": 6,
       "2018": 14,
       "2019": 11,
@@ -73,7 +73,7 @@
       "2001": 1
     },
     "notice_yearly_retractions": {
-      "2026": 16,
+      "2026": 17,
       "2024": 30,
       "2025": 66,
       "2023": 62,
@@ -97,7 +97,7 @@
   },
   "domainwise_data": {
     "country": "Jordan",
-    "total_retractions": 216,
+    "total_retractions": 217,
     "years": {
       "2026": {
         "total": 1,
@@ -125,20 +125,20 @@
         }
       },
       "2024": {
-        "total": 28,
+        "total": 29,
         "marks": {
+          "research": 10,
           "alterations": 10,
-          "research": 9,
           "system": 1,
           "researcher_integrity": 8
         },
         "domain": {
-          "HSC": 33,
+          "HSC": 34,
+          "SOC": 2,
           "PHY": 17,
           "BLS": 17,
           "B/T": 15,
-          "ENV": 2,
-          "SOC": 1
+          "ENV": 2
         }
       },
       "2023": {
@@ -387,21 +387,21 @@
     },
     "notice_years": {
       "2026": {
-        "total": 16,
+        "total": 17,
         "marks": {
-          "research": 8,
+          "research": 9,
           "system": 1,
           "alterations": 5,
           "supplemental": 1,
           "researcher_integrity": 1
         },
         "domain": {
+          "HSC": 12,
+          "SOC": 4,
           "B/T": 8,
-          "HSC": 11,
           "PHY": 11,
           "BLS": 9,
-          "ENV": 3,
-          "SOC": 3
+          "ENV": 3
         }
       },
       "2025": {
@@ -641,7 +641,7 @@
       "India": 47,
       "Pakistan": 36,
       "Iraq": 26,
-      "China": 21,
+      "China": 22,
       "Egypt": 19,
       "United Arab Emirates": 16,
       "United States": 13,
@@ -718,7 +718,7 @@
       "India": 47,
       "Pakistan": 36,
       "Iraq": 26,
-      "China": 21,
+      "China": 22,
       "Egypt": 19,
       "United Arab Emirates": 16,
       "United States": 13,
