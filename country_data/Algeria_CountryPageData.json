@@ -4,10 +4,10 @@
     "yearly_rates": {
       "2014": 1.9109,
       "2021": 0.7229,
+      "2025": 0.2135,
       "2024": 0.3141,
       "2022": 1.1216,
       "2018": 1.6334,
-      "2025": 0.1424,
       "2023": 0.4655,
       "2012": 2.3403,
       "2020": 0.6046,
@@ -42,14 +42,14 @@
       "2009": 0.3187,
       "2010": 0.3165
     },
-    "average_rate": 0.7085,
+    "average_rate": 0.7157,
     "yearly_retractions": {
       "2014": 10,
       "2021": 7,
+      "2025": 3,
       "2024": 4,
       "2022": 12,
       "2018": 13,
-      "2025": 2,
       "2023": 5,
       "2012": 10,
       "2020": 5,
@@ -68,8 +68,8 @@
     "notice_yearly_retractions": {
       "2017": 7,
       "2022": 6,
+      "2026": 4,
       "2021": 3,
-      "2026": 3,
       "2024": 9,
       "2025": 9,
       "2012": 4,
@@ -88,16 +88,17 @@
   },
   "domainwise_data": {
     "country": "Algeria",
-    "total_retractions": 99,
+    "total_retractions": 100,
     "years": {
       "2025": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "alterations": 1,
-          "researcher_integrity": 1
+          "researcher_integrity": 2,
+          "alterations": 1
         },
         "domain": {
-          "PHY": 3,
+          "ENV": 1,
+          "PHY": 4,
           "B/T": 1
         }
       },
@@ -338,16 +339,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 3,
+        "total": 4,
         "marks": {
+          "researcher_integrity": 2,
           "research": 1,
-          "researcher_integrity": 1,
           "alterations": 1
         },
         "domain": {
+          "ENV": 1,
+          "PHY": 4,
           "B/T": 1,
           "BLS": 3,
-          "PHY": 3,
           "HSC": 2
         }
       },

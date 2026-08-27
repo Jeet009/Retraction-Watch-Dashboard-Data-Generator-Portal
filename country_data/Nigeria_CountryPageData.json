@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Nigeria",
     "yearly_rates": {
+      "2021": 1.5961,
       "2017": 0.6621,
       "2024": 1.3609,
       "2023": 3.2879,
@@ -10,7 +11,6 @@
       "2009": 0.8396,
       "2025": 0.0944,
       "2020": 1.4703,
-      "2021": 1.5347,
       "2014": 1.3596,
       "2019": 1.4918,
       "2006": 0.6373,
@@ -41,8 +41,9 @@
       "2013": 0.3586,
       "2015": 0.8537
     },
-    "average_rate": 1.1759,
+    "average_rate": 1.1809,
     "yearly_retractions": {
+      "2021": 26,
       "2017": 5,
       "2024": 24,
       "2026": 1,
@@ -52,7 +53,6 @@
       "2009": 4,
       "2025": 2,
       "2020": 21,
-      "2021": 25,
       "2014": 8,
       "2019": 18,
       "2006": 2,
@@ -65,7 +65,7 @@
       "2011": 5
     },
     "notice_yearly_retractions": {
-      "2026": 27,
+      "2026": 28,
       "2025": 97,
       "2009": 1,
       "2024": 23,
@@ -87,7 +87,7 @@
   },
   "domainwise_data": {
     "country": "Nigeria",
-    "total_retractions": 239,
+    "total_retractions": 240,
     "years": {
       "2026": {
         "total": 1,
@@ -161,18 +161,18 @@
         }
       },
       "2021": {
-        "total": 25,
+        "total": 26,
         "marks": {
-          "alterations": 8,
+          "alterations": 9,
           "research": 8,
           "researcher_integrity": 7,
           "system": 1,
           "supplemental": 1
         },
         "domain": {
+          "BLS": 19,
+          "HSC": 12,
           "ENV": 11,
-          "HSC": 11,
-          "BLS": 17,
           "B/T": 11,
           "PHY": 20,
           "SOC": 1
@@ -381,16 +381,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 27,
+        "total": 28,
         "marks": {
-          "alterations": 19,
+          "alterations": 20,
           "researcher_integrity": 3,
           "research": 4,
           "supplemental": 1
         },
         "domain": {
-          "BLS": 14,
-          "HSC": 9,
+          "BLS": 16,
+          "HSC": 10,
           "ENV": 5,
           "PHY": 36,
           "B/T": 2
