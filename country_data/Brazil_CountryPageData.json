@@ -58,6 +58,7 @@
     },
     "average_rate": 0.2718,
     "yearly_retractions": {
+      "2026": 1,
       "2024": 7,
       "2021": 35,
       "2010": 14,
@@ -88,7 +89,7 @@
       "1997": 3
     },
     "notice_yearly_retractions": {
-      "2026": 6,
+      "2026": 7,
       "2024": 69,
       "2025": 30,
       "2023": 25,
@@ -116,8 +117,18 @@
   },
   "domainwise_data": {
     "country": "Brazil",
-    "total_retractions": 417,
+    "total_retractions": 418,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "PHY": 2
+        }
+      },
       "2025": {
         "total": 5,
         "marks": {
@@ -533,18 +544,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 6,
+        "total": 7,
         "marks": {
+          "research": 3,
           "alterations": 1,
-          "researcher_integrity": 3,
-          "research": 2
+          "researcher_integrity": 3
         },
         "domain": {
+          "B/T": 2,
+          "PHY": 4,
           "HSC": 9,
-          "PHY": 2,
           "BLS": 1,
-          "ENV": 2,
-          "B/T": 1
+          "ENV": 2
         }
       },
       "2025": {
@@ -895,9 +906,9 @@
       }
     },
     "collaborations": {
-      "India": 33,
+      "India": 34,
       "United States": 30,
-      "United Kingdom": 28,
+      "United Kingdom": 29,
       "Spain": 17,
       "China": 16,
       "Germany": 16,
@@ -958,9 +969,9 @@
       "Ireland": 1
     },
     "notice_collaborations": {
-      "India": 33,
+      "India": 34,
       "United States": 30,
-      "United Kingdom": 28,
+      "United Kingdom": 29,
       "Spain": 17,
       "China": 16,
       "Germany": 16,

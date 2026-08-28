@@ -14,6 +14,7 @@
     },
     "average_rate": 2.3986,
     "yearly_retractions": {
+      "2026": 1,
       "2025": 1,
       "2020": 5,
       "2019": 2,
@@ -21,15 +22,25 @@
       "2022": 1
     },
     "notice_yearly_retractions": {
-      "2026": 1,
+      "2026": 2,
       "2024": 8,
       "2022": 2
     }
   },
   "domainwise_data": {
     "country": "Gambia",
-    "total_retractions": 11,
+    "total_retractions": 12,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "PHY": 1
+        }
+      },
       "2025": {
         "total": 1,
         "marks": {
@@ -84,13 +95,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "research": 1,
           "system": 1
         },
         "domain": {
-          "HSC": 1,
-          "PHY": 1
+          "B/T": 1,
+          "PHY": 2,
+          "HSC": 1
         }
       },
       "2024": {
@@ -117,8 +130,8 @@
       }
     },
     "collaborations": {
-      "Pakistan": 10,
-      "Saudi Arabia": 3,
+      "Pakistan": 11,
+      "Saudi Arabia": 4,
       "China": 1,
       "Algeria": 1,
       "Angola": 1,
@@ -150,8 +163,8 @@
       "Australia": 1
     },
     "notice_collaborations": {
-      "Pakistan": 10,
-      "Saudi Arabia": 3,
+      "Pakistan": 11,
+      "Saudi Arabia": 4,
       "China": 1,
       "Algeria": 1,
       "Angola": 1,

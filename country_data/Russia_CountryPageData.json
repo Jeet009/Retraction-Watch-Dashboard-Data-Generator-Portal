@@ -6,8 +6,8 @@
     "average_rate": 0.0,
     "yearly_retractions": {
       "2025": 6,
+      "2021": 105,
       "2009": 8,
-      "2021": 104,
       "2023": 229,
       "2024": 154,
       "2022": 72,
@@ -34,7 +34,7 @@
     },
     "notice_yearly_retractions": {
       "2025": 389,
-      "2026": 16,
+      "2026": 17,
       "2023": 88,
       "2024": 60,
       "2022": 88,
@@ -57,7 +57,7 @@
   },
   "domainwise_data": {
     "country": "Russia",
-    "total_retractions": 3117,
+    "total_retractions": 3118,
     "years": {
       "2026": {
         "total": 1,
@@ -138,20 +138,20 @@
         }
       },
       "2021": {
-        "total": 104,
+        "total": 105,
         "marks": {
+          "alterations": 19,
           "researcher_integrity": 44,
           "system": 21,
-          "alterations": 18,
           "research": 12,
           "supplemental": 9
         },
         "domain": {
+          "BLS": 37,
+          "HSC": 30,
           "PHY": 50,
           "B/T": 59,
           "SOC": 59,
-          "HSC": 29,
-          "BLS": 36,
           "ENV": 11,
           "HUM": 3
         }
@@ -437,19 +437,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 16,
+        "total": 17,
         "marks": {
-          "alterations": 5,
+          "alterations": 6,
           "researcher_integrity": 6,
           "system": 2,
           "research": 3
         },
         "domain": {
-          "BLS": 2,
+          "BLS": 3,
+          "HSC": 5,
           "PHY": 23,
           "B/T": 5,
           "SOC": 1,
-          "HSC": 4,
           "ENV": 4
         }
       },
@@ -742,7 +742,7 @@
     "collaborations": {
       "China": 86,
       "Kazakhstan": 60,
-      "India": 48,
+      "India": 49,
       "Saudi Arabia": 47,
       "Iran": 42,
       "Pakistan": 33,
@@ -826,7 +826,7 @@
     "notice_collaborations": {
       "China": 86,
       "Kazakhstan": 60,
-      "India": 48,
+      "India": 49,
       "Saudi Arabia": 47,
       "Iran": 42,
       "Pakistan": 33,

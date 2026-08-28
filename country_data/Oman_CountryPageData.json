@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Oman",
     "yearly_rates": {
-      "2025": 0.2577,
+      "2025": 0.3865,
       "2022": 8.6957,
       "2023": 3.2314,
       "2024": 1.6726,
@@ -32,9 +32,9 @@
       "2014": 2.2971,
       "2016": 1.1876
     },
-    "average_rate": 2.2148,
+    "average_rate": 2.2361,
     "yearly_retractions": {
-      "2025": 2,
+      "2025": 3,
       "2022": 33,
       "2023": 13,
       "2024": 9,
@@ -51,7 +51,7 @@
       "2014": 2
     },
     "notice_yearly_retractions": {
-      "2026": 8,
+      "2026": 9,
       "2025": 21,
       "2024": 20,
       "2023": 22,
@@ -68,17 +68,18 @@
   },
   "domainwise_data": {
     "country": "Oman",
-    "total_retractions": 104,
+    "total_retractions": 105,
     "years": {
       "2025": {
-        "total": 2,
+        "total": 3,
         "marks": {
           "researcher_integrity": 1,
+          "research": 1,
           "alterations": 1
         },
         "domain": {
           "B/T": 2,
-          "BLS": 1,
+          "BLS": 3,
           "ENV": 1,
           "HSC": 1
         }
@@ -262,15 +263,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 8,
+        "total": 9,
         "marks": {
           "researcher_integrity": 2,
-          "alterations": 3,
-          "research": 3
+          "research": 4,
+          "alterations": 3
         },
         "domain": {
           "B/T": 7,
-          "BLS": 4,
+          "BLS": 6,
           "PHY": 5,
           "HSC": 6,
           "ENV": 2
