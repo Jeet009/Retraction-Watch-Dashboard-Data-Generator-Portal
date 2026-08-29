@@ -3,7 +3,7 @@
     "country": "Poland",
     "yearly_rates": {
       "2022": 0.8481,
-      "2025": 0.0766,
+      "2025": 0.0919,
       "2023": 0.7027,
       "2024": 0.4194,
       "2021": 0.7174,
@@ -53,10 +53,10 @@
       "2000": 0.0671,
       "2009": 0.1025
     },
-    "average_rate": 0.2722,
+    "average_rate": 0.2732,
     "yearly_retractions": {
       "2022": 48,
-      "2025": 5,
+      "2025": 6,
       "2023": 39,
       "2024": 24,
       "2021": 43,
@@ -91,7 +91,7 @@
     },
     "notice_yearly_retractions": {
       "2025": 71,
-      "2026": 27,
+      "2026": 28,
       "2024": 39,
       "2023": 12,
       "2022": 22,
@@ -119,19 +119,19 @@
   },
   "domainwise_data": {
     "country": "Poland",
-    "total_retractions": 300,
+    "total_retractions": 301,
     "years": {
       "2025": {
-        "total": 5,
+        "total": 6,
         "marks": {
-          "research": 3,
+          "research": 4,
           "alterations": 2
         },
         "domain": {
+          "BLS": 7,
+          "ENV": 2,
           "PHY": 6,
-          "BLS": 6,
-          "SOC": 3,
-          "ENV": 1
+          "SOC": 3
         }
       },
       "2024": {
@@ -552,17 +552,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 27,
+        "total": 28,
         "marks": {
-          "research": 8,
+          "research": 9,
           "researcher_integrity": 10,
           "system": 3,
           "alterations": 6
         },
         "domain": {
+          "BLS": 12,
+          "ENV": 7,
           "PHY": 20,
-          "BLS": 11,
-          "ENV": 6,
           "B/T": 6,
           "SOC": 4,
           "HSC": 21

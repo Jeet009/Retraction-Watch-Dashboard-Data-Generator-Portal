@@ -4,8 +4,8 @@
     "yearly_rates": {
       "2025": 0.1113,
       "2021": 0.5405,
+      "2023": 0.5066,
       "2022": 0.8136,
-      "2023": 0.5015,
       "2009": 0.6101,
       "2018": 0.4027,
       "2024": 0.2364,
@@ -65,12 +65,12 @@
       "2003": 0.0194,
       "2000": 0.0303
     },
-    "average_rate": 0.385,
+    "average_rate": 0.3852,
     "yearly_retractions": {
       "2025": 29,
       "2021": 114,
+      "2023": 101,
       "2022": 166,
-      "2023": 100,
       "2026": 2,
       "2009": 85,
       "2018": 74,
@@ -118,7 +118,7 @@
     "notice_yearly_retractions": {
       "2025": 130,
       "2024": 137,
-      "2026": 51,
+      "2026": 52,
       "2021": 101,
       "2009": 46,
       "2018": 95,
@@ -162,7 +162,7 @@
   },
   "domainwise_data": {
     "country": "United Kingdom",
-    "total_retractions": 1777,
+    "total_retractions": 1778,
     "years": {
       "2026": {
         "total": 2,
@@ -212,21 +212,21 @@
         }
       },
       "2023": {
-        "total": 100,
+        "total": 101,
         "marks": {
+          "researcher_integrity": 23,
           "alterations": 21,
           "research": 38,
-          "researcher_integrity": 22,
           "system": 15,
           "supplemental": 4
         },
         "domain": {
+          "B/T": 86,
+          "ENV": 24,
+          "PHY": 31,
           "BLS": 41,
           "HSC": 75,
-          "B/T": 85,
-          "PHY": 30,
           "SOC": 22,
-          "ENV": 23,
           "HUM": 1
         }
       },
@@ -252,10 +252,10 @@
       "2021": {
         "total": 114,
         "marks": {
-          "system": 12,
+          "alterations": 28,
+          "research": 46,
           "researcher_integrity": 26,
-          "alterations": 27,
-          "research": 45,
+          "system": 10,
           "supplemental": 4
         },
         "domain": {
@@ -875,20 +875,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 51,
+        "total": 52,
         "marks": {
+          "researcher_integrity": 9,
           "research": 19,
           "alterations": 21,
-          "researcher_integrity": 8,
           "supplemental": 2,
           "system": 1
         },
         "domain": {
-          "B/T": 28,
+          "B/T": 29,
+          "ENV": 9,
+          "PHY": 26,
           "BLS": 38,
           "HSC": 35,
-          "PHY": 25,
-          "ENV": 8,
           "SOC": 7
         }
       },
@@ -914,11 +914,11 @@
       "2024": {
         "total": 137,
         "marks": {
-          "system": 5,
-          "research": 42,
+          "alterations": 56,
+          "research": 43,
           "researcher_integrity": 27,
-          "alterations": 55,
-          "supplemental": 8
+          "supplemental": 8,
+          "system": 3
         },
         "domain": {
           "B/T": 110,
@@ -1502,12 +1502,12 @@
       }
     },
     "collaborations": {
-      "China": 260,
+      "China": 261,
       "United States": 227,
       "India": 108,
       "Germany": 89,
       "Italy": 87,
-      "Canada": 83,
+      "Canada": 84,
       "Pakistan": 82,
       "Australia": 74,
       "Saudi Arabia": 70,
@@ -1526,13 +1526,13 @@
       "Poland": 20,
       "South Africa": 19,
       "Singapore": 19,
+      "South Korea": 18,
+      "Belgium": 17,
       "Norway": 17,
-      "South Korea": 17,
       "Turkey": 17,
       "New Zealand": 17,
       "Austria": 17,
       "Finland": 16,
-      "Belgium": 16,
       "Japan": 16,
       "Greece": 15,
       "Ethiopia": 15,
@@ -1619,12 +1619,12 @@
       "Vietnam": 1
     },
     "notice_collaborations": {
-      "China": 260,
+      "China": 261,
       "United States": 227,
       "India": 108,
       "Germany": 89,
       "Italy": 87,
-      "Canada": 83,
+      "Canada": 84,
       "Pakistan": 82,
       "Australia": 74,
       "Saudi Arabia": 70,
@@ -1643,13 +1643,13 @@
       "Poland": 20,
       "South Africa": 19,
       "Singapore": 19,
+      "South Korea": 18,
+      "Belgium": 17,
       "Norway": 17,
-      "South Korea": 17,
       "Turkey": 17,
       "New Zealand": 17,
       "Austria": 17,
       "Finland": 16,
-      "Belgium": 16,
       "Japan": 16,
       "Greece": 15,
       "Ethiopia": 15,
