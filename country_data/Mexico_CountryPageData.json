@@ -2,10 +2,10 @@
   "retraction_rate_data": {
     "country": "Mexico",
     "yearly_rates": {
+      "2025": 0.0842,
       "2019": 0.3699,
       "2024": 0.3248,
       "2022": 0.6512,
-      "2025": 0.0561,
       "2023": 0.3041,
       "2015": 0.1488,
       "2016": 0.4177,
@@ -43,12 +43,12 @@
       "2013": 0.1638,
       "2002": 0.1303
     },
-    "average_rate": 0.2765,
+    "average_rate": 0.2784,
     "yearly_retractions": {
+      "2025": 3,
       "2019": 10,
       "2024": 10,
       "2022": 20,
-      "2025": 2,
       "2023": 9,
       "2015": 3,
       "2016": 9,
@@ -68,7 +68,7 @@
       "2000": 1
     },
     "notice_yearly_retractions": {
-      "2026": 7,
+      "2026": 8,
       "2025": 25,
       "2024": 17,
       "2023": 17,
@@ -90,15 +90,17 @@
   },
   "domainwise_data": {
     "country": "Mexico",
-    "total_retractions": 143,
+    "total_retractions": 144,
     "years": {
       "2025": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "researcher_integrity": 1,
+          "researcher_integrity": 2,
           "research": 1
         },
         "domain": {
+          "B/T": 1,
+          "SOC": 2,
           "HSC": 5
         }
       },
@@ -380,18 +382,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 7,
+        "total": 8,
         "marks": {
-          "researcher_integrity": 2,
+          "researcher_integrity": 3,
           "alterations": 2,
           "research": 3
         },
         "domain": {
+          "B/T": 4,
+          "SOC": 2,
           "BLS": 4,
           "ENV": 4,
           "PHY": 4,
-          "HSC": 5,
-          "B/T": 3
+          "HSC": 5
         }
       },
       "2025": {
@@ -635,11 +638,11 @@
       "Vietnam": 11,
       "Saudi Arabia": 9,
       "Germany": 9,
+      "United Kingdom": 8,
       "Australia": 8,
       "Spain": 8,
       "Canada": 7,
       "Belgium": 7,
-      "United Kingdom": 7,
       "Pakistan": 6,
       "Italy": 6,
       "Chile": 5,
@@ -693,11 +696,11 @@
       "Vietnam": 11,
       "Saudi Arabia": 9,
       "Germany": 9,
+      "United Kingdom": 8,
       "Australia": 8,
       "Spain": 8,
       "Canada": 7,
       "Belgium": 7,
-      "United Kingdom": 7,
       "Pakistan": 6,
       "Italy": 6,
       "Chile": 5,

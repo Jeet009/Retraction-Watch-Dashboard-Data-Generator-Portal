@@ -2,9 +2,9 @@
   "retraction_rate_data": {
     "country": "Slovakia",
     "yearly_rates": {
+      "2024": 0.3141,
       "2020": 0.5243,
       "2022": 0.8673,
-      "2024": 0.2094,
       "2023": 0.3109,
       "2021": 1.1395,
       "2015": 0.4042,
@@ -36,11 +36,11 @@
       "2015": 0.2695,
       "2010": 0.1989
     },
-    "average_rate": 0.2725,
+    "average_rate": 0.2782,
     "yearly_retractions": {
+      "2024": 3,
       "2020": 5,
       "2022": 8,
-      "2024": 2,
       "2023": 3,
       "2021": 11,
       "2015": 3,
@@ -57,7 +57,7 @@
       "2001": 1
     },
     "notice_yearly_retractions": {
-      "2026": 1,
+      "2026": 2,
       "2025": 11,
       "2024": 5,
       "2023": 3,
@@ -76,15 +76,17 @@
   },
   "domainwise_data": {
     "country": "Slovakia",
-    "total_retractions": 48,
+    "total_retractions": 49,
     "years": {
       "2024": {
-        "total": 2,
+        "total": 3,
         "marks": {
+          "alterations": 1,
           "supplemental": 1,
           "researcher_integrity": 1
         },
         "domain": {
+          "B/T": 2,
           "PHY": 4,
           "ENV": 1,
           "HSC": 2
@@ -270,11 +272,12 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
-          "alterations": 1
+          "alterations": 2
         },
         "domain": {
+          "B/T": 2,
           "BLS": 2,
           "PHY": 2
         }
@@ -441,8 +444,8 @@
       }
     },
     "collaborations": {
+      "Saudi Arabia": 12,
       "Czech Republic": 12,
-      "Saudi Arabia": 11,
       "China": 10,
       "India": 9,
       "Pakistan": 8,
@@ -481,8 +484,8 @@
       "Luxembourg": 1
     },
     "notice_collaborations": {
+      "Saudi Arabia": 12,
       "Czech Republic": 12,
-      "Saudi Arabia": 11,
       "China": 10,
       "India": 9,
       "Pakistan": 8,

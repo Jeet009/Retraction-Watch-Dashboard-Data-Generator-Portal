@@ -2,13 +2,13 @@
   "retraction_rate_data": {
     "country": "Indonesia",
     "yearly_rates": {
+      "2025": 0.0894,
       "2022": 0.7921,
       "2021": 0.7493,
       "2023": 0.4037,
       "2024": 0.3208,
       "2019": 0.3289,
       "2020": 0.2084,
-      "2025": 0.0745,
       "2018": 1.9254,
       "2008": 1.336,
       "2012": 0.5096,
@@ -41,15 +41,15 @@
       "2009": 0.4897,
       "2004": 3.0675
     },
-    "average_rate": 0.5101,
+    "average_rate": 0.5121,
     "yearly_retractions": {
+      "2025": 6,
       "2022": 36,
       "2021": 40,
       "2023": 24,
       "2024": 20,
       "2019": 16,
       "2020": 11,
-      "2025": 5,
       "2018": 66,
       "2008": 2,
       "2012": 2,
@@ -64,8 +64,8 @@
       "1998": 1
     },
     "notice_yearly_retractions": {
+      "2026": 11,
       "2025": 47,
-      "2026": 10,
       "2024": 30,
       "2023": 32,
       "2022": 17,
@@ -86,24 +86,24 @@
   },
   "domainwise_data": {
     "country": "Indonesia",
-    "total_retractions": 256,
+    "total_retractions": 257,
     "years": {
       "2025": {
-        "total": 5,
+        "total": 6,
         "marks": {
+          "alterations": 2,
           "researcher_integrity": 1,
           "research": 2,
-          "alterations": 1,
           "system": 1
         },
         "domain": {
+          "B/T": 4,
+          "SOC": 3,
           "HSC": 3,
           "BLS": 1,
-          "SOC": 2,
           "PHY": 3,
           "ENV": 2,
-          "HUM": 1,
-          "B/T": 2
+          "HUM": 1
         }
       },
       "2024": {
@@ -354,17 +354,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 10,
+        "total": 11,
         "marks": {
-          "alterations": 4,
+          "alterations": 5,
           "researcher_integrity": 2,
           "supplemental": 1,
           "research": 3
         },
         "domain": {
+          "B/T": 6,
+          "SOC": 1,
           "PHY": 8,
           "BLS": 5,
-          "B/T": 4,
           "ENV": 2,
           "HSC": 7
         }
@@ -617,8 +618,8 @@
       "India": 34,
       "Malaysia": 27,
       "Iraq": 23,
+      "Pakistan": 20,
       "Iran": 19,
-      "Pakistan": 19,
       "Taiwan": 19,
       "Thailand": 17,
       "China": 14,
@@ -630,8 +631,8 @@
       "United Arab Emirates": 7,
       "Uzbekistan": 7,
       "Spain": 7,
+      "South Korea": 6,
       "United Kingdom": 6,
-      "South Korea": 5,
       "Peru": 5,
       "Ethiopia": 5,
       "Nigeria": 4,
@@ -683,8 +684,8 @@
       "India": 34,
       "Malaysia": 27,
       "Iraq": 23,
+      "Pakistan": 20,
       "Iran": 19,
-      "Pakistan": 19,
       "Taiwan": 19,
       "Thailand": 17,
       "China": 14,
@@ -696,8 +697,8 @@
       "United Arab Emirates": 7,
       "Uzbekistan": 7,
       "Spain": 7,
+      "South Korea": 6,
       "United Kingdom": 6,
-      "South Korea": 5,
       "Peru": 5,
       "Ethiopia": 5,
       "Nigeria": 4,

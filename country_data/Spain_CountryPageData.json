@@ -2,10 +2,11 @@
   "retraction_rate_data": {
     "country": "Spain",
     "yearly_rates": {
+      "2025": 0.0387,
+      "2009": 0.346,
       "2010": 0.4147,
       "2021": 0.5327,
       "2012": 0.4125,
-      "2025": 0.0309,
       "2024": 0.1215,
       "2022": 0.4745,
       "2013": 0.2514,
@@ -19,7 +20,6 @@
       "2017": 0.2408,
       "2016": 0.2939,
       "2007": 0.2399,
-      "2009": 0.3303,
       "2006": 0.2168,
       "2011": 0.494,
       "2002": 0.2056,
@@ -32,7 +32,7 @@
       "1997": 0.0371
     },
     "notice_yearly_rates": {
-      "2024": 0.9633,
+      "2024": 0.9719,
       "2025": 0.3249,
       "2022": 0.2507,
       "2019": 0.3284,
@@ -59,12 +59,13 @@
       "1999": 0.0347,
       "2003": 0.027
     },
-    "average_rate": 0.296,
+    "average_rate": 0.2969,
     "yearly_retractions": {
+      "2025": 5,
+      "2009": 22,
       "2010": 28,
       "2021": 61,
       "2012": 32,
-      "2025": 4,
       "2024": 14,
       "2022": 53,
       "2013": 20,
@@ -78,7 +79,6 @@
       "2017": 21,
       "2016": 25,
       "2007": 13,
-      "2009": 21,
       "2006": 11,
       "2011": 36,
       "2002": 7,
@@ -91,8 +91,8 @@
       "1997": 1
     },
     "notice_yearly_retractions": {
-      "2024": 111,
-      "2026": 11,
+      "2026": 12,
+      "2024": 112,
       "2025": 42,
       "2022": 28,
       "2019": 32,
@@ -122,20 +122,20 @@
   },
   "domainwise_data": {
     "country": "Spain",
-    "total_retractions": 611,
+    "total_retractions": 613,
     "years": {
       "2025": {
-        "total": 4,
+        "total": 5,
         "marks": {
-          "research": 2,
+          "research": 3,
           "researcher_integrity": 2
         },
         "domain": {
-          "B/T": 1,
+          "B/T": 2,
+          "HSC": 2,
           "ENV": 1,
           "SOC": 3,
-          "BLS": 5,
-          "HSC": 1
+          "BLS": 5
         }
       },
       "2024": {
@@ -413,16 +413,16 @@
         }
       },
       "2009": {
-        "total": 21,
+        "total": 22,
         "marks": {
+          "research": 8,
           "alterations": 11,
           "supplemental": 1,
-          "research": 7,
           "researcher_integrity": 2
         },
         "domain": {
-          "BLS": 40,
-          "HSC": 12,
+          "BLS": 41,
+          "HSC": 14,
           "PHY": 5,
           "ENV": 4
         }
@@ -574,19 +574,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 11,
+        "total": 12,
         "marks": {
+          "research": 7,
           "researcher_integrity": 3,
-          "research": 6,
           "alterations": 2
         },
         "domain": {
+          "B/T": 5,
+          "HSC": 6,
           "PHY": 6,
-          "B/T": 4,
           "ENV": 3,
           "SOC": 2,
-          "BLS": 8,
-          "HSC": 5
+          "BLS": 8
         }
       },
       "2025": {
@@ -606,17 +606,17 @@
         }
       },
       "2024": {
-        "total": 111,
+        "total": 112,
         "marks": {
-          "research": 29,
+          "research": 30,
           "researcher_integrity": 33,
           "alterations": 43,
           "supplemental": 3,
           "system": 3
         },
         "domain": {
-          "BLS": 125,
-          "HSC": 71,
+          "BLS": 126,
+          "HSC": 73,
           "B/T": 70,
           "SOC": 12,
           "PHY": 48,
@@ -994,7 +994,7 @@
       "United States": 91,
       "China": 50,
       "Italy": 48,
-      "United Kingdom": 39,
+      "United Kingdom": 40,
       "Pakistan": 36,
       "India": 33,
       "France": 33,
@@ -1036,6 +1036,7 @@
       "Taiwan": 4,
       "Singapore": 4,
       "Tunisia": 4,
+      "Ireland": 3,
       "Hungary": 3,
       "Oman": 3,
       "Romania": 3,
@@ -1054,7 +1055,6 @@
       "Serbia": 2,
       "Georgia": 2,
       "Cyprus": 2,
-      "Ireland": 2,
       "Uruguay": 2,
       "Azerbaijan": 1,
       "Algeria": 1,
@@ -1079,7 +1079,7 @@
       "United States": 91,
       "China": 50,
       "Italy": 48,
-      "United Kingdom": 39,
+      "United Kingdom": 40,
       "Pakistan": 36,
       "India": 33,
       "France": 33,
@@ -1121,6 +1121,7 @@
       "Taiwan": 4,
       "Singapore": 4,
       "Tunisia": 4,
+      "Ireland": 3,
       "Hungary": 3,
       "Oman": 3,
       "Romania": 3,
@@ -1139,7 +1140,6 @@
       "Serbia": 2,
       "Georgia": 2,
       "Cyprus": 2,
-      "Ireland": 2,
       "Uruguay": 2,
       "Azerbaijan": 1,
       "Algeria": 1,

@@ -2,11 +2,11 @@
   "retraction_rate_data": {
     "country": "United Kingdom",
     "yearly_rates": {
-      "2025": 0.1113,
+      "2025": 0.1152,
       "2021": 0.5405,
       "2023": 0.5066,
       "2022": 0.8136,
-      "2009": 0.6101,
+      "2009": 0.6173,
       "2018": 0.4027,
       "2024": 0.2364,
       "2017": 0.4027,
@@ -35,7 +35,7 @@
     },
     "notice_yearly_rates": {
       "2025": 0.499,
-      "2024": 0.6478,
+      "2024": 0.6525,
       "2021": 0.4788,
       "2009": 0.3302,
       "2018": 0.517,
@@ -65,14 +65,14 @@
       "2003": 0.0194,
       "2000": 0.0303
     },
-    "average_rate": 0.3852,
+    "average_rate": 0.3857,
     "yearly_retractions": {
-      "2025": 29,
+      "2025": 30,
       "2021": 114,
       "2023": 101,
       "2022": 166,
+      "2009": 86,
       "2026": 2,
-      "2009": 85,
       "2018": 74,
       "2024": 50,
       "2017": 72,
@@ -117,8 +117,8 @@
     },
     "notice_yearly_retractions": {
       "2025": 130,
-      "2024": 137,
-      "2026": 52,
+      "2024": 138,
+      "2026": 53,
       "2021": 101,
       "2009": 46,
       "2018": 95,
@@ -162,7 +162,7 @@
   },
   "domainwise_data": {
     "country": "United Kingdom",
-    "total_retractions": 1778,
+    "total_retractions": 1780,
     "years": {
       "2026": {
         "total": 2,
@@ -176,9 +176,9 @@
         }
       },
       "2025": {
-        "total": 29,
+        "total": 30,
         "marks": {
-          "researcher_integrity": 13,
+          "researcher_integrity": 14,
           "alterations": 5,
           "research": 6,
           "system": 3,
@@ -186,10 +186,10 @@
         },
         "domain": {
           "PHY": 7,
-          "B/T": 8,
+          "B/T": 9,
           "HSC": 43,
+          "SOC": 8,
           "BLS": 14,
-          "SOC": 6,
           "ENV": 2
         }
       },
@@ -475,18 +475,18 @@
         }
       },
       "2009": {
-        "total": 85,
+        "total": 86,
         "marks": {
+          "research": 21,
           "supplemental": 29,
-          "research": 20,
           "alterations": 17,
           "researcher_integrity": 12,
           "system": 7
         },
         "domain": {
+          "BLS": 56,
+          "HSC": 120,
           "PHY": 15,
-          "BLS": 55,
-          "HSC": 118,
           "HUM": 4,
           "ENV": 6,
           "B/T": 8,
@@ -875,21 +875,21 @@
     },
     "notice_years": {
       "2026": {
-        "total": 52,
+        "total": 53,
         "marks": {
-          "researcher_integrity": 9,
+          "researcher_integrity": 10,
           "research": 19,
           "alterations": 21,
           "supplemental": 2,
           "system": 1
         },
         "domain": {
-          "B/T": 29,
+          "B/T": 30,
           "ENV": 9,
           "PHY": 26,
           "BLS": 38,
           "HSC": 35,
-          "SOC": 7
+          "SOC": 9
         }
       },
       "2025": {
@@ -912,10 +912,10 @@
         }
       },
       "2024": {
-        "total": 137,
+        "total": 138,
         "marks": {
           "alterations": 56,
-          "research": 43,
+          "research": 44,
           "researcher_integrity": 27,
           "supplemental": 8,
           "system": 3
@@ -923,8 +923,8 @@
         "domain": {
           "B/T": 110,
           "SOC": 20,
-          "HSC": 113,
-          "BLS": 105,
+          "HSC": 115,
+          "BLS": 106,
           "ENV": 25,
           "PHY": 41
         }
@@ -1514,11 +1514,11 @@
       "Netherlands": 51,
       "Iran": 48,
       "France": 47,
-      "Spain": 39,
+      "Spain": 40,
       "Switzerland": 37,
       "Sweden": 34,
+      "Ireland": 32,
       "Malaysia": 32,
-      "Ireland": 31,
       "Brazil": 29,
       "Egypt": 25,
       "Denmark": 24,
@@ -1548,10 +1548,10 @@
       "Ukraine": 9,
       "Czech Republic": 9,
       "Unknown": 9,
+      "Mexico": 8,
       "Thailand": 8,
       "Bangladesh": 8,
       "Israel": 7,
-      "Mexico": 7,
       "Lebanon": 6,
       "Indonesia": 6,
       "Argentina": 6,
@@ -1631,11 +1631,11 @@
       "Netherlands": 51,
       "Iran": 48,
       "France": 47,
-      "Spain": 39,
+      "Spain": 40,
       "Switzerland": 37,
       "Sweden": 34,
+      "Ireland": 32,
       "Malaysia": 32,
-      "Ireland": 31,
       "Brazil": 29,
       "Egypt": 25,
       "Denmark": 24,
@@ -1665,10 +1665,10 @@
       "Ukraine": 9,
       "Czech Republic": 9,
       "Unknown": 9,
+      "Mexico": 8,
       "Thailand": 8,
       "Bangladesh": 8,
       "Israel": 7,
-      "Mexico": 7,
       "Lebanon": 6,
       "Indonesia": 6,
       "Argentina": 6,
