@@ -3,6 +3,7 @@
     "country": "Kazakhstan",
     "yearly_rates": {
       "2024": 1.4783,
+      "2025": 0.092,
       "2023": 3.1954,
       "2019": 1.965,
       "2020": 2.8144,
@@ -33,9 +34,10 @@
       "2012": 1.2361,
       "2013": 0.5653
     },
-    "average_rate": 2.7582,
+    "average_rate": 2.7719,
     "yearly_retractions": {
       "2024": 13,
+      "2025": 1,
       "2023": 22,
       "2019": 10,
       "2020": 16,
@@ -52,7 +54,7 @@
     },
     "notice_yearly_retractions": {
       "2025": 34,
-      "2026": 7,
+      "2026": 8,
       "2024": 28,
       "2023": 33,
       "2022": 34,
@@ -70,8 +72,18 @@
   },
   "domainwise_data": {
     "country": "Kazakhstan",
-    "total_retractions": 202,
+    "total_retractions": 203,
     "years": {
+      "2025": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "ENV": 1,
+          "PHY": 1
+        }
+      },
       "2024": {
         "total": 13,
         "marks": {
@@ -270,13 +282,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "alterations": 1,
           "research": 3,
           "supplemental": 3,
           "researcher_integrity": 1
         },
         "domain": {
+          "ENV": 1,
+          "PHY": 1,
           "HSC": 2,
           "B/T": 1,
           "SOC": 10,
@@ -473,25 +488,26 @@
       }
     },
     "collaborations": {
-      "Russia": 60,
+      "Russia": 61,
       "China": 14,
       "India": 9,
+      "Saudi Arabia": 8,
       "Belarus": 8,
-      "Saudi Arabia": 7,
       "Pakistan": 6,
       "Egypt": 6,
       "Ethiopia": 6,
       "Iraq": 5,
       "Iran": 4,
+      "Turkey": 3,
       "Germany": 2,
       "Bangladesh": 2,
       "Malaysia": 2,
-      "Turkey": 2,
       "Ukraine": 2,
       "Azerbaijan": 2,
       "Peru": 2,
       "Romania": 2,
       "Kyrgyzstan": 2,
+      "Yemen": 1,
       "Brazil": 1,
       "Greece": 1,
       "Italy": 1,
@@ -517,25 +533,26 @@
       "France": 1
     },
     "notice_collaborations": {
-      "Russia": 60,
+      "Russia": 61,
       "China": 14,
       "India": 9,
+      "Saudi Arabia": 8,
       "Belarus": 8,
-      "Saudi Arabia": 7,
       "Pakistan": 6,
       "Egypt": 6,
       "Ethiopia": 6,
       "Iraq": 5,
       "Iran": 4,
+      "Turkey": 3,
       "Germany": 2,
       "Bangladesh": 2,
       "Malaysia": 2,
-      "Turkey": 2,
       "Ukraine": 2,
       "Azerbaijan": 2,
       "Peru": 2,
       "Romania": 2,
       "Kyrgyzstan": 2,
+      "Yemen": 1,
       "Brazil": 1,
       "Greece": 1,
       "Italy": 1,

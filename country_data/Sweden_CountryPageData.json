@@ -4,9 +4,9 @@
     "yearly_rates": {
       "2025": 0.0761,
       "2022": 0.3759,
+      "2024": 0.1271,
       "2020": 0.5103,
       "2021": 0.3275,
-      "2024": 0.1059,
       "2023": 0.2928,
       "2018": 0.4732,
       "2019": 0.3377,
@@ -62,13 +62,13 @@
       "2003": 0.0477,
       "1999": 0.0532
     },
-    "average_rate": 0.2924,
+    "average_rate": 0.2935,
     "yearly_retractions": {
       "2025": 4,
       "2022": 17,
+      "2024": 6,
       "2020": 22,
       "2021": 15,
-      "2024": 5,
       "2023": 13,
       "2018": 19,
       "2019": 14,
@@ -98,7 +98,7 @@
       "1995": 1
     },
     "notice_yearly_retractions": {
-      "2026": 10,
+      "2026": 11,
       "2025": 17,
       "2024": 30,
       "2023": 16,
@@ -131,7 +131,7 @@
   },
   "domainwise_data": {
     "country": "Sweden",
-    "total_retractions": 274,
+    "total_retractions": 275,
     "years": {
       "2025": {
         "total": 4,
@@ -148,14 +148,15 @@
         }
       },
       "2024": {
-        "total": 5,
+        "total": 6,
         "marks": {
+          "research": 4,
           "researcher_integrity": 1,
-          "alterations": 1,
-          "research": 3
+          "alterations": 1
         },
         "domain": {
-          "HSC": 2,
+          "B/T": 1,
+          "HSC": 3,
           "PHY": 3,
           "BLS": 4
         }
@@ -574,17 +575,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 10,
+        "total": 11,
         "marks": {
-          "research": 5,
+          "research": 6,
           "alterations": 1,
           "researcher_integrity": 2,
           "supplemental": 2
         },
         "domain": {
           "BLS": 13,
-          "HSC": 3,
-          "B/T": 3,
+          "HSC": 4,
+          "B/T": 4,
           "SOC": 2,
           "HUM": 1,
           "PHY": 2,
@@ -999,12 +1000,12 @@
       "Malaysia": 8,
       "Poland": 8,
       "Netherlands": 8,
+      "Thailand": 7,
       "Russia": 7,
       "Japan": 7,
       "Egypt": 6,
       "Australia": 6,
       "Canada": 6,
-      "Thailand": 6,
       "Turkey": 5,
       "Iran": 5,
       "Austria": 5,
@@ -1062,12 +1063,12 @@
       "Malaysia": 8,
       "Poland": 8,
       "Netherlands": 8,
+      "Thailand": 7,
       "Russia": 7,
       "Japan": 7,
       "Egypt": 6,
       "Australia": 6,
       "Canada": 6,
-      "Thailand": 6,
       "Turkey": 5,
       "Iran": 5,
       "Austria": 5,

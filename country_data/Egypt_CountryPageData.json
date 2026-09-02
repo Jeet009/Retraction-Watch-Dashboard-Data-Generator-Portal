@@ -3,9 +3,10 @@
     "country": "Egypt",
     "yearly_rates": {
       "2022": 5.6256,
-      "2023": 2.5566,
-      "2024": 1.456,
+      "2023": 2.5812,
+      "2024": 1.4798,
       "2012": 2.7123,
+      "2025": 0.3045,
       "2021": 4.9172,
       "2018": 2.5818,
       "2017": 2.7222,
@@ -13,7 +14,6 @@
       "2011": 2.3012,
       "2014": 2.9051,
       "2009": 1.8018,
-      "2025": 0.2828,
       "2020": 4.0076,
       "2015": 2.2494,
       "2019": 2.2193,
@@ -53,12 +53,13 @@
       "2010": 0.5421,
       "1998": 0.3331
     },
-    "average_rate": 2.5643,
+    "average_rate": 2.5707,
     "yearly_retractions": {
       "2022": 236,
-      "2023": 104,
-      "2024": 61,
+      "2023": 105,
+      "2024": 62,
       "2012": 35,
+      "2025": 14,
       "2021": 182,
       "2018": 55,
       "2017": 51,
@@ -66,7 +67,6 @@
       "2011": 25,
       "2014": 44,
       "2009": 15,
-      "2025": 13,
       "2020": 125,
       "2015": 37,
       "2019": 55,
@@ -83,7 +83,7 @@
       "2004": 3
     },
     "notice_yearly_retractions": {
-      "2026": 103,
+      "2026": 106,
       "2025": 262,
       "2012": 13,
       "2024": 217,
@@ -110,29 +110,29 @@
   },
   "domainwise_data": {
     "country": "Egypt",
-    "total_retractions": 1188,
+    "total_retractions": 1191,
     "years": {
       "2025": {
-        "total": 13,
+        "total": 14,
         "marks": {
-          "research": 3,
+          "research": 4,
           "alterations": 5,
           "researcher_integrity": 4,
           "system": 1
         },
         "domain": {
-          "HSC": 22,
+          "B/T": 7,
+          "HSC": 23,
           "SOC": 2,
-          "B/T": 6,
           "PHY": 4,
           "BLS": 5,
           "ENV": 2
         }
       },
       "2024": {
-        "total": 61,
+        "total": 62,
         "marks": {
-          "alterations": 20,
+          "alterations": 21,
           "research": 20,
           "researcher_integrity": 18,
           "system": 1,
@@ -142,26 +142,26 @@
           "BLS": 43,
           "B/T": 26,
           "HSC": 40,
-          "PHY": 44,
+          "PHY": 46,
           "ENV": 9,
           "SOC": 4
         }
       },
       "2023": {
-        "total": 104,
+        "total": 105,
         "marks": {
           "alterations": 45,
           "researcher_integrity": 14,
-          "research": 34,
+          "research": 35,
           "system": 8,
           "supplemental": 3
         },
         "domain": {
           "BLS": 66,
           "HSC": 88,
-          "PHY": 97,
+          "PHY": 98,
           "ENV": 10,
-          "B/T": 29,
+          "B/T": 30,
           "SOC": 1
         }
       },
@@ -501,19 +501,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 103,
+        "total": 106,
         "marks": {
           "researcher_integrity": 12,
-          "research": 47,
-          "alterations": 42,
+          "research": 49,
+          "alterations": 43,
           "system": 2
         },
         "domain": {
-          "B/T": 16,
+          "B/T": 18,
           "ENV": 11,
-          "PHY": 69,
+          "PHY": 72,
+          "HSC": 127,
           "BLS": 44,
-          "HSC": 126,
           "SOC": 2
         }
       },
@@ -848,16 +848,16 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 502,
+      "Saudi Arabia": 503,
       "China": 127,
       "India": 122,
       "Pakistan": 102,
       "United States": 81,
-      "Iraq": 51,
+      "Iraq": 52,
       "Germany": 42,
       "Turkey": 33,
+      "Russia": 30,
       "Bangladesh": 30,
-      "Russia": 29,
       "Malaysia": 28,
       "Iran": 27,
       "United Kingdom": 25,
@@ -935,16 +935,16 @@
       "Gaza Strip": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 502,
+      "Saudi Arabia": 503,
       "China": 127,
       "India": 122,
       "Pakistan": 102,
       "United States": 81,
-      "Iraq": 51,
+      "Iraq": 52,
       "Germany": 42,
       "Turkey": 33,
+      "Russia": 30,
       "Bangladesh": 30,
-      "Russia": 29,
       "Malaysia": 28,
       "Iran": 27,
       "United Kingdom": 25,
