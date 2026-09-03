@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Slovenia",
     "yearly_rates": {
-      "2021": 0.2483,
+      "2021": 0.3724,
       "2023": 0.1345,
       "2022": 0.2597,
       "2011": 0.3657,
@@ -29,9 +29,9 @@
       "2002": 0.4087,
       "2009": 0.2107
     },
-    "average_rate": 0.1105,
+    "average_rate": 0.1174,
     "yearly_retractions": {
-      "2021": 2,
+      "2021": 3,
       "2023": 1,
       "2022": 2,
       "2011": 2,
@@ -45,6 +45,7 @@
       "2002": 1
     },
     "notice_yearly_retractions": {
+      "2026": 1,
       "2025": 1,
       "2023": 2,
       "2024": 1,
@@ -61,7 +62,7 @@
   },
   "domainwise_data": {
     "country": "Slovenia",
-    "total_retractions": 16,
+    "total_retractions": 17,
     "years": {
       "2023": {
         "total": 1,
@@ -85,17 +86,17 @@
         }
       },
       "2021": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "system": 1,
-          "alterations": 1
+          "alterations": 2,
+          "system": 1
         },
         "domain": {
+          "B/T": 4,
+          "PHY": 2,
           "BLS": 1,
           "HSC": 2,
-          "B/T": 2,
-          "ENV": 1,
-          "PHY": 1
+          "ENV": 1
         }
       },
       "2019": {
@@ -190,6 +191,16 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "B/T": 2,
+          "PHY": 1
+        }
+      },
       "2025": {
         "total": 1,
         "marks": {
@@ -317,13 +328,16 @@
     },
     "collaborations": {
       "United States": 3,
+      "China": 2,
+      "Tunisia": 2,
       "Turkey": 2,
       "United Kingdom": 2,
       "Germany": 2,
+      "India": 1,
+      "Pakistan": 1,
       "Austria": 1,
       "Croatia": 1,
       "Norway": 1,
-      "China": 1,
       "Cyprus": 1,
       "France": 1,
       "Greece": 1,
@@ -333,19 +347,21 @@
       "Libya": 1,
       "Montenegro": 1,
       "Spain": 1,
-      "Tunisia": 1,
       "Czech Republic": 1,
       "Serbia": 1
     },
     "notice_collaborations": {
       "United States": 3,
+      "China": 2,
+      "Tunisia": 2,
       "Turkey": 2,
       "United Kingdom": 2,
       "Germany": 2,
+      "India": 1,
+      "Pakistan": 1,
       "Austria": 1,
       "Croatia": 1,
       "Norway": 1,
-      "China": 1,
       "Cyprus": 1,
       "France": 1,
       "Greece": 1,
@@ -355,7 +371,6 @@
       "Libya": 1,
       "Montenegro": 1,
       "Spain": 1,
-      "Tunisia": 1,
       "Czech Republic": 1,
       "Serbia": 1
     }

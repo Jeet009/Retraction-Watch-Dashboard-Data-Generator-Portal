@@ -3,9 +3,9 @@
     "country": "Ukraine",
     "yearly_rates": {
       "2022": 1.1112,
+      "2025": 0.0868,
       "2024": 1.129,
       "2021": 0.3921,
-      "2025": 0.0434,
       "2023": 1.0834,
       "2018": 0.1399,
       "2019": 0.303,
@@ -32,12 +32,12 @@
       "2010": 0.2625,
       "2015": 0.0936
     },
-    "average_rate": 0.319,
+    "average_rate": 0.322,
     "yearly_retractions": {
       "2022": 23,
+      "2025": 2,
       "2024": 24,
       "2021": 9,
-      "2025": 1,
       "2023": 24,
       "2018": 2,
       "2019": 6,
@@ -52,7 +52,7 @@
     },
     "notice_yearly_retractions": {
       "2025": 45,
-      "2026": 4,
+      "2026": 5,
       "2023": 18,
       "2024": 12,
       "2022": 6,
@@ -68,16 +68,17 @@
   },
   "domainwise_data": {
     "country": "Ukraine",
-    "total_retractions": 109,
+    "total_retractions": 110,
     "years": {
       "2025": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 1
         },
         "domain": {
-          "B/T": 2,
-          "HSC": 3
+          "B/T": 3,
+          "HSC": 4
         }
       },
       "2024": {
@@ -270,16 +271,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 4,
+        "total": 5,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 4
         },
         "domain": {
-          "B/T": 3,
+          "B/T": 4,
+          "HSC": 4,
           "PHY": 1,
           "BLS": 3,
-          "ENV": 2,
-          "HSC": 3
+          "ENV": 2
         }
       },
       "2025": {

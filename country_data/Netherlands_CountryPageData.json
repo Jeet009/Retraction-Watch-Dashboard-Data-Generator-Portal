@@ -4,6 +4,7 @@
     "yearly_rates": {
       "2024": 0.2221,
       "2021": 0.2975,
+      "2020": 0.4998,
       "2023": 0.2342,
       "2025": 0.0637,
       "2022": 0.1831,
@@ -12,7 +13,6 @@
       "2011": 0.8418,
       "1998": 0.1245,
       "2006": 0.5277,
-      "2020": 0.4837,
       "2019": 0.4426,
       "2014": 0.2675,
       "2016": 0.3864,
@@ -60,10 +60,11 @@
       "1997": 0.0423,
       "1999": 0.0432
     },
-    "average_rate": 0.3192,
+    "average_rate": 0.32,
     "yearly_retractions": {
       "2024": 15,
       "2021": 20,
+      "2020": 31,
       "2023": 15,
       "2025": 5,
       "2022": 12,
@@ -72,7 +73,6 @@
       "2011": 39,
       "1998": 3,
       "2006": 19,
-      "2020": 30,
       "2019": 26,
       "2014": 14,
       "2016": 21,
@@ -98,7 +98,7 @@
       "1923": 2
     },
     "notice_yearly_retractions": {
-      "2026": 17,
+      "2026": 18,
       "2024": 22,
       "2025": 13,
       "2023": 20,
@@ -130,7 +130,7 @@
   },
   "domainwise_data": {
     "country": "Netherlands",
-    "total_retractions": 441,
+    "total_retractions": 442,
     "years": {
       "2025": {
         "total": 5,
@@ -220,20 +220,20 @@
         }
       },
       "2020": {
-        "total": 30,
+        "total": 31,
         "marks": {
+          "alterations": 11,
           "research": 8,
-          "alterations": 10,
           "system": 4,
           "researcher_integrity": 5,
           "supplemental": 3
         },
         "domain": {
+          "ENV": 5,
+          "PHY": 6,
           "B/T": 22,
           "BLS": 15,
-          "PHY": 5,
           "HSC": 5,
-          "ENV": 4,
           "SOC": 13,
           "HUM": 3
         }
@@ -653,9 +653,9 @@
     },
     "notice_years": {
       "2026": {
-        "total": 17,
+        "total": 18,
         "marks": {
-          "alterations": 4,
+          "alterations": 5,
           "researcher_integrity": 3,
           "supplemental": 8,
           "research": 2
@@ -664,9 +664,9 @@
           "HSC": 8,
           "B/T": 10,
           "BLS": 5,
-          "ENV": 1,
+          "ENV": 2,
           "SOC": 10,
-          "PHY": 4
+          "PHY": 5
         }
       },
       "2025": {
@@ -1085,9 +1085,9 @@
       "South Africa": 11,
       "Finland": 11,
       "Switzerland": 11,
+      "India": 9,
       "Poland": 9,
       "Austria": 9,
-      "India": 8,
       "Sweden": 8,
       "Norway": 6,
       "Saudi Arabia": 6,
@@ -1151,9 +1151,9 @@
       "South Africa": 11,
       "Finland": 11,
       "Switzerland": 11,
+      "India": 9,
       "Poland": 9,
       "Austria": 9,
-      "India": 8,
       "Sweden": 8,
       "Norway": 6,
       "Saudi Arabia": 6,

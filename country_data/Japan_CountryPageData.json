@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Japan",
     "yearly_rates": {
+      "2015": 0.4584,
       "2023": 0.2778,
       "2021": 0.3269,
       "2024": 0.1236,
@@ -10,7 +11,6 @@
       "2018": 0.6801,
       "2019": 0.6044,
       "2013": 0.4109,
-      "2015": 0.45,
       "2010": 0.6702,
       "2020": 0.3829,
       "2011": 0.6125,
@@ -65,8 +65,9 @@
       "1996": 0.0223,
       "2001": 0.0294
     },
-    "average_rate": 0.4387,
+    "average_rate": 0.439,
     "yearly_retractions": {
+      "2015": 55,
       "2023": 35,
       "2021": 45,
       "2024": 16,
@@ -75,7 +76,6 @@
       "2018": 87,
       "2019": 77,
       "2013": 53,
-      "2015": 54,
       "2010": 83,
       "2020": 50,
       "2011": 77,
@@ -107,7 +107,7 @@
       "1984": 1
     },
     "notice_yearly_retractions": {
-      "2026": 7,
+      "2026": 8,
       "2025": 49,
       "2023": 76,
       "2024": 118,
@@ -148,7 +148,7 @@
   },
   "domainwise_data": {
     "country": "Japan",
-    "total_retractions": 1607,
+    "total_retractions": 1608,
     "years": {
       "2025": {
         "total": 6,
@@ -333,18 +333,18 @@
         }
       },
       "2015": {
-        "total": 54,
+        "total": 55,
         "marks": {
+          "research": 14,
           "alterations": 20,
-          "research": 13,
           "supplemental": 8,
           "researcher_integrity": 10,
           "system": 3
         },
         "domain": {
+          "BLS": 55,
+          "HSC": 57,
           "PHY": 24,
-          "BLS": 54,
-          "HSC": 56,
           "SOC": 3,
           "B/T": 6,
           "ENV": 1
@@ -745,16 +745,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "research": 2,
           "researcher_integrity": 4,
           "supplemental": 1,
-          "research": 1,
           "alterations": 1
         },
         "domain": {
-          "BLS": 12,
-          "HSC": 4,
+          "BLS": 13,
+          "HSC": 5,
           "B/T": 1,
           "SOC": 1,
           "ENV": 2,
