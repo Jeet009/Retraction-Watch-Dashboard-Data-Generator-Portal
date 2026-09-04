@@ -2,7 +2,8 @@
   "retraction_rate_data": {
     "country": "Italy",
     "yearly_rates": {
-      "2022": 0.367,
+      "2000": 0.1394,
+      "2022": 0.3742,
       "2020": 0.3751,
       "2023": 0.2884,
       "2021": 0.3477,
@@ -29,12 +30,11 @@
       "2006": 0.3724,
       "2002": 0.2115,
       "2001": 0.2919,
-      "2000": 0.1161,
       "1997": 0.0488
     },
     "notice_yearly_rates": {
+      "2024": 0.8208,
       "2025": 0.4521,
-      "2024": 0.8139,
       "2017": 0.5531,
       "2022": 0.4317,
       "2023": 0.4542,
@@ -60,9 +60,10 @@
       "2003": 0.0952,
       "1998": 0.0742
     },
-    "average_rate": 0.3848,
+    "average_rate": 0.3856,
     "yearly_retractions": {
-      "2022": 51,
+      "2000": 6,
+      "2022": 52,
       "2020": 49,
       "2023": 40,
       "2021": 49,
@@ -90,7 +91,6 @@
       "2006": 24,
       "2002": 10,
       "2001": 13,
-      "2000": 5,
       "1995": 2,
       "1987": 1,
       "1985": 1,
@@ -99,9 +99,9 @@
       "1997": 2
     },
     "notice_yearly_retractions": {
-      "2026": 49,
+      "2024": 119,
+      "2026": 50,
       "2025": 76,
-      "2024": 118,
       "2017": 59,
       "2022": 60,
       "2023": 63,
@@ -131,7 +131,7 @@
   },
   "domainwise_data": {
     "country": "Italy",
-    "total_retractions": 1002,
+    "total_retractions": 1004,
     "years": {
       "2026": {
         "total": 1,
@@ -193,11 +193,11 @@
         }
       },
       "2022": {
-        "total": 51,
+        "total": 52,
         "marks": {
           "research": 19,
+          "researcher_integrity": 8,
           "alterations": 18,
-          "researcher_integrity": 7,
           "system": 4,
           "supplemental": 3
         },
@@ -205,9 +205,9 @@
           "B/T": 19,
           "BLS": 48,
           "HSC": 46,
+          "ENV": 6,
+          "PHY": 21,
           "SOC": 4,
-          "ENV": 5,
-          "PHY": 20,
           "HUM": 1
         }
       },
@@ -560,13 +560,14 @@
         }
       },
       "2000": {
-        "total": 5,
+        "total": 6,
         "marks": {
+          "research": 1,
           "alterations": 5
         },
         "domain": {
-          "HSC": 10,
-          "BLS": 10
+          "BLS": 11,
+          "HSC": 11
         }
       },
       "1999": {
@@ -651,20 +652,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 49,
+        "total": 50,
         "marks": {
           "research": 10,
+          "researcher_integrity": 14,
           "alterations": 25,
-          "researcher_integrity": 13,
           "system": 1
         },
         "domain": {
           "B/T": 8,
           "BLS": 61,
           "HSC": 67,
-          "ENV": 4,
+          "ENV": 5,
+          "PHY": 3,
           "SOC": 5,
-          "PHY": 2,
           "HUM": 1
         }
       },
@@ -688,19 +689,19 @@
         }
       },
       "2024": {
-        "total": 118,
+        "total": 119,
         "marks": {
+          "research": 26,
           "researcher_integrity": 12,
           "alterations": 73,
-          "research": 25,
           "system": 2,
           "supplemental": 6
         },
         "domain": {
+          "BLS": 194,
+          "HSC": 103,
           "PHY": 25,
-          "BLS": 193,
           "B/T": 15,
-          "HSC": 102,
           "ENV": 3,
           "SOC": 3
         }
@@ -1097,7 +1098,7 @@
       "United States": 166,
       "United Kingdom": 87,
       "France": 66,
-      "China": 55,
+      "China": 56,
       "Germany": 51,
       "Spain": 48,
       "Saudi Arabia": 35,
@@ -1107,10 +1108,10 @@
       "Iran": 27,
       "Canada": 23,
       "Netherlands": 17,
+      "Australia": 16,
       "Greece": 16,
       "Sweden": 16,
       "Egypt": 15,
-      "Australia": 15,
       "Denmark": 15,
       "Turkey": 14,
       "Japan": 14,
@@ -1178,7 +1179,7 @@
       "United States": 166,
       "United Kingdom": 87,
       "France": 66,
-      "China": 55,
+      "China": 56,
       "Germany": 51,
       "Spain": 48,
       "Saudi Arabia": 35,
@@ -1188,10 +1189,10 @@
       "Iran": 27,
       "Canada": 23,
       "Netherlands": 17,
+      "Australia": 16,
       "Greece": 16,
       "Sweden": 16,
       "Egypt": 15,
-      "Australia": 15,
       "Denmark": 15,
       "Turkey": 14,
       "Japan": 14,

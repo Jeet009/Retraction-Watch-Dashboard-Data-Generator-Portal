@@ -3,11 +3,12 @@
     "country": "Taiwan",
     "yearly_rates": {
       "2025": 0.1232,
+      "2017": 0.698,
+      "2022": 2.0525,
       "2024": 0.6685,
       "2023": 1.0312,
       "2021": 1.6843,
       "2019": 0.5156,
-      "2022": 2.0302,
       "2020": 0.6606,
       "2014": 0.3717,
       "2018": 0.3659,
@@ -16,7 +17,6 @@
       "2015": 0.5654,
       "2010": 2.1892,
       "2012": 1.4808,
-      "2017": 0.67,
       "2016": 0.7146,
       "2006": 0.2752,
       "2008": 0.3253,
@@ -56,14 +56,15 @@
       "1998": 0.2411,
       "2006": 0.0344
     },
-    "average_rate": 0.7484,
+    "average_rate": 0.7506,
     "yearly_retractions": {
       "2025": 6,
+      "2017": 25,
+      "2022": 92,
       "2024": 29,
       "2023": 43,
       "2021": 73,
       "2019": 19,
-      "2022": 91,
       "2020": 26,
       "2014": 15,
       "2018": 13,
@@ -72,7 +73,6 @@
       "2015": 21,
       "2010": 86,
       "2012": 62,
-      "2017": 24,
       "2016": 26,
       "2006": 8,
       "2008": 11,
@@ -89,7 +89,7 @@
       "1995": 1
     },
     "notice_yearly_retractions": {
-      "2026": 27,
+      "2026": 29,
       "2025": 75,
       "2024": 71,
       "2022": 31,
@@ -119,7 +119,7 @@
   },
   "domainwise_data": {
     "country": "Taiwan",
-    "total_retractions": 704,
+    "total_retractions": 706,
     "years": {
       "2025": {
         "total": 6,
@@ -173,17 +173,17 @@
         }
       },
       "2022": {
-        "total": 91,
+        "total": 92,
         "marks": {
-          "researcher_integrity": 33,
+          "researcher_integrity": 34,
           "research": 24,
           "system": 1,
           "alterations": 29,
           "supplemental": 4
         },
         "domain": {
-          "BLS": 32,
-          "ENV": 15,
+          "BLS": 34,
+          "ENV": 17,
           "B/T": 87,
           "PHY": 60,
           "SOC": 18,
@@ -265,18 +265,18 @@
         }
       },
       "2017": {
-        "total": 24,
+        "total": 25,
         "marks": {
-          "alterations": 7,
+          "alterations": 8,
           "supplemental": 14,
           "researcher_integrity": 1,
           "research": 2
         },
         "domain": {
+          "BLS": 11,
           "B/T": 5,
           "HUM": 15,
           "SOC": 6,
-          "BLS": 8,
           "HSC": 7,
           "PHY": 4,
           "ENV": 2
@@ -567,10 +567,10 @@
     },
     "notice_years": {
       "2026": {
-        "total": 27,
+        "total": 29,
         "marks": {
-          "alterations": 8,
-          "researcher_integrity": 8,
+          "alterations": 9,
+          "researcher_integrity": 9,
           "research": 8,
           "system": 1,
           "supplemental": 2
@@ -578,10 +578,10 @@
         "domain": {
           "B/T": 14,
           "SOC": 1,
-          "ENV": 9,
+          "BLS": 31,
+          "ENV": 11,
           "PHY": 13,
-          "HSC": 13,
-          "BLS": 26
+          "HSC": 13
         }
       },
       "2025": {
@@ -966,9 +966,9 @@
     },
     "collaborations": {
       "China": 143,
-      "Saudi Arabia": 76,
+      "Saudi Arabia": 77,
       "United States": 69,
-      "India": 51,
+      "India": 53,
       "Pakistan": 50,
       "Malaysia": 31,
       "Turkey": 27,
@@ -976,14 +976,14 @@
       "Thailand": 26,
       "Iraq": 25,
       "Indonesia": 19,
+      "South Korea": 14,
       "Egypt": 14,
-      "South Korea": 13,
       "Japan": 13,
       "United Kingdom": 13,
       "Iran": 11,
+      "Germany": 10,
       "South Africa": 10,
       "Australia": 9,
-      "Germany": 9,
       "Canada": 9,
       "Romania": 8,
       "Serbia": 7,
@@ -1039,9 +1039,9 @@
     },
     "notice_collaborations": {
       "China": 143,
-      "Saudi Arabia": 76,
+      "Saudi Arabia": 77,
       "United States": 69,
-      "India": 51,
+      "India": 53,
       "Pakistan": 50,
       "Malaysia": 31,
       "Turkey": 27,
@@ -1049,14 +1049,14 @@
       "Thailand": 26,
       "Iraq": 25,
       "Indonesia": 19,
+      "South Korea": 14,
       "Egypt": 14,
-      "South Korea": 13,
       "Japan": 13,
       "United Kingdom": 13,
       "Iran": 11,
+      "Germany": 10,
       "South Africa": 10,
       "Australia": 9,
-      "Germany": 9,
       "Canada": 9,
       "Romania": 8,
       "Serbia": 7,

@@ -2,13 +2,13 @@
   "retraction_rate_data": {
     "country": "Malaysia",
     "yearly_rates": {
+      "2020": 0.9416,
       "2021": 2.5685,
       "2022": 4.3061,
+      "2019": 0.9322,
       "2025": 0.2164,
       "2023": 1.6657,
       "2024": 1.2654,
-      "2020": 0.9147,
-      "2019": 0.9048,
       "2018": 5.7515,
       "2014": 1.7137,
       "2016": 1.354,
@@ -25,7 +25,7 @@
       "2005": 0.293
     },
     "notice_yearly_rates": {
-      "2024": 2.3164,
+      "2024": 2.3378,
       "2025": 2.5788,
       "2022": 1.8795,
       "2023": 3.7067,
@@ -45,15 +45,15 @@
       "2010": 2.6625,
       "2007": 0.1935
     },
-    "average_rate": 1.6762,
+    "average_rate": 1.6796,
     "yearly_retractions": {
+      "2020": 35,
       "2021": 103,
       "2022": 181,
+      "2019": 34,
       "2025": 12,
       "2023": 71,
       "2024": 59,
-      "2020": 34,
-      "2019": 33,
       "2018": 189,
       "2014": 48,
       "2016": 40,
@@ -70,8 +70,8 @@
       "2005": 1
     },
     "notice_yearly_retractions": {
-      "2024": 108,
-      "2026": 39,
+      "2024": 109,
+      "2026": 40,
       "2025": 143,
       "2022": 79,
       "2023": 158,
@@ -94,7 +94,7 @@
   },
   "domainwise_data": {
     "country": "Malaysia",
-    "total_retractions": 972,
+    "total_retractions": 974,
     "years": {
       "2025": {
         "total": 12,
@@ -189,38 +189,39 @@
         }
       },
       "2020": {
-        "total": 34,
+        "total": 35,
         "marks": {
+          "alterations": 11,
           "researcher_integrity": 3,
           "supplemental": 4,
           "research": 10,
-          "alterations": 10,
           "system": 7
         },
         "domain": {
+          "B/T": 23,
+          "HUM": 1,
+          "SOC": 6,
           "BLS": 26,
           "ENV": 8,
           "PHY": 21,
-          "B/T": 22,
-          "HSC": 12,
-          "SOC": 5
+          "HSC": 12
         }
       },
       "2019": {
-        "total": 33,
+        "total": 34,
         "marks": {
+          "researcher_integrity": 16,
           "system": 2,
-          "researcher_integrity": 15,
           "supplemental": 4,
           "alterations": 8,
           "research": 4
         },
         "domain": {
-          "PHY": 31,
+          "ENV": 9,
+          "PHY": 32,
           "B/T": 19,
           "HSC": 10,
           "BLS": 14,
-          "ENV": 8,
           "SOC": 3
         }
       },
@@ -437,9 +438,9 @@
     },
     "notice_years": {
       "2026": {
-        "total": 39,
+        "total": 40,
         "marks": {
-          "researcher_integrity": 10,
+          "researcher_integrity": 11,
           "research": 11,
           "alterations": 8,
           "system": 1,
@@ -447,8 +448,8 @@
         },
         "domain": {
           "B/T": 25,
-          "ENV": 10,
-          "PHY": 19,
+          "ENV": 11,
+          "PHY": 20,
           "BLS": 14,
           "HSC": 22,
           "SOC": 18
@@ -474,19 +475,19 @@
         }
       },
       "2024": {
-        "total": 108,
+        "total": 109,
         "marks": {
-          "alterations": 45,
+          "alterations": 46,
           "research": 30,
           "researcher_integrity": 25,
           "supplemental": 7,
           "system": 1
         },
         "domain": {
-          "B/T": 97,
+          "B/T": 98,
+          "HUM": 4,
+          "SOC": 27,
           "HSC": 54,
-          "SOC": 26,
-          "HUM": 3,
           "PHY": 56,
           "ENV": 43,
           "BLS": 55
@@ -765,7 +766,7 @@
       }
     },
     "collaborations": {
-      "China": 213,
+      "China": 214,
       "Saudi Arabia": 150,
       "India": 133,
       "Pakistan": 113,
@@ -784,8 +785,8 @@
       "Serbia": 23,
       "South Korea": 22,
       "Turkey": 18,
+      "Thailand": 16,
       "Spain": 16,
-      "Thailand": 15,
       "Nigeria": 14,
       "Russia": 12,
       "Romania": 11,
@@ -854,7 +855,7 @@
       "Hungary": 1
     },
     "notice_collaborations": {
-      "China": 213,
+      "China": 214,
       "Saudi Arabia": 150,
       "India": 133,
       "Pakistan": 113,
@@ -873,8 +874,8 @@
       "Serbia": 23,
       "South Korea": 22,
       "Turkey": 18,
+      "Thailand": 16,
       "Spain": 16,
-      "Thailand": 15,
       "Nigeria": 14,
       "Russia": 12,
       "Romania": 11,
