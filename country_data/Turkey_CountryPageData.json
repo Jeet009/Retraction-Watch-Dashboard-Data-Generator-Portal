@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Turkey",
     "yearly_rates": {
+      "2025": 0.1707,
       "2024": 0.6459,
-      "2025": 0.1607,
       "2023": 0.9723,
       "2019": 0.5953,
       "2016": 0.8672,
@@ -57,10 +57,10 @@
       "2003": 0.0659,
       "2000": 0.1295
     },
-    "average_rate": 0.7724,
+    "average_rate": 0.7733,
     "yearly_retractions": {
+      "2025": 17,
       "2024": 49,
-      "2025": 16,
       "2023": 67,
       "2019": 29,
       "2016": 38,
@@ -88,7 +88,7 @@
       "1996": 1
     },
     "notice_yearly_retractions": {
-      "2026": 72,
+      "2026": 73,
       "2025": 117,
       "2024": 141,
       "2020": 34,
@@ -118,19 +118,19 @@
   },
   "domainwise_data": {
     "country": "Turkey",
-    "total_retractions": 795,
+    "total_retractions": 796,
     "years": {
       "2025": {
-        "total": 16,
+        "total": 17,
         "marks": {
-          "alterations": 3,
+          "alterations": 4,
           "system": 6,
           "researcher_integrity": 4,
           "research": 3
         },
         "domain": {
-          "ENV": 1,
-          "PHY": 16,
+          "ENV": 2,
+          "PHY": 18,
           "HSC": 4,
           "SOC": 17,
           "B/T": 13,
@@ -548,16 +548,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 72,
+        "total": 73,
         "marks": {
+          "alterations": 8,
           "research": 21,
-          "alterations": 7,
           "system": 40,
           "researcher_integrity": 4
         },
         "domain": {
-          "PHY": 38,
-          "ENV": 3,
+          "ENV": 4,
+          "PHY": 40,
           "HSC": 28,
           "B/T": 65,
           "BLS": 15,
@@ -963,7 +963,7 @@
       "India": 72,
       "Pakistan": 68,
       "China": 66,
-      "Iran": 55,
+      "Iran": 56,
       "United States": 36,
       "Egypt": 33,
       "Iraq": 32,
@@ -1045,7 +1045,7 @@
       "India": 72,
       "Pakistan": 68,
       "China": 66,
-      "Iran": 55,
+      "Iran": 56,
       "United States": 36,
       "Egypt": 33,
       "Iraq": 32,
