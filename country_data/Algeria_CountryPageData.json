@@ -44,6 +44,7 @@
     },
     "average_rate": 0.7228,
     "yearly_retractions": {
+      "2026": 1,
       "2014": 10,
       "2021": 7,
       "2024": 5,
@@ -66,9 +67,9 @@
       "2007": 1
     },
     "notice_yearly_retractions": {
+      "2026": 6,
       "2017": 7,
       "2022": 6,
-      "2026": 5,
       "2021": 3,
       "2024": 9,
       "2025": 9,
@@ -88,8 +89,19 @@
   },
   "domainwise_data": {
     "country": "Algeria",
-    "total_retractions": 101,
+    "total_retractions": 102,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "BLS": 1,
+          "HSC": 1
+        }
+      },
       "2025": {
         "total": 3,
         "marks": {
@@ -339,18 +351,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 5,
+        "total": 6,
         "marks": {
-          "alterations": 2,
+          "alterations": 3,
           "researcher_integrity": 2,
           "research": 1
         },
         "domain": {
-          "B/T": 2,
+          "B/T": 3,
+          "BLS": 4,
+          "HSC": 3,
           "PHY": 5,
-          "ENV": 1,
-          "BLS": 3,
-          "HSC": 2
+          "ENV": 1
         }
       },
       "2025": {
@@ -570,18 +582,18 @@
     },
     "collaborations": {
       "France": 15,
-      "Saudi Arabia": 12,
+      "Saudi Arabia": 13,
       "India": 7,
       "China": 6,
       "Pakistan": 6,
+      "Egypt": 5,
       "Iraq": 5,
+      "Thailand": 4,
+      "United Arab Emirates": 4,
       "United States": 4,
       "Malaysia": 4,
-      "Egypt": 4,
       "Iran": 4,
       "Russia": 3,
-      "Thailand": 3,
-      "United Arab Emirates": 3,
       "Tunisia": 2,
       "Belarus": 2,
       "South Africa": 2,
@@ -631,18 +643,18 @@
     },
     "notice_collaborations": {
       "France": 15,
-      "Saudi Arabia": 12,
+      "Saudi Arabia": 13,
       "India": 7,
       "China": 6,
       "Pakistan": 6,
+      "Egypt": 5,
       "Iraq": 5,
+      "Thailand": 4,
+      "United Arab Emirates": 4,
       "United States": 4,
       "Malaysia": 4,
-      "Egypt": 4,
       "Iran": 4,
       "Russia": 3,
-      "Thailand": 3,
-      "United Arab Emirates": 3,
       "Tunisia": 2,
       "Belarus": 2,
       "South Africa": 2,

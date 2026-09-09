@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Spain",
     "yearly_rates": {
-      "2025": 0.0387,
+      "2025": 0.0464,
       "2009": 0.346,
       "2010": 0.4147,
       "2021": 0.5327,
@@ -32,8 +32,8 @@
       "1997": 0.0371
     },
     "notice_yearly_rates": {
+      "2025": 0.3326,
       "2024": 0.9719,
-      "2025": 0.3249,
       "2022": 0.2507,
       "2019": 0.3284,
       "2023": 0.5297,
@@ -59,9 +59,9 @@
       "1999": 0.0347,
       "2003": 0.027
     },
-    "average_rate": 0.2969,
+    "average_rate": 0.2974,
     "yearly_retractions": {
-      "2025": 5,
+      "2025": 6,
       "2009": 22,
       "2010": 28,
       "2021": 61,
@@ -91,9 +91,9 @@
       "1997": 1
     },
     "notice_yearly_retractions": {
+      "2025": 43,
       "2026": 12,
       "2024": 112,
-      "2025": 42,
       "2022": 28,
       "2019": 32,
       "2023": 59,
@@ -122,20 +122,21 @@
   },
   "domainwise_data": {
     "country": "Spain",
-    "total_retractions": 613,
+    "total_retractions": 614,
     "years": {
       "2025": {
-        "total": 5,
+        "total": 6,
         "marks": {
+          "alterations": 1,
           "research": 3,
           "researcher_integrity": 2
         },
         "domain": {
+          "BLS": 7,
+          "HSC": 3,
           "B/T": 2,
-          "HSC": 2,
           "ENV": 1,
-          "SOC": 3,
-          "BLS": 5
+          "SOC": 3
         }
       },
       "2024": {
@@ -590,16 +591,16 @@
         }
       },
       "2025": {
-        "total": 42,
+        "total": 43,
         "marks": {
-          "alterations": 26,
+          "alterations": 27,
           "research": 8,
           "researcher_integrity": 8
         },
         "domain": {
+          "BLS": 16,
+          "HSC": 13,
           "PHY": 24,
-          "BLS": 14,
-          "HSC": 12,
           "B/T": 53,
           "SOC": 6,
           "ENV": 6
@@ -992,7 +993,7 @@
     },
     "collaborations": {
       "United States": 91,
-      "China": 50,
+      "China": 51,
       "Italy": 48,
       "United Kingdom": 40,
       "Pakistan": 36,
@@ -1077,7 +1078,7 @@
     },
     "notice_collaborations": {
       "United States": 91,
-      "China": 50,
+      "China": 51,
       "Italy": 48,
       "United Kingdom": 40,
       "Pakistan": 36,
