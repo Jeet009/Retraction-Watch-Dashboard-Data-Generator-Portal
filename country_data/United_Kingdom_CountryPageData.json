@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "United Kingdom",
     "yearly_rates": {
-      "2025": 0.1152,
+      "2025": 0.1228,
       "2021": 0.5405,
       "2023": 0.5066,
       "2022": 0.8136,
@@ -65,9 +65,9 @@
       "2003": 0.0194,
       "2000": 0.0303
     },
-    "average_rate": 0.3857,
+    "average_rate": 0.3861,
     "yearly_retractions": {
-      "2025": 30,
+      "2025": 32,
       "2021": 114,
       "2023": 101,
       "2022": 166,
@@ -116,9 +116,9 @@
       "1975": 4
     },
     "notice_yearly_retractions": {
+      "2026": 55,
       "2025": 130,
       "2024": 138,
-      "2026": 53,
       "2021": 101,
       "2009": 46,
       "2018": 95,
@@ -162,7 +162,7 @@
   },
   "domainwise_data": {
     "country": "United Kingdom",
-    "total_retractions": 1780,
+    "total_retractions": 1782,
     "years": {
       "2026": {
         "total": 2,
@@ -176,20 +176,20 @@
         }
       },
       "2025": {
-        "total": 30,
+        "total": 32,
         "marks": {
+          "research": 8,
           "researcher_integrity": 14,
           "alterations": 5,
-          "research": 6,
           "system": 3,
           "supplemental": 2
         },
         "domain": {
-          "PHY": 7,
-          "B/T": 9,
-          "HSC": 43,
+          "B/T": 10,
+          "PHY": 8,
+          "BLS": 16,
+          "HSC": 45,
           "SOC": 8,
-          "BLS": 14,
           "ENV": 2
         }
       },
@@ -875,20 +875,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 53,
+        "total": 55,
         "marks": {
+          "research": 21,
           "researcher_integrity": 10,
-          "research": 19,
           "alterations": 21,
           "supplemental": 2,
           "system": 1
         },
         "domain": {
-          "B/T": 30,
+          "B/T": 31,
+          "PHY": 27,
+          "BLS": 40,
+          "HSC": 37,
           "ENV": 9,
-          "PHY": 26,
-          "BLS": 38,
-          "HSC": 35,
           "SOC": 9
         }
       },
@@ -1502,7 +1502,7 @@
       }
     },
     "collaborations": {
-      "China": 261,
+      "China": 262,
       "United States": 227,
       "India": 108,
       "Germany": 89,
@@ -1619,7 +1619,7 @@
       "Vietnam": 1
     },
     "notice_collaborations": {
-      "China": 261,
+      "China": 262,
       "United States": 227,
       "India": 108,
       "Germany": 89,

@@ -4,9 +4,9 @@
     "yearly_rates": {
       "2025": 0.0761,
       "2022": 0.3759,
+      "2021": 0.3493,
       "2024": 0.1271,
       "2020": 0.5103,
-      "2021": 0.3275,
       "2023": 0.2928,
       "2018": 0.4732,
       "2019": 0.3377,
@@ -34,7 +34,7 @@
       "1998": 0.0546
     },
     "notice_yearly_rates": {
-      "2025": 0.3233,
+      "2025": 0.3423,
       "2024": 0.6353,
       "2023": 0.3603,
       "2022": 0.2875,
@@ -62,13 +62,13 @@
       "2003": 0.0477,
       "1999": 0.0532
     },
-    "average_rate": 0.2935,
+    "average_rate": 0.2945,
     "yearly_retractions": {
       "2025": 4,
       "2022": 17,
+      "2021": 16,
       "2024": 6,
       "2020": 22,
-      "2021": 15,
       "2023": 13,
       "2018": 19,
       "2019": 14,
@@ -99,7 +99,7 @@
     },
     "notice_yearly_retractions": {
       "2026": 11,
-      "2025": 17,
+      "2025": 18,
       "2024": 30,
       "2023": 16,
       "2022": 13,
@@ -131,7 +131,7 @@
   },
   "domainwise_data": {
     "country": "Sweden",
-    "total_retractions": 275,
+    "total_retractions": 276,
     "years": {
       "2025": {
         "total": 4,
@@ -197,20 +197,20 @@
         }
       },
       "2021": {
-        "total": 15,
+        "total": 16,
         "marks": {
+          "alterations": 5,
           "researcher_integrity": 2,
           "research": 8,
-          "alterations": 4,
           "system": 1
         },
         "domain": {
+          "BLS": 14,
+          "HSC": 6,
+          "PHY": 11,
           "B/T": 11,
           "SOC": 4,
-          "ENV": 4,
-          "PHY": 10,
-          "BLS": 12,
-          "HSC": 5
+          "ENV": 4
         }
       },
       "2020": {
@@ -593,17 +593,17 @@
         }
       },
       "2025": {
-        "total": 17,
+        "total": 18,
         "marks": {
           "research": 5,
-          "alterations": 6,
+          "alterations": 7,
           "researcher_integrity": 5,
           "system": 1
         },
         "domain": {
-          "BLS": 25,
-          "HSC": 16,
-          "PHY": 13,
+          "BLS": 27,
+          "HSC": 17,
+          "PHY": 14,
           "ENV": 2,
           "B/T": 1
         }
@@ -997,17 +997,17 @@
       "Denmark": 11,
       "Norway": 10,
       "France": 9,
+      "Russia": 8,
       "Malaysia": 8,
       "Poland": 8,
       "Netherlands": 8,
       "Thailand": 7,
-      "Russia": 7,
       "Japan": 7,
       "Egypt": 6,
+      "Iran": 6,
       "Australia": 6,
       "Canada": 6,
       "Turkey": 5,
-      "Iran": 5,
       "Austria": 5,
       "Belgium": 5,
       "South Africa": 4,
@@ -1060,17 +1060,17 @@
       "Denmark": 11,
       "Norway": 10,
       "France": 9,
+      "Russia": 8,
       "Malaysia": 8,
       "Poland": 8,
       "Netherlands": 8,
       "Thailand": 7,
-      "Russia": 7,
       "Japan": 7,
       "Egypt": 6,
+      "Iran": 6,
       "Australia": 6,
       "Canada": 6,
       "Turkey": 5,
-      "Iran": 5,
       "Austria": 5,
       "Belgium": 5,
       "South Africa": 4,

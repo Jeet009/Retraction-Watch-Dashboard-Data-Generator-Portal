@@ -2,20 +2,20 @@
   "retraction_rate_data": {
     "country": "United States",
     "yearly_rates": {
+      "2019": 0.5461,
       "2025": 0.0573,
       "2017": 0.4535,
       "2024": 0.1839,
       "2015": 0.4672,
       "2016": 0.4587,
+      "2021": 0.4901,
       "2022": 0.4529,
       "2023": 0.4206,
       "2014": 0.5039,
       "2020": 0.552,
-      "2021": 0.4886,
       "2009": 0.4558,
       "2003": 0.2912,
       "2018": 0.4809,
-      "2019": 0.5445,
       "2012": 0.5579,
       "2005": 0.3507,
       "2013": 0.5205,
@@ -34,7 +34,7 @@
       "1996": 0.0651
     },
     "notice_yearly_rates": {
-      "2025": 0.476,
+      "2025": 0.4774,
       "2017": 0.4937,
       "2024": 0.7402,
       "2009": 0.2854,
@@ -65,26 +65,26 @@
       "2000": 0.0421,
       "1999": 0.0522
     },
-    "average_rate": 0.3872,
+    "average_rate": 0.3873,
     "yearly_retractions": {
+      "2019": 336,
       "2025": 43,
       "2017": 271,
       "2024": 117,
+      "2026": 4,
       "2015": 270,
       "2016": 269,
+      "2021": 322,
       "2022": 284,
       "2023": 257,
       "2014": 287,
       "2020": 350,
-      "2021": 321,
       "2009": 230,
       "2003": 117,
       "2018": 294,
-      "2019": 335,
       "2012": 309,
       "2005": 164,
       "2013": 294,
-      "2026": 3,
       "2010": 287,
       "1984": 12,
       "2007": 198,
@@ -126,8 +126,8 @@
       "1959": 1
     },
     "notice_yearly_retractions": {
-      "2025": 357,
-      "2026": 133,
+      "2026": 135,
+      "2025": 358,
       "2017": 295,
       "2024": 471,
       "2009": 144,
@@ -185,15 +185,17 @@
   },
   "domainwise_data": {
     "country": "United States",
-    "total_retractions": 6219,
+    "total_retractions": 6222,
     "years": {
       "2026": {
-        "total": 3,
+        "total": 4,
         "marks": {
+          "system": 1,
           "alterations": 2,
           "research": 1
         },
         "domain": {
+          "HSC": 4,
           "HUM": 1,
           "SOC": 5
         }
@@ -273,19 +275,19 @@
         }
       },
       "2021": {
-        "total": 321,
+        "total": 322,
         "marks": {
+          "alterations": 111,
           "researcher_integrity": 79,
-          "alterations": 110,
           "research": 102,
           "system": 24,
           "supplemental": 6
         },
         "domain": {
-          "PHY": 90,
+          "BLS": 283,
+          "HSC": 311,
+          "PHY": 91,
           "B/T": 117,
-          "HSC": 310,
-          "BLS": 281,
           "SOC": 41,
           "ENV": 16,
           "HUM": 7
@@ -311,22 +313,22 @@
         }
       },
       "2019": {
-        "total": 335,
+        "total": 336,
         "marks": {
+          "research": 111,
           "alterations": 107,
           "researcher_integrity": 64,
           "supplemental": 20,
-          "system": 34,
-          "research": 110
+          "system": 34
         },
         "domain": {
+          "SOC": 96,
           "BLS": 270,
           "ENV": 17,
           "PHY": 100,
           "B/T": 125,
           "HSC": 216,
-          "HUM": 14,
-          "SOC": 95
+          "HUM": 14
         }
       },
       "2018": {
@@ -1069,38 +1071,38 @@
     },
     "notice_years": {
       "2026": {
-        "total": 133,
+        "total": 135,
         "marks": {
+          "research": 37,
           "alterations": 61,
-          "research": 36,
+          "system": 3,
           "researcher_integrity": 29,
-          "supplemental": 5,
-          "system": 2
+          "supplemental": 5
         },
         "domain": {
+          "SOC": 18,
           "BLS": 148,
-          "HSC": 120,
+          "HSC": 124,
           "ENV": 16,
           "PHY": 49,
           "B/T": 43,
-          "HUM": 2,
-          "SOC": 17
+          "HUM": 2
         }
       },
       "2025": {
-        "total": 357,
+        "total": 358,
         "marks": {
           "researcher_integrity": 51,
-          "alterations": 201,
+          "alterations": 202,
           "research": 80,
           "system": 15,
           "supplemental": 10
         },
         "domain": {
           "B/T": 147,
-          "PHY": 102,
-          "BLS": 529,
-          "HSC": 291,
+          "PHY": 103,
+          "BLS": 531,
+          "HSC": 292,
           "ENV": 26,
           "SOC": 30,
           "HUM": 3
@@ -1912,9 +1914,9 @@
       "Saudi Arabia": 161,
       "Australia": 118,
       "France": 105,
+      "Iran": 104,
       "Pakistan": 104,
       "Netherlands": 104,
-      "Iran": 103,
       "South Korea": 99,
       "Spain": 91,
       "Egypt": 82,
@@ -2048,9 +2050,9 @@
       "Saudi Arabia": 161,
       "Australia": 118,
       "France": 105,
+      "Iran": 104,
       "Pakistan": 104,
       "Netherlands": 104,
-      "Iran": 103,
       "South Korea": 99,
       "Spain": 91,
       "Egypt": 82,
