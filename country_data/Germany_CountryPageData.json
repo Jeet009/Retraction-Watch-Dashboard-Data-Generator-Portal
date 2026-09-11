@@ -2,9 +2,9 @@
   "retraction_rate_data": {
     "country": "Germany",
     "yearly_rates": {
+      "2024": 0.199,
       "2022": 0.3472,
       "2023": 0.2537,
-      "2024": 0.1937,
       "2013": 0.2663,
       "2021": 0.3585,
       "2017": 0.3727,
@@ -34,9 +34,9 @@
       "2003": 0.3232
     },
     "notice_yearly_rates": {
+      "2025": 0.3918,
       "2014": 0.667,
       "2023": 0.568,
-      "2025": 0.387,
       "2017": 0.2485,
       "2024": 0.5595,
       "2022": 0.2831,
@@ -64,11 +64,11 @@
       "1997": 0.0953,
       "2001": 0.0223
     },
-    "average_rate": 0.2973,
+    "average_rate": 0.2975,
     "yearly_retractions": {
+      "2024": 37,
       "2022": 65,
       "2023": 46,
-      "2024": 36,
       "2013": 41,
       "2021": 69,
       "2017": 63,
@@ -115,10 +115,10 @@
       "1984": 1
     },
     "notice_yearly_retractions": {
+      "2025": 82,
       "2026": 38,
       "2014": 105,
       "2023": 103,
-      "2025": 81,
       "2017": 42,
       "2024": 104,
       "2022": 53,
@@ -156,7 +156,7 @@
   },
   "domainwise_data": {
     "country": "Germany",
-    "total_retractions": 1346,
+    "total_retractions": 1347,
     "years": {
       "2026": {
         "total": 1,
@@ -186,21 +186,21 @@
         }
       },
       "2024": {
-        "total": 36,
+        "total": 37,
         "marks": {
+          "research": 10,
           "alterations": 14,
-          "research": 9,
           "system": 3,
           "researcher_integrity": 9,
           "supplemental": 1
         },
         "domain": {
+          "B/T": 9,
+          "BLS": 26,
           "ENV": 11,
           "PHY": 17,
-          "BLS": 25,
           "HSC": 30,
-          "SOC": 4,
-          "B/T": 8
+          "SOC": 4
         }
       },
       "2023": {
@@ -881,19 +881,19 @@
         }
       },
       "2025": {
-        "total": 81,
+        "total": 82,
         "marks": {
+          "research": 26,
           "alterations": 32,
-          "research": 25,
           "researcher_integrity": 15,
           "system": 8,
           "supplemental": 1
         },
         "domain": {
-          "BLS": 84,
+          "B/T": 16,
+          "BLS": 85,
           "HSC": 77,
           "PHY": 45,
-          "B/T": 15,
           "ENV": 14,
           "SOC": 3,
           "HUM": 1
@@ -1450,19 +1450,19 @@
       "Mexico": 9,
       "Finland": 8,
       "Israel": 8,
+      "Malaysia": 7,
       "Indonesia": 7,
       "South Africa": 7,
       "Romania": 7,
       "Bangladesh": 7,
       "Ghana": 7,
+      "Nigeria": 6,
       "Singapore": 6,
       "Croatia": 6,
       "Jordan": 6,
-      "Malaysia": 6,
       "Cameroon": 5,
       "Ecuador": 5,
       "Thailand": 5,
-      "Nigeria": 5,
       "Ethiopia": 5,
       "Chile": 5,
       "Bahrain": 5,
@@ -1567,19 +1567,19 @@
       "Mexico": 9,
       "Finland": 8,
       "Israel": 8,
+      "Malaysia": 7,
       "Indonesia": 7,
       "South Africa": 7,
       "Romania": 7,
       "Bangladesh": 7,
       "Ghana": 7,
+      "Nigeria": 6,
       "Singapore": 6,
       "Croatia": 6,
       "Jordan": 6,
-      "Malaysia": 6,
       "Cameroon": 5,
       "Ecuador": 5,
       "Thailand": 5,
-      "Nigeria": 5,
       "Ethiopia": 5,
       "Chile": 5,
       "Bahrain": 5,

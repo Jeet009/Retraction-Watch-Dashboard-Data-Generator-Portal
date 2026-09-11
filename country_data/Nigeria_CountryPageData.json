@@ -2,9 +2,9 @@
   "retraction_rate_data": {
     "country": "Nigeria",
     "yearly_rates": {
-      "2021": 1.5961,
+      "2021": 1.6575,
       "2017": 0.6621,
-      "2024": 1.3609,
+      "2024": 1.4176,
       "2023": 3.3477,
       "2018": 1.0804,
       "2022": 2.102,
@@ -23,7 +23,7 @@
       "2011": 0.8547
     },
     "notice_yearly_rates": {
-      "2025": 4.5776,
+      "2025": 4.672,
       "2009": 0.2099,
       "2024": 1.3042,
       "2014": 1.3596,
@@ -41,11 +41,11 @@
       "2013": 0.3586,
       "2015": 0.8537
     },
-    "average_rate": 1.1858,
+    "average_rate": 1.1957,
     "yearly_retractions": {
-      "2021": 26,
+      "2021": 27,
       "2017": 5,
-      "2024": 24,
+      "2024": 25,
       "2023": 56,
       "2026": 1,
       "2018": 10,
@@ -66,7 +66,7 @@
     },
     "notice_yearly_retractions": {
       "2026": 29,
-      "2025": 97,
+      "2025": 99,
       "2009": 1,
       "2024": 23,
       "2014": 8,
@@ -87,7 +87,7 @@
   },
   "domainwise_data": {
     "country": "Nigeria",
-    "total_retractions": 241,
+    "total_retractions": 243,
     "years": {
       "2026": {
         "total": 1,
@@ -110,19 +110,19 @@
         }
       },
       "2024": {
-        "total": 24,
+        "total": 25,
         "marks": {
-          "research": 7,
+          "research": 8,
           "researcher_integrity": 9,
           "alterations": 8
         },
         "domain": {
+          "B/T": 7,
+          "BLS": 14,
           "PHY": 32,
-          "BLS": 13,
           "HSC": 10,
           "ENV": 6,
-          "SOC": 1,
-          "B/T": 6
+          "SOC": 1
         }
       },
       "2023": {
@@ -162,17 +162,17 @@
         }
       },
       "2021": {
-        "total": 26,
+        "total": 27,
         "marks": {
           "alterations": 9,
+          "researcher_integrity": 8,
           "research": 8,
-          "researcher_integrity": 7,
           "system": 1,
           "supplemental": 1
         },
         "domain": {
           "BLS": 19,
-          "HSC": 12,
+          "HSC": 15,
           "ENV": 11,
           "B/T": 11,
           "PHY": 20,
@@ -398,21 +398,21 @@
         }
       },
       "2025": {
-        "total": 97,
+        "total": 99,
         "marks": {
-          "research": 23,
+          "researcher_integrity": 23,
+          "research": 24,
           "alterations": 48,
-          "researcher_integrity": 22,
           "system": 3,
           "supplemental": 1
         },
         "domain": {
+          "HSC": 41,
+          "B/T": 26,
+          "BLS": 58,
           "PHY": 115,
           "ENV": 21,
-          "SOC": 5,
-          "B/T": 25,
-          "BLS": 57,
-          "HSC": 38
+          "SOC": 5
         }
       },
       "2024": {
@@ -646,27 +646,28 @@
       }
     },
     "collaborations": {
-      "South Africa": 76,
+      "South Africa": 77,
       "India": 43,
       "Saudi Arabia": 23,
       "China": 22,
       "United States": 16,
       "Pakistan": 16,
-      "Malaysia": 14,
+      "Malaysia": 15,
       "United Kingdom": 12,
       "Iraq": 9,
       "Turkey": 7,
       "Australia": 7,
+      "Germany": 6,
       "Egypt": 6,
       "Kenya": 6,
       "Iran": 6,
       "Russia": 5,
       "United Arab Emirates": 5,
-      "Germany": 5,
       "Thailand": 4,
       "Indonesia": 4,
       "Vietnam": 4,
       "Ethiopia": 4,
+      "Uganda": 3,
       "South Korea": 3,
       "Taiwan": 3,
       "Bangladesh": 3,
@@ -681,7 +682,6 @@
       "Georgia": 2,
       "Ghana": 2,
       "Botswana": 2,
-      "Uganda": 2,
       "Hungary": 1,
       "Israel": 1,
       "Democratic Republic of the Congo": 1,
@@ -709,27 +709,28 @@
       "Tanzania": 1
     },
     "notice_collaborations": {
-      "South Africa": 76,
+      "South Africa": 77,
       "India": 43,
       "Saudi Arabia": 23,
       "China": 22,
       "United States": 16,
       "Pakistan": 16,
-      "Malaysia": 14,
+      "Malaysia": 15,
       "United Kingdom": 12,
       "Iraq": 9,
       "Turkey": 7,
       "Australia": 7,
+      "Germany": 6,
       "Egypt": 6,
       "Kenya": 6,
       "Iran": 6,
       "Russia": 5,
       "United Arab Emirates": 5,
-      "Germany": 5,
       "Thailand": 4,
       "Indonesia": 4,
       "Vietnam": 4,
       "Ethiopia": 4,
+      "Uganda": 3,
       "South Korea": 3,
       "Taiwan": 3,
       "Bangladesh": 3,
@@ -744,7 +745,6 @@
       "Georgia": 2,
       "Ghana": 2,
       "Botswana": 2,
-      "Uganda": 2,
       "Hungary": 1,
       "Israel": 1,
       "Democratic Republic of the Congo": 1,

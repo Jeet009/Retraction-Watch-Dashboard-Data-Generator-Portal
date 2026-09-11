@@ -2,11 +2,11 @@
   "retraction_rate_data": {
     "country": "United States",
     "yearly_rates": {
+      "2015": 0.4723,
       "2019": 0.5461,
       "2025": 0.0573,
       "2017": 0.4535,
-      "2024": 0.1839,
-      "2015": 0.4672,
+      "2024": 0.1854,
       "2016": 0.4587,
       "2021": 0.4901,
       "2022": 0.4529,
@@ -34,7 +34,7 @@
       "1996": 0.0651
     },
     "notice_yearly_rates": {
-      "2025": 0.4774,
+      "2025": 0.4787,
       "2017": 0.4937,
       "2024": 0.7402,
       "2009": 0.2854,
@@ -65,14 +65,14 @@
       "2000": 0.0421,
       "1999": 0.0522
     },
-    "average_rate": 0.3873,
+    "average_rate": 0.3876,
     "yearly_retractions": {
+      "2015": 273,
       "2019": 336,
       "2025": 43,
       "2017": 271,
-      "2024": 117,
+      "2024": 118,
       "2026": 4,
-      "2015": 270,
       "2016": 269,
       "2021": 322,
       "2022": 284,
@@ -126,8 +126,8 @@
       "1959": 1
     },
     "notice_yearly_retractions": {
-      "2026": 135,
-      "2025": 358,
+      "2026": 138,
+      "2025": 359,
       "2017": 295,
       "2024": 471,
       "2009": 144,
@@ -185,7 +185,7 @@
   },
   "domainwise_data": {
     "country": "United States",
-    "total_retractions": 6222,
+    "total_retractions": 6226,
     "years": {
       "2026": {
         "total": 4,
@@ -219,9 +219,9 @@
         }
       },
       "2024": {
-        "total": 117,
+        "total": 118,
         "marks": {
-          "research": 42,
+          "research": 43,
           "researcher_integrity": 27,
           "alterations": 27,
           "supplemental": 13,
@@ -229,8 +229,8 @@
         },
         "domain": {
           "BLS": 65,
-          "HSC": 140,
-          "B/T": 47,
+          "HSC": 141,
+          "B/T": 49,
           "PHY": 38,
           "SOC": 14,
           "ENV": 15
@@ -389,18 +389,18 @@
         }
       },
       "2015": {
-        "total": 270,
+        "total": 273,
         "marks": {
-          "alterations": 128,
+          "alterations": 131,
           "research": 69,
           "researcher_integrity": 36,
           "supplemental": 17,
           "system": 20
         },
         "domain": {
-          "BLS": 366,
-          "PHY": 69,
-          "HSC": 205,
+          "BLS": 372,
+          "HSC": 208,
+          "PHY": 70,
           "B/T": 25,
           "SOC": 34,
           "ENV": 17,
@@ -1071,38 +1071,38 @@
     },
     "notice_years": {
       "2026": {
-        "total": 135,
+        "total": 138,
         "marks": {
+          "alterations": 64,
           "research": 37,
-          "alterations": 61,
           "system": 3,
           "researcher_integrity": 29,
           "supplemental": 5
         },
         "domain": {
+          "BLS": 154,
+          "HSC": 127,
+          "PHY": 50,
           "SOC": 18,
-          "BLS": 148,
-          "HSC": 124,
           "ENV": 16,
-          "PHY": 49,
           "B/T": 43,
           "HUM": 2
         }
       },
       "2025": {
-        "total": 358,
+        "total": 359,
         "marks": {
           "researcher_integrity": 51,
+          "research": 81,
           "alterations": 202,
-          "research": 80,
           "system": 15,
           "supplemental": 10
         },
         "domain": {
-          "B/T": 147,
+          "B/T": 149,
           "PHY": 103,
+          "HSC": 293,
           "BLS": 531,
-          "HSC": 292,
           "ENV": 26,
           "SOC": 30,
           "HUM": 3
@@ -1905,13 +1905,13 @@
     },
     "collaborations": {
       "China": 827,
-      "India": 248,
+      "India": 249,
       "United Kingdom": 227,
       "Germany": 194,
       "Canada": 181,
       "Italy": 166,
       "Japan": 163,
-      "Saudi Arabia": 161,
+      "Saudi Arabia": 162,
       "Australia": 118,
       "France": 105,
       "Iran": 104,
@@ -2041,13 +2041,13 @@
     },
     "notice_collaborations": {
       "China": 827,
-      "India": 248,
+      "India": 249,
       "United Kingdom": 227,
       "Germany": 194,
       "Canada": 181,
       "Italy": 166,
       "Japan": 163,
-      "Saudi Arabia": 161,
+      "Saudi Arabia": 162,
       "Australia": 118,
       "France": 105,
       "Iran": 104,

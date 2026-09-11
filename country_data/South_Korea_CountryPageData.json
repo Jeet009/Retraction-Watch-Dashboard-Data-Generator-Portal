@@ -2,9 +2,9 @@
   "retraction_rate_data": {
     "country": "South Korea",
     "yearly_rates": {
+      "2024": 0.5882,
       "2021": 1.4911,
       "2020": 0.612,
-      "2024": 0.5787,
       "2023": 0.7956,
       "2016": 0.5957,
       "2022": 2.7606,
@@ -59,11 +59,11 @@
       "2003": 0.0357,
       "1999": 0.0587
     },
-    "average_rate": 0.8072,
+    "average_rate": 0.8077,
     "yearly_retractions": {
+      "2024": 62,
       "2021": 147,
       "2020": 57,
-      "2024": 61,
       "2023": 78,
       "2016": 48,
       "2022": 274,
@@ -94,10 +94,10 @@
       "1993": 1
     },
     "notice_yearly_retractions": {
+      "2026": 39,
       "2024": 132,
       "2022": 72,
       "2025": 130,
-      "2026": 38,
       "2006": 23,
       "2014": 39,
       "2023": 310,
@@ -124,7 +124,7 @@
   },
   "domainwise_data": {
     "country": "South Korea",
-    "total_retractions": 1435,
+    "total_retractions": 1436,
     "years": {
       "2025": {
         "total": 14,
@@ -144,17 +144,17 @@
         }
       },
       "2024": {
-        "total": 61,
+        "total": 62,
         "marks": {
-          "alterations": 18,
+          "alterations": 19,
           "supplemental": 6,
           "research": 21,
           "researcher_integrity": 14,
           "system": 2
         },
         "domain": {
+          "HSC": 44,
           "BLS": 27,
-          "HSC": 40,
           "PHY": 31,
           "B/T": 43,
           "ENV": 16,
@@ -627,21 +627,21 @@
     },
     "notice_years": {
       "2026": {
-        "total": 38,
+        "total": 39,
         "marks": {
+          "alterations": 13,
           "researcher_integrity": 9,
-          "alterations": 12,
           "supplemental": 3,
           "research": 12,
           "system": 2
         },
         "domain": {
+          "HSC": 20,
           "B/T": 25,
           "ENV": 11,
           "PHY": 15,
           "BLS": 25,
           "SOC": 13,
-          "HSC": 16,
           "HUM": 2
         }
       },
