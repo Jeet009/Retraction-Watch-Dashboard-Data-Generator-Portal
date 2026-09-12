@@ -2,12 +2,12 @@
   "retraction_rate_data": {
     "country": "Ethiopia",
     "yearly_rates": {
+      "2020": 2.1328,
+      "2021": 12.4928,
       "2024": 1.9617,
       "2025": 0.5106,
       "2023": 4.9505,
-      "2020": 1.8282,
       "2022": 27.9553,
-      "2021": 12.3782,
       "2018": 1.4053,
       "2014": 1.1105,
       "2019": 1.3109,
@@ -32,14 +32,14 @@
       "2016": 0.9465,
       "2004": 2.6882
     },
-    "average_rate": 6.0454,
+    "average_rate": 6.0789,
     "yearly_retractions": {
+      "2020": 14,
+      "2021": 109,
       "2024": 24,
       "2025": 7,
       "2023": 51,
-      "2020": 12,
       "2022": 315,
-      "2021": 108,
       "2018": 5,
       "2014": 2,
       "2019": 6,
@@ -50,7 +50,7 @@
       "2003": 1
     },
     "notice_yearly_retractions": {
-      "2026": 19,
+      "2026": 22,
       "2024": 88,
       "2025": 44,
       "2023": 342,
@@ -68,7 +68,7 @@
   },
   "domainwise_data": {
     "country": "Ethiopia",
-    "total_retractions": 541,
+    "total_retractions": 544,
     "years": {
       "2025": {
         "total": 7,
@@ -142,32 +142,33 @@
         }
       },
       "2021": {
-        "total": 108,
+        "total": 109,
         "marks": {
-          "alterations": 32,
+          "alterations": 33,
           "research": 71,
           "researcher_integrity": 5
         },
         "domain": {
+          "HSC": 60,
+          "SOC": 4,
           "PHY": 138,
           "B/T": 87,
-          "HSC": 57,
           "BLS": 16,
-          "ENV": 10,
-          "SOC": 3
+          "ENV": 10
         }
       },
       "2020": {
-        "total": 12,
+        "total": 14,
         "marks": {
+          "alterations": 6,
+          "research": 1,
           "researcher_integrity": 3,
-          "alterations": 5,
           "system": 3,
           "supplemental": 1
         },
         "domain": {
-          "HSC": 13,
-          "SOC": 4,
+          "HSC": 19,
+          "SOC": 6,
           "BLS": 1,
           "ENV": 1,
           "B/T": 7,
@@ -278,20 +279,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 19,
+        "total": 22,
         "marks": {
-          "alterations": 7,
+          "alterations": 9,
+          "research": 8,
           "system": 1,
-          "researcher_integrity": 4,
-          "research": 7
+          "researcher_integrity": 4
         },
         "domain": {
+          "HSC": 23,
+          "SOC": 6,
           "B/T": 6,
-          "HSC": 14,
           "ENV": 7,
           "PHY": 14,
-          "BLS": 6,
-          "SOC": 3
+          "BLS": 6
         }
       },
       "2025": {

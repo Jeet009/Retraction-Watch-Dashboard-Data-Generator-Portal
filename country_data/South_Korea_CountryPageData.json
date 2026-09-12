@@ -2,10 +2,11 @@
   "retraction_rate_data": {
     "country": "South Korea",
     "yearly_rates": {
+      "2023": 0.8058,
+      "2019": 0.5491,
       "2024": 0.5882,
       "2021": 1.4911,
       "2020": 0.612,
-      "2023": 0.7956,
       "2016": 0.5957,
       "2022": 2.7606,
       "2025": 0.1232,
@@ -13,7 +14,6 @@
       "2013": 0.9397,
       "2017": 0.6992,
       "2018": 0.7374,
-      "2019": 0.5379,
       "2014": 0.6588,
       "2015": 0.6296,
       "2012": 0.7399,
@@ -59,12 +59,13 @@
       "2003": 0.0357,
       "1999": 0.0587
     },
-    "average_rate": 0.8077,
+    "average_rate": 0.8089,
     "yearly_retractions": {
+      "2023": 79,
+      "2019": 49,
       "2024": 62,
       "2021": 147,
       "2020": 57,
-      "2023": 78,
       "2016": 48,
       "2022": 274,
       "2025": 14,
@@ -72,7 +73,6 @@
       "2013": 68,
       "2017": 57,
       "2018": 62,
-      "2019": 48,
       "2014": 50,
       "2015": 50,
       "2012": 51,
@@ -94,7 +94,7 @@
       "1993": 1
     },
     "notice_yearly_retractions": {
-      "2026": 39,
+      "2026": 41,
       "2024": 132,
       "2022": 72,
       "2025": 130,
@@ -124,7 +124,7 @@
   },
   "domainwise_data": {
     "country": "South Korea",
-    "total_retractions": 1436,
+    "total_retractions": 1438,
     "years": {
       "2025": {
         "total": 14,
@@ -163,20 +163,20 @@
         }
       },
       "2023": {
-        "total": 78,
+        "total": 79,
         "marks": {
-          "researcher_integrity": 14,
+          "researcher_integrity": 15,
           "supplemental": 4,
           "research": 25,
           "alterations": 28,
           "system": 7
         },
         "domain": {
-          "B/T": 66,
-          "ENV": 10,
+          "B/T": 67,
+          "ENV": 11,
+          "HSC": 45,
           "PHY": 44,
           "BLS": 39,
-          "HSC": 44,
           "HUM": 4,
           "SOC": 21
         }
@@ -239,22 +239,22 @@
         }
       },
       "2019": {
-        "total": 48,
+        "total": 49,
         "marks": {
+          "system": 8,
           "alterations": 14,
           "research": 13,
           "researcher_integrity": 9,
-          "supplemental": 5,
-          "system": 7
+          "supplemental": 5
         },
         "domain": {
+          "B/T": 27,
+          "HSC": 31,
           "BLS": 34,
           "PHY": 22,
-          "B/T": 25,
           "HUM": 1,
           "SOC": 8,
-          "ENV": 2,
-          "HSC": 28
+          "ENV": 2
         }
       },
       "2018": {
@@ -627,18 +627,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 39,
+        "total": 41,
         "marks": {
+          "researcher_integrity": 10,
+          "system": 3,
           "alterations": 13,
-          "researcher_integrity": 9,
           "supplemental": 3,
-          "research": 12,
-          "system": 2
+          "research": 12
         },
         "domain": {
-          "HSC": 20,
-          "B/T": 25,
-          "ENV": 11,
+          "B/T": 28,
+          "ENV": 12,
+          "HSC": 24,
           "PHY": 15,
           "BLS": 25,
           "SOC": 13,
@@ -1065,7 +1065,7 @@
       "India": 168,
       "Saudi Arabia": 117,
       "United States": 99,
-      "Pakistan": 59,
+      "Pakistan": 60,
       "Vietnam": 26,
       "Egypt": 23,
       "Malaysia": 22,
@@ -1094,6 +1094,7 @@
       "Italy": 5,
       "Ireland": 5,
       "Zambia": 5,
+      "Spain": 4,
       "Belgium": 4,
       "Hungary": 4,
       "Lebanon": 4,
@@ -1107,7 +1108,6 @@
       "Uzbekistan": 3,
       "Ecuador": 3,
       "Brazil": 3,
-      "Spain": 3,
       "France": 3,
       "New Zealand": 2,
       "Greece": 2,
@@ -1151,7 +1151,7 @@
       "India": 168,
       "Saudi Arabia": 117,
       "United States": 99,
-      "Pakistan": 59,
+      "Pakistan": 60,
       "Vietnam": 26,
       "Egypt": 23,
       "Malaysia": 22,
@@ -1180,6 +1180,7 @@
       "Italy": 5,
       "Ireland": 5,
       "Zambia": 5,
+      "Spain": 4,
       "Belgium": 4,
       "Hungary": 4,
       "Lebanon": 4,
@@ -1193,7 +1194,6 @@
       "Uzbekistan": 3,
       "Ecuador": 3,
       "Brazil": 3,
-      "Spain": 3,
       "France": 3,
       "New Zealand": 2,
       "Greece": 2,
