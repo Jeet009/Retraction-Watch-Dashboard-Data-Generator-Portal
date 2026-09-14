@@ -5,10 +5,10 @@
     "notice_yearly_rates": {},
     "average_rate": 0.0,
     "yearly_retractions": {
+      "2020": 57,
       "2022": 62,
       "2023": 35,
       "2019": 29,
-      "2020": 54,
       "2024": 21,
       "2025": 1,
       "2021": 46,
@@ -23,7 +23,7 @@
       "2015": 2
     },
     "notice_yearly_retractions": {
-      "2026": 28,
+      "2026": 31,
       "2025": 74,
       "2024": 57,
       "2022": 19,
@@ -44,7 +44,7 @@
   },
   "domainwise_data": {
     "country": "Vietnam",
-    "total_retractions": 272,
+    "total_retractions": 275,
     "years": {
       "2025": {
         "total": 1,
@@ -128,14 +128,15 @@
         }
       },
       "2020": {
-        "total": 54,
+        "total": 57,
         "marks": {
+          "system": 2,
+          "research": 10,
           "researcher_integrity": 33,
-          "research": 9,
           "alterations": 12
         },
         "domain": {
-          "PHY": 69,
+          "PHY": 74,
           "BLS": 15,
           "ENV": 6,
           "B/T": 31,
@@ -265,17 +266,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 28,
+        "total": 31,
         "marks": {
+          "system": 2,
+          "research": 9,
           "researcher_integrity": 15,
           "supplemental": 1,
-          "research": 8,
           "alterations": 4
         },
         "domain": {
+          "PHY": 25,
           "BLS": 18,
           "ENV": 10,
-          "PHY": 20,
           "B/T": 16,
           "HSC": 18
         }
@@ -495,7 +497,7 @@
       "China": 69,
       "India": 67,
       "Saudi Arabia": 49,
-      "Iran": 44,
+      "Iran": 47,
       "Taiwan": 26,
       "South Korea": 26,
       "Malaysia": 23,
@@ -524,11 +526,11 @@
       "Tunisia": 4,
       "Nigeria": 4,
       "South Africa": 4,
+      "Ireland": 3,
       "Oman": 3,
       "Senegal": 3,
       "Singapore": 2,
       "Morocco": 2,
-      "Ireland": 2,
       "Lebanon": 2,
       "Hungary": 2,
       "Sweden": 2,
@@ -565,7 +567,7 @@
       "China": 69,
       "India": 67,
       "Saudi Arabia": 49,
-      "Iran": 44,
+      "Iran": 47,
       "Taiwan": 26,
       "South Korea": 26,
       "Malaysia": 23,
@@ -594,11 +596,11 @@
       "Tunisia": 4,
       "Nigeria": 4,
       "South Africa": 4,
+      "Ireland": 3,
       "Oman": 3,
       "Senegal": 3,
       "Singapore": 2,
       "Morocco": 2,
-      "Ireland": 2,
       "Lebanon": 2,
       "Hungary": 2,
       "Sweden": 2,

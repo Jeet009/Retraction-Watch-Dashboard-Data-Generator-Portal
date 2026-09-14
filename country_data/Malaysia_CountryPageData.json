@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Malaysia",
     "yearly_rates": {
+      "2025": 0.2705,
       "2022": 4.3299,
-      "2025": 0.2525,
       "2020": 0.9416,
       "2021": 2.5685,
       "2024": 1.2869,
@@ -45,10 +45,10 @@
       "2010": 2.6625,
       "2007": 0.1935
     },
-    "average_rate": 1.6865,
+    "average_rate": 1.6883,
     "yearly_retractions": {
+      "2025": 15,
       "2022": 182,
-      "2025": 14,
       "2020": 35,
       "2021": 103,
       "2024": 60,
@@ -70,7 +70,7 @@
       "2005": 1
     },
     "notice_yearly_retractions": {
-      "2026": 43,
+      "2026": 44,
       "2024": 109,
       "2025": 144,
       "2022": 79,
@@ -94,21 +94,21 @@
   },
   "domainwise_data": {
     "country": "Malaysia",
-    "total_retractions": 978,
+    "total_retractions": 979,
     "years": {
       "2025": {
-        "total": 14,
+        "total": 15,
         "marks": {
+          "research": 5,
           "alterations": 4,
-          "research": 4,
           "researcher_integrity": 2,
           "system": 1,
           "supplemental": 3
         },
         "domain": {
-          "B/T": 13,
+          "B/T": 14,
+          "SOC": 14,
           "ENV": 3,
-          "SOC": 13,
           "BLS": 5,
           "HSC": 8
         }
@@ -438,18 +438,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 43,
+        "total": 44,
         "marks": {
+          "research": 12,
           "alterations": 11,
           "researcher_integrity": 11,
-          "research": 11,
           "system": 1,
           "supplemental": 9
         },
         "domain": {
-          "B/T": 30,
+          "B/T": 31,
+          "SOC": 20,
           "ENV": 12,
-          "SOC": 19,
           "PHY": 20,
           "BLS": 14,
           "HSC": 22
@@ -766,7 +766,7 @@
       }
     },
     "collaborations": {
-      "China": 216,
+      "China": 217,
       "Saudi Arabia": 150,
       "India": 133,
       "Pakistan": 114,
@@ -855,7 +855,7 @@
       "Hungary": 1
     },
     "notice_collaborations": {
-      "China": 216,
+      "China": 217,
       "Saudi Arabia": 150,
       "India": 133,
       "Pakistan": 114,

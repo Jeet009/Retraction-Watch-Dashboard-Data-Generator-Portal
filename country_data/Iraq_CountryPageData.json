@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Iraq",
     "yearly_rates": {
-      "2025": 0.5447,
-      "2022": 8.6415,
+      "2025": 0.5733,
+      "2022": 8.6917,
       "2023": 15.6154,
       "2024": 3.9404,
       "2019": 1.2494,
@@ -35,10 +35,10 @@
       "2016": 0.3198,
       "2014": 0.5126
     },
-    "average_rate": 4.6373,
+    "average_rate": 4.648,
     "yearly_retractions": {
-      "2025": 19,
-      "2022": 172,
+      "2025": 20,
+      "2022": 173,
       "2023": 407,
       "2024": 110,
       "2019": 18,
@@ -56,7 +56,7 @@
       "2009": 1
     },
     "notice_yearly_retractions": {
-      "2026": 29,
+      "2026": 31,
       "2025": 518,
       "2024": 102,
       "2021": 13,
@@ -76,20 +76,20 @@
   },
   "domainwise_data": {
     "country": "Iraq",
-    "total_retractions": 875,
+    "total_retractions": 877,
     "years": {
       "2025": {
-        "total": 19,
+        "total": 20,
         "marks": {
-          "alterations": 6,
+          "alterations": 7,
           "researcher_integrity": 9,
           "research": 4
         },
         "domain": {
+          "PHY": 11,
           "B/T": 4,
           "SOC": 2,
           "BLS": 10,
-          "PHY": 9,
           "HSC": 14,
           "ENV": 2,
           "HUM": 1
@@ -133,18 +133,18 @@
         }
       },
       "2022": {
-        "total": 172,
+        "total": 173,
         "marks": {
+          "alterations": 55,
           "researcher_integrity": 70,
-          "alterations": 54,
           "research": 43,
           "supplemental": 5
         },
         "domain": {
+          "BLS": 84,
+          "ENV": 24,
+          "PHY": 159,
           "B/T": 127,
-          "ENV": 23,
-          "PHY": 157,
-          "BLS": 83,
           "HSC": 115,
           "SOC": 23,
           "HUM": 2
@@ -330,19 +330,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 29,
+        "total": 31,
         "marks": {
-          "alterations": 9,
+          "alterations": 11,
           "researcher_integrity": 10,
           "system": 2,
           "research": 8
         },
         "domain": {
+          "PHY": 30,
+          "BLS": 14,
+          "ENV": 5,
           "B/T": 13,
           "SOC": 1,
-          "BLS": 13,
-          "PHY": 26,
-          "ENV": 4,
           "HSC": 19
         }
       },

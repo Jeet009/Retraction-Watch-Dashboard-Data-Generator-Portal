@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "United Arab Emirates",
     "yearly_rates": {
+      "2025": 0.3595,
       "2012": 0.6684,
       "2018": 0.7375,
       "2023": 1.439,
@@ -9,7 +10,6 @@
       "2021": 2.6825,
       "2022": 3.9523,
       "2020": 1.2859,
-      "2025": 0.3195,
       "2011": 1.9026,
       "2013": 0.6099,
       "2019": 0.5801,
@@ -42,8 +42,9 @@
       "2009": 1.0325,
       "2019": 0.232
     },
-    "average_rate": 1.2631,
+    "average_rate": 1.2693,
     "yearly_retractions": {
+      "2025": 9,
       "2026": 1,
       "2012": 2,
       "2018": 5,
@@ -52,7 +53,6 @@
       "2021": 33,
       "2022": 60,
       "2020": 13,
-      "2025": 8,
       "2011": 5,
       "2013": 2,
       "2019": 5,
@@ -67,7 +67,7 @@
       "2015": 2
     },
     "notice_yearly_retractions": {
-      "2026": 15,
+      "2026": 16,
       "2018": 4,
       "2025": 48,
       "2023": 38,
@@ -89,7 +89,7 @@
   },
   "domainwise_data": {
     "country": "United Arab Emirates",
-    "total_retractions": 203,
+    "total_retractions": 204,
     "years": {
       "2026": {
         "total": 1,
@@ -103,15 +103,15 @@
         }
       },
       "2025": {
-        "total": 8,
+        "total": 9,
         "marks": {
-          "researcher_integrity": 8
+          "researcher_integrity": 9
         },
         "domain": {
-          "BLS": 2,
-          "HSC": 18,
-          "B/T": 3,
-          "PHY": 2
+          "B/T": 4,
+          "BLS": 3,
+          "HSC": 19,
+          "PHY": 3
         }
       },
       "2024": {
@@ -366,18 +366,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 15,
+        "total": 16,
         "marks": {
+          "researcher_integrity": 5,
           "alterations": 8,
-          "researcher_integrity": 4,
           "research": 3
         },
         "domain": {
-          "B/T": 5,
-          "BLS": 11,
-          "HSC": 16,
-          "ENV": 4,
-          "PHY": 7
+          "B/T": 6,
+          "BLS": 12,
+          "HSC": 17,
+          "PHY": 8,
+          "ENV": 4
         }
       },
       "2025": {
@@ -608,9 +608,9 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 62,
+      "Saudi Arabia": 63,
       "India": 59,
-      "Pakistan": 46,
+      "Pakistan": 47,
       "China": 34,
       "Iraq": 33,
       "Malaysia": 27,
@@ -687,9 +687,9 @@
       "Czech Republic": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 62,
+      "Saudi Arabia": 63,
       "India": 59,
-      "Pakistan": 46,
+      "Pakistan": 47,
       "China": 34,
       "Iraq": 33,
       "Malaysia": 27,

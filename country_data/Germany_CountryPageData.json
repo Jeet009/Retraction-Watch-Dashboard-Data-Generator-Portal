@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Germany",
     "yearly_rates": {
+      "2025": 0.0717,
       "2019": 0.2919,
       "2024": 0.199,
       "2022": 0.3472,
@@ -9,7 +10,6 @@
       "2013": 0.2663,
       "2021": 0.3585,
       "2017": 0.3727,
-      "2025": 0.0669,
       "2008": 0.3427,
       "2012": 0.3109,
       "2007": 0.2703,
@@ -64,8 +64,9 @@
       "1997": 0.0953,
       "2001": 0.0223
     },
-    "average_rate": 0.2978,
+    "average_rate": 0.298,
     "yearly_retractions": {
+      "2025": 15,
       "2019": 51,
       "2024": 37,
       "2022": 65,
@@ -73,7 +74,6 @@
       "2013": 41,
       "2021": 69,
       "2017": 63,
-      "2025": 14,
       "2008": 43,
       "2012": 47,
       "2026": 1,
@@ -115,7 +115,7 @@
       "1984": 1
     },
     "notice_yearly_retractions": {
-      "2026": 39,
+      "2026": 40,
       "2025": 82,
       "2014": 105,
       "2023": 103,
@@ -156,7 +156,7 @@
   },
   "domainwise_data": {
     "country": "Germany",
-    "total_retractions": 1348,
+    "total_retractions": 1349,
     "years": {
       "2026": {
         "total": 1,
@@ -168,15 +168,16 @@
         }
       },
       "2025": {
-        "total": 14,
+        "total": 15,
         "marks": {
+          "researcher_integrity": 5,
           "alterations": 2,
           "research": 4,
           "system": 3,
-          "researcher_integrity": 4,
           "supplemental": 1
         },
         "domain": {
+          "B/T": 2,
           "BLS": 12,
           "PHY": 4,
           "HSC": 16,
@@ -864,15 +865,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 39,
+        "total": 40,
         "marks": {
+          "researcher_integrity": 11,
           "system": 3,
-          "researcher_integrity": 10,
           "alterations": 10,
           "research": 16
         },
         "domain": {
-          "B/T": 5,
+          "B/T": 7,
           "HSC": 48,
           "BLS": 31,
           "ENV": 12,
@@ -1416,14 +1417,14 @@
     },
     "collaborations": {
       "United States": 194,
-      "China": 121,
+      "China": 122,
       "United Kingdom": 89,
       "India": 62,
       "Iran": 53,
       "France": 51,
       "Switzerland": 51,
       "Italy": 51,
-      "Saudi Arabia": 42,
+      "Saudi Arabia": 43,
       "Egypt": 42,
       "Netherlands": 41,
       "Canada": 30,
@@ -1533,14 +1534,14 @@
     },
     "notice_collaborations": {
       "United States": 194,
-      "China": 121,
+      "China": 122,
       "United Kingdom": 89,
       "India": 62,
       "Iran": 53,
       "France": 51,
       "Switzerland": 51,
       "Italy": 51,
-      "Saudi Arabia": 42,
+      "Saudi Arabia": 43,
       "Egypt": 42,
       "Netherlands": 41,
       "Canada": 30,

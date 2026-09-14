@@ -2,12 +2,12 @@
   "retraction_rate_data": {
     "country": "Ireland",
     "yearly_rates": {
+      "2025": 0.2155,
+      "2020": 0.4266,
       "2009": 0.1025,
       "2023": 1.1014,
       "2024": 0.4692,
-      "2020": 0.3657,
       "2015": 0.4236,
-      "2025": 0.1724,
       "2022": 0.4954,
       "2019": 0.5368,
       "2018": 0.2864,
@@ -51,15 +51,15 @@
       "1999": 0.312,
       "1998": 0.3152
     },
-    "average_rate": 0.421,
+    "average_rate": 0.4274,
     "yearly_retractions": {
+      "2025": 5,
+      "2020": 7,
       "2009": 1,
       "2023": 20,
       "2024": 9,
       "2026": 1,
-      "2020": 6,
       "2015": 5,
-      "2025": 4,
       "2022": 9,
       "2019": 8,
       "2018": 4,
@@ -81,9 +81,9 @@
       "1998": 1
     },
     "notice_yearly_retractions": {
+      "2026": 16,
       "2024": 6,
       "2025": 21,
-      "2026": 14,
       "2023": 17,
       "2021": 7,
       "2022": 7,
@@ -107,7 +107,7 @@
   },
   "domainwise_data": {
     "country": "Ireland",
-    "total_retractions": 132,
+    "total_retractions": 134,
     "years": {
       "2026": {
         "total": 1,
@@ -119,15 +119,16 @@
         }
       },
       "2025": {
-        "total": 4,
+        "total": 5,
         "marks": {
+          "research": 1,
           "researcher_integrity": 4
         },
         "domain": {
+          "B/T": 3,
+          "HSC": 9,
           "ENV": 1,
-          "HSC": 7,
           "PHY": 2,
-          "B/T": 2,
           "BLS": 1
         }
       },
@@ -196,17 +197,17 @@
         }
       },
       "2020": {
-        "total": 6,
+        "total": 7,
         "marks": {
+          "research": 2,
           "alterations": 2,
           "researcher_integrity": 2,
-          "system": 1,
-          "research": 1
+          "system": 1
         },
         "domain": {
+          "PHY": 4,
           "BLS": 4,
           "HSC": 5,
-          "PHY": 2,
           "B/T": 3,
           "SOC": 1
         }
@@ -445,19 +446,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 14,
+        "total": 16,
         "marks": {
+          "research": 4,
           "alterations": 2,
           "supplemental": 1,
-          "researcher_integrity": 9,
-          "research": 2
+          "researcher_integrity": 9
         },
         "domain": {
+          "B/T": 17,
+          "HSC": 9,
+          "PHY": 6,
           "BLS": 6,
-          "HSC": 7,
-          "B/T": 16,
-          "SOC": 1,
-          "PHY": 4
+          "SOC": 1
         }
       },
       "2025": {
@@ -727,25 +728,26 @@
       "United States": 17,
       "China": 16,
       "Pakistan": 11,
+      "India": 10,
       "France": 9,
-      "India": 9,
+      "Saudi Arabia": 7,
       "Australia": 6,
-      "Saudi Arabia": 6,
       "South Korea": 5,
       "Italy": 5,
       "Germany": 4,
+      "Vietnam": 3,
       "Spain": 3,
       "Canada": 3,
       "Turkey": 3,
       "Lebanon": 3,
       "Austria": 3,
       "Singapore": 3,
+      "Iran": 2,
       "Netherlands": 2,
       "South Africa": 2,
       "Malaysia": 2,
       "Poland": 2,
       "Denmark": 2,
-      "Vietnam": 2,
       "Iraq": 2,
       "Yemen": 2,
       "Jordan": 2,
@@ -766,7 +768,6 @@
       "Estonia": 1,
       "Japan": 1,
       "Mexico": 1,
-      "Iran": 1,
       "Colombia": 1,
       "Brazil": 1
     },
@@ -775,25 +776,26 @@
       "United States": 17,
       "China": 16,
       "Pakistan": 11,
+      "India": 10,
       "France": 9,
-      "India": 9,
+      "Saudi Arabia": 7,
       "Australia": 6,
-      "Saudi Arabia": 6,
       "South Korea": 5,
       "Italy": 5,
       "Germany": 4,
+      "Vietnam": 3,
       "Spain": 3,
       "Canada": 3,
       "Turkey": 3,
       "Lebanon": 3,
       "Austria": 3,
       "Singapore": 3,
+      "Iran": 2,
       "Netherlands": 2,
       "South Africa": 2,
       "Malaysia": 2,
       "Poland": 2,
       "Denmark": 2,
-      "Vietnam": 2,
       "Iraq": 2,
       "Yemen": 2,
       "Jordan": 2,
@@ -814,7 +816,6 @@
       "Estonia": 1,
       "Japan": 1,
       "Mexico": 1,
-      "Iran": 1,
       "Colombia": 1,
       "Brazil": 1
     }

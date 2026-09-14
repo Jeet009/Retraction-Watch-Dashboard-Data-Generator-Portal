@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Egypt",
     "yearly_rates": {
+      "2018": 2.6287,
       "2020": 4.0717,
       "2015": 2.3102,
       "2023": 2.6303,
@@ -13,7 +14,6 @@
       "2025": 0.3263,
       "2012": 2.7123,
       "2021": 4.9172,
-      "2018": 2.5818,
       "2017": 2.7222,
       "2013": 2.664,
       "2011": 2.3012,
@@ -54,8 +54,9 @@
       "2010": 0.5421,
       "1998": 0.3331
     },
-    "average_rate": 2.5923,
+    "average_rate": 2.5945,
     "yearly_retractions": {
+      "2018": 56,
       "2020": 127,
       "2015": 38,
       "2023": 107,
@@ -68,7 +69,6 @@
       "2025": 15,
       "2012": 35,
       "2021": 182,
-      "2018": 55,
       "2017": 51,
       "2013": 38,
       "2011": 25,
@@ -85,7 +85,7 @@
       "1997": 1
     },
     "notice_yearly_retractions": {
-      "2026": 113,
+      "2026": 114,
       "2005": 1,
       "2007": 3,
       "2025": 264,
@@ -113,7 +113,7 @@
   },
   "domainwise_data": {
     "country": "Egypt",
-    "total_retractions": 1202,
+    "total_retractions": 1203,
     "years": {
       "2026": {
         "total": 1,
@@ -252,19 +252,19 @@
         }
       },
       "2018": {
-        "total": 55,
+        "total": 56,
         "marks": {
+          "alterations": 19,
           "research": 28,
-          "alterations": 18,
           "researcher_integrity": 6,
           "system": 2,
           "supplemental": 1
         },
         "domain": {
-          "HSC": 63,
+          "BLS": 36,
+          "HSC": 65,
           "ENV": 2,
           "PHY": 19,
-          "BLS": 35,
           "B/T": 18,
           "HUM": 1
         }
@@ -516,16 +516,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 113,
+        "total": 114,
         "marks": {
-          "alterations": 49,
+          "alterations": 50,
           "researcher_integrity": 12,
           "research": 50,
           "system": 2
         },
         "domain": {
-          "HSC": 138,
-          "BLS": 47,
+          "BLS": 48,
+          "HSC": 140,
           "B/T": 19,
           "ENV": 11,
           "PHY": 78,
