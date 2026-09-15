@@ -5,13 +5,13 @@
     "notice_yearly_rates": {},
     "average_rate": 0.0,
     "yearly_retractions": {
+      "2020": 215,
       "2023": 230,
       "2021": 106,
       "2025": 7,
       "2024": 155,
       "2009": 8,
       "2022": 72,
-      "2020": 214,
       "2026": 1,
       "2019": 217,
       "2018": 261,
@@ -33,8 +33,8 @@
       "2006": 2
     },
     "notice_yearly_retractions": {
+      "2026": 20,
       "2025": 391,
-      "2026": 19,
       "2023": 88,
       "2024": 60,
       "2022": 88,
@@ -57,7 +57,7 @@
   },
   "domainwise_data": {
     "country": "Russia",
-    "total_retractions": 3122,
+    "total_retractions": 3123,
     "years": {
       "2026": {
         "total": 1,
@@ -157,20 +157,20 @@
         }
       },
       "2020": {
-        "total": 214,
+        "total": 215,
         "marks": {
-          "system": 24,
+          "system": 25,
           "research": 72,
           "alterations": 92,
           "researcher_integrity": 21,
           "supplemental": 5
         },
         "domain": {
+          "PHY": 38,
           "ENV": 10,
           "HSC": 39,
           "B/T": 174,
           "BLS": 38,
-          "PHY": 37,
           "SOC": 149,
           "HUM": 20
         }
@@ -437,16 +437,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 19,
+        "total": 20,
         "marks": {
+          "system": 3,
           "alterations": 8,
           "researcher_integrity": 6,
-          "system": 2,
           "research": 3
         },
         "domain": {
+          "PHY": 27,
           "ENV": 5,
-          "PHY": 26,
           "BLS": 3,
           "HSC": 5,
           "B/T": 5,
@@ -744,7 +744,7 @@
       "Kazakhstan": 61,
       "Saudi Arabia": 49,
       "India": 49,
-      "Iran": 43,
+      "Iran": 44,
       "Pakistan": 33,
       "United States": 32,
       "Egypt": 30,
@@ -757,11 +757,11 @@
       "United Arab Emirates": 15,
       "Uzbekistan": 15,
       "Indonesia": 13,
+      "Vietnam": 12,
       "Malaysia": 12,
       "Azerbaijan": 12,
       "Spain": 12,
       "Australia": 11,
-      "Vietnam": 11,
       "Italy": 10,
       "South Korea": 9,
       "Sweden": 8,
@@ -828,7 +828,7 @@
       "Kazakhstan": 61,
       "Saudi Arabia": 49,
       "India": 49,
-      "Iran": 43,
+      "Iran": 44,
       "Pakistan": 33,
       "United States": 32,
       "Egypt": 30,
@@ -841,11 +841,11 @@
       "United Arab Emirates": 15,
       "Uzbekistan": 15,
       "Indonesia": 13,
+      "Vietnam": 12,
       "Malaysia": 12,
       "Azerbaijan": 12,
       "Spain": 12,
       "Australia": 11,
-      "Vietnam": 11,
       "Italy": 10,
       "South Korea": 9,
       "Sweden": 8,

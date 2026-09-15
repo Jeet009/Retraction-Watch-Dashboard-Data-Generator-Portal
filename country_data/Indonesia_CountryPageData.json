@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Indonesia",
     "yearly_rates": {
+      "2025": 0.1043,
       "2023": 0.4206,
-      "2025": 0.0894,
       "2022": 0.7921,
       "2021": 0.7493,
       "2024": 0.3208,
@@ -41,10 +41,10 @@
       "2009": 0.4897,
       "2004": 3.0675
     },
-    "average_rate": 0.5141,
+    "average_rate": 0.5161,
     "yearly_retractions": {
+      "2025": 7,
       "2023": 25,
-      "2025": 6,
       "2022": 36,
       "2021": 40,
       "2024": 20,
@@ -64,8 +64,8 @@
       "1998": 1
     },
     "notice_yearly_retractions": {
+      "2026": 12,
       "2025": 48,
-      "2026": 11,
       "2024": 30,
       "2023": 32,
       "2022": 17,
@@ -86,23 +86,23 @@
   },
   "domainwise_data": {
     "country": "Indonesia",
-    "total_retractions": 258,
+    "total_retractions": 259,
     "years": {
       "2025": {
-        "total": 6,
+        "total": 7,
         "marks": {
-          "alterations": 2,
+          "alterations": 3,
           "researcher_integrity": 1,
           "research": 2,
           "system": 1
         },
         "domain": {
+          "ENV": 3,
+          "PHY": 5,
           "B/T": 4,
           "SOC": 3,
           "HSC": 3,
           "BLS": 1,
-          "PHY": 3,
-          "ENV": 2,
           "HUM": 1
         }
       },
@@ -354,19 +354,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 11,
+        "total": 12,
         "marks": {
-          "alterations": 5,
+          "alterations": 6,
           "researcher_integrity": 2,
           "supplemental": 1,
           "research": 3
         },
         "domain": {
+          "ENV": 3,
+          "PHY": 10,
           "B/T": 6,
           "SOC": 1,
-          "PHY": 8,
           "BLS": 5,
-          "ENV": 2,
           "HSC": 7
         }
       },
@@ -616,7 +616,7 @@
     "collaborations": {
       "Saudi Arabia": 35,
       "India": 34,
-      "Malaysia": 27,
+      "Malaysia": 28,
       "Iraq": 23,
       "Pakistan": 20,
       "Iran": 19,
@@ -682,7 +682,7 @@
     "notice_collaborations": {
       "Saudi Arabia": 35,
       "India": 34,
-      "Malaysia": 27,
+      "Malaysia": 28,
       "Iraq": 23,
       "Pakistan": 20,
       "Iran": 19,

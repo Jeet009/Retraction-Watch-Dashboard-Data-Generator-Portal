@@ -5,9 +5,9 @@
     "notice_yearly_rates": {},
     "average_rate": 0.0,
     "yearly_retractions": {
-      "2020": 57,
+      "2023": 36,
+      "2020": 58,
       "2022": 62,
-      "2023": 35,
       "2019": 29,
       "2024": 21,
       "2025": 1,
@@ -23,7 +23,7 @@
       "2015": 2
     },
     "notice_yearly_retractions": {
-      "2026": 31,
+      "2026": 33,
       "2025": 74,
       "2024": 57,
       "2022": 19,
@@ -44,7 +44,7 @@
   },
   "domainwise_data": {
     "country": "Vietnam",
-    "total_retractions": 275,
+    "total_retractions": 277,
     "years": {
       "2025": {
         "total": 1,
@@ -75,18 +75,18 @@
         }
       },
       "2023": {
-        "total": 35,
+        "total": 36,
         "marks": {
+          "alterations": 7,
           "research": 19,
           "researcher_integrity": 9,
-          "alterations": 6,
           "supplemental": 1
         },
         "domain": {
+          "B/T": 34,
+          "HSC": 16,
           "PHY": 21,
-          "HSC": 15,
           "BLS": 18,
-          "B/T": 33,
           "ENV": 15,
           "SOC": 6
         }
@@ -128,15 +128,15 @@
         }
       },
       "2020": {
-        "total": 57,
+        "total": 58,
         "marks": {
-          "system": 2,
+          "system": 3,
           "research": 10,
           "researcher_integrity": 33,
           "alterations": 12
         },
         "domain": {
-          "PHY": 74,
+          "PHY": 75,
           "BLS": 15,
           "ENV": 6,
           "B/T": 31,
@@ -266,20 +266,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 31,
+        "total": 33,
         "marks": {
-          "system": 2,
+          "alterations": 5,
+          "system": 3,
           "research": 9,
           "researcher_integrity": 15,
-          "supplemental": 1,
-          "alterations": 4
+          "supplemental": 1
         },
         "domain": {
-          "PHY": 25,
+          "B/T": 17,
+          "HSC": 19,
+          "PHY": 26,
           "BLS": 18,
-          "ENV": 10,
-          "B/T": 16,
-          "HSC": 18
+          "ENV": 10
         }
       },
       "2025": {
@@ -495,9 +495,9 @@
     },
     "collaborations": {
       "China": 69,
-      "India": 67,
+      "India": 68,
       "Saudi Arabia": 49,
-      "Iran": 47,
+      "Iran": 48,
       "Taiwan": 26,
       "South Korea": 26,
       "Malaysia": 23,
@@ -505,11 +505,11 @@
       "Pakistan": 17,
       "Iraq": 16,
       "Thailand": 14,
+      "Russia": 12,
       "Turkey": 12,
       "Australia": 12,
       "France": 12,
       "Mexico": 11,
-      "Russia": 11,
       "Serbia": 10,
       "Germany": 10,
       "Egypt": 8,
@@ -565,9 +565,9 @@
     },
     "notice_collaborations": {
       "China": 69,
-      "India": 67,
+      "India": 68,
       "Saudi Arabia": 49,
-      "Iran": 47,
+      "Iran": 48,
       "Taiwan": 26,
       "South Korea": 26,
       "Malaysia": 23,
@@ -575,11 +575,11 @@
       "Pakistan": 17,
       "Iraq": 16,
       "Thailand": 14,
+      "Russia": 12,
       "Turkey": 12,
       "Australia": 12,
       "France": 12,
       "Mexico": 11,
-      "Russia": 11,
       "Serbia": 10,
       "Germany": 10,
       "Egypt": 8,

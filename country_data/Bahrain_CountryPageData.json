@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Bahrain",
     "yearly_rates": {
+      "2025": 0.3766,
       "2023": 2.0931,
       "2024": 0.997,
       "2021": 9.0719,
@@ -30,8 +31,9 @@
       "2015": 2.7473,
       "2009": 3.4014
     },
-    "average_rate": 2.8272,
+    "average_rate": 2.8826,
     "yearly_retractions": {
+      "2025": 1,
       "2023": 4,
       "2024": 2,
       "2021": 13,
@@ -48,6 +50,7 @@
       "2010": 2
     },
     "notice_yearly_retractions": {
+      "2026": 1,
       "2025": 3,
       "2024": 18,
       "2023": 8,
@@ -63,8 +66,18 @@
   },
   "domainwise_data": {
     "country": "Bahrain",
-    "total_retractions": 51,
+    "total_retractions": 52,
     "years": {
+      "2025": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "HSC": 2
+        }
+      },
       "2024": {
         "total": 2,
         "marks": {
@@ -219,6 +232,16 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "HSC": 2
+        }
+      },
       "2025": {
         "total": 3,
         "marks": {
@@ -340,10 +363,10 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 18,
+      "Saudi Arabia": 19,
       "Iran": 9,
+      "India": 7,
       "Jordan": 7,
-      "India": 6,
       "China": 6,
       "United Kingdom": 5,
       "Germany": 5,
@@ -352,6 +375,7 @@
       "United States": 3,
       "Turkey": 3,
       "Switzerland": 3,
+      "Ethiopia": 2,
       "Malaysia": 2,
       "Poland": 2,
       "Egypt": 2,
@@ -361,17 +385,16 @@
       "Peru": 1,
       "Iraq": 1,
       "Norway": 1,
-      "Ethiopia": 1,
       "Ghana": 1,
       "Malta": 1,
       "Netherlands": 1,
       "Nigeria": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 18,
+      "Saudi Arabia": 19,
       "Iran": 9,
+      "India": 7,
       "Jordan": 7,
-      "India": 6,
       "China": 6,
       "United Kingdom": 5,
       "Germany": 5,
@@ -380,6 +403,7 @@
       "United States": 3,
       "Turkey": 3,
       "Switzerland": 3,
+      "Ethiopia": 2,
       "Malaysia": 2,
       "Poland": 2,
       "Egypt": 2,
@@ -389,7 +413,6 @@
       "Peru": 1,
       "Iraq": 1,
       "Norway": 1,
-      "Ethiopia": 1,
       "Ghana": 1,
       "Malta": 1,
       "Netherlands": 1,

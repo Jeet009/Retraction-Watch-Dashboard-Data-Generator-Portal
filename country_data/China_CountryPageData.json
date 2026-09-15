@@ -2,15 +2,15 @@
   "retraction_rate_data": {
     "country": "China",
     "yearly_rates": {
-      "2025": 0.193,
-      "2024": 0.9576,
+      "2022": 8.5498,
+      "2025": 0.1981,
+      "2024": 0.961,
       "2023": 1.5895,
-      "2022": 8.5488,
       "2021": 5.4985,
       "2014": 1.3782,
       "2018": 2.562,
       "2017": 2.049,
-      "2016": 1.3433,
+      "2016": 1.3453,
       "2013": 1.5052,
       "2020": 2.9804,
       "2004": 0.249,
@@ -61,18 +61,18 @@
       "1999": 0.0692,
       "2000": 0.0195
     },
-    "average_rate": 2.8464,
+    "average_rate": 2.8474,
     "yearly_retractions": {
-      "2025": 261,
-      "2024": 1140,
+      "2022": 8712,
+      "2025": 268,
+      "2024": 1144,
       "2023": 1667,
-      "2022": 8711,
       "2021": 4848,
       "2014": 660,
       "2018": 1523,
       "2017": 1097,
       "2026": 8,
-      "2016": 660,
+      "2016": 661,
       "2013": 674,
       "2020": 2355,
       "2004": 29,
@@ -97,7 +97,7 @@
       "1995": 1
     },
     "notice_yearly_retractions": {
-      "2026": 734,
+      "2026": 747,
       "2024": 3724,
       "2022": 3111,
       "2004": 12,
@@ -130,7 +130,7 @@
   },
   "domainwise_data": {
     "country": "China",
-    "total_retractions": 36483,
+    "total_retractions": 36496,
     "years": {
       "2026": {
         "total": 8,
@@ -148,28 +148,28 @@
         }
       },
       "2025": {
-        "total": 261,
+        "total": 268,
         "marks": {
-          "research": 96,
-          "alterations": 37,
+          "research": 101,
+          "alterations": 39,
           "researcher_integrity": 82,
           "system": 36,
           "supplemental": 10
         },
         "domain": {
           "B/T": 199,
-          "PHY": 64,
+          "PHY": 66,
           "SOC": 100,
-          "HSC": 161,
+          "HSC": 171,
           "ENV": 23,
-          "BLS": 219,
+          "BLS": 231,
           "HUM": 21
         }
       },
       "2024": {
-        "total": 1140,
+        "total": 1144,
         "marks": {
-          "research": 462,
+          "research": 466,
           "alterations": 240,
           "supplemental": 246,
           "researcher_integrity": 159,
@@ -179,8 +179,8 @@
           "B/T": 1192,
           "PHY": 368,
           "SOC": 240,
-          "BLS": 582,
-          "HSC": 763,
+          "BLS": 592,
+          "HSC": 765,
           "ENV": 190,
           "HUM": 27
         }
@@ -205,19 +205,19 @@
         }
       },
       "2022": {
-        "total": 8711,
+        "total": 8712,
         "marks": {
+          "research": 2761,
           "alterations": 4720,
           "researcher_integrity": 662,
-          "research": 2760,
           "system": 145,
           "supplemental": 424
         },
         "domain": {
-          "B/T": 9001,
+          "B/T": 9003,
+          "PHY": 1833,
           "ENV": 639,
           "BLS": 3463,
-          "PHY": 1832,
           "HSC": 8396,
           "SOC": 3403,
           "HUM": 709
@@ -319,17 +319,17 @@
         }
       },
       "2016": {
-        "total": 660,
+        "total": 661,
         "marks": {
-          "alterations": 412,
+          "alterations": 413,
           "researcher_integrity": 52,
           "research": 137,
           "supplemental": 40,
           "system": 19
         },
         "domain": {
-          "BLS": 1295,
-          "HSC": 461,
+          "BLS": 1296,
+          "HSC": 462,
           "B/T": 76,
           "ENV": 21,
           "PHY": 206,
@@ -673,21 +673,21 @@
     },
     "notice_years": {
       "2026": {
-        "total": 734,
+        "total": 747,
         "marks": {
-          "research": 355,
-          "alterations": 119,
+          "research": 365,
+          "alterations": 122,
           "researcher_integrity": 105,
           "system": 20,
           "supplemental": 135
         },
         "domain": {
-          "B/T": 594,
-          "PHY": 246,
+          "B/T": 596,
+          "PHY": 249,
           "SOC": 179,
-          "HSC": 347,
+          "HSC": 360,
           "ENV": 100,
-          "BLS": 627,
+          "BLS": 650,
           "HUM": 28
         }
       },
@@ -1169,7 +1169,7 @@
       }
     },
     "collaborations": {
-      "United States": 828,
+      "United States": 829,
       "Pakistan": 575,
       "Saudi Arabia": 409,
       "South Korea": 320,
@@ -1291,7 +1291,7 @@
       "Cuba": 1
     },
     "notice_collaborations": {
-      "United States": 828,
+      "United States": 829,
       "Pakistan": 575,
       "Saudi Arabia": 409,
       "South Korea": 320,
