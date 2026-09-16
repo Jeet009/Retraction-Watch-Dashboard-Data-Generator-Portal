@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Norway",
     "yearly_rates": {
-      "2023": 0.7574,
-      "2024": 0.3165,
+      "2024": 0.3517,
+      "2023": 0.7935,
       "2016": 0.2493,
       "2022": 0.7722,
       "2025": 0.095,
@@ -53,10 +53,10 @@
       "2003": 0.131,
       "2014": 0.1104
     },
-    "average_rate": 0.3493,
+    "average_rate": 0.3535,
     "yearly_retractions": {
-      "2023": 21,
-      "2024": 9,
+      "2024": 10,
+      "2023": 22,
       "2016": 5,
       "2022": 21,
       "2025": 3,
@@ -84,7 +84,7 @@
       "2003": 3
     },
     "notice_yearly_retractions": {
-      "2026": 6,
+      "2026": 8,
       "2025": 20,
       "2023": 33,
       "2024": 16,
@@ -112,7 +112,7 @@
   },
   "domainwise_data": {
     "country": "Norway",
-    "total_retractions": 167,
+    "total_retractions": 169,
     "years": {
       "2025": {
         "total": 3,
@@ -127,33 +127,33 @@
         }
       },
       "2024": {
-        "total": 9,
+        "total": 10,
         "marks": {
+          "research": 5,
           "researcher_integrity": 1,
           "alterations": 3,
-          "supplemental": 1,
-          "research": 4
+          "supplemental": 1
         },
         "domain": {
+          "B/T": 10,
           "HSC": 4,
           "SOC": 2,
           "BLS": 4,
           "PHY": 4,
-          "B/T": 8,
           "ENV": 2
         }
       },
       "2023": {
-        "total": 21,
+        "total": 22,
         "marks": {
-          "research": 11,
+          "research": 12,
           "alterations": 1,
           "researcher_integrity": 1,
           "system": 8
         },
         "domain": {
-          "HSC": 20,
-          "B/T": 13,
+          "B/T": 15,
+          "HSC": 21,
           "PHY": 5,
           "ENV": 5,
           "BLS": 6,
@@ -469,16 +469,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 6,
+        "total": 8,
         "marks": {
-          "research": 4,
+          "research": 6,
           "researcher_integrity": 1,
           "supplemental": 1
         },
         "domain": {
-          "HSC": 7,
+          "B/T": 7,
+          "HSC": 8,
           "SOC": 2,
-          "B/T": 3,
           "BLS": 1
         }
       },
@@ -789,25 +789,25 @@
       "China": 29,
       "United States": 28,
       "India": 25,
+      "Pakistan": 18,
       "United Kingdom": 17,
-      "Pakistan": 16,
       "Saudi Arabia": 16,
+      "South Korea": 12,
       "Germany": 11,
       "Iran": 10,
-      "South Korea": 10,
       "Sweden": 10,
       "Denmark": 9,
       "Finland": 9,
+      "Lebanon": 6,
       "Taiwan": 6,
       "Canada": 6,
       "Netherlands": 6,
+      "United Arab Emirates": 5,
       "France": 5,
       "Spain": 5,
       "Poland": 5,
       "Malaysia": 4,
       "Russia": 4,
-      "Lebanon": 4,
-      "United Arab Emirates": 4,
       "Yemen": 4,
       "Brunei (Brunei Darussalam)": 4,
       "Ethiopia": 4,
@@ -816,6 +816,7 @@
       "Oman": 3,
       "Iraq": 3,
       "Switzerland": 3,
+      "Jordan": 2,
       "Tanzania": 2,
       "Croatia": 2,
       "Egypt": 2,
@@ -836,7 +837,6 @@
       "Turkey": 1,
       "Morocco": 1,
       "Albania": 1,
-      "Jordan": 1,
       "Kosovo": 1,
       "Thailand": 1,
       "Bahrain": 1,
@@ -856,25 +856,25 @@
       "China": 29,
       "United States": 28,
       "India": 25,
+      "Pakistan": 18,
       "United Kingdom": 17,
-      "Pakistan": 16,
       "Saudi Arabia": 16,
+      "South Korea": 12,
       "Germany": 11,
       "Iran": 10,
-      "South Korea": 10,
       "Sweden": 10,
       "Denmark": 9,
       "Finland": 9,
+      "Lebanon": 6,
       "Taiwan": 6,
       "Canada": 6,
       "Netherlands": 6,
+      "United Arab Emirates": 5,
       "France": 5,
       "Spain": 5,
       "Poland": 5,
       "Malaysia": 4,
       "Russia": 4,
-      "Lebanon": 4,
-      "United Arab Emirates": 4,
       "Yemen": 4,
       "Brunei (Brunei Darussalam)": 4,
       "Ethiopia": 4,
@@ -883,6 +883,7 @@
       "Oman": 3,
       "Iraq": 3,
       "Switzerland": 3,
+      "Jordan": 2,
       "Tanzania": 2,
       "Croatia": 2,
       "Egypt": 2,
@@ -903,7 +904,6 @@
       "Turkey": 1,
       "Morocco": 1,
       "Albania": 1,
-      "Jordan": 1,
       "Kosovo": 1,
       "Thailand": 1,
       "Bahrain": 1,

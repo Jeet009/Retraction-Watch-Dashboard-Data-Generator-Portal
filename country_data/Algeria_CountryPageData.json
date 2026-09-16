@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Algeria",
     "yearly_rates": {
+      "2019": 0.6202,
       "2014": 1.9109,
       "2021": 0.7229,
       "2024": 0.3926,
@@ -13,7 +14,6 @@
       "2020": 0.6046,
       "2013": 1.0235,
       "2017": 0.5468,
-      "2019": 0.4962,
       "2005": 0.7634,
       "2015": 0.8486,
       "2016": 0.4528,
@@ -24,11 +24,11 @@
       "2007": 0.489
     },
     "notice_yearly_rates": {
+      "2025": 0.7118,
       "2017": 0.9569,
       "2022": 0.5608,
       "2021": 0.3098,
       "2024": 0.7067,
-      "2025": 0.6406,
       "2012": 0.9361,
       "2023": 0.6517,
       "2015": 2.0367,
@@ -42,9 +42,10 @@
       "2009": 0.3187,
       "2010": 0.3165
     },
-    "average_rate": 0.7228,
+    "average_rate": 0.73,
     "yearly_retractions": {
       "2026": 1,
+      "2019": 5,
       "2014": 10,
       "2021": 7,
       "2024": 5,
@@ -56,7 +57,6 @@
       "2020": 5,
       "2013": 5,
       "2017": 4,
-      "2019": 4,
       "2005": 1,
       "2015": 5,
       "2016": 3,
@@ -68,11 +68,11 @@
     },
     "notice_yearly_retractions": {
       "2026": 6,
+      "2025": 10,
       "2017": 7,
       "2022": 6,
       "2021": 3,
       "2024": 9,
-      "2025": 9,
       "2012": 4,
       "2023": 7,
       "2015": 12,
@@ -89,7 +89,7 @@
   },
   "domainwise_data": {
     "country": "Algeria",
-    "total_retractions": 102,
+    "total_retractions": 103,
     "years": {
       "2026": {
         "total": 1,
@@ -182,14 +182,15 @@
         }
       },
       "2019": {
-        "total": 4,
+        "total": 5,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 1,
           "research": 1,
           "supplemental": 2
         },
         "domain": {
-          "BLS": 1,
+          "BLS": 2,
           "PHY": 3,
           "HSC": 2
         }
@@ -366,14 +367,14 @@
         }
       },
       "2025": {
-        "total": 9,
+        "total": 10,
         "marks": {
+          "researcher_integrity": 4,
           "research": 1,
-          "alterations": 5,
-          "researcher_integrity": 3
+          "alterations": 5
         },
         "domain": {
-          "BLS": 2,
+          "BLS": 3,
           "ENV": 1,
           "PHY": 13,
           "B/T": 13,
@@ -581,7 +582,7 @@
       }
     },
     "collaborations": {
-      "France": 15,
+      "France": 16,
       "Saudi Arabia": 13,
       "India": 7,
       "China": 6,
@@ -642,7 +643,7 @@
       "Turkey": 1
     },
     "notice_collaborations": {
-      "France": 15,
+      "France": 16,
       "Saudi Arabia": 13,
       "India": 7,
       "China": 6,

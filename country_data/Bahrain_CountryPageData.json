@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Bahrain",
     "yearly_rates": {
-      "2025": 0.3766,
+      "2025": 0.7533,
       "2023": 2.0931,
       "2024": 0.997,
       "2021": 9.0719,
@@ -31,9 +31,9 @@
       "2015": 2.7473,
       "2009": 3.4014
     },
-    "average_rate": 2.8826,
+    "average_rate": 2.9381,
     "yearly_retractions": {
-      "2025": 1,
+      "2025": 2,
       "2023": 4,
       "2024": 2,
       "2021": 13,
@@ -50,7 +50,7 @@
       "2010": 2
     },
     "notice_yearly_retractions": {
-      "2026": 1,
+      "2026": 2,
       "2025": 3,
       "2024": 18,
       "2023": 8,
@@ -66,15 +66,16 @@
   },
   "domainwise_data": {
     "country": "Bahrain",
-    "total_retractions": 52,
+    "total_retractions": 53,
     "years": {
       "2025": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 1
         },
         "domain": {
-          "B/T": 1,
+          "B/T": 3,
           "HSC": 2
         }
       },
@@ -233,12 +234,13 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 1
         },
         "domain": {
-          "B/T": 1,
+          "B/T": 3,
           "HSC": 2
         }
       },
@@ -363,7 +365,7 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 19,
+      "Saudi Arabia": 20,
       "Iran": 9,
       "India": 7,
       "Jordan": 7,
@@ -372,6 +374,7 @@
       "Germany": 5,
       "Brazil": 5,
       "Lebanon": 4,
+      "Pakistan": 3,
       "United States": 3,
       "Turkey": 3,
       "Switzerland": 3,
@@ -379,7 +382,8 @@
       "Malaysia": 2,
       "Poland": 2,
       "Egypt": 2,
-      "Pakistan": 2,
+      "Kuwait": 1,
+      "Vietnam": 1,
       "Israel": 1,
       "Mexico": 1,
       "Peru": 1,
@@ -391,7 +395,7 @@
       "Nigeria": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 19,
+      "Saudi Arabia": 20,
       "Iran": 9,
       "India": 7,
       "Jordan": 7,
@@ -400,6 +404,7 @@
       "Germany": 5,
       "Brazil": 5,
       "Lebanon": 4,
+      "Pakistan": 3,
       "United States": 3,
       "Turkey": 3,
       "Switzerland": 3,
@@ -407,7 +412,8 @@
       "Malaysia": 2,
       "Poland": 2,
       "Egypt": 2,
-      "Pakistan": 2,
+      "Kuwait": 1,
+      "Vietnam": 1,
       "Israel": 1,
       "Mexico": 1,
       "Peru": 1,
