@@ -5,12 +5,12 @@
     "notice_yearly_rates": {},
     "average_rate": 0.0,
     "yearly_retractions": {
+      "2024": 22,
       "2025": 2,
       "2023": 36,
       "2020": 58,
       "2022": 62,
       "2019": 29,
-      "2024": 21,
       "2021": 46,
       "2017": 4,
       "2013": 2,
@@ -23,7 +23,7 @@
       "2015": 2
     },
     "notice_yearly_retractions": {
-      "2026": 34,
+      "2026": 35,
       "2025": 74,
       "2024": 57,
       "2022": 19,
@@ -44,7 +44,7 @@
   },
   "domainwise_data": {
     "country": "Vietnam",
-    "total_retractions": 278,
+    "total_retractions": 279,
     "years": {
       "2025": {
         "total": 2,
@@ -58,20 +58,20 @@
         }
       },
       "2024": {
-        "total": 21,
+        "total": 22,
         "marks": {
+          "alterations": 8,
           "researcher_integrity": 8,
-          "alterations": 7,
           "research": 4,
           "system": 1,
           "supplemental": 1
         },
         "domain": {
+          "BLS": 13,
+          "ENV": 7,
+          "SOC": 5,
           "HSC": 9,
           "PHY": 9,
-          "BLS": 12,
-          "ENV": 6,
-          "SOC": 4,
           "B/T": 16
         }
       },
@@ -267,20 +267,21 @@
     },
     "notice_years": {
       "2026": {
-        "total": 34,
+        "total": 35,
         "marks": {
+          "alterations": 6,
           "researcher_integrity": 16,
-          "alterations": 5,
           "system": 3,
           "research": 9,
           "supplemental": 1
         },
         "domain": {
+          "BLS": 19,
+          "ENV": 11,
+          "SOC": 1,
           "B/T": 19,
           "HSC": 19,
-          "PHY": 26,
-          "BLS": 18,
-          "ENV": 10
+          "PHY": 26
         }
       },
       "2025": {

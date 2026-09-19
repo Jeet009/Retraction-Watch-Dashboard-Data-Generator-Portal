@@ -4,7 +4,7 @@
     "yearly_rates": {
       "2024": 0.1482,
       "2023": 0.3153,
-      "2025": 0.0761,
+      "2025": 0.0951,
       "2022": 0.3759,
       "2021": 0.3493,
       "2020": 0.5103,
@@ -34,7 +34,7 @@
       "1998": 0.0546
     },
     "notice_yearly_rates": {
-      "2025": 0.3423,
+      "2025": 0.3613,
       "2024": 0.6353,
       "2023": 0.3603,
       "2022": 0.2875,
@@ -62,11 +62,11 @@
       "2003": 0.0477,
       "1999": 0.0532
     },
-    "average_rate": 0.2967,
+    "average_rate": 0.2978,
     "yearly_retractions": {
       "2024": 7,
       "2023": 14,
-      "2025": 4,
+      "2025": 5,
       "2022": 17,
       "2021": 16,
       "2020": 22,
@@ -99,7 +99,7 @@
     },
     "notice_yearly_retractions": {
       "2026": 13,
-      "2025": 18,
+      "2025": 19,
       "2024": 30,
       "2023": 16,
       "2022": 13,
@@ -131,16 +131,17 @@
   },
   "domainwise_data": {
     "country": "Sweden",
-    "total_retractions": 278,
+    "total_retractions": 279,
     "years": {
       "2025": {
-        "total": 4,
+        "total": 5,
         "marks": {
+          "alterations": 1,
           "research": 3,
           "researcher_integrity": 1
         },
         "domain": {
-          "BLS": 7,
+          "BLS": 10,
           "HSC": 2,
           "HUM": 1,
           "PHY": 1,
@@ -593,15 +594,15 @@
         }
       },
       "2025": {
-        "total": 18,
+        "total": 19,
         "marks": {
+          "alterations": 8,
           "research": 5,
-          "alterations": 7,
           "researcher_integrity": 5,
           "system": 1
         },
         "domain": {
-          "BLS": 27,
+          "BLS": 30,
           "HSC": 17,
           "PHY": 14,
           "ENV": 2,
@@ -984,7 +985,7 @@
     },
     "collaborations": {
       "United States": 54,
-      "China": 43,
+      "China": 44,
       "United Kingdom": 34,
       "Germany": 25,
       "India": 18,
@@ -1048,7 +1049,7 @@
     },
     "notice_collaborations": {
       "United States": 54,
-      "China": 43,
+      "China": 44,
       "United Kingdom": 34,
       "Germany": 25,
       "India": 18,

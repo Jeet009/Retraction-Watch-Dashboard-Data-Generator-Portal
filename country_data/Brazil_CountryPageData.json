@@ -2,10 +2,10 @@
   "retraction_rate_data": {
     "country": "Brazil",
     "yearly_rates": {
+      "2023": 0.3125,
       "2024": 0.0806,
       "2021": 0.362,
       "2010": 0.2879,
-      "2023": 0.3005,
       "2022": 0.4619,
       "2025": 0.0505,
       "2018": 0.2241,
@@ -32,8 +32,8 @@
       "1997": 0.2659
     },
     "notice_yearly_rates": {
+      "2025": 0.3131,
       "2024": 0.7947,
-      "2025": 0.303,
       "2023": 0.3005,
       "2019": 0.1984,
       "2022": 0.2929,
@@ -56,13 +56,13 @@
       "2006": 0.0603,
       "2000": 0.0654
     },
-    "average_rate": 0.2718,
+    "average_rate": 0.2724,
     "yearly_retractions": {
+      "2023": 26,
       "2026": 1,
       "2024": 7,
       "2021": 35,
       "2010": 14,
-      "2023": 25,
       "2022": 41,
       "2025": 5,
       "2018": 18,
@@ -89,9 +89,9 @@
       "1997": 3
     },
     "notice_yearly_retractions": {
+      "2025": 31,
       "2026": 7,
       "2024": 69,
-      "2025": 30,
       "2023": 25,
       "2019": 17,
       "2022": 26,
@@ -117,7 +117,7 @@
   },
   "domainwise_data": {
     "country": "Brazil",
-    "total_retractions": 418,
+    "total_retractions": 419,
     "years": {
       "2026": {
         "total": 1,
@@ -157,18 +157,18 @@
         }
       },
       "2023": {
-        "total": 25,
+        "total": 26,
         "marks": {
+          "researcher_integrity": 4,
           "system": 1,
           "research": 16,
           "alterations": 3,
-          "researcher_integrity": 3,
           "supplemental": 2
         },
         "domain": {
+          "HSC": 13,
           "B/T": 8,
           "SOC": 4,
-          "HSC": 11,
           "BLS": 35,
           "ENV": 14,
           "PHY": 8
@@ -559,18 +559,18 @@
         }
       },
       "2025": {
-        "total": 30,
+        "total": 31,
         "marks": {
+          "researcher_integrity": 10,
           "system": 1,
           "alterations": 8,
           "supplemental": 1,
-          "researcher_integrity": 9,
           "research": 11
         },
         "domain": {
+          "HSC": 31,
           "B/T": 2,
           "SOC": 4,
-          "HSC": 29,
           "BLS": 28,
           "ENV": 11,
           "PHY": 6
@@ -920,11 +920,11 @@
       "France": 9,
       "Egypt": 8,
       "Switzerland": 8,
+      "Argentina": 6,
       "Australia": 6,
       "Pakistan": 6,
       "Portugal": 5,
       "Iraq": 5,
-      "Argentina": 5,
       "Bahrain": 5,
       "Greece": 3,
       "Poland": 3,
@@ -983,11 +983,11 @@
       "France": 9,
       "Egypt": 8,
       "Switzerland": 8,
+      "Argentina": 6,
       "Australia": 6,
       "Pakistan": 6,
       "Portugal": 5,
       "Iraq": 5,
-      "Argentina": 5,
       "Bahrain": 5,
       "Greece": 3,
       "Poland": 3,

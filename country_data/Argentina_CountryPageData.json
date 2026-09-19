@@ -2,9 +2,9 @@
   "retraction_rate_data": {
     "country": "Argentina",
     "yearly_rates": {
+      "2023": 0.3283,
       "2018": 0.2815,
       "2013": 0.5237,
-      "2023": 0.2626,
       "2025": 0.0566,
       "2015": 0.2409,
       "2024": 0.0629,
@@ -25,7 +25,7 @@
       "2010": 0.1977
     },
     "notice_yearly_rates": {
-      "2025": 0.2832,
+      "2025": 0.3399,
       "2024": 0.503,
       "2023": 0.5909,
       "2020": 0.4243,
@@ -45,11 +45,11 @@
       "2006": 0.2629,
       "2003": 0.1633
     },
-    "average_rate": 0.2191,
+    "average_rate": 0.2223,
     "yearly_retractions": {
+      "2023": 5,
       "2018": 4,
       "2013": 6,
-      "2023": 4,
       "2025": 1,
       "2015": 3,
       "2024": 1,
@@ -72,7 +72,7 @@
       "1987": 1
     },
     "notice_yearly_retractions": {
-      "2025": 5,
+      "2025": 6,
       "2026": 2,
       "2024": 8,
       "2023": 9,
@@ -97,7 +97,7 @@
   },
   "domainwise_data": {
     "country": "Argentina",
-    "total_retractions": 70,
+    "total_retractions": 71,
     "years": {
       "2025": {
         "total": 1,
@@ -121,14 +121,14 @@
         }
       },
       "2023": {
-        "total": 4,
+        "total": 5,
         "marks": {
-          "researcher_integrity": 1,
+          "researcher_integrity": 2,
           "alterations": 2,
           "research": 1
         },
         "domain": {
-          "HSC": 7,
+          "HSC": 9,
           "BLS": 1,
           "PHY": 4,
           "ENV": 1,
@@ -385,15 +385,15 @@
         }
       },
       "2025": {
-        "total": 5,
+        "total": 6,
         "marks": {
+          "researcher_integrity": 3,
           "alterations": 2,
-          "researcher_integrity": 2,
           "research": 1
         },
         "domain": {
+          "HSC": 12,
           "BLS": 6,
-          "HSC": 10,
           "PHY": 2,
           "SOC": 1
         }
@@ -617,9 +617,9 @@
     },
     "collaborations": {
       "United States": 10,
+      "Brazil": 6,
       "United Kingdom": 6,
       "Saudi Arabia": 5,
-      "Brazil": 5,
       "Spain": 5,
       "Chile": 5,
       "China": 5,
@@ -652,9 +652,9 @@
     },
     "notice_collaborations": {
       "United States": 10,
+      "Brazil": 6,
       "United Kingdom": 6,
       "Saudi Arabia": 5,
-      "Brazil": 5,
       "Spain": 5,
       "Chile": 5,
       "China": 5,
