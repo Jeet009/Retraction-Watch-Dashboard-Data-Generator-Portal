@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Australia",
     "yearly_rates": {
+      "2021": 0.6037,
       "2022": 0.9015,
       "2024": 0.2368,
       "2019": 0.4206,
@@ -10,7 +11,6 @@
       "2025": 0.0543,
       "2020": 0.6604,
       "2017": 0.2763,
-      "2021": 0.5947,
       "2016": 0.5139,
       "2011": 0.4073,
       "2015": 0.4132,
@@ -58,8 +58,9 @@
       "2005": 0.0701,
       "1998": 0.037
     },
-    "average_rate": 0.4071,
+    "average_rate": 0.4076,
     "yearly_retractions": {
+      "2021": 67,
       "2022": 98,
       "2024": 26,
       "2019": 42,
@@ -68,7 +69,6 @@
       "2025": 7,
       "2020": 69,
       "2017": 25,
-      "2021": 66,
       "2016": 45,
       "2011": 27,
       "2015": 35,
@@ -97,7 +97,7 @@
       "1990": 1
     },
     "notice_yearly_retractions": {
-      "2026": 34,
+      "2026": 35,
       "2025": 83,
       "2024": 78,
       "2023": 102,
@@ -129,7 +129,7 @@
   },
   "domainwise_data": {
     "country": "Australia",
-    "total_retractions": 824,
+    "total_retractions": 825,
     "years": {
       "2025": {
         "total": 7,
@@ -203,18 +203,18 @@
         }
       },
       "2021": {
-        "total": 66,
+        "total": 67,
         "marks": {
-          "research": 25,
+          "research": 26,
           "alterations": 26,
           "researcher_integrity": 8,
           "supplemental": 3,
           "system": 4
         },
         "domain": {
-          "BLS": 35,
+          "BLS": 37,
+          "HSC": 65,
           "ENV": 11,
-          "HSC": 64,
           "B/T": 34,
           "PHY": 15,
           "SOC": 11,
@@ -664,19 +664,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 34,
+        "total": 35,
         "marks": {
-          "research": 12,
+          "research": 13,
           "alterations": 9,
           "researcher_integrity": 11,
           "system": 2
         },
         "domain": {
+          "BLS": 28,
+          "HSC": 29,
           "PHY": 12,
           "B/T": 11,
           "ENV": 16,
-          "BLS": 26,
-          "HSC": 28,
           "SOC": 2
         }
       },
@@ -1131,9 +1131,9 @@
       "Hong Kong": 11,
       "Russia": 11,
       "Turkey": 11,
+      "United Arab Emirates": 10,
       "Chile": 10,
       "Taiwan": 9,
-      "United Arab Emirates": 9,
       "Singapore": 8,
       "Austria": 8,
       "Poland": 8,
@@ -1215,9 +1215,9 @@
       "Hong Kong": 11,
       "Russia": 11,
       "Turkey": 11,
+      "United Arab Emirates": 10,
       "Chile": 10,
       "Taiwan": 9,
-      "United Arab Emirates": 9,
       "Singapore": 8,
       "Austria": 8,
       "Poland": 8,

@@ -2,11 +2,11 @@
   "retraction_rate_data": {
     "country": "South Korea",
     "yearly_rates": {
+      "2021": 1.5013,
       "2023": 0.8262,
       "2024": 0.6072,
       "2019": 0.5491,
       "2025": 0.132,
-      "2021": 1.4911,
       "2020": 0.612,
       "2018": 0.7493,
       "2016": 0.5957,
@@ -59,13 +59,13 @@
       "2003": 0.0357,
       "1999": 0.0587
     },
-    "average_rate": 0.8122,
+    "average_rate": 0.8128,
     "yearly_retractions": {
+      "2021": 148,
       "2023": 81,
       "2024": 64,
       "2019": 49,
       "2025": 15,
-      "2021": 147,
       "2020": 57,
       "2018": 63,
       "2016": 48,
@@ -94,7 +94,7 @@
       "1993": 1
     },
     "notice_yearly_retractions": {
-      "2026": 47,
+      "2026": 48,
       "2024": 132,
       "2022": 72,
       "2025": 130,
@@ -124,7 +124,7 @@
   },
   "domainwise_data": {
     "country": "South Korea",
-    "total_retractions": 1444,
+    "total_retractions": 1445,
     "years": {
       "2025": {
         "total": 15,
@@ -201,21 +201,21 @@
         }
       },
       "2021": {
-        "total": 147,
+        "total": 148,
         "marks": {
+          "research": 45,
           "system": 9,
-          "research": 44,
           "alterations": 75,
           "researcher_integrity": 18,
           "supplemental": 1
         },
         "domain": {
+          "BLS": 64,
+          "HSC": 63,
           "B/T": 137,
-          "BLS": 61,
           "ENV": 16,
           "SOC": 50,
           "PHY": 55,
-          "HSC": 61,
           "HUM": 15
         }
       },
@@ -627,20 +627,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 47,
+        "total": 48,
         "marks": {
+          "research": 17,
           "alterations": 14,
-          "research": 16,
           "researcher_integrity": 11,
           "system": 3,
           "supplemental": 3
         },
         "domain": {
+          "BLS": 30,
+          "HSC": 28,
           "B/T": 36,
           "ENV": 14,
           "PHY": 16,
-          "HSC": 26,
-          "BLS": 27,
           "SOC": 13,
           "HUM": 2
         }
@@ -1062,8 +1062,8 @@
     },
     "collaborations": {
       "China": 321,
-      "India": 168,
-      "Saudi Arabia": 117,
+      "India": 169,
+      "Saudi Arabia": 118,
       "United States": 99,
       "Pakistan": 64,
       "Vietnam": 26,
@@ -1148,8 +1148,8 @@
     },
     "notice_collaborations": {
       "China": 321,
-      "India": 168,
-      "Saudi Arabia": 117,
+      "India": 169,
+      "Saudi Arabia": 118,
       "United States": 99,
       "Pakistan": 64,
       "Vietnam": 26,

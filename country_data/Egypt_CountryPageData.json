@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Egypt",
     "yearly_rates": {
+      "2025": 0.348,
       "2016": 2.282,
       "2022": 5.6494,
       "2018": 2.6287,
@@ -13,7 +14,6 @@
       "2021": 4.9442,
       "2019": 2.2596,
       "2024": 1.5037,
-      "2025": 0.3263,
       "2012": 2.7123,
       "2017": 2.7222,
       "2013": 2.664,
@@ -54,8 +54,9 @@
       "2010": 0.5421,
       "1998": 0.3331
     },
-    "average_rate": 2.6009,
+    "average_rate": 2.6031,
     "yearly_retractions": {
+      "2025": 16,
       "2016": 43,
       "2022": 237,
       "2018": 56,
@@ -68,7 +69,6 @@
       "2021": 183,
       "2019": 56,
       "2024": 63,
-      "2025": 15,
       "2012": 35,
       "2017": 51,
       "2013": 38,
@@ -85,7 +85,7 @@
       "1997": 1
     },
     "notice_yearly_retractions": {
-      "2026": 116,
+      "2026": 117,
       "2005": 1,
       "2007": 3,
       "2025": 265,
@@ -113,7 +113,7 @@
   },
   "domainwise_data": {
     "country": "Egypt",
-    "total_retractions": 1206,
+    "total_retractions": 1207,
     "years": {
       "2026": {
         "total": 1,
@@ -127,19 +127,19 @@
         }
       },
       "2025": {
-        "total": 15,
+        "total": 16,
         "marks": {
-          "research": 5,
+          "research": 6,
           "alterations": 5,
           "researcher_integrity": 4,
           "system": 1
         },
         "domain": {
-          "HSC": 25,
+          "BLS": 6,
+          "HSC": 27,
           "SOC": 3,
           "B/T": 7,
           "PHY": 4,
-          "BLS": 5,
           "ENV": 2
         }
       },
@@ -516,16 +516,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 116,
+        "total": 117,
         "marks": {
+          "research": 51,
           "alterations": 52,
           "researcher_integrity": 12,
-          "research": 50,
           "system": 2
         },
         "domain": {
-          "BLS": 53,
-          "HSC": 142,
+          "BLS": 54,
+          "HSC": 144,
           "B/T": 19,
           "ENV": 11,
           "PHY": 78,

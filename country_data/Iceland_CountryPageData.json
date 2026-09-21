@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Iceland",
     "yearly_rates": {
+      "2025": 0.3768,
       "2020": 0.5774,
       "2022": 0.4968,
       "2021": 0.5236,
@@ -20,8 +21,9 @@
       "2018": 0.601,
       "2015": 1.3996
     },
-    "average_rate": 0.2349,
+    "average_rate": 0.2643,
     "yearly_retractions": {
+      "2025": 1,
       "2020": 1,
       "2022": 1,
       "2021": 1,
@@ -32,6 +34,7 @@
       "2009": 1
     },
     "notice_yearly_retractions": {
+      "2026": 1,
       "2021": 1,
       "2023": 1,
       "2022": 1,
@@ -43,8 +46,18 @@
   },
   "domainwise_data": {
     "country": "Iceland",
-    "total_retractions": 8,
+    "total_retractions": 9,
     "years": {
+      "2025": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "HSC": 2,
+          "PHY": 2
+        }
+      },
       "2022": {
         "total": 1,
         "marks": {
@@ -125,6 +138,16 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "HSC": 2,
+          "PHY": 2
+        }
+      },
       "2023": {
         "total": 1,
         "marks": {
@@ -199,11 +222,17 @@
     "collaborations": {
       "United Kingdom": 4,
       "Sweden": 3,
+      "India": 2,
+      "Pakistan": 2,
+      "Poland": 2,
       "United States": 2,
       "Denmark": 2,
       "Finland": 2,
       "Germany": 2,
       "Norway": 2,
+      "Brazil": 1,
+      "Iraq": 1,
+      "Malaysia": 1,
       "Cyprus": 1,
       "Malta": 1,
       "Austria": 1,
@@ -211,14 +240,11 @@
       "Czech Republic": 1,
       "Israel": 1,
       "Netherlands": 1,
-      "Poland": 1,
       "South Africa": 1,
       "Switzerland": 1,
       "Italy": 1,
-      "Pakistan": 1,
       "Spain": 1,
       "United Arab Emirates": 1,
-      "India": 1,
       "Japan": 1,
       "South Korea": 1,
       "Bangladesh": 1
@@ -226,11 +252,17 @@
     "notice_collaborations": {
       "United Kingdom": 4,
       "Sweden": 3,
+      "India": 2,
+      "Pakistan": 2,
+      "Poland": 2,
       "United States": 2,
       "Denmark": 2,
       "Finland": 2,
       "Germany": 2,
       "Norway": 2,
+      "Brazil": 1,
+      "Iraq": 1,
+      "Malaysia": 1,
       "Cyprus": 1,
       "Malta": 1,
       "Austria": 1,
@@ -238,14 +270,11 @@
       "Czech Republic": 1,
       "Israel": 1,
       "Netherlands": 1,
-      "Poland": 1,
       "South Africa": 1,
       "Switzerland": 1,
       "Italy": 1,
-      "Pakistan": 1,
       "Spain": 1,
       "United Arab Emirates": 1,
-      "India": 1,
       "Japan": 1,
       "South Korea": 1,
       "Bangladesh": 1

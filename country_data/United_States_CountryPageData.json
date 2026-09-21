@@ -7,14 +7,14 @@
       "2014": 0.5057,
       "2015": 0.4723,
       "2016": 0.4604,
-      "2019": 0.5461,
+      "2019": 0.5477,
       "2010": 0.5531,
       "2024": 0.187,
+      "2020": 0.5536,
       "2025": 0.06,
       "2021": 0.4901,
       "2022": 0.4529,
       "2023": 0.4206,
-      "2020": 0.552,
       "2009": 0.4558,
       "2003": 0.2912,
       "2018": 0.4809,
@@ -34,7 +34,7 @@
       "1996": 0.0651
     },
     "notice_yearly_rates": {
-      "2025": 0.48,
+      "2025": 0.4827,
       "2017": 0.4937,
       "2024": 0.7402,
       "2009": 0.2854,
@@ -65,22 +65,22 @@
       "2000": 0.0421,
       "1999": 0.0522
     },
-    "average_rate": 0.3882,
+    "average_rate": 0.3884,
     "yearly_retractions": {
       "2013": 296,
       "2017": 273,
       "2014": 288,
       "2015": 273,
       "2016": 270,
-      "2019": 336,
+      "2019": 337,
       "2010": 288,
       "2024": 119,
+      "2020": 351,
       "2025": 45,
       "2026": 4,
       "2021": 322,
       "2022": 284,
       "2023": 257,
-      "2020": 350,
       "2009": 230,
       "2003": 117,
       "2018": 294,
@@ -127,7 +127,7 @@
     },
     "notice_yearly_retractions": {
       "2026": 147,
-      "2025": 360,
+      "2025": 362,
       "2017": 295,
       "2024": 471,
       "2009": 144,
@@ -185,7 +185,7 @@
   },
   "domainwise_data": {
     "country": "United States",
-    "total_retractions": 6236,
+    "total_retractions": 6238,
     "years": {
       "2026": {
         "total": 4,
@@ -294,36 +294,36 @@
         }
       },
       "2020": {
-        "total": 350,
+        "total": 351,
         "marks": {
-          "alterations": 116,
+          "alterations": 117,
           "researcher_integrity": 72,
           "system": 33,
           "research": 100,
           "supplemental": 29
         },
         "domain": {
-          "BLS": 297,
+          "BLS": 301,
+          "PHY": 108,
           "HSC": 310,
           "B/T": 81,
-          "PHY": 107,
           "ENV": 27,
           "SOC": 53,
           "HUM": 9
         }
       },
       "2019": {
-        "total": 336,
+        "total": 337,
         "marks": {
           "research": 111,
-          "alterations": 107,
+          "alterations": 108,
           "researcher_integrity": 64,
           "supplemental": 20,
           "system": 34
         },
         "domain": {
           "SOC": 96,
-          "BLS": 270,
+          "BLS": 274,
           "ENV": 17,
           "PHY": 100,
           "B/T": 125,
@@ -1090,19 +1090,19 @@
         }
       },
       "2025": {
-        "total": 360,
+        "total": 362,
         "marks": {
-          "alterations": 203,
+          "alterations": 205,
           "researcher_integrity": 51,
           "research": 81,
           "system": 15,
           "supplemental": 10
         },
         "domain": {
-          "PHY": 106,
+          "PHY": 107,
+          "BLS": 539,
           "B/T": 149,
           "HSC": 293,
-          "BLS": 531,
           "ENV": 26,
           "SOC": 30,
           "HUM": 3
@@ -1904,7 +1904,7 @@
       }
     },
     "collaborations": {
-      "China": 830,
+      "China": 831,
       "India": 250,
       "United Kingdom": 227,
       "Germany": 195,
@@ -1913,7 +1913,7 @@
       "Japan": 163,
       "Saudi Arabia": 162,
       "Australia": 118,
-      "Iran": 105,
+      "Iran": 106,
       "France": 105,
       "Pakistan": 104,
       "Netherlands": 104,
@@ -1922,7 +1922,7 @@
       "Egypt": 82,
       "Taiwan": 69,
       "Switzerland": 59,
-      "Sweden": 54,
+      "Sweden": 55,
       "Turkey": 36,
       "Denmark": 36,
       "Singapore": 35,
@@ -2040,7 +2040,7 @@
       "Burkina Faso": 1
     },
     "notice_collaborations": {
-      "China": 830,
+      "China": 831,
       "India": 250,
       "United Kingdom": 227,
       "Germany": 195,
@@ -2049,7 +2049,7 @@
       "Japan": 163,
       "Saudi Arabia": 162,
       "Australia": 118,
-      "Iran": 105,
+      "Iran": 106,
       "France": 105,
       "Pakistan": 104,
       "Netherlands": 104,
@@ -2058,7 +2058,7 @@
       "Egypt": 82,
       "Taiwan": 69,
       "Switzerland": 59,
-      "Sweden": 54,
+      "Sweden": 55,
       "Turkey": 36,
       "Denmark": 36,
       "Singapore": 35,

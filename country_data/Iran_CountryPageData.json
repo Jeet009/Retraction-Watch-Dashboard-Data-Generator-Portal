@@ -2,10 +2,10 @@
   "retraction_rate_data": {
     "country": "Iran",
     "yearly_rates": {
-      "2024": 1.1196,
+      "2024": 1.1334,
       "2021": 2.2471,
       "2025": 0.3498,
-      "2020": 1.9056,
+      "2020": 1.9197,
       "2013": 1.7371,
       "2023": 1.8225,
       "2007": 1.5364,
@@ -30,7 +30,7 @@
     },
     "notice_yearly_rates": {
       "2007": 0.668,
-      "2025": 3.938,
+      "2025": 3.9509,
       "2021": 1.4178,
       "2014": 0.9111,
       "2024": 3.5522,
@@ -52,12 +52,12 @@
       "2017": 1.2359,
       "2005": 0.2413
     },
-    "average_rate": 1.9706,
+    "average_rate": 1.9726,
     "yearly_retractions": {
-      "2024": 81,
+      "2024": 82,
       "2021": 168,
       "2025": 27,
-      "2020": 136,
+      "2020": 137,
       "2013": 71,
       "2023": 129,
       "2026": 1,
@@ -82,9 +82,9 @@
       "2001": 1
     },
     "notice_yearly_retractions": {
-      "2026": 73,
+      "2026": 74,
       "2007": 10,
-      "2025": 304,
+      "2025": 305,
       "2021": 106,
       "2014": 40,
       "2024": 257,
@@ -109,7 +109,7 @@
   },
   "domainwise_data": {
     "country": "Iran",
-    "total_retractions": 1992,
+    "total_retractions": 1994,
     "years": {
       "2026": {
         "total": 1,
@@ -140,19 +140,19 @@
         }
       },
       "2024": {
-        "total": 81,
+        "total": 82,
         "marks": {
+          "research": 25,
           "alterations": 27,
-          "research": 24,
           "researcher_integrity": 20,
           "system": 4,
           "supplemental": 6
         },
         "domain": {
+          "BLS": 31,
           "B/T": 37,
           "HSC": 84,
           "PHY": 48,
-          "BLS": 29,
           "SOC": 10,
           "ENV": 9
         }
@@ -212,17 +212,17 @@
         }
       },
       "2020": {
-        "total": 136,
+        "total": 137,
         "marks": {
           "system": 6,
           "research": 18,
-          "alterations": 67,
+          "alterations": 68,
           "researcher_integrity": 39,
           "supplemental": 6
         },
         "domain": {
-          "PHY": 161,
-          "BLS": 114,
+          "PHY": 162,
+          "BLS": 118,
           "B/T": 22,
           "SOC": 4,
           "ENV": 8,
@@ -538,36 +538,36 @@
     },
     "notice_years": {
       "2026": {
-        "total": 73,
+        "total": 74,
         "marks": {
+          "research": 29,
           "alterations": 21,
           "researcher_integrity": 14,
-          "research": 28,
           "system": 7,
           "supplemental": 3
         },
         "domain": {
+          "BLS": 34,
           "B/T": 27,
           "HSC": 36,
           "ENV": 12,
           "PHY": 74,
-          "BLS": 32,
           "SOC": 19
         }
       },
       "2025": {
-        "total": 304,
+        "total": 305,
         "marks": {
-          "alterations": 119,
+          "alterations": 120,
           "research": 56,
           "researcher_integrity": 97,
           "system": 30,
           "supplemental": 2
         },
         "domain": {
+          "BLS": 189,
+          "PHY": 309,
           "HSC": 252,
-          "PHY": 308,
-          "BLS": 185,
           "ENV": 27,
           "B/T": 94,
           "SOC": 30,
@@ -926,7 +926,7 @@
     "collaborations": {
       "China": 153,
       "Iraq": 123,
-      "United States": 105,
+      "United States": 106,
       "India": 75,
       "Malaysia": 73,
       "Saudi Arabia": 58,
@@ -959,9 +959,9 @@
       "France": 9,
       "Bahrain": 9,
       "Jordan": 8,
+      "Sweden": 7,
       "Singapore": 7,
       "Peru": 6,
-      "Sweden": 6,
       "Ecuador": 6,
       "Japan": 6,
       "Nigeria": 6,
@@ -1013,7 +1013,7 @@
     "notice_collaborations": {
       "China": 153,
       "Iraq": 123,
-      "United States": 105,
+      "United States": 106,
       "India": 75,
       "Malaysia": 73,
       "Saudi Arabia": 58,
@@ -1046,9 +1046,9 @@
       "France": 9,
       "Bahrain": 9,
       "Jordan": 8,
+      "Sweden": 7,
       "Singapore": 7,
       "Peru": 6,
-      "Sweden": 6,
       "Ecuador": 6,
       "Japan": 6,
       "Nigeria": 6,
