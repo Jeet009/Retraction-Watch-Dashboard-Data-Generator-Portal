@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Israel",
     "yearly_rates": {
+      "2022": 0.37,
       "2023": 0.1667,
-      "2022": 0.3289,
       "2024": 0.1631,
       "2010": 0.4377,
       "2011": 0.4238,
@@ -54,10 +54,10 @@
       "1996": 0.0933,
       "1998": 0.091
     },
-    "average_rate": 0.2419,
+    "average_rate": 0.2439,
     "yearly_retractions": {
+      "2022": 9,
       "2023": 4,
-      "2022": 8,
       "2024": 4,
       "2010": 7,
       "2011": 7,
@@ -90,7 +90,7 @@
       "2002": 1
     },
     "notice_yearly_retractions": {
-      "2026": 2,
+      "2026": 3,
       "2023": 4,
       "2025": 14,
       "2024": 11,
@@ -118,7 +118,7 @@
   },
   "domainwise_data": {
     "country": "Israel",
-    "total_retractions": 131,
+    "total_retractions": 132,
     "years": {
       "2025": {
         "total": 1,
@@ -158,17 +158,17 @@
         }
       },
       "2022": {
-        "total": 8,
+        "total": 9,
         "marks": {
-          "research": 6,
+          "research": 7,
           "system": 2
         },
         "domain": {
+          "B/T": 2,
+          "BLS": 11,
           "PHY": 1,
-          "BLS": 9,
           "HSC": 3,
-          "SOC": 3,
-          "B/T": 1
+          "SOC": 3
         }
       },
       "2021": {
@@ -500,13 +500,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 2,
+        "total": 3,
         "marks": {
+          "research": 1,
           "researcher_integrity": 1,
           "system": 1
         },
         "domain": {
-          "BLS": 3,
+          "B/T": 1,
+          "BLS": 5,
           "ENV": 1
         }
       },
@@ -796,8 +798,8 @@
     "collaborations": {
       "United States": 26,
       "Italy": 9,
+      "India": 8,
       "Germany": 8,
-      "India": 7,
       "United Kingdom": 7,
       "Spain": 6,
       "China": 4,
@@ -839,8 +841,8 @@
     "notice_collaborations": {
       "United States": 26,
       "Italy": 9,
+      "India": 8,
       "Germany": 8,
-      "India": 7,
       "United Kingdom": 7,
       "Spain": 6,
       "China": 4,

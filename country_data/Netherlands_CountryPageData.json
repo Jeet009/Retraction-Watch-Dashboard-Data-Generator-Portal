@@ -3,6 +3,7 @@
     "country": "Netherlands",
     "yearly_rates": {
       "2022": 0.1984,
+      "2014": 0.2866,
       "2024": 0.2221,
       "2021": 0.2975,
       "2020": 0.4998,
@@ -14,7 +15,6 @@
       "1998": 0.1245,
       "2006": 0.5277,
       "2019": 0.4426,
-      "2014": 0.2675,
       "2016": 0.3864,
       "2001": 0.3657,
       "2018": 0.2089,
@@ -60,9 +60,10 @@
       "1997": 0.0423,
       "1999": 0.0432
     },
-    "average_rate": 0.3207,
+    "average_rate": 0.3215,
     "yearly_retractions": {
       "2022": 13,
+      "2014": 15,
       "2024": 15,
       "2021": 20,
       "2020": 31,
@@ -74,7 +75,6 @@
       "1998": 3,
       "2006": 19,
       "2019": 26,
-      "2014": 14,
       "2016": 21,
       "2001": 9,
       "2018": 12,
@@ -98,7 +98,7 @@
       "1923": 2
     },
     "notice_yearly_retractions": {
-      "2026": 19,
+      "2026": 20,
       "2024": 22,
       "2025": 13,
       "2023": 20,
@@ -130,7 +130,7 @@
   },
   "domainwise_data": {
     "country": "Netherlands",
-    "total_retractions": 443,
+    "total_retractions": 444,
     "years": {
       "2025": {
         "total": 5,
@@ -330,18 +330,18 @@
         }
       },
       "2014": {
-        "total": 14,
+        "total": 15,
         "marks": {
+          "research": 9,
           "alterations": 3,
-          "research": 8,
           "system": 2,
           "supplemental": 1
         },
         "domain": {
+          "HSC": 8,
           "SOC": 4,
           "BLS": 11,
           "PHY": 6,
-          "HSC": 6,
           "ENV": 3
         }
       },
@@ -653,17 +653,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 19,
+        "total": 20,
         "marks": {
           "system": 1,
+          "research": 3,
           "alterations": 5,
           "researcher_integrity": 3,
-          "supplemental": 8,
-          "research": 2
+          "supplemental": 8
         },
         "domain": {
           "B/T": 11,
-          "HSC": 10,
+          "HSC": 12,
           "BLS": 5,
           "ENV": 2,
           "SOC": 10,
@@ -1090,10 +1090,10 @@
       "Poland": 9,
       "Austria": 9,
       "Sweden": 8,
+      "Egypt": 6,
       "Norway": 6,
       "Saudi Arabia": 6,
       "Japan": 6,
-      "Egypt": 5,
       "Czech Republic": 4,
       "Iran": 4,
       "Turkey": 4,
@@ -1156,10 +1156,10 @@
       "Poland": 9,
       "Austria": 9,
       "Sweden": 8,
+      "Egypt": 6,
       "Norway": 6,
       "Saudi Arabia": 6,
       "Japan": 6,
-      "Egypt": 5,
       "Czech Republic": 4,
       "Iran": 4,
       "Turkey": 4,

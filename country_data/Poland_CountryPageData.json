@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Poland",
     "yearly_rates": {
+      "2022": 0.8658,
       "2025": 0.1072,
-      "2022": 0.8481,
       "2023": 0.7027,
       "2024": 0.4194,
       "2021": 0.7174,
@@ -53,10 +53,10 @@
       "2000": 0.0671,
       "2009": 0.1025
     },
-    "average_rate": 0.2742,
+    "average_rate": 0.2751,
     "yearly_retractions": {
+      "2022": 49,
       "2025": 7,
-      "2022": 48,
       "2023": 39,
       "2024": 24,
       "2021": 43,
@@ -90,7 +90,7 @@
       "2004": 1
     },
     "notice_yearly_retractions": {
-      "2026": 29,
+      "2026": 30,
       "2025": 71,
       "2024": 39,
       "2023": 12,
@@ -119,7 +119,7 @@
   },
   "domainwise_data": {
     "country": "Poland",
-    "total_retractions": 302,
+    "total_retractions": 303,
     "years": {
       "2025": {
         "total": 7,
@@ -172,16 +172,16 @@
         }
       },
       "2022": {
-        "total": 48,
+        "total": 49,
         "marks": {
+          "research": 10,
           "alterations": 12,
           "researcher_integrity": 20,
-          "research": 9,
           "system": 4,
           "supplemental": 3
         },
         "domain": {
-          "B/T": 13,
+          "B/T": 15,
           "SOC": 4,
           "PHY": 47,
           "BLS": 33,
@@ -554,19 +554,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 29,
+        "total": 30,
         "marks": {
+          "research": 10,
           "researcher_integrity": 11,
-          "research": 9,
           "system": 3,
           "alterations": 6
         },
         "domain": {
+          "B/T": 8,
           "HSC": 23,
           "PHY": 22,
           "BLS": 12,
           "ENV": 7,
-          "B/T": 6,
           "SOC": 4
         }
       },
@@ -905,7 +905,7 @@
       }
     },
     "collaborations": {
-      "China": 47,
+      "China": 48,
       "Saudi Arabia": 46,
       "India": 40,
       "Iraq": 35,
@@ -980,7 +980,7 @@
       "Nepal": 1
     },
     "notice_collaborations": {
-      "China": 47,
+      "China": 48,
       "Saudi Arabia": 46,
       "India": 40,
       "Iraq": 35,
