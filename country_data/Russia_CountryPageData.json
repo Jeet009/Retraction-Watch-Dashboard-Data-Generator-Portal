@@ -5,13 +5,13 @@
     "notice_yearly_rates": {},
     "average_rate": 0.0,
     "yearly_retractions": {
+      "2022": 73,
       "2020": 215,
       "2025": 8,
       "2023": 230,
       "2021": 106,
       "2024": 155,
       "2009": 8,
-      "2022": 72,
       "2026": 1,
       "2019": 217,
       "2018": 261,
@@ -33,7 +33,7 @@
       "2006": 2
     },
     "notice_yearly_retractions": {
-      "2026": 21,
+      "2026": 22,
       "2025": 391,
       "2023": 88,
       "2024": 60,
@@ -57,7 +57,7 @@
   },
   "domainwise_data": {
     "country": "Russia",
-    "total_retractions": 3124,
+    "total_retractions": 3125,
     "years": {
       "2026": {
         "total": 1,
@@ -119,19 +119,19 @@
         }
       },
       "2022": {
-        "total": 72,
+        "total": 73,
         "marks": {
-          "research": 22,
+          "research": 23,
           "researcher_integrity": 36,
           "supplemental": 4,
           "alterations": 9,
           "system": 1
         },
         "domain": {
-          "B/T": 64,
+          "B/T": 67,
+          "PHY": 47,
           "HUM": 6,
           "SOC": 12,
-          "PHY": 46,
           "HSC": 35,
           "BLS": 32,
           "ENV": 13
@@ -437,19 +437,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 21,
+        "total": 22,
         "marks": {
+          "research": 4,
           "system": 3,
           "alterations": 9,
-          "researcher_integrity": 6,
-          "research": 3
+          "researcher_integrity": 6
         },
         "domain": {
-          "PHY": 30,
+          "B/T": 8,
+          "PHY": 31,
           "ENV": 5,
           "BLS": 3,
           "HSC": 5,
-          "B/T": 5,
           "SOC": 1
         }
       },
@@ -740,9 +740,9 @@
       }
     },
     "collaborations": {
-      "China": 87,
+      "China": 88,
       "Kazakhstan": 61,
-      "India": 50,
+      "India": 51,
       "Saudi Arabia": 50,
       "Iran": 44,
       "Pakistan": 33,
@@ -824,9 +824,9 @@
       "Netherlands": 1
     },
     "notice_collaborations": {
-      "China": 87,
+      "China": 88,
       "Kazakhstan": 61,
-      "India": 50,
+      "India": 51,
       "Saudi Arabia": 50,
       "Iran": 44,
       "Pakistan": 33,
