@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Uruguay",
     "yearly_rates": {
+      "2020": 0.5053,
       "2017": 0.6892,
       "2018": 1.171,
       "2008": 1.3004,
@@ -13,14 +14,16 @@
       "2008": 1.3004,
       "2014": 0.7496
     },
-    "average_rate": 0.1488,
+    "average_rate": 0.1785,
     "yearly_retractions": {
+      "2020": 1,
       "2017": 1,
       "2018": 2,
       "2008": 1,
       "2012": 1
     },
     "notice_yearly_retractions": {
+      "2026": 1,
       "2021": 1,
       "2020": 2,
       "2008": 1,
@@ -29,8 +32,18 @@
   },
   "domainwise_data": {
     "country": "Uruguay",
-    "total_retractions": 5,
+    "total_retractions": 6,
     "years": {
+      "2020": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "HSC": 1,
+          "PHY": 1
+        }
+      },
       "2018": {
         "total": 2,
         "marks": {
@@ -70,6 +83,16 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "HSC": 1,
+          "PHY": 1
+        }
+      },
       "2021": {
         "total": 1,
         "marks": {
@@ -110,7 +133,8 @@
     },
     "collaborations": {
       "United States": 4,
-      "Spain": 2,
+      "Spain": 3,
+      "Brazil": 1,
       "Cuba": 1,
       "Mexico": 1,
       "Israel": 1,
@@ -118,7 +142,8 @@
     },
     "notice_collaborations": {
       "United States": 4,
-      "Spain": 2,
+      "Spain": 3,
+      "Brazil": 1,
       "Cuba": 1,
       "Mexico": 1,
       "Israel": 1,

@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Benin",
     "yearly_rates": {
+      "2024": 0.998,
       "2023": 1.1274,
       "2021": 2.1739,
       "2022": 1.1001,
@@ -12,14 +13,16 @@
       "2022": 1.1001,
       "2011": 3.3445
     },
-    "average_rate": 0.4338,
+    "average_rate": 0.5205,
     "yearly_retractions": {
+      "2024": 1,
       "2023": 1,
       "2021": 2,
       "2022": 1,
       "2011": 1
     },
     "notice_yearly_retractions": {
+      "2026": 1,
       "2023": 3,
       "2022": 1,
       "2011": 1
@@ -27,8 +30,18 @@
   },
   "domainwise_data": {
     "country": "Benin",
-    "total_retractions": 5,
+    "total_retractions": 6,
     "years": {
+      "2024": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "BLS": 1
+        }
+      },
       "2023": {
         "total": 1,
         "marks": {
@@ -67,6 +80,16 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "BLS": 1
+        }
+      },
       "2023": {
         "total": 3,
         "marks": {
@@ -96,6 +119,7 @@
       }
     },
     "collaborations": {
+      "France": 2,
       "Cameroon": 2,
       "Pakistan": 2,
       "Rwanda": 2,
@@ -109,7 +133,6 @@
       "Canada": 1,
       "Democratic Republic of the Congo": 1,
       "Ethiopia": 1,
-      "France": 1,
       "Gabon": 1,
       "Gambia": 1,
       "Germany": 1,
@@ -131,6 +154,7 @@
       "China": 1
     },
     "notice_collaborations": {
+      "France": 2,
       "Cameroon": 2,
       "Pakistan": 2,
       "Rwanda": 2,
@@ -144,7 +168,6 @@
       "Canada": 1,
       "Democratic Republic of the Congo": 1,
       "Ethiopia": 1,
-      "France": 1,
       "Gabon": 1,
       "Gambia": 1,
       "Germany": 1,

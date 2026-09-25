@@ -2,11 +2,11 @@
   "retraction_rate_data": {
     "country": "Pakistan",
     "yearly_rates": {
+      "2020": 3.1776,
+      "2023": 4.7914,
+      "2025": 0.9654,
       "2024": 4.525,
       "2022": 13.7574,
-      "2023": 4.7376,
-      "2025": 0.9435,
-      "2020": 3.1093,
       "2021": 8.7453,
       "2006": 0.8751,
       "2019": 2.2402,
@@ -50,13 +50,13 @@
       "2008": 0.5901,
       "2014": 0.4398
     },
-    "average_rate": 4.0464,
+    "average_rate": 4.059,
     "yearly_retractions": {
+      "2020": 93,
+      "2023": 178,
+      "2025": 44,
       "2024": 179,
       "2022": 529,
-      "2023": 176,
-      "2025": 43,
-      "2020": 91,
       "2021": 303,
       "2006": 3,
       "2019": 55,
@@ -79,7 +79,7 @@
       "2004": 1
     },
     "notice_yearly_retractions": {
-      "2026": 134,
+      "2026": 139,
       "2006": 1,
       "2022": 163,
       "2025": 374,
@@ -105,7 +105,7 @@
   },
   "domainwise_data": {
     "country": "Pakistan",
-    "total_retractions": 1604,
+    "total_retractions": 1609,
     "years": {
       "2026": {
         "total": 5,
@@ -122,20 +122,20 @@
         }
       },
       "2025": {
-        "total": 43,
+        "total": 44,
         "marks": {
+          "alterations": 10,
           "researcher_integrity": 16,
           "research": 15,
-          "alterations": 9,
           "system": 3
         },
         "domain": {
-          "B/T": 12,
+          "B/T": 14,
+          "SOC": 3,
           "ENV": 7,
           "PHY": 20,
           "HSC": 57,
-          "BLS": 26,
-          "SOC": 2
+          "BLS": 26
         }
       },
       "2024": {
@@ -157,16 +157,16 @@
         }
       },
       "2023": {
-        "total": 176,
+        "total": 178,
         "marks": {
-          "research": 60,
+          "research": 61,
+          "alterations": 53,
           "researcher_integrity": 51,
-          "alterations": 52,
           "system": 6,
           "supplemental": 7
         },
         "domain": {
-          "B/T": 164,
+          "B/T": 169,
           "HSC": 90,
           "PHY": 115,
           "ENV": 49,
@@ -213,20 +213,20 @@
         }
       },
       "2020": {
-        "total": 91,
+        "total": 93,
         "marks": {
+          "alterations": 41,
           "research": 22,
-          "alterations": 39,
           "system": 5,
           "researcher_integrity": 22,
           "supplemental": 3
         },
         "domain": {
-          "BLS": 90,
+          "BLS": 91,
+          "HSC": 47,
+          "B/T": 34,
           "ENV": 15,
           "PHY": 46,
-          "HSC": 42,
-          "B/T": 33,
           "SOC": 13
         }
       },
@@ -495,20 +495,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 134,
+        "total": 139,
         "marks": {
-          "alterations": 29,
-          "research": 70,
+          "alterations": 33,
+          "research": 71,
           "researcher_integrity": 28,
           "system": 7
         },
         "domain": {
-          "B/T": 82,
-          "HSC": 73,
+          "BLS": 64,
+          "HSC": 78,
+          "B/T": 90,
+          "SOC": 13,
           "ENV": 33,
           "PHY": 91,
-          "BLS": 63,
-          "SOC": 12,
           "HUM": 1
         }
       },
@@ -842,9 +842,9 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 604,
-      "China": 579,
-      "India": 145,
+      "Saudi Arabia": 605,
+      "China": 582,
+      "India": 147,
       "Malaysia": 116,
       "United States": 104,
       "Egypt": 103,
@@ -854,7 +854,7 @@
       "Taiwan": 50,
       "Bangladesh": 49,
       "United Arab Emirates": 48,
-      "Iraq": 43,
+      "Iraq": 44,
       "Australia": 40,
       "Jordan": 39,
       "Spain": 39,
@@ -968,9 +968,9 @@
       "Croatia": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 604,
-      "China": 579,
-      "India": 145,
+      "Saudi Arabia": 605,
+      "China": 582,
+      "India": 147,
       "Malaysia": 116,
       "United States": 104,
       "Egypt": 103,
@@ -980,7 +980,7 @@
       "Taiwan": 50,
       "Bangladesh": 49,
       "United Arab Emirates": 48,
-      "Iraq": 43,
+      "Iraq": 44,
       "Australia": 40,
       "Jordan": 39,
       "Spain": 39,

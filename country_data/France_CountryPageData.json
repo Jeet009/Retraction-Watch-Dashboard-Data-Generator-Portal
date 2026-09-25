@@ -2,8 +2,9 @@
   "retraction_rate_data": {
     "country": "France",
     "yearly_rates": {
+      "2024": 0.1152,
       "2020": 0.4335,
-      "2024": 0.1063,
+      "2006": 0.2488,
       "2019": 0.4235,
       "2021": 0.3099,
       "2009": 0.2272,
@@ -25,7 +26,6 @@
       "2007": 0.1391,
       "2005": 0.2374,
       "2003": 0.1152,
-      "2006": 0.237,
       "2000": 0.0647,
       "1998": 0.0166,
       "2001": 0.1113,
@@ -60,10 +60,11 @@
       "2004": 0.0409,
       "1997": 0.0167
     },
-    "average_rate": 0.2546,
+    "average_rate": 0.2553,
     "yearly_retractions": {
+      "2024": 13,
       "2020": 50,
-      "2024": 12,
+      "2006": 21,
       "2019": 48,
       "2021": 37,
       "2009": 22,
@@ -86,7 +87,6 @@
       "2007": 12,
       "2005": 19,
       "2003": 8,
-      "2006": 20,
       "1981": 3,
       "2000": 4,
       "1998": 1,
@@ -101,7 +101,7 @@
       "1988": 1
     },
     "notice_yearly_retractions": {
-      "2026": 38,
+      "2026": 40,
       "2025": 67,
       "2022": 35,
       "2024": 75,
@@ -138,7 +138,7 @@
   },
   "domainwise_data": {
     "country": "France",
-    "total_retractions": 729,
+    "total_retractions": 731,
     "years": {
       "2026": {
         "total": 2,
@@ -169,20 +169,20 @@
         }
       },
       "2024": {
-        "total": 12,
+        "total": 13,
         "marks": {
+          "research": 3,
           "system": 2,
           "supplemental": 3,
           "alterations": 3,
-          "researcher_integrity": 2,
-          "research": 2
+          "researcher_integrity": 2
         },
         "domain": {
+          "B/T": 6,
+          "BLS": 3,
           "PHY": 6,
-          "B/T": 5,
           "SOC": 4,
           "ENV": 1,
-          "BLS": 2,
           "HSC": 10
         }
       },
@@ -489,15 +489,15 @@
         }
       },
       "2006": {
-        "total": 20,
+        "total": 21,
         "marks": {
-          "alterations": 10,
+          "alterations": 11,
           "supplemental": 4,
           "research": 5,
           "system": 1
         },
         "domain": {
-          "BLS": 34,
+          "BLS": 37,
           "B/T": 3,
           "HSC": 16,
           "PHY": 5,
@@ -692,20 +692,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 38,
+        "total": 40,
         "marks": {
-          "alterations": 9,
+          "research": 6,
+          "alterations": 10,
           "system": 3,
           "supplemental": 3,
-          "research": 5,
           "researcher_integrity": 18
         },
         "domain": {
-          "BLS": 42,
+          "B/T": 7,
+          "BLS": 46,
           "PHY": 4,
           "HSC": 36,
           "ENV": 4,
-          "B/T": 6,
           "SOC": 6,
           "HUM": 1
         }
@@ -1236,6 +1236,7 @@
       "Luxembourg": 3,
       "South Korea": 3,
       "Indonesia": 3,
+      "Benin": 2,
       "Mexico": 2,
       "Peru": 2,
       "Argentina": 2,
@@ -1260,7 +1261,6 @@
       "Montenegro": 1,
       "Slovenia": 1,
       "Angola": 1,
-      "Benin": 1,
       "Burkina Faso": 1,
       "Ethiopia": 1,
       "Gambia": 1,
@@ -1338,6 +1338,7 @@
       "Luxembourg": 3,
       "South Korea": 3,
       "Indonesia": 3,
+      "Benin": 2,
       "Mexico": 2,
       "Peru": 2,
       "Argentina": 2,
@@ -1362,7 +1363,6 @@
       "Montenegro": 1,
       "Slovenia": 1,
       "Angola": 1,
-      "Benin": 1,
       "Burkina Faso": 1,
       "Ethiopia": 1,
       "Gambia": 1,
