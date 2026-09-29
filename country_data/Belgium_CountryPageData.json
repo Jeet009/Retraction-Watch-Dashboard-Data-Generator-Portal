@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Belgium",
     "yearly_rates": {
+      "2025": 0.0231,
       "2023": 0.3318,
       "2021": 0.3699,
       "2024": 0.131,
@@ -49,8 +50,9 @@
       "2007": 0.0964,
       "2008": 0.0453
     },
-    "average_rate": 0.2261,
+    "average_rate": 0.2275,
     "yearly_retractions": {
+      "2025": 1,
       "2023": 12,
       "2021": 14,
       "2024": 5,
@@ -80,7 +82,7 @@
       "2001": 1
     },
     "notice_yearly_retractions": {
-      "2026": 5,
+      "2026": 6,
       "2025": 12,
       "2024": 12,
       "2023": 17,
@@ -106,8 +108,17 @@
   },
   "domainwise_data": {
     "country": "Belgium",
-    "total_retractions": 172,
+    "total_retractions": 173,
     "years": {
+      "2025": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "ENV": 2
+        }
+      },
       "2024": {
         "total": 5,
         "marks": {
@@ -480,15 +491,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 5,
+        "total": 6,
         "marks": {
+          "research": 1,
           "researcher_integrity": 2,
           "supplemental": 2,
           "alterations": 1
         },
         "domain": {
+          "ENV": 4,
           "B/T": 4,
-          "ENV": 2,
           "PHY": 1,
           "BLS": 4,
           "SOC": 3
@@ -792,24 +804,24 @@
       }
     },
     "collaborations": {
-      "United States": 31,
+      "United States": 32,
       "China": 22,
+      "Germany": 20,
       "Netherlands": 20,
-      "Germany": 19,
-      "United Kingdom": 17,
+      "United Kingdom": 18,
+      "Spain": 14,
       "France": 14,
-      "Spain": 13,
       "India": 9,
       "Canada": 8,
       "Japan": 8,
       "Mexico": 7,
       "Switzerland": 7,
+      "Saudi Arabia": 6,
       "Australia": 6,
       "Italy": 6,
       "Ethiopia": 6,
       "Denmark": 5,
       "Pakistan": 5,
-      "Saudi Arabia": 5,
       "Vietnam": 5,
       "Sweden": 5,
       "South Korea": 4,
@@ -854,24 +866,24 @@
       "Morocco": 1
     },
     "notice_collaborations": {
-      "United States": 31,
+      "United States": 32,
       "China": 22,
+      "Germany": 20,
       "Netherlands": 20,
-      "Germany": 19,
-      "United Kingdom": 17,
+      "United Kingdom": 18,
+      "Spain": 14,
       "France": 14,
-      "Spain": 13,
       "India": 9,
       "Canada": 8,
       "Japan": 8,
       "Mexico": 7,
       "Switzerland": 7,
+      "Saudi Arabia": 6,
       "Australia": 6,
       "Italy": 6,
       "Ethiopia": 6,
       "Denmark": 5,
       "Pakistan": 5,
-      "Saudi Arabia": 5,
       "Vietnam": 5,
       "Sweden": 5,
       "South Korea": 4,

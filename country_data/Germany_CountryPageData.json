@@ -3,7 +3,7 @@
     "country": "Germany",
     "yearly_rates": {
       "2023": 0.2702,
-      "2025": 0.0717,
+      "2025": 0.0764,
       "2019": 0.2977,
       "2024": 0.2098,
       "2022": 0.3472,
@@ -64,10 +64,10 @@
       "1997": 0.0953,
       "2001": 0.0223
     },
-    "average_rate": 0.2995,
+    "average_rate": 0.2997,
     "yearly_retractions": {
       "2023": 49,
-      "2025": 15,
+      "2025": 16,
       "2019": 52,
       "2024": 39,
       "2022": 65,
@@ -115,7 +115,7 @@
       "1984": 1
     },
     "notice_yearly_retractions": {
-      "2026": 44,
+      "2026": 45,
       "2025": 84,
       "2014": 105,
       "2023": 103,
@@ -156,7 +156,7 @@
   },
   "domainwise_data": {
     "country": "Germany",
-    "total_retractions": 1355,
+    "total_retractions": 1356,
     "years": {
       "2026": {
         "total": 1,
@@ -168,20 +168,20 @@
         }
       },
       "2025": {
-        "total": 15,
+        "total": 16,
         "marks": {
+          "research": 5,
           "researcher_integrity": 5,
           "alterations": 2,
-          "research": 4,
           "system": 3,
           "supplemental": 1
         },
         "domain": {
+          "ENV": 6,
           "B/T": 2,
           "BLS": 12,
           "PHY": 4,
           "HSC": 16,
-          "ENV": 4,
           "HUM": 1,
           "SOC": 1
         }
@@ -865,19 +865,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 44,
+        "total": 45,
         "marks": {
           "system": 4,
+          "research": 18,
           "researcher_integrity": 13,
-          "research": 17,
           "alterations": 10
         },
         "domain": {
           "HSC": 49,
           "SOC": 4,
+          "ENV": 17,
           "B/T": 7,
           "BLS": 37,
-          "ENV": 15,
           "PHY": 13
         }
       },
@@ -1416,15 +1416,15 @@
       }
     },
     "collaborations": {
-      "United States": 195,
+      "United States": 196,
       "China": 123,
-      "United Kingdom": 89,
+      "United Kingdom": 90,
       "India": 64,
       "Iran": 53,
       "France": 51,
       "Switzerland": 51,
       "Italy": 51,
-      "Saudi Arabia": 45,
+      "Saudi Arabia": 46,
       "Egypt": 44,
       "Netherlands": 41,
       "Canada": 30,
@@ -1433,12 +1433,12 @@
       "Russia": 25,
       "Sweden": 25,
       "Australia": 24,
+      "Spain": 23,
       "Austria": 23,
-      "Spain": 22,
       "Poland": 21,
+      "Belgium": 20,
       "Iraq": 20,
       "Denmark": 20,
-      "Belgium": 19,
       "South Korea": 17,
       "Brazil": 16,
       "Czech Republic": 14,
@@ -1533,15 +1533,15 @@
       "Moldova": 1
     },
     "notice_collaborations": {
-      "United States": 195,
+      "United States": 196,
       "China": 123,
-      "United Kingdom": 89,
+      "United Kingdom": 90,
       "India": 64,
       "Iran": 53,
       "France": 51,
       "Switzerland": 51,
       "Italy": 51,
-      "Saudi Arabia": 45,
+      "Saudi Arabia": 46,
       "Egypt": 44,
       "Netherlands": 41,
       "Canada": 30,
@@ -1550,12 +1550,12 @@
       "Russia": 25,
       "Sweden": 25,
       "Australia": 24,
+      "Spain": 23,
       "Austria": 23,
-      "Spain": 22,
       "Poland": 21,
+      "Belgium": 20,
       "Iraq": 20,
       "Denmark": 20,
-      "Belgium": 19,
       "South Korea": 17,
       "Brazil": 16,
       "Czech Republic": 14,

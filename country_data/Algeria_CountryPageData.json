@@ -3,10 +3,10 @@
     "country": "Algeria",
     "yearly_rates": {
       "2024": 0.4711,
+      "2025": 0.2847,
       "2019": 0.6202,
       "2014": 1.9109,
       "2021": 0.7229,
-      "2025": 0.2135,
       "2022": 1.1216,
       "2018": 1.6334,
       "2023": 0.4655,
@@ -42,14 +42,14 @@
       "2009": 0.3187,
       "2010": 0.3165
     },
-    "average_rate": 0.7371,
+    "average_rate": 0.7443,
     "yearly_retractions": {
       "2024": 6,
+      "2025": 4,
       "2026": 1,
       "2019": 5,
       "2014": 10,
       "2021": 7,
-      "2025": 3,
       "2022": 12,
       "2018": 13,
       "2023": 5,
@@ -67,7 +67,7 @@
       "2007": 1
     },
     "notice_yearly_retractions": {
-      "2026": 7,
+      "2026": 8,
       "2025": 10,
       "2017": 7,
       "2022": 6,
@@ -89,7 +89,7 @@
   },
   "domainwise_data": {
     "country": "Algeria",
-    "total_retractions": 104,
+    "total_retractions": 105,
     "years": {
       "2026": {
         "total": 1,
@@ -103,14 +103,15 @@
         }
       },
       "2025": {
-        "total": 3,
+        "total": 4,
         "marks": {
+          "research": 1,
           "researcher_integrity": 2,
           "alterations": 1
         },
         "domain": {
+          "PHY": 5,
           "ENV": 1,
-          "PHY": 4,
           "B/T": 1
         }
       },
@@ -352,17 +353,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 7,
+        "total": 8,
         "marks": {
-          "research": 2,
+          "research": 3,
           "alterations": 3,
           "researcher_integrity": 2
         },
         "domain": {
           "B/T": 5,
+          "PHY": 6,
           "BLS": 4,
           "HSC": 3,
-          "PHY": 5,
           "ENV": 1
         }
       },
@@ -595,6 +596,7 @@
       "Malaysia": 4,
       "Iran": 4,
       "Russia": 3,
+      "Turkey": 2,
       "Tunisia": 2,
       "Belarus": 2,
       "South Africa": 2,
@@ -605,6 +607,7 @@
       "Germany": 2,
       "Morocco": 2,
       "Senegal": 2,
+      "Slovakia": 1,
       "Tajikistan": 1,
       "Jordan": 1,
       "Ukraine": 1,
@@ -639,8 +642,7 @@
       "Zimbabwe": 1,
       "Italy": 1,
       "Sweden": 1,
-      "Japan": 1,
-      "Turkey": 1
+      "Japan": 1
     },
     "notice_collaborations": {
       "France": 16,
@@ -656,6 +658,7 @@
       "Malaysia": 4,
       "Iran": 4,
       "Russia": 3,
+      "Turkey": 2,
       "Tunisia": 2,
       "Belarus": 2,
       "South Africa": 2,
@@ -666,6 +669,7 @@
       "Germany": 2,
       "Morocco": 2,
       "Senegal": 2,
+      "Slovakia": 1,
       "Tajikistan": 1,
       "Jordan": 1,
       "Ukraine": 1,
@@ -700,8 +704,7 @@
       "Zimbabwe": 1,
       "Italy": 1,
       "Sweden": 1,
-      "Japan": 1,
-      "Turkey": 1
+      "Japan": 1
     }
   },
   "country_flag": "/country_flags/Algeria.svg"

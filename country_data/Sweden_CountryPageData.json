@@ -4,12 +4,12 @@
     "yearly_rates": {
       "2024": 0.1482,
       "2023": 0.3153,
+      "2019": 0.3618,
       "2020": 0.5334,
       "2025": 0.0951,
       "2022": 0.3759,
       "2021": 0.3493,
       "2018": 0.4732,
-      "2019": 0.3377,
       "2014": 0.48,
       "2010": 0.2493,
       "2016": 0.3931,
@@ -34,7 +34,7 @@
       "1998": 0.0546
     },
     "notice_yearly_rates": {
-      "2025": 0.3803,
+      "2025": 0.3994,
       "2024": 0.6353,
       "2023": 0.3603,
       "2022": 0.2875,
@@ -62,16 +62,16 @@
       "2003": 0.0477,
       "1999": 0.0532
     },
-    "average_rate": 0.2988,
+    "average_rate": 0.2999,
     "yearly_retractions": {
       "2024": 7,
       "2023": 14,
+      "2019": 15,
       "2020": 23,
       "2025": 5,
       "2022": 17,
       "2021": 16,
       "2018": 19,
-      "2019": 14,
       "2014": 17,
       "2010": 7,
       "2016": 15,
@@ -99,7 +99,7 @@
     },
     "notice_yearly_retractions": {
       "2026": 13,
-      "2025": 20,
+      "2025": 21,
       "2024": 30,
       "2023": 16,
       "2022": 13,
@@ -131,7 +131,7 @@
   },
   "domainwise_data": {
     "country": "Sweden",
-    "total_retractions": 280,
+    "total_retractions": 281,
     "years": {
       "2025": {
         "total": 5,
@@ -233,17 +233,18 @@
         }
       },
       "2019": {
-        "total": 14,
+        "total": 15,
         "marks": {
+          "alterations": 2,
           "supplemental": 3,
           "researcher_integrity": 3,
           "research": 5,
-          "system": 2,
-          "alterations": 1
+          "system": 2
         },
         "domain": {
-          "BLS": 17,
-          "ENV": 3,
+          "BLS": 18,
+          "ENV": 5,
+          "PHY": 2,
           "HSC": 15,
           "SOC": 3
         }
@@ -594,18 +595,18 @@
         }
       },
       "2025": {
-        "total": 20,
+        "total": 21,
         "marks": {
-          "alterations": 9,
+          "alterations": 10,
           "research": 5,
           "researcher_integrity": 5,
           "system": 1
         },
         "domain": {
-          "BLS": 34,
-          "PHY": 15,
+          "BLS": 35,
+          "ENV": 4,
+          "PHY": 17,
           "HSC": 17,
-          "ENV": 2,
           "B/T": 1
         }
       },
@@ -1031,6 +1032,7 @@
       "Tanzania": 2,
       "Slovakia": 2,
       "Lebanon": 1,
+      "Argentina": 1,
       "Hong Kong": 1,
       "United Arab Emirates": 1,
       "Indonesia": 1,
@@ -1095,6 +1097,7 @@
       "Tanzania": 2,
       "Slovakia": 2,
       "Lebanon": 1,
+      "Argentina": 1,
       "Hong Kong": 1,
       "United Arab Emirates": 1,
       "Indonesia": 1,

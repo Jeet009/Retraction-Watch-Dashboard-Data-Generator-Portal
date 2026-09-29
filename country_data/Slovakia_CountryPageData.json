@@ -2,8 +2,9 @@
   "retraction_rate_data": {
     "country": "Slovakia",
     "yearly_rates": {
+      "2020": 0.6292,
+      "2025": 0.0992,
       "2024": 0.3141,
-      "2020": 0.5243,
       "2022": 0.8673,
       "2023": 0.3109,
       "2021": 1.1395,
@@ -36,10 +37,11 @@
       "2015": 0.2695,
       "2010": 0.1989
     },
-    "average_rate": 0.2782,
+    "average_rate": 0.2895,
     "yearly_retractions": {
+      "2020": 6,
+      "2025": 1,
       "2024": 3,
-      "2020": 5,
       "2022": 8,
       "2023": 3,
       "2021": 11,
@@ -57,7 +59,7 @@
       "2001": 1
     },
     "notice_yearly_retractions": {
-      "2026": 2,
+      "2026": 4,
       "2025": 11,
       "2024": 5,
       "2023": 3,
@@ -76,8 +78,17 @@
   },
   "domainwise_data": {
     "country": "Slovakia",
-    "total_retractions": 49,
+    "total_retractions": 51,
     "years": {
+      "2025": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "PHY": 1
+        }
+      },
       "2024": {
         "total": 3,
         "marks": {
@@ -132,14 +143,14 @@
         }
       },
       "2020": {
-        "total": 5,
+        "total": 6,
         "marks": {
-          "alterations": 3,
+          "alterations": 4,
           "research": 2
         },
         "domain": {
+          "PHY": 5,
           "BLS": 4,
-          "PHY": 3,
           "B/T": 2,
           "HSC": 5
         }
@@ -272,14 +283,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 2,
+        "total": 4,
         "marks": {
-          "alterations": 2
+          "alterations": 3,
+          "research": 1
         },
         "domain": {
+          "PHY": 5,
           "B/T": 2,
-          "BLS": 2,
-          "PHY": 2
+          "BLS": 2
         }
       },
       "2025": {
@@ -451,8 +463,8 @@
       "Pakistan": 8,
       "United States": 6,
       "Malaysia": 5,
-      "Ukraine": 3,
-      "Turkey": 3,
+      "Ukraine": 4,
+      "Turkey": 4,
       "Spain": 3,
       "Russia": 3,
       "Germany": 3,
@@ -462,6 +474,7 @@
       "Bangladesh": 2,
       "Sweden": 2,
       "Italy": 2,
+      "Algeria": 1,
       "Iran": 1,
       "Hong Kong": 1,
       "Poland": 1,
@@ -491,8 +504,8 @@
       "Pakistan": 8,
       "United States": 6,
       "Malaysia": 5,
-      "Ukraine": 3,
-      "Turkey": 3,
+      "Ukraine": 4,
+      "Turkey": 4,
       "Spain": 3,
       "Russia": 3,
       "Germany": 3,
@@ -502,6 +515,7 @@
       "Bangladesh": 2,
       "Sweden": 2,
       "Italy": 2,
+      "Algeria": 1,
       "Iran": 1,
       "Hong Kong": 1,
       "Poland": 1,

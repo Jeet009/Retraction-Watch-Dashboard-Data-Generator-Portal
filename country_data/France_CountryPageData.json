@@ -3,6 +3,7 @@
     "country": "France",
     "yearly_rates": {
       "2024": 0.1152,
+      "2004": 0.1636,
       "2020": 0.4335,
       "2006": 0.2488,
       "2019": 0.4235,
@@ -21,7 +22,6 @@
       "2010": 0.2731,
       "2017": 0.4538,
       "2016": 0.3513,
-      "2004": 0.1499,
       "2002": 0.1696,
       "2007": 0.1391,
       "2005": 0.2374,
@@ -60,9 +60,10 @@
       "2004": 0.0409,
       "1997": 0.0167
     },
-    "average_rate": 0.2553,
+    "average_rate": 0.2557,
     "yearly_retractions": {
       "2024": 13,
+      "2004": 12,
       "2020": 50,
       "2006": 21,
       "2019": 48,
@@ -82,7 +83,6 @@
       "2010": 27,
       "2017": 52,
       "2016": 40,
-      "2004": 11,
       "2002": 11,
       "2007": 12,
       "2005": 19,
@@ -101,7 +101,7 @@
       "1988": 1
     },
     "notice_yearly_retractions": {
-      "2026": 40,
+      "2026": 41,
       "2025": 67,
       "2022": 35,
       "2024": 75,
@@ -138,7 +138,7 @@
   },
   "domainwise_data": {
     "country": "France",
-    "total_retractions": 731,
+    "total_retractions": 732,
     "years": {
       "2026": {
         "total": 2,
@@ -522,15 +522,15 @@
         }
       },
       "2004": {
-        "total": 11,
+        "total": 12,
         "marks": {
+          "alterations": 6,
           "researcher_integrity": 3,
-          "alterations": 5,
           "supplemental": 3
         },
         "domain": {
+          "BLS": 15,
           "SOC": 3,
-          "BLS": 13,
           "HSC": 12,
           "PHY": 1,
           "ENV": 1
@@ -692,17 +692,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 40,
+        "total": 41,
         "marks": {
           "research": 6,
-          "alterations": 10,
+          "alterations": 11,
           "system": 3,
           "supplemental": 3,
           "researcher_integrity": 18
         },
         "domain": {
           "B/T": 7,
-          "BLS": 46,
+          "BLS": 48,
           "PHY": 4,
           "HSC": 36,
           "ENV": 4,

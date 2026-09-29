@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Ukraine",
     "yearly_rates": {
+      "2020": 0.1815,
       "2022": 1.1112,
       "2025": 0.0868,
       "2024": 1.129,
@@ -9,7 +10,6 @@
       "2023": 1.0834,
       "2018": 0.1399,
       "2019": 0.303,
-      "2020": 0.1361,
       "2014": 0.2946,
       "2015": 0.3745,
       "2016": 0.1796,
@@ -32,8 +32,9 @@
       "2010": 0.2625,
       "2015": 0.0936
     },
-    "average_rate": 0.322,
+    "average_rate": 0.3249,
     "yearly_retractions": {
+      "2020": 4,
       "2022": 23,
       "2025": 2,
       "2024": 24,
@@ -41,7 +42,6 @@
       "2023": 24,
       "2018": 2,
       "2019": 6,
-      "2020": 3,
       "2014": 3,
       "2015": 4,
       "2016": 2,
@@ -51,8 +51,8 @@
       "2009": 1
     },
     "notice_yearly_retractions": {
+      "2026": 6,
       "2025": 45,
-      "2026": 5,
       "2023": 18,
       "2024": 12,
       "2022": 6,
@@ -68,7 +68,7 @@
   },
   "domainwise_data": {
     "country": "Ukraine",
-    "total_retractions": 110,
+    "total_retractions": 111,
     "years": {
       "2025": {
         "total": 2,
@@ -151,12 +151,13 @@
         }
       },
       "2020": {
-        "total": 3,
+        "total": 4,
         "marks": {
-          "alterations": 2,
+          "alterations": 3,
           "research": 1
         },
         "domain": {
+          "PHY": 2,
           "HUM": 1,
           "SOC": 1,
           "B/T": 3,
@@ -271,15 +272,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 5,
+        "total": 6,
         "marks": {
-          "researcher_integrity": 1,
-          "alterations": 4
+          "alterations": 5,
+          "researcher_integrity": 1
         },
         "domain": {
+          "PHY": 3,
           "B/T": 4,
           "HSC": 4,
-          "PHY": 1,
           "BLS": 3,
           "ENV": 2
         }
@@ -444,10 +445,10 @@
       "Czech Republic": 14,
       "China": 10,
       "United Kingdom": 9,
+      "Slovakia": 4,
       "United States": 4,
       "India": 3,
       "Lithuania": 3,
-      "Slovakia": 3,
       "Jordan": 2,
       "Saudi Arabia": 2,
       "Sweden": 2,
@@ -481,10 +482,10 @@
       "Czech Republic": 14,
       "China": 10,
       "United Kingdom": 9,
+      "Slovakia": 4,
       "United States": 4,
       "India": 3,
       "Lithuania": 3,
-      "Slovakia": 3,
       "Jordan": 2,
       "Saudi Arabia": 2,
       "Sweden": 2,
