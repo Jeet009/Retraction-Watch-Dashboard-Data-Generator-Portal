@@ -3,7 +3,7 @@
     "country": "Turkey",
     "yearly_rates": {
       "2024": 0.6722,
-      "2025": 0.1807,
+      "2025": 0.1908,
       "2021": 2.0409,
       "2022": 2.3008,
       "2023": 1.0159,
@@ -57,10 +57,11 @@
       "2003": 0.0659,
       "2000": 0.1295
     },
-    "average_rate": 0.7811,
+    "average_rate": 0.7821,
     "yearly_retractions": {
+      "2026": 1,
       "2024": 51,
-      "2025": 18,
+      "2025": 19,
       "2021": 127,
       "2022": 154,
       "2023": 70,
@@ -88,7 +89,7 @@
       "1996": 1
     },
     "notice_yearly_retractions": {
-      "2026": 80,
+      "2026": 82,
       "2025": 118,
       "2024": 141,
       "2020": 34,
@@ -118,22 +119,32 @@
   },
   "domainwise_data": {
     "country": "Turkey",
-    "total_retractions": 804,
+    "total_retractions": 806,
     "years": {
-      "2025": {
-        "total": 18,
+      "2026": {
+        "total": 1,
         "marks": {
+          "research": 1
+        },
+        "domain": {
+          "B/T": 3,
+          "PHY": 1
+        }
+      },
+      "2025": {
+        "total": 19,
+        "marks": {
+          "alterations": 5,
           "research": 4,
-          "alterations": 4,
           "system": 6,
           "researcher_integrity": 4
         },
         "domain": {
-          "PHY": 19,
+          "B/T": 15,
+          "PHY": 20,
           "ENV": 2,
           "HSC": 4,
           "SOC": 17,
-          "B/T": 13,
           "BLS": 1
         }
       },
@@ -548,16 +559,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 80,
+        "total": 82,
         "marks": {
-          "alterations": 11,
-          "research": 24,
+          "research": 25,
+          "alterations": 12,
           "researcher_integrity": 5,
           "system": 40
         },
         "domain": {
-          "B/T": 72,
-          "PHY": 43,
+          "B/T": 77,
+          "PHY": 45,
           "ENV": 6,
           "BLS": 16,
           "HSC": 30,
@@ -959,29 +970,29 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 93,
+      "Saudi Arabia": 94,
+      "Pakistan": 74,
       "India": 73,
-      "Pakistan": 73,
-      "China": 69,
+      "China": 70,
       "Iran": 57,
       "United States": 36,
       "Egypt": 34,
-      "Iraq": 32,
+      "Iraq": 33,
       "Taiwan": 27,
       "Romania": 20,
       "Malaysia": 19,
+      "United Kingdom": 18,
       "Russia": 18,
-      "United Kingdom": 17,
+      "Germany": 15,
       "Lebanon": 15,
       "South Korea": 15,
-      "Germany": 14,
       "Italy": 14,
       "Ethiopia": 14,
+      "Jordan": 13,
       "Canada": 13,
       "South Africa": 12,
       "Vietnam": 12,
       "Bangladesh": 12,
-      "Jordan": 12,
       "Australia": 11,
       "Spain": 9,
       "United Arab Emirates": 9,
@@ -1001,11 +1012,11 @@
       "Georgia": 5,
       "Cyprus": 5,
       "Qatar": 5,
+      "Oman": 4,
       "Slovakia": 4,
       "Netherlands": 4,
       "Morocco": 4,
       "Poland": 4,
-      "Oman": 3,
       "Kazakhstan": 3,
       "Kuwait": 3,
       "Indonesia": 3,
@@ -1041,29 +1052,29 @@
       "Belgium": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 93,
+      "Saudi Arabia": 94,
+      "Pakistan": 74,
       "India": 73,
-      "Pakistan": 73,
-      "China": 69,
+      "China": 70,
       "Iran": 57,
       "United States": 36,
       "Egypt": 34,
-      "Iraq": 32,
+      "Iraq": 33,
       "Taiwan": 27,
       "Romania": 20,
       "Malaysia": 19,
+      "United Kingdom": 18,
       "Russia": 18,
-      "United Kingdom": 17,
+      "Germany": 15,
       "Lebanon": 15,
       "South Korea": 15,
-      "Germany": 14,
       "Italy": 14,
       "Ethiopia": 14,
+      "Jordan": 13,
       "Canada": 13,
       "South Africa": 12,
       "Vietnam": 12,
       "Bangladesh": 12,
-      "Jordan": 12,
       "Australia": 11,
       "Spain": 9,
       "United Arab Emirates": 9,
@@ -1083,11 +1094,11 @@
       "Georgia": 5,
       "Cyprus": 5,
       "Qatar": 5,
+      "Oman": 4,
       "Slovakia": 4,
       "Netherlands": 4,
       "Morocco": 4,
       "Poland": 4,
-      "Oman": 3,
       "Kazakhstan": 3,
       "Kuwait": 3,
       "Indonesia": 3,

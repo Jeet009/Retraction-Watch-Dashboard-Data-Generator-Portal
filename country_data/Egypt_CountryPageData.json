@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Egypt",
     "yearly_rates": {
-      "2025": 0.348,
+      "2025": 0.3698,
       "2016": 2.282,
       "2022": 5.6733,
       "2018": 2.6287,
@@ -54,9 +54,9 @@
       "2010": 0.5421,
       "1998": 0.3331
     },
-    "average_rate": 2.6139,
+    "average_rate": 2.6161,
     "yearly_retractions": {
-      "2025": 16,
+      "2025": 17,
       "2016": 43,
       "2022": 238,
       "2018": 56,
@@ -85,7 +85,7 @@
       "1997": 1
     },
     "notice_yearly_retractions": {
-      "2026": 122,
+      "2026": 123,
       "2005": 1,
       "2007": 3,
       "2025": 265,
@@ -113,7 +113,7 @@
   },
   "domainwise_data": {
     "country": "Egypt",
-    "total_retractions": 1212,
+    "total_retractions": 1213,
     "years": {
       "2026": {
         "total": 1,
@@ -127,19 +127,19 @@
         }
       },
       "2025": {
-        "total": 16,
+        "total": 17,
         "marks": {
+          "alterations": 6,
           "research": 6,
-          "alterations": 5,
           "researcher_integrity": 4,
           "system": 1
         },
         "domain": {
-          "BLS": 6,
+          "BLS": 7,
+          "PHY": 6,
           "HSC": 27,
           "SOC": 3,
           "B/T": 7,
-          "PHY": 4,
           "ENV": 2
         }
       },
@@ -516,19 +516,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 122,
+        "total": 123,
         "marks": {
+          "alterations": 54,
           "research": 54,
-          "alterations": 53,
           "researcher_integrity": 13,
           "system": 2
         },
         "domain": {
-          "BLS": 62,
+          "BLS": 63,
+          "PHY": 80,
           "HSC": 146,
           "B/T": 19,
           "ENV": 13,
-          "PHY": 78,
           "SOC": 2
         }
       },
@@ -872,7 +872,7 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 513,
+      "Saudi Arabia": 514,
       "China": 129,
       "India": 124,
       "Pakistan": 103,
@@ -959,7 +959,7 @@
       "Gaza Strip": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 513,
+      "Saudi Arabia": 514,
       "China": 129,
       "India": 124,
       "Pakistan": 103,

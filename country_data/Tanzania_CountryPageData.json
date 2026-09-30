@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Tanzania",
     "yearly_rates": {
+      "2025": 0.4513,
       "2024": 0.5774,
-      "2025": 0.2256,
       "2021": 0.3854,
       "2022": 2.8787,
       "2023": 0.3282,
@@ -21,10 +21,10 @@
       "2017": 0.6601,
       "2009": 1.3966
     },
-    "average_rate": 0.4877,
+    "average_rate": 0.5148,
     "yearly_retractions": {
+      "2025": 2,
       "2024": 2,
-      "2025": 1,
       "2021": 1,
       "2022": 8,
       "2023": 1,
@@ -34,8 +34,8 @@
       "2009": 1
     },
     "notice_yearly_retractions": {
+      "2026": 2,
       "2025": 1,
-      "2026": 1,
       "2023": 8,
       "2024": 3,
       "2014": 2,
@@ -46,15 +46,16 @@
   },
   "domainwise_data": {
     "country": "Tanzania",
-    "total_retractions": 18,
+    "total_retractions": 19,
     "years": {
       "2025": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "system": 1,
           "research": 1
         },
         "domain": {
-          "HSC": 3
+          "HSC": 5
         }
       },
       "2024": {
@@ -146,12 +147,13 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "system": 1,
           "research": 1
         },
         "domain": {
-          "HSC": 3
+          "HSC": 5
         }
       },
       "2025": {

@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Azerbaijan",
     "yearly_rates": {
+      "2024": 7.9727,
       "2025": 0.8286,
-      "2024": 7.7449,
       "2023": 4.4248,
       "2022": 0.4909,
       "2020": 2.5063,
@@ -30,11 +30,11 @@
       "2017": 0.878,
       "2018": 1.4815
     },
-    "average_rate": 2.1886,
+    "average_rate": 2.2167,
     "yearly_retractions": {
+      "2024": 35,
       "2026": 1,
       "2025": 6,
-      "2024": 34,
       "2023": 12,
       "2022": 1,
       "2020": 5,
@@ -47,7 +47,7 @@
       "2017": 1
     },
     "notice_yearly_retractions": {
-      "2026": 15,
+      "2026": 16,
       "2025": 33,
       "2024": 6,
       "2023": 2,
@@ -65,7 +65,7 @@
   },
   "domainwise_data": {
     "country": "Azerbaijan",
-    "total_retractions": 79,
+    "total_retractions": 80,
     "years": {
       "2026": {
         "total": 1,
@@ -95,17 +95,17 @@
         }
       },
       "2024": {
-        "total": 34,
+        "total": 35,
         "marks": {
+          "researcher_integrity": 9,
           "research": 22,
-          "researcher_integrity": 8,
           "alterations": 4
         },
         "domain": {
-          "B/T": 24,
+          "B/T": 25,
+          "PHY": 18,
           "ENV": 4,
           "HSC": 8,
-          "PHY": 17,
           "BLS": 22,
           "SOC": 5
         }
@@ -233,18 +233,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 15,
+        "total": 16,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 3,
           "research": 12
         },
         "domain": {
+          "B/T": 3,
+          "PHY": 3,
           "BLS": 22,
           "HSC": 7,
-          "B/T": 2,
           "ENV": 2,
-          "SOC": 1,
-          "PHY": 2
+          "SOC": 1
         }
       },
       "2025": {
@@ -397,7 +398,7 @@
       }
     },
     "collaborations": {
-      "China": 28,
+      "China": 29,
       "Saudi Arabia": 21,
       "Pakistan": 20,
       "Russia": 12,
@@ -437,7 +438,7 @@
       "Portugal": 1
     },
     "notice_collaborations": {
-      "China": 28,
+      "China": 29,
       "Saudi Arabia": 21,
       "Pakistan": 20,
       "Russia": 12,

@@ -60,6 +60,7 @@
     },
     "average_rate": 0.4092,
     "yearly_retractions": {
+      "2026": 1,
       "2021": 67,
       "2022": 98,
       "2024": 26,
@@ -97,7 +98,7 @@
       "1990": 1
     },
     "notice_yearly_retractions": {
-      "2026": 38,
+      "2026": 39,
       "2025": 83,
       "2024": 78,
       "2023": 102,
@@ -129,8 +130,17 @@
   },
   "domainwise_data": {
     "country": "Australia",
-    "total_retractions": 828,
+    "total_retractions": 829,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "supplemental": 1
+        },
+        "domain": {
+          "PHY": 1
+        }
+      },
       "2025": {
         "total": 7,
         "marks": {
@@ -664,17 +674,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 38,
+        "total": 39,
         "marks": {
+          "supplemental": 1,
           "research": 13,
           "alterations": 11,
           "researcher_integrity": 12,
           "system": 2
         },
         "domain": {
+          "PHY": 14,
           "BLS": 33,
           "HSC": 29,
-          "PHY": 13,
           "B/T": 13,
           "ENV": 19,
           "SOC": 2

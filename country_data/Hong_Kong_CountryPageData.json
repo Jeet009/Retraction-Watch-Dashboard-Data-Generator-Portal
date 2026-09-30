@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Hong Kong",
     "yearly_rates": {
+      "2015": 0.0566,
       "2019": 0.2609,
       "2018": 0.3222,
       "2020": 0.5865,
@@ -52,8 +53,9 @@
       "2015": 0.1697,
       "2009": 0.0713
     },
-    "average_rate": 0.2342,
+    "average_rate": 0.2361,
     "yearly_retractions": {
+      "2015": 1,
       "2019": 6,
       "2018": 7,
       "2020": 14,
@@ -83,7 +85,7 @@
       "2005": 1
     },
     "notice_yearly_retractions": {
-      "2026": 9,
+      "2026": 10,
       "2025": 14,
       "2024": 15,
       "2023": 7,
@@ -109,7 +111,7 @@
   },
   "domainwise_data": {
     "country": "Hong Kong",
-    "total_retractions": 120,
+    "total_retractions": 121,
     "years": {
       "2026": {
         "total": 1,
@@ -269,6 +271,16 @@
         "domain": {
           "BLS": 7,
           "HSC": 12
+        }
+      },
+      "2015": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "BLS": 1,
+          "HSC": 2
         }
       },
       "2014": {
@@ -449,20 +461,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 9,
+        "total": 10,
         "marks": {
+          "alterations": 3,
           "research": 4,
           "researcher_integrity": 2,
-          "alterations": 2,
           "supplemental": 1
         },
         "domain": {
-          "BLS": 5,
+          "BLS": 6,
+          "HSC": 6,
           "ENV": 4,
           "PHY": 2,
           "B/T": 4,
-          "SOC": 5,
-          "HSC": 4
+          "SOC": 5
         }
       },
       "2025": {
@@ -729,8 +741,8 @@
       }
     },
     "collaborations": {
-      "China": 63,
-      "United States": 16,
+      "China": 64,
+      "United States": 17,
       "Australia": 11,
       "United Kingdom": 11,
       "South Korea": 8,
@@ -772,8 +784,8 @@
       "Grenada": 1
     },
     "notice_collaborations": {
-      "China": 63,
-      "United States": 16,
+      "China": 64,
+      "United States": 17,
       "Australia": 11,
       "United Kingdom": 11,
       "South Korea": 8,

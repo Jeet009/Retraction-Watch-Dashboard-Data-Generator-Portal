@@ -2,18 +2,18 @@
   "retraction_rate_data": {
     "country": "United States",
     "yearly_rates": {
+      "2015": 0.4741,
+      "2010": 0.555,
       "2020": 0.5568,
       "2024": 0.1917,
       "2013": 0.524,
       "2025": 0.0667,
       "2017": 0.4569,
       "2014": 0.5057,
-      "2015": 0.4723,
       "2016": 0.4621,
       "2019": 0.5493,
       "2021": 0.4916,
       "2001": 0.2552,
-      "2010": 0.5531,
       "2022": 0.4545,
       "2023": 0.4206,
       "2009": 0.4558,
@@ -65,20 +65,20 @@
       "2000": 0.0421,
       "1999": 0.0522
     },
-    "average_rate": 0.3893,
+    "average_rate": 0.3895,
     "yearly_retractions": {
+      "2015": 274,
+      "2010": 289,
       "2020": 353,
       "2024": 122,
       "2013": 296,
       "2025": 50,
       "2017": 273,
       "2014": 288,
-      "2015": 273,
       "2016": 271,
       "2019": 338,
       "2021": 323,
       "2001": 91,
-      "2010": 288,
       "2022": 285,
       "2026": 4,
       "2023": 257,
@@ -126,7 +126,7 @@
       "1959": 1
     },
     "notice_yearly_retractions": {
-      "2026": 162,
+      "2026": 164,
       "2025": 362,
       "2017": 295,
       "2024": 471,
@@ -185,7 +185,7 @@
   },
   "domainwise_data": {
     "country": "United States",
-    "total_retractions": 6253,
+    "total_retractions": 6255,
     "years": {
       "2026": {
         "total": 4,
@@ -390,17 +390,17 @@
         }
       },
       "2015": {
-        "total": 273,
+        "total": 274,
         "marks": {
-          "alterations": 131,
+          "alterations": 132,
           "research": 69,
           "researcher_integrity": 36,
           "supplemental": 17,
           "system": 20
         },
         "domain": {
-          "BLS": 372,
-          "HSC": 208,
+          "BLS": 373,
+          "HSC": 210,
           "PHY": 70,
           "B/T": 25,
           "SOC": 34,
@@ -485,17 +485,17 @@
         }
       },
       "2010": {
-        "total": 288,
+        "total": 289,
         "marks": {
+          "alterations": 152,
           "research": 62,
-          "alterations": 151,
           "researcher_integrity": 32,
           "supplemental": 31,
           "system": 12
         },
         "domain": {
-          "BLS": 483,
-          "HSC": 193,
+          "BLS": 484,
+          "HSC": 195,
           "SOC": 36,
           "PHY": 54,
           "B/T": 57,
@@ -1072,17 +1072,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 162,
+        "total": 164,
         "marks": {
-          "alterations": 77,
+          "alterations": 79,
           "researcher_integrity": 32,
           "research": 45,
           "system": 3,
           "supplemental": 5
         },
         "domain": {
-          "BLS": 195,
-          "HSC": 141,
+          "BLS": 197,
+          "HSC": 145,
           "B/T": 45,
           "ENV": 20,
           "PHY": 62,
@@ -1905,7 +1905,7 @@
       }
     },
     "collaborations": {
-      "China": 836,
+      "China": 837,
       "India": 253,
       "United Kingdom": 231,
       "Germany": 196,
@@ -1918,7 +1918,7 @@
       "Netherlands": 105,
       "France": 105,
       "Pakistan": 104,
-      "South Korea": 100,
+      "South Korea": 101,
       "Spain": 92,
       "Egypt": 82,
       "Taiwan": 70,
@@ -1948,10 +1948,10 @@
       "Portugal": 20,
       "New Zealand": 19,
       "Colombia": 18,
+      "Hong Kong": 17,
       "Ireland": 17,
       "United Arab Emirates": 16,
       "Nigeria": 16,
-      "Hong Kong": 16,
       "Austria": 16,
       "Hungary": 15,
       "Jordan": 13,
@@ -2041,7 +2041,7 @@
       "Burkina Faso": 1
     },
     "notice_collaborations": {
-      "China": 836,
+      "China": 837,
       "India": 253,
       "United Kingdom": 231,
       "Germany": 196,
@@ -2054,7 +2054,7 @@
       "Netherlands": 105,
       "France": 105,
       "Pakistan": 104,
-      "South Korea": 100,
+      "South Korea": 101,
       "Spain": 92,
       "Egypt": 82,
       "Taiwan": 70,
@@ -2084,10 +2084,10 @@
       "Portugal": 20,
       "New Zealand": 19,
       "Colombia": 18,
+      "Hong Kong": 17,
       "Ireland": 17,
       "United Arab Emirates": 16,
       "Nigeria": 16,
-      "Hong Kong": 16,
       "Austria": 16,
       "Hungary": 15,
       "Jordan": 13,

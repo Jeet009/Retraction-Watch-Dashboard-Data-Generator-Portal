@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "South Korea",
     "yearly_rates": {
+      "2010": 1.196,
       "2023": 0.8466,
       "2025": 0.1408,
       "2020": 0.6228,
@@ -22,7 +23,6 @@
       "2011": 0.9577,
       "2002": 0.4732,
       "2007": 0.4427,
-      "2010": 1.1792,
       "2008": 0.6185,
       "2009": 0.7675,
       "2003": 0.3574,
@@ -59,8 +59,9 @@
       "2003": 0.0357,
       "1999": 0.0587
     },
-    "average_rate": 0.8179,
+    "average_rate": 0.8184,
     "yearly_retractions": {
+      "2010": 71,
       "2023": 83,
       "2025": 16,
       "2020": 58,
@@ -81,7 +82,6 @@
       "2011": 62,
       "2002": 11,
       "2007": 21,
-      "2010": 70,
       "2008": 31,
       "2009": 41,
       "2003": 10,
@@ -94,7 +94,7 @@
       "1993": 1
     },
     "notice_yearly_retractions": {
-      "2026": 57,
+      "2026": 58,
       "2024": 132,
       "2022": 72,
       "2025": 130,
@@ -124,7 +124,7 @@
   },
   "domainwise_data": {
     "country": "South Korea",
-    "total_retractions": 1454,
+    "total_retractions": 1455,
     "years": {
       "2025": {
         "total": 16,
@@ -402,19 +402,19 @@
         }
       },
       "2010": {
-        "total": 70,
+        "total": 71,
         "marks": {
+          "alterations": 16,
           "system": 4,
           "researcher_integrity": 22,
-          "alterations": 15,
           "research": 14,
           "supplemental": 15
         },
         "domain": {
+          "BLS": 89,
+          "HSC": 51,
           "B/T": 25,
           "PHY": 29,
-          "HSC": 49,
-          "BLS": 88,
           "SOC": 2,
           "HUM": 2,
           "ENV": 5
@@ -627,19 +627,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 57,
+        "total": 58,
         "marks": {
+          "alterations": 20,
           "research": 20,
-          "alterations": 19,
           "researcher_integrity": 12,
           "system": 3,
           "supplemental": 3
         },
         "domain": {
+          "BLS": 36,
+          "HSC": 36,
           "B/T": 44,
           "PHY": 21,
-          "HSC": 34,
-          "BLS": 35,
           "ENV": 16,
           "SOC": 13,
           "HUM": 2
@@ -1064,7 +1064,7 @@
       "China": 322,
       "India": 172,
       "Saudi Arabia": 121,
-      "United States": 100,
+      "United States": 101,
       "Pakistan": 66,
       "Vietnam": 26,
       "Egypt": 24,
@@ -1150,7 +1150,7 @@
       "China": 322,
       "India": 172,
       "Saudi Arabia": 121,
-      "United States": 100,
+      "United States": 101,
       "Pakistan": 66,
       "Vietnam": 26,
       "Egypt": 24,

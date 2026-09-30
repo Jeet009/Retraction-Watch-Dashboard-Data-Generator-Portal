@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Spain",
     "yearly_rates": {
-      "2022": 0.4835,
+      "2022": 0.4924,
       "2024": 0.1388,
       "2023": 0.2604,
       "2025": 0.0541,
@@ -32,8 +32,8 @@
       "1997": 0.0371
     },
     "notice_yearly_rates": {
+      "2024": 0.9806,
       "2025": 0.3326,
-      "2024": 0.9719,
       "2022": 0.2507,
       "2019": 0.3284,
       "2023": 0.5297,
@@ -59,9 +59,9 @@
       "1999": 0.0347,
       "2003": 0.027
     },
-    "average_rate": 0.3018,
+    "average_rate": 0.3023,
     "yearly_retractions": {
-      "2022": 54,
+      "2022": 55,
       "2024": 16,
       "2023": 29,
       "2025": 7,
@@ -92,8 +92,8 @@
     },
     "notice_yearly_retractions": {
       "2026": 21,
+      "2024": 113,
       "2025": 43,
-      "2024": 112,
       "2022": 28,
       "2019": 32,
       "2023": 59,
@@ -122,7 +122,7 @@
   },
   "domainwise_data": {
     "country": "Spain",
-    "total_retractions": 623,
+    "total_retractions": 624,
     "years": {
       "2025": {
         "total": 7,
@@ -175,18 +175,18 @@
         }
       },
       "2022": {
-        "total": 54,
+        "total": 55,
         "marks": {
           "research": 26,
+          "researcher_integrity": 9,
           "alterations": 17,
-          "researcher_integrity": 8,
           "system": 2,
           "supplemental": 1
         },
         "domain": {
           "B/T": 46,
-          "BLS": 24,
-          "ENV": 10,
+          "BLS": 25,
+          "ENV": 12,
           "HSC": 22,
           "PHY": 33,
           "SOC": 8,
@@ -608,21 +608,21 @@
         }
       },
       "2024": {
-        "total": 112,
+        "total": 113,
         "marks": {
+          "researcher_integrity": 34,
           "research": 30,
-          "researcher_integrity": 33,
           "alterations": 43,
           "supplemental": 3,
           "system": 3
         },
         "domain": {
-          "BLS": 126,
+          "BLS": 127,
+          "ENV": 14,
           "HSC": 73,
           "B/T": 70,
           "SOC": 12,
-          "PHY": 48,
-          "ENV": 12
+          "PHY": 48
         }
       },
       "2023": {
