@@ -6,14 +6,14 @@
       "2023": 0.8466,
       "2025": 0.1408,
       "2020": 0.6228,
-      "2024": 0.6167,
+      "2024": 0.6262,
       "2021": 1.5013,
+      "2022": 2.7707,
       "2019": 0.5716,
       "2013": 0.9535,
       "2015": 0.6422,
       "2018": 0.7493,
       "2016": 0.5957,
-      "2022": 2.7606,
       "2005": 1.0109,
       "2017": 0.6992,
       "2014": 0.6588,
@@ -59,20 +59,20 @@
       "2003": 0.0357,
       "1999": 0.0587
     },
-    "average_rate": 0.8184,
+    "average_rate": 0.8196,
     "yearly_retractions": {
       "2010": 71,
       "2023": 83,
       "2025": 16,
       "2020": 58,
-      "2024": 65,
+      "2024": 66,
       "2021": 148,
+      "2022": 275,
       "2019": 51,
       "2013": 69,
       "2015": 51,
       "2018": 63,
       "2016": 48,
-      "2022": 274,
       "2005": 38,
       "2017": 57,
       "2014": 50,
@@ -94,7 +94,7 @@
       "1993": 1
     },
     "notice_yearly_retractions": {
-      "2026": 58,
+      "2026": 60,
       "2024": 132,
       "2022": 72,
       "2025": 130,
@@ -124,7 +124,7 @@
   },
   "domainwise_data": {
     "country": "South Korea",
-    "total_retractions": 1455,
+    "total_retractions": 1457,
     "years": {
       "2025": {
         "total": 16,
@@ -144,10 +144,10 @@
         }
       },
       "2024": {
-        "total": 65,
+        "total": 66,
         "marks": {
           "alterations": 20,
-          "research": 23,
+          "research": 24,
           "supplemental": 6,
           "researcher_integrity": 14,
           "system": 2
@@ -155,8 +155,8 @@
         "domain": {
           "B/T": 48,
           "HSC": 46,
+          "PHY": 33,
           "BLS": 27,
-          "PHY": 31,
           "ENV": 16,
           "SOC": 18,
           "HUM": 1
@@ -182,16 +182,16 @@
         }
       },
       "2022": {
-        "total": 274,
+        "total": 275,
         "marks": {
+          "research": 87,
           "researcher_integrity": 30,
-          "research": 86,
           "system": 4,
           "alterations": 146,
           "supplemental": 8
         },
         "domain": {
-          "BLS": 96,
+          "BLS": 98,
           "ENV": 33,
           "PHY": 133,
           "HSC": 108,
@@ -627,19 +627,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 58,
+        "total": 60,
         "marks": {
           "alterations": 20,
-          "research": 20,
+          "research": 22,
           "researcher_integrity": 12,
           "system": 3,
           "supplemental": 3
         },
         "domain": {
-          "BLS": 36,
+          "BLS": 38,
           "HSC": 36,
           "B/T": 44,
-          "PHY": 21,
+          "PHY": 23,
           "ENV": 16,
           "SOC": 13,
           "HUM": 2
@@ -1062,10 +1062,10 @@
     },
     "collaborations": {
       "China": 322,
-      "India": 172,
-      "Saudi Arabia": 121,
+      "India": 173,
+      "Saudi Arabia": 123,
       "United States": 101,
-      "Pakistan": 66,
+      "Pakistan": 67,
       "Vietnam": 26,
       "Egypt": 24,
       "Canada": 23,
@@ -1075,7 +1075,7 @@
       "Bangladesh": 20,
       "United Kingdom": 19,
       "Japan": 19,
-      "Germany": 17,
+      "Germany": 18,
       "Iran": 16,
       "Turkey": 15,
       "Taiwan": 14,
@@ -1100,6 +1100,7 @@
       "Belgium": 4,
       "Hungary": 4,
       "Nepal": 4,
+      "Slovakia": 3,
       "Sri Lanka": 3,
       "Nigeria": 3,
       "Sweden": 3,
@@ -1114,7 +1115,6 @@
       "Greece": 2,
       "Switzerland": 2,
       "Czech Republic": 2,
-      "Slovakia": 2,
       "Kuwait": 2,
       "Albania": 2,
       "Qatar": 2,
@@ -1148,10 +1148,10 @@
     },
     "notice_collaborations": {
       "China": 322,
-      "India": 172,
-      "Saudi Arabia": 121,
+      "India": 173,
+      "Saudi Arabia": 123,
       "United States": 101,
-      "Pakistan": 66,
+      "Pakistan": 67,
       "Vietnam": 26,
       "Egypt": 24,
       "Canada": 23,
@@ -1161,7 +1161,7 @@
       "Bangladesh": 20,
       "United Kingdom": 19,
       "Japan": 19,
-      "Germany": 17,
+      "Germany": 18,
       "Iran": 16,
       "Turkey": 15,
       "Taiwan": 14,
@@ -1186,6 +1186,7 @@
       "Belgium": 4,
       "Hungary": 4,
       "Nepal": 4,
+      "Slovakia": 3,
       "Sri Lanka": 3,
       "Nigeria": 3,
       "Sweden": 3,
@@ -1200,7 +1201,6 @@
       "Greece": 2,
       "Switzerland": 2,
       "Czech Republic": 2,
-      "Slovakia": 2,
       "Kuwait": 2,
       "Albania": 2,
       "Qatar": 2,

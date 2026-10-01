@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Italy",
     "yearly_rates": {
-      "2024": 0.1724,
+      "2024": 0.1793,
       "2013": 0.6739,
       "2011": 0.7596,
       "2016": 0.4666,
@@ -33,8 +33,8 @@
       "1997": 0.0488
     },
     "notice_yearly_rates": {
+      "2025": 0.4581,
       "2024": 0.8208,
-      "2025": 0.4521,
       "2017": 0.5531,
       "2022": 0.4317,
       "2023": 0.4542,
@@ -60,9 +60,9 @@
       "2003": 0.0952,
       "1998": 0.0742
     },
-    "average_rate": 0.3898,
+    "average_rate": 0.3902,
     "yearly_retractions": {
-      "2024": 25,
+      "2024": 26,
       "2013": 63,
       "2011": 62,
       "2016": 48,
@@ -100,8 +100,8 @@
     },
     "notice_yearly_retractions": {
       "2026": 61,
+      "2025": 77,
       "2024": 119,
-      "2025": 76,
       "2017": 59,
       "2022": 60,
       "2023": 63,
@@ -131,7 +131,7 @@
   },
   "domainwise_data": {
     "country": "Italy",
-    "total_retractions": 1015,
+    "total_retractions": 1016,
     "years": {
       "2026": {
         "total": 1,
@@ -157,20 +157,20 @@
         }
       },
       "2024": {
-        "total": 25,
+        "total": 26,
         "marks": {
           "research": 7,
+          "alterations": 5,
           "researcher_integrity": 7,
           "system": 4,
-          "alterations": 4,
           "supplemental": 3
         },
         "domain": {
           "BLS": 19,
+          "PHY": 14,
           "HSC": 25,
           "ENV": 6,
           "B/T": 7,
-          "PHY": 11,
           "SOC": 2
         }
       },
@@ -670,19 +670,19 @@
         }
       },
       "2025": {
-        "total": 76,
+        "total": 77,
         "marks": {
+          "alterations": 36,
           "researcher_integrity": 22,
-          "alterations": 35,
           "system": 7,
           "research": 10,
           "supplemental": 2
         },
         "domain": {
+          "PHY": 30,
           "BLS": 90,
           "HSC": 80,
           "ENV": 7,
-          "PHY": 27,
           "B/T": 14,
           "HUM": 1,
           "SOC": 1
@@ -1139,6 +1139,7 @@
       "Norway": 4,
       "Qatar": 4,
       "Tunisia": 4,
+      "Slovakia": 3,
       "Hungary": 3,
       "Argentina": 3,
       "Ecuador": 3,
@@ -1150,7 +1151,6 @@
       "Albania": 2,
       "Singapore": 2,
       "Morocco": 2,
-      "Slovakia": 2,
       "South Africa": 2,
       "Cameroon": 2,
       "Peru": 1,
@@ -1221,6 +1221,7 @@
       "Norway": 4,
       "Qatar": 4,
       "Tunisia": 4,
+      "Slovakia": 3,
       "Hungary": 3,
       "Argentina": 3,
       "Ecuador": 3,
@@ -1232,7 +1233,6 @@
       "Albania": 2,
       "Singapore": 2,
       "Morocco": 2,
-      "Slovakia": 2,
       "South Africa": 2,
       "Cameroon": 2,
       "Peru": 1,
