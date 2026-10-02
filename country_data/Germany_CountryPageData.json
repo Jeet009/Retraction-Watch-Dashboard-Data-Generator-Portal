@@ -3,6 +3,7 @@
     "country": "Germany",
     "yearly_rates": {
       "2005": 0.2149,
+      "2017": 0.3786,
       "2022": 0.3526,
       "2023": 0.2702,
       "2013": 0.2728,
@@ -10,7 +11,6 @@
       "2019": 0.2977,
       "2024": 0.2098,
       "2021": 0.3585,
-      "2017": 0.3727,
       "2008": 0.3427,
       "2012": 0.3109,
       "2007": 0.2703,
@@ -64,10 +64,11 @@
       "1997": 0.0953,
       "2001": 0.0223
     },
-    "average_rate": 0.3004,
+    "average_rate": 0.3007,
     "yearly_retractions": {
       "2005": 25,
       "2026": 2,
+      "2017": 64,
       "2022": 66,
       "2023": 49,
       "2013": 42,
@@ -75,7 +76,6 @@
       "2019": 52,
       "2024": 39,
       "2021": 69,
-      "2017": 63,
       "2008": 43,
       "2012": 47,
       "2007": 33,
@@ -115,7 +115,7 @@
       "1984": 1
     },
     "notice_yearly_retractions": {
-      "2026": 49,
+      "2026": 50,
       "2025": 84,
       "2014": 105,
       "2023": 103,
@@ -156,7 +156,7 @@
   },
   "domainwise_data": {
     "country": "Germany",
-    "total_retractions": 1360,
+    "total_retractions": 1361,
     "years": {
       "2026": {
         "total": 2,
@@ -316,17 +316,17 @@
         }
       },
       "2017": {
-        "total": 63,
+        "total": 64,
         "marks": {
+          "researcher_integrity": 15,
           "alterations": 21,
           "supplemental": 3,
           "research": 22,
-          "researcher_integrity": 14,
           "system": 3
         },
         "domain": {
-          "BLS": 65,
-          "HSC": 44,
+          "BLS": 66,
+          "HSC": 47,
           "PHY": 23,
           "SOC": 8,
           "HUM": 5,
@@ -867,16 +867,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 49,
+        "total": 50,
         "marks": {
           "alterations": 12,
           "research": 20,
-          "system": 4,
-          "researcher_integrity": 13
+          "researcher_integrity": 14,
+          "system": 4
         },
         "domain": {
-          "BLS": 43,
-          "HSC": 53,
+          "BLS": 44,
+          "HSC": 56,
           "B/T": 10,
           "PHY": 14,
           "SOC": 4,
@@ -1427,7 +1427,7 @@
       "France": 51,
       "Switzerland": 51,
       "Saudi Arabia": 48,
-      "Egypt": 44,
+      "Egypt": 45,
       "Netherlands": 41,
       "Canada": 30,
       "Pakistan": 27,
@@ -1544,7 +1544,7 @@
       "France": 51,
       "Switzerland": 51,
       "Saudi Arabia": 48,
-      "Egypt": 44,
+      "Egypt": 45,
       "Netherlands": 41,
       "Canada": 30,
       "Pakistan": 27,

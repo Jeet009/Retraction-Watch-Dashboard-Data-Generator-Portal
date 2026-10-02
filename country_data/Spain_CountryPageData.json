@@ -61,6 +61,7 @@
     },
     "average_rate": 0.3023,
     "yearly_retractions": {
+      "2026": 1,
       "2022": 55,
       "2024": 16,
       "2023": 29,
@@ -91,7 +92,7 @@
       "1997": 1
     },
     "notice_yearly_retractions": {
-      "2026": 21,
+      "2026": 22,
       "2024": 113,
       "2025": 43,
       "2022": 28,
@@ -122,8 +123,18 @@
   },
   "domainwise_data": {
     "country": "Spain",
-    "total_retractions": 624,
+    "total_retractions": 625,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "system": 1
+        },
+        "domain": {
+          "ENV": 1,
+          "HSC": 1
+        }
+      },
       "2025": {
         "total": 7,
         "marks": {
@@ -575,18 +586,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 21,
+        "total": 22,
         "marks": {
+          "system": 2,
           "research": 12,
           "alterations": 4,
-          "researcher_integrity": 4,
-          "system": 1
+          "researcher_integrity": 4
         },
         "domain": {
+          "ENV": 7,
+          "HSC": 11,
           "B/T": 14,
           "PHY": 14,
-          "ENV": 6,
-          "HSC": 10,
           "SOC": 2,
           "BLS": 8
         }
@@ -1003,7 +1014,7 @@
       "France": 33,
       "Germany": 23,
       "Japan": 23,
-      "Brazil": 18,
+      "Brazil": 19,
       "Iran": 17,
       "Switzerland": 16,
       "Malaysia": 16,
@@ -1090,7 +1101,7 @@
       "France": 33,
       "Germany": 23,
       "Japan": 23,
-      "Brazil": 18,
+      "Brazil": 19,
       "Iran": 17,
       "Switzerland": 16,
       "Malaysia": 16,
