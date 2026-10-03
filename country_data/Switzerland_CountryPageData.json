@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Switzerland",
     "yearly_rates": {
+      "2014": 0.2246,
       "2025": 0.1169,
       "2009": 0.3616,
       "2021": 0.3776,
@@ -25,7 +26,6 @@
       "2008": 0.3493,
       "2004": 0.1773,
       "2006": 0.2646,
-      "2014": 0.1997,
       "2001": 0.4614,
       "2010": 0.2778,
       "2005": 0.0809,
@@ -63,12 +63,13 @@
       "2005": 0.0404,
       "1999": 0.1154
     },
-    "average_rate": 0.2413,
+    "average_rate": 0.2423,
     "yearly_retractions": {
+      "2026": 2,
+      "2014": 9,
       "2025": 7,
       "2009": 11,
       "2021": 20,
-      "2026": 1,
       "2022": 17,
       "2024": 10,
       "2016": 13,
@@ -89,7 +90,6 @@
       "2008": 10,
       "2004": 4,
       "2006": 7,
-      "2014": 8,
       "2001": 8,
       "2010": 9,
       "2005": 2,
@@ -103,7 +103,7 @@
       "1998": 1
     },
     "notice_yearly_retractions": {
-      "2026": 9,
+      "2026": 11,
       "2025": 14,
       "2024": 26,
       "2023": 11,
@@ -138,14 +138,17 @@
   },
   "domainwise_data": {
     "country": "Switzerland",
-    "total_retractions": 254,
+    "total_retractions": 256,
     "years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "system": 1,
           "research": 1
         },
         "domain": {
+          "BLS": 2,
+          "ENV": 1,
           "HSC": 3
         }
       },
@@ -327,15 +330,15 @@
         }
       },
       "2014": {
-        "total": 8,
+        "total": 9,
         "marks": {
-          "alterations": 2,
+          "alterations": 3,
           "research": 5,
           "researcher_integrity": 1
         },
         "domain": {
-          "BLS": 9,
-          "HSC": 10,
+          "BLS": 11,
+          "HSC": 11,
           "B/T": 1,
           "SOC": 1,
           "PHY": 4
@@ -624,15 +627,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 9,
+        "total": 11,
         "marks": {
+          "system": 1,
+          "alterations": 2,
           "researcher_integrity": 2,
-          "research": 6,
-          "alterations": 1
+          "research": 6
         },
         "domain": {
-          "BLS": 5,
-          "HSC": 21,
+          "BLS": 9,
+          "ENV": 1,
+          "HSC": 22,
           "B/T": 3,
           "SOC": 2,
           "HUM": 1
@@ -1044,8 +1049,8 @@
       }
     },
     "collaborations": {
-      "United States": 60,
-      "Germany": 51,
+      "United States": 61,
+      "Germany": 52,
       "United Kingdom": 38,
       "France": 31,
       "Italy": 30,
@@ -1058,10 +1063,11 @@
       "Australia": 8,
       "India": 8,
       "Brazil": 8,
+      "Denmark": 7,
       "Belgium": 7,
       "Japan": 6,
-      "Denmark": 6,
       "Iran": 5,
+      "Egypt": 4,
       "Russia": 4,
       "South Africa": 4,
       "Israel": 4,
@@ -1069,7 +1075,6 @@
       "Austria": 4,
       "Singapore": 4,
       "Pakistan": 3,
-      "Egypt": 3,
       "Greece": 3,
       "Norway": 3,
       "Bahrain": 3,
@@ -1083,6 +1088,7 @@
       "Ireland": 2,
       "Serbia": 2,
       "Bulgaria": 2,
+      "Libya": 1,
       "Hong Kong": 1,
       "Lithuania": 1,
       "Cameroon": 1,
@@ -1109,8 +1115,8 @@
       "Cambodia": 1
     },
     "notice_collaborations": {
-      "United States": 60,
-      "Germany": 51,
+      "United States": 61,
+      "Germany": 52,
       "United Kingdom": 38,
       "France": 31,
       "Italy": 30,
@@ -1123,10 +1129,11 @@
       "Australia": 8,
       "India": 8,
       "Brazil": 8,
+      "Denmark": 7,
       "Belgium": 7,
       "Japan": 6,
-      "Denmark": 6,
       "Iran": 5,
+      "Egypt": 4,
       "Russia": 4,
       "South Africa": 4,
       "Israel": 4,
@@ -1134,7 +1141,6 @@
       "Austria": 4,
       "Singapore": 4,
       "Pakistan": 3,
-      "Egypt": 3,
       "Greece": 3,
       "Norway": 3,
       "Bahrain": 3,
@@ -1148,6 +1154,7 @@
       "Ireland": 2,
       "Serbia": 2,
       "Bulgaria": 2,
+      "Libya": 1,
       "Hong Kong": 1,
       "Lithuania": 1,
       "Cameroon": 1,

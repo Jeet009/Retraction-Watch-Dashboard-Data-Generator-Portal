@@ -29,6 +29,7 @@
     },
     "average_rate": 1.6721,
     "yearly_retractions": {
+      "2026": 1,
       "2015": 1,
       "2019": 1,
       "2025": 1,
@@ -43,8 +44,8 @@
       "1998": 1
     },
     "notice_yearly_retractions": {
+      "2026": 3,
       "2025": 6,
-      "2026": 2,
       "2024": 1,
       "2023": 3,
       "2022": 2,
@@ -58,8 +59,18 @@
   },
   "domainwise_data": {
     "country": "Libya",
-    "total_retractions": 21,
+    "total_retractions": 22,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "system": 1
+        },
+        "domain": {
+          "BLS": 2,
+          "ENV": 1
+        }
+      },
       "2025": {
         "total": 1,
         "marks": {
@@ -183,12 +194,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 2,
+        "total": 3,
         "marks": {
+          "system": 1,
           "alterations": 1,
           "research": 1
         },
         "domain": {
+          "BLS": 2,
+          "ENV": 1,
           "HSC": 4,
           "B/T": 3
         }
@@ -306,12 +320,13 @@
       "Malaysia": 5,
       "Turkey": 3,
       "Sudan": 3,
+      "Egypt": 2,
       "Jordan": 2,
       "United Kingdom": 2,
       "Greece": 2,
       "Lebanon": 2,
       "Saudi Arabia": 2,
-      "Egypt": 1,
+      "Switzerland": 1,
       "Botswana": 1,
       "China": 1,
       "Cyprus": 1,
@@ -336,12 +351,13 @@
       "Malaysia": 5,
       "Turkey": 3,
       "Sudan": 3,
+      "Egypt": 2,
       "Jordan": 2,
       "United Kingdom": 2,
       "Greece": 2,
       "Lebanon": 2,
       "Saudi Arabia": 2,
-      "Egypt": 1,
+      "Switzerland": 1,
       "Botswana": 1,
       "China": 1,
       "Cyprus": 1,

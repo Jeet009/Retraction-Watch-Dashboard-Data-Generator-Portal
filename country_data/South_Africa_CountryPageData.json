@@ -3,12 +3,12 @@
     "country": "South Africa",
     "yearly_rates": {
       "2018": 0.4567,
+      "2020": 0.4894,
       "2019": 0.7473,
       "2021": 1.1248,
       "2024": 1.3107,
       "2023": 1.3348,
       "2022": 0.9646,
-      "2020": 0.4544,
       "2025": 0.1001,
       "2015": 0.5282,
       "2016": 0.3829,
@@ -49,15 +49,15 @@
       "2001": 0.1877,
       "2005": 0.1322
     },
-    "average_rate": 0.5919,
+    "average_rate": 0.594,
     "yearly_retractions": {
       "2018": 11,
+      "2020": 14,
       "2019": 20,
       "2021": 34,
       "2024": 42,
       "2023": 40,
       "2022": 30,
-      "2020": 13,
       "2025": 4,
       "2015": 10,
       "2016": 8,
@@ -79,7 +79,7 @@
       "2006": 1
     },
     "notice_yearly_retractions": {
-      "2026": 33,
+      "2026": 34,
       "2025": 83,
       "2023": 18,
       "2024": 25,
@@ -104,7 +104,7 @@
   },
   "domainwise_data": {
     "country": "South Africa",
-    "total_retractions": 282,
+    "total_retractions": 283,
     "years": {
       "2025": {
         "total": 4,
@@ -191,16 +191,16 @@
         }
       },
       "2020": {
-        "total": 13,
+        "total": 14,
         "marks": {
-          "alterations": 8,
+          "alterations": 9,
           "supplemental": 1,
           "researcher_integrity": 3,
           "research": 1
         },
         "domain": {
+          "PHY": 16,
           "BLS": 9,
-          "PHY": 15,
           "HSC": 5,
           "ENV": 2,
           "SOC": 1
@@ -479,15 +479,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 33,
+        "total": 34,
         "marks": {
           "research": 5,
+          "alterations": 15,
           "researcher_integrity": 5,
-          "supplemental": 9,
-          "alterations": 14
+          "supplemental": 9
         },
         "domain": {
-          "PHY": 39,
+          "PHY": 40,
           "BLS": 10,
           "ENV": 4,
           "B/T": 12,

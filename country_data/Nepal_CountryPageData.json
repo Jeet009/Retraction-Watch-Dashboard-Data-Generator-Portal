@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Nepal",
     "yearly_rates": {
+      "2018": 1.3021,
       "2025": 0.8747,
       "2024": 2.8145,
       "2022": 8.0715,
@@ -14,7 +15,6 @@
       "2016": 4.1771,
       "2011": 1.3774,
       "2019": 0.528,
-      "2018": 0.651,
       "2012": 2.3256,
       "2014": 3.1447,
       "2013": 3.3296,
@@ -38,8 +38,9 @@
       "2015": 0.9515,
       "2006": 1.8553
     },
-    "average_rate": 2.1671,
+    "average_rate": 2.1945,
     "yearly_retractions": {
+      "2018": 2,
       "2025": 4,
       "2026": 1,
       "2024": 10,
@@ -53,14 +54,13 @@
       "2016": 5,
       "2011": 1,
       "2019": 1,
-      "2018": 1,
       "2012": 2,
       "2014": 3,
       "2013": 3,
       "2002": 1
     },
     "notice_yearly_retractions": {
-      "2026": 7,
+      "2026": 8,
       "2025": 4,
       "2024": 9,
       "2023": 31,
@@ -81,7 +81,7 @@
   },
   "domainwise_data": {
     "country": "Nepal",
-    "total_retractions": 80,
+    "total_retractions": 81,
     "years": {
       "2026": {
         "total": 1,
@@ -184,12 +184,14 @@
         }
       },
       "2018": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 1
         },
         "domain": {
-          "BLS": 2
+          "BLS": 3,
+          "ENV": 1
         }
       },
       "2017": {
@@ -290,16 +292,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "researcher_integrity": 1,
           "research": 4,
           "alterations": 3
         },
         "domain": {
+          "BLS": 2,
+          "ENV": 3,
           "HSC": 13,
           "B/T": 3,
-          "BLS": 1,
-          "ENV": 2,
           "PHY": 2,
           "SOC": 1
         }
@@ -491,12 +494,14 @@
       "South Korea": 4,
       "China": 4,
       "Thailand": 4,
+      "Germany": 3,
       "Jordan": 3,
       "Bangladesh": 2,
       "Indonesia": 2,
       "United Arab Emirates": 2,
       "Iraq": 2,
-      "Germany": 2,
+      "Philippines": 1,
+      "Russia": 1,
       "Morocco": 1,
       "Australia": 1,
       "Ethiopia": 1,
@@ -532,12 +537,14 @@
       "South Korea": 4,
       "China": 4,
       "Thailand": 4,
+      "Germany": 3,
       "Jordan": 3,
       "Bangladesh": 2,
       "Indonesia": 2,
       "United Arab Emirates": 2,
       "Iraq": 2,
-      "Germany": 2,
+      "Philippines": 1,
+      "Russia": 1,
       "Morocco": 1,
       "Australia": 1,
       "Ethiopia": 1,

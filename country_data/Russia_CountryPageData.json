@@ -5,6 +5,8 @@
     "notice_yearly_rates": {},
     "average_rate": 0.0,
     "yearly_retractions": {
+      "2018": 262,
+      "2017": 310,
       "2022": 73,
       "2020": 215,
       "2025": 8,
@@ -14,8 +16,6 @@
       "2009": 8,
       "2026": 1,
       "2019": 217,
-      "2018": 261,
-      "2017": 308,
       "2016": 693,
       "2013": 6,
       "2011": 12,
@@ -33,7 +33,7 @@
       "2006": 2
     },
     "notice_yearly_retractions": {
-      "2026": 22,
+      "2026": 25,
       "2025": 391,
       "2023": 88,
       "2024": 60,
@@ -57,7 +57,7 @@
   },
   "domainwise_data": {
     "country": "Russia",
-    "total_retractions": 3125,
+    "total_retractions": 3128,
     "years": {
       "2026": {
         "total": 1,
@@ -195,41 +195,41 @@
         }
       },
       "2018": {
-        "total": 261,
+        "total": 262,
         "marks": {
+          "researcher_integrity": 8,
           "alterations": 120,
           "research": 78,
           "supplemental": 46,
-          "system": 10,
-          "researcher_integrity": 7
+          "system": 10
         },
         "domain": {
+          "BLS": 26,
+          "ENV": 20,
           "PHY": 125,
           "SOC": 162,
-          "BLS": 25,
           "HSC": 18,
           "B/T": 177,
-          "HUM": 23,
-          "ENV": 19
+          "HUM": 23
         }
       },
       "2017": {
-        "total": 308,
+        "total": 310,
         "marks": {
+          "researcher_integrity": 14,
           "research": 92,
           "alterations": 174,
           "system": 7,
-          "supplemental": 23,
-          "researcher_integrity": 12
+          "supplemental": 23
         },
         "domain": {
+          "BLS": 34,
+          "ENV": 36,
           "PHY": 89,
           "HSC": 38,
           "B/T": 204,
-          "BLS": 31,
           "SOC": 236,
-          "HUM": 54,
-          "ENV": 34
+          "HUM": 54
         }
       },
       "2016": {
@@ -437,18 +437,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 22,
+        "total": 25,
         "marks": {
+          "researcher_integrity": 9,
           "research": 4,
           "system": 3,
-          "alterations": 9,
-          "researcher_integrity": 6
+          "alterations": 9
         },
         "domain": {
+          "BLS": 7,
+          "ENV": 8,
           "B/T": 8,
           "PHY": 31,
-          "ENV": 5,
-          "BLS": 3,
           "HSC": 5,
           "SOC": 1
         }
@@ -740,7 +740,7 @@
       }
     },
     "collaborations": {
-      "China": 88,
+      "China": 90,
       "Kazakhstan": 61,
       "India": 51,
       "Saudi Arabia": 50,
@@ -749,7 +749,7 @@
       "United States": 32,
       "Iraq": 31,
       "Egypt": 30,
-      "Germany": 25,
+      "Germany": 27,
       "United Kingdom": 21,
       "Turkey": 18,
       "Belarus": 17,
@@ -780,6 +780,7 @@
       "Croatia": 4,
       "Serbia": 4,
       "Czech Republic": 4,
+      "Philippines": 3,
       "Yemen": 3,
       "Oman": 3,
       "Hungary": 3,
@@ -799,7 +800,6 @@
       "Cameroon": 2,
       "Ukraine": 2,
       "Cyprus": 2,
-      "Philippines": 2,
       "Peru": 2,
       "Portugal": 2,
       "Kuwait": 2,
@@ -807,6 +807,7 @@
       "Moldova": 2,
       "Ireland": 2,
       "France": 2,
+      "Nepal": 1,
       "Guyana": 1,
       "Syria": 1,
       "Morocco": 1,
@@ -824,7 +825,7 @@
       "Netherlands": 1
     },
     "notice_collaborations": {
-      "China": 88,
+      "China": 90,
       "Kazakhstan": 61,
       "India": 51,
       "Saudi Arabia": 50,
@@ -833,7 +834,7 @@
       "United States": 32,
       "Iraq": 31,
       "Egypt": 30,
-      "Germany": 25,
+      "Germany": 27,
       "United Kingdom": 21,
       "Turkey": 18,
       "Belarus": 17,
@@ -864,6 +865,7 @@
       "Croatia": 4,
       "Serbia": 4,
       "Czech Republic": 4,
+      "Philippines": 3,
       "Yemen": 3,
       "Oman": 3,
       "Hungary": 3,
@@ -883,7 +885,6 @@
       "Cameroon": 2,
       "Ukraine": 2,
       "Cyprus": 2,
-      "Philippines": 2,
       "Peru": 2,
       "Portugal": 2,
       "Kuwait": 2,
@@ -891,6 +892,7 @@
       "Moldova": 2,
       "Ireland": 2,
       "France": 2,
+      "Nepal": 1,
       "Guyana": 1,
       "Syria": 1,
       "Morocco": 1,
