@@ -52,6 +52,7 @@
     "average_rate": 0.594,
     "yearly_retractions": {
       "2018": 11,
+      "2026": 1,
       "2020": 14,
       "2019": 20,
       "2021": 34,
@@ -79,7 +80,7 @@
       "2006": 1
     },
     "notice_yearly_retractions": {
-      "2026": 34,
+      "2026": 35,
       "2025": 83,
       "2023": 18,
       "2024": 25,
@@ -104,8 +105,17 @@
   },
   "domainwise_data": {
     "country": "South Africa",
-    "total_retractions": 283,
+    "total_retractions": 284,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "SOC": 3
+        }
+      },
       "2025": {
         "total": 4,
         "marks": {
@@ -479,19 +489,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 34,
+        "total": 35,
         "marks": {
-          "research": 5,
+          "research": 6,
           "alterations": 15,
           "researcher_integrity": 5,
           "supplemental": 9
         },
         "domain": {
           "PHY": 40,
+          "SOC": 11,
           "BLS": 10,
           "ENV": 4,
           "B/T": 12,
-          "SOC": 8,
           "HSC": 6
         }
       },

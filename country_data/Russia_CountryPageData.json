@@ -5,16 +5,16 @@
     "notice_yearly_rates": {},
     "average_rate": 0.0,
     "yearly_retractions": {
+      "2026": 2,
+      "2023": 231,
       "2018": 262,
       "2017": 310,
       "2022": 73,
       "2020": 215,
       "2025": 8,
-      "2023": 230,
       "2021": 106,
       "2024": 155,
       "2009": 8,
-      "2026": 1,
       "2019": 217,
       "2016": 693,
       "2013": 6,
@@ -33,7 +33,7 @@
       "2006": 2
     },
     "notice_yearly_retractions": {
-      "2026": 25,
+      "2026": 27,
       "2025": 391,
       "2023": 88,
       "2024": 60,
@@ -57,14 +57,16 @@
   },
   "domainwise_data": {
     "country": "Russia",
-    "total_retractions": 3128,
+    "total_retractions": 3130,
     "years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "alterations": 1,
           "researcher_integrity": 1
         },
         "domain": {
+          "HSC": 2,
           "PHY": 4
         }
       },
@@ -101,21 +103,21 @@
         }
       },
       "2023": {
-        "total": 230,
+        "total": 231,
         "marks": {
+          "research": 195,
           "researcher_integrity": 16,
-          "research": 194,
           "system": 3,
           "alterations": 17
         },
         "domain": {
-          "B/T": 122,
-          "SOC": 93,
+          "B/T": 123,
+          "HUM": 9,
+          "SOC": 94,
           "BLS": 96,
           "HSC": 50,
           "PHY": 78,
-          "ENV": 101,
-          "HUM": 8
+          "ENV": 101
         }
       },
       "2022": {
@@ -437,20 +439,21 @@
     },
     "notice_years": {
       "2026": {
-        "total": 25,
+        "total": 27,
         "marks": {
+          "alterations": 10,
+          "research": 5,
           "researcher_integrity": 9,
-          "research": 4,
-          "system": 3,
-          "alterations": 9
+          "system": 3
         },
         "domain": {
+          "HSC": 7,
+          "B/T": 9,
+          "HUM": 1,
+          "SOC": 2,
           "BLS": 7,
           "ENV": 8,
-          "B/T": 8,
-          "PHY": 31,
-          "HSC": 5,
-          "SOC": 1
+          "PHY": 31
         }
       },
       "2025": {

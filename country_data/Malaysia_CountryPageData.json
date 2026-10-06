@@ -4,10 +4,10 @@
     "yearly_rates": {
       "2024": 1.3083,
       "2025": 0.3787,
+      "2023": 1.7126,
       "2016": 1.3879,
       "2022": 4.3537,
       "2020": 0.9416,
-      "2023": 1.6891,
       "2021": 2.5685,
       "2019": 0.9322,
       "2018": 5.7515,
@@ -25,7 +25,7 @@
       "2005": 0.293
     },
     "notice_yearly_rates": {
-      "2024": 2.3378,
+      "2024": 2.3592,
       "2025": 2.5968,
       "2022": 1.8795,
       "2023": 3.7067,
@@ -45,14 +45,14 @@
       "2010": 2.6625,
       "2007": 0.1935
     },
-    "average_rate": 1.7055,
+    "average_rate": 1.7072,
     "yearly_retractions": {
       "2024": 61,
       "2025": 21,
+      "2023": 73,
       "2016": 41,
       "2022": 183,
       "2020": 35,
-      "2023": 72,
       "2021": 103,
       "2019": 34,
       "2018": 189,
@@ -71,7 +71,7 @@
     },
     "notice_yearly_retractions": {
       "2026": 54,
-      "2024": 109,
+      "2024": 110,
       "2025": 144,
       "2022": 79,
       "2023": 158,
@@ -94,7 +94,7 @@
   },
   "domainwise_data": {
     "country": "Malaysia",
-    "total_retractions": 989,
+    "total_retractions": 990,
     "years": {
       "2025": {
         "total": 21,
@@ -133,19 +133,19 @@
         }
       },
       "2023": {
-        "total": 72,
+        "total": 73,
         "marks": {
+          "research": 31,
           "alterations": 15,
-          "research": 30,
           "researcher_integrity": 18,
           "system": 6,
           "supplemental": 3
         },
         "domain": {
+          "SOC": 27,
           "B/T": 69,
           "PHY": 30,
           "HSC": 45,
-          "SOC": 24,
           "HUM": 1,
           "BLS": 19,
           "ENV": 18
@@ -477,18 +477,18 @@
         }
       },
       "2024": {
-        "total": 109,
+        "total": 110,
         "marks": {
+          "research": 31,
           "alterations": 46,
-          "research": 30,
           "researcher_integrity": 25,
           "supplemental": 7,
           "system": 1
         },
         "domain": {
+          "SOC": 30,
           "B/T": 98,
           "HUM": 4,
-          "SOC": 27,
           "HSC": 54,
           "PHY": 56,
           "ENV": 43,
@@ -768,7 +768,7 @@
       }
     },
     "collaborations": {
-      "China": 217,
+      "China": 218,
       "Saudi Arabia": 153,
       "India": 138,
       "Pakistan": 116,
@@ -858,7 +858,7 @@
       "Hungary": 1
     },
     "notice_collaborations": {
-      "China": 217,
+      "China": 218,
       "Saudi Arabia": 153,
       "India": 138,
       "Pakistan": 116,
