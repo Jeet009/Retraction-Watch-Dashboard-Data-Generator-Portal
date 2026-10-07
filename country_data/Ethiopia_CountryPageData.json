@@ -2,12 +2,12 @@
   "retraction_rate_data": {
     "country": "Ethiopia",
     "yearly_rates": {
+      "2022": 28.044,
       "2023": 5.0476,
       "2021": 12.6074,
       "2020": 2.1328,
       "2025": 0.8023,
       "2024": 1.9617,
-      "2022": 27.9553,
       "2018": 1.4053,
       "2014": 1.1105,
       "2019": 1.3109,
@@ -32,14 +32,14 @@
       "2016": 0.9465,
       "2004": 2.6882
     },
-    "average_rate": 6.1459,
+    "average_rate": 6.1571,
     "yearly_retractions": {
+      "2022": 316,
       "2023": 52,
       "2021": 110,
       "2020": 14,
       "2025": 11,
       "2024": 24,
-      "2022": 315,
       "2018": 5,
       "2014": 2,
       "2019": 6,
@@ -50,7 +50,7 @@
       "2003": 1
     },
     "notice_yearly_retractions": {
-      "2026": 28,
+      "2026": 29,
       "2024": 88,
       "2025": 44,
       "2023": 342,
@@ -68,7 +68,7 @@
   },
   "domainwise_data": {
     "country": "Ethiopia",
-    "total_retractions": 550,
+    "total_retractions": 551,
     "years": {
       "2025": {
         "total": 11,
@@ -123,20 +123,20 @@
         }
       },
       "2022": {
-        "total": 315,
+        "total": 316,
         "marks": {
-          "alterations": 178,
+          "alterations": 179,
           "research": 126,
           "supplemental": 2,
           "researcher_integrity": 8,
           "system": 1
         },
         "domain": {
+          "B/T": 311,
+          "ENV": 62,
           "PHY": 275,
           "BLS": 94,
-          "ENV": 61,
           "HSC": 207,
-          "B/T": 309,
           "SOC": 37,
           "HUM": 2
         }
@@ -279,17 +279,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 28,
+        "total": 29,
         "marks": {
+          "alterations": 13,
           "researcher_integrity": 5,
           "research": 10,
-          "alterations": 12,
           "system": 1
         },
         "domain": {
-          "B/T": 8,
+          "B/T": 10,
+          "ENV": 9,
           "BLS": 7,
-          "ENV": 8,
           "PHY": 21,
           "HSC": 31,
           "SOC": 6
@@ -482,8 +482,8 @@
       }
     },
     "collaborations": {
-      "India": 400,
-      "Saudi Arabia": 124,
+      "India": 401,
+      "Saudi Arabia": 125,
       "China": 35,
       "Iraq": 33,
       "United States": 21,
@@ -498,19 +498,20 @@
       "Australia": 7,
       "Kazakhstan": 6,
       "Belgium": 6,
+      "Norway": 5,
       "Poland": 5,
       "Spain": 5,
       "Germany": 5,
       "Indonesia": 5,
       "Jordan": 5,
+      "Canada": 4,
       "Malaysia": 4,
       "Nigeria": 4,
       "Kuwait": 4,
       "United Arab Emirates": 4,
-      "Norway": 4,
       "Ghana": 3,
       "Morocco": 3,
-      "Canada": 3,
+      "Taiwan": 2,
       "Bahrain": 2,
       "Lebanon": 2,
       "Kenya": 2,
@@ -528,7 +529,6 @@
       "Mexico": 1,
       "Nepal": 1,
       "Vietnam": 1,
-      "Taiwan": 1,
       "Sudan": 1,
       "Iran": 1,
       "Denmark": 1,
@@ -561,8 +561,8 @@
       "Netherlands": 1
     },
     "notice_collaborations": {
-      "India": 400,
-      "Saudi Arabia": 124,
+      "India": 401,
+      "Saudi Arabia": 125,
       "China": 35,
       "Iraq": 33,
       "United States": 21,
@@ -577,19 +577,20 @@
       "Australia": 7,
       "Kazakhstan": 6,
       "Belgium": 6,
+      "Norway": 5,
       "Poland": 5,
       "Spain": 5,
       "Germany": 5,
       "Indonesia": 5,
       "Jordan": 5,
+      "Canada": 4,
       "Malaysia": 4,
       "Nigeria": 4,
       "Kuwait": 4,
       "United Arab Emirates": 4,
-      "Norway": 4,
       "Ghana": 3,
       "Morocco": 3,
-      "Canada": 3,
+      "Taiwan": 2,
       "Bahrain": 2,
       "Lebanon": 2,
       "Kenya": 2,
@@ -607,7 +608,6 @@
       "Mexico": 1,
       "Nepal": 1,
       "Vietnam": 1,
-      "Taiwan": 1,
       "Sudan": 1,
       "Iran": 1,
       "Denmark": 1,

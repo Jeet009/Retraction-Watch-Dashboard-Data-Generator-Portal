@@ -2,19 +2,19 @@
   "retraction_rate_data": {
     "country": "United States",
     "yearly_rates": {
+      "2021": 0.4931,
       "2025": 0.068,
       "2024": 0.1933,
       "2006": 0.4338,
       "2005": 0.3529,
       "2015": 0.4741,
       "2010": 0.555,
+      "2013": 0.5258,
       "2020": 0.5568,
       "2014": 0.5075,
-      "2013": 0.524,
       "2017": 0.4569,
       "2016": 0.4621,
       "2019": 0.5493,
-      "2021": 0.4916,
       "2001": 0.2552,
       "2022": 0.4545,
       "2023": 0.4206,
@@ -34,12 +34,12 @@
       "1996": 0.0651
     },
     "notice_yearly_rates": {
+      "2023": 0.8297,
       "2025": 0.4827,
       "2017": 0.4937,
       "2024": 0.7402,
       "2009": 0.2854,
       "2022": 0.6475,
-      "2023": 0.8281,
       "2020": 0.735,
       "2021": 0.5692,
       "2011": 0.3333,
@@ -65,8 +65,9 @@
       "2000": 0.0421,
       "1999": 0.0522
     },
-    "average_rate": 0.3898,
+    "average_rate": 0.3899,
     "yearly_retractions": {
+      "2021": 324,
       "2026": 6,
       "2025": 51,
       "2024": 123,
@@ -74,13 +75,12 @@
       "2005": 165,
       "2015": 274,
       "2010": 289,
+      "2013": 297,
       "2020": 353,
       "2014": 289,
-      "2013": 296,
       "2017": 273,
       "2016": 271,
       "2019": 338,
-      "2021": 323,
       "2001": 91,
       "2022": 285,
       "2023": 257,
@@ -126,13 +126,13 @@
       "1959": 1
     },
     "notice_yearly_retractions": {
-      "2026": 171,
+      "2023": 507,
+      "2026": 172,
       "2025": 362,
       "2017": 295,
       "2024": 471,
       "2009": 144,
       "2022": 406,
-      "2023": 506,
       "2020": 466,
       "2021": 374,
       "2011": 179,
@@ -185,7 +185,7 @@
   },
   "domainwise_data": {
     "country": "United States",
-    "total_retractions": 6262,
+    "total_retractions": 6264,
     "years": {
       "2026": {
         "total": 6,
@@ -280,19 +280,19 @@
         }
       },
       "2021": {
-        "total": 323,
+        "total": 324,
         "marks": {
+          "system": 25,
           "alterations": 112,
           "researcher_integrity": 79,
           "research": 102,
-          "system": 24,
           "supplemental": 6
         },
         "domain": {
-          "BLS": 286,
+          "B/T": 118,
+          "BLS": 287,
           "HSC": 312,
           "PHY": 92,
-          "B/T": 117,
           "SOC": 41,
           "ENV": 16,
           "HUM": 7
@@ -432,16 +432,16 @@
         }
       },
       "2013": {
-        "total": 296,
+        "total": 297,
         "marks": {
+          "alterations": 157,
           "researcher_integrity": 41,
-          "alterations": 156,
           "research": 66,
           "supplemental": 25,
           "system": 8
         },
         "domain": {
-          "BLS": 440,
+          "BLS": 443,
           "HSC": 240,
           "PHY": 78,
           "SOC": 33,
@@ -1076,12 +1076,12 @@
     },
     "notice_years": {
       "2026": {
-        "total": 171,
+        "total": 172,
         "marks": {
           "supplemental": 7,
           "researcher_integrity": 33,
           "research": 46,
-          "alterations": 82,
+          "alterations": 83,
           "system": 3
         },
         "domain": {
@@ -1089,7 +1089,7 @@
           "PHY": 64,
           "HSC": 150,
           "SOC": 20,
-          "BLS": 206,
+          "BLS": 209,
           "ENV": 21,
           "HUM": 3
         }
@@ -1133,19 +1133,19 @@
         }
       },
       "2023": {
-        "total": 506,
+        "total": 507,
         "marks": {
+          "system": 77,
           "supplemental": 11,
           "research": 138,
           "researcher_integrity": 92,
-          "alterations": 189,
-          "system": 76
+          "alterations": 189
         },
         "domain": {
-          "B/T": 168,
+          "B/T": 169,
+          "BLS": 571,
           "PHY": 71,
           "SOC": 102,
-          "BLS": 570,
           "HSC": 449,
           "ENV": 15,
           "HUM": 10
@@ -1909,7 +1909,7 @@
       }
     },
     "collaborations": {
-      "China": 837,
+      "China": 838,
       "India": 253,
       "United Kingdom": 232,
       "Germany": 198,
@@ -1934,9 +1934,9 @@
       "South Africa": 33,
       "Belgium": 32,
       "Russia": 32,
+      "Malaysia": 31,
       "Greece": 31,
       "Iraq": 30,
-      "Malaysia": 30,
       "Brazil": 30,
       "Poland": 29,
       "Norway": 28,
@@ -2045,7 +2045,7 @@
       "Burkina Faso": 1
     },
     "notice_collaborations": {
-      "China": 837,
+      "China": 838,
       "India": 253,
       "United Kingdom": 232,
       "Germany": 198,
@@ -2070,9 +2070,9 @@
       "South Africa": 33,
       "Belgium": 32,
       "Russia": 32,
+      "Malaysia": 31,
       "Greece": 31,
       "Iraq": 30,
-      "Malaysia": 30,
       "Brazil": 30,
       "Poland": 29,
       "Norway": 28,

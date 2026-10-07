@@ -2,13 +2,13 @@
   "retraction_rate_data": {
     "country": "Malaysia",
     "yearly_rates": {
+      "2021": 2.5934,
       "2024": 1.3083,
       "2025": 0.3787,
       "2023": 1.7126,
       "2016": 1.3879,
       "2022": 4.3537,
       "2020": 0.9416,
-      "2021": 2.5685,
       "2019": 0.9322,
       "2018": 5.7515,
       "2014": 1.7137,
@@ -25,10 +25,10 @@
       "2005": 0.293
     },
     "notice_yearly_rates": {
+      "2023": 3.7301,
       "2024": 2.3592,
       "2025": 2.5968,
       "2022": 1.8795,
-      "2023": 3.7067,
       "2021": 0.4987,
       "2020": 0.6457,
       "2008": 0.1286,
@@ -45,15 +45,15 @@
       "2010": 2.6625,
       "2007": 0.1935
     },
-    "average_rate": 1.7072,
+    "average_rate": 1.709,
     "yearly_retractions": {
+      "2021": 104,
       "2024": 61,
       "2025": 21,
       "2023": 73,
       "2016": 41,
       "2022": 183,
       "2020": 35,
-      "2021": 103,
       "2019": 34,
       "2018": 189,
       "2014": 48,
@@ -70,11 +70,11 @@
       "2005": 1
     },
     "notice_yearly_retractions": {
+      "2023": 159,
       "2026": 54,
       "2024": 110,
       "2025": 144,
       "2022": 79,
-      "2023": 158,
       "2021": 20,
       "2020": 24,
       "2008": 1,
@@ -94,7 +94,7 @@
   },
   "domainwise_data": {
     "country": "Malaysia",
-    "total_retractions": 990,
+    "total_retractions": 991,
     "years": {
       "2025": {
         "total": 21,
@@ -171,20 +171,20 @@
         }
       },
       "2021": {
-        "total": 103,
+        "total": 104,
         "marks": {
+          "system": 4,
           "alterations": 33,
           "researcher_integrity": 36,
           "research": 27,
-          "supplemental": 4,
-          "system": 3
+          "supplemental": 4
         },
         "domain": {
-          "B/T": 99,
+          "B/T": 100,
+          "BLS": 54,
           "HSC": 40,
           "SOC": 23,
           "PHY": 48,
-          "BLS": 53,
           "ENV": 21,
           "HUM": 1
         }
@@ -496,22 +496,22 @@
         }
       },
       "2023": {
-        "total": 158,
+        "total": 159,
         "marks": {
+          "system": 9,
           "research": 39,
           "researcher_integrity": 10,
           "alterations": 97,
-          "system": 8,
           "supplemental": 4
         },
         "domain": {
-          "B/T": 208,
+          "B/T": 209,
+          "BLS": 58,
           "SOC": 56,
           "PHY": 63,
           "HUM": 17,
           "HSC": 57,
-          "ENV": 17,
-          "BLS": 57
+          "ENV": 17
         }
       },
       "2022": {
@@ -768,7 +768,7 @@
       }
     },
     "collaborations": {
-      "China": 218,
+      "China": 219,
       "Saudi Arabia": 153,
       "India": 138,
       "Pakistan": 116,
@@ -776,8 +776,8 @@
       "Iraq": 69,
       "Australia": 35,
       "United Kingdom": 32,
+      "United States": 31,
       "Taiwan": 31,
-      "United States": 30,
       "Indonesia": 28,
       "Egypt": 28,
       "United Arab Emirates": 27,
@@ -858,7 +858,7 @@
       "Hungary": 1
     },
     "notice_collaborations": {
-      "China": 218,
+      "China": 219,
       "Saudi Arabia": 153,
       "India": 138,
       "Pakistan": 116,
@@ -866,8 +866,8 @@
       "Iraq": 69,
       "Australia": 35,
       "United Kingdom": 32,
+      "United States": 31,
       "Taiwan": 31,
-      "United States": 30,
       "Indonesia": 28,
       "Egypt": 28,
       "United Arab Emirates": 27,
