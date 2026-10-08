@@ -2,10 +2,10 @@
   "retraction_rate_data": {
     "country": "Yemen",
     "yearly_rates": {
+      "2023": 1.7606,
       "2024": 1.6863,
       "2022": 18.0033,
       "2025": 4.2674,
-      "2023": 1.1737,
       "2014": 5.2493,
       "2021": 10.7595,
       "2020": 0.9208,
@@ -20,19 +20,19 @@
       "2014": 2.6247,
       "2019": 1.4065
     },
-    "average_rate": 4.5228,
+    "average_rate": 4.5893,
     "yearly_retractions": {
+      "2023": 3,
       "2024": 3,
       "2022": 33,
       "2025": 9,
-      "2023": 2,
       "2014": 2,
       "2021": 17,
       "2020": 1,
       "2015": 1
     },
     "notice_yearly_retractions": {
-      "2026": 6,
+      "2026": 7,
       "2025": 10,
       "2024": 13,
       "2023": 35,
@@ -44,7 +44,7 @@
   },
   "domainwise_data": {
     "country": "Yemen",
-    "total_retractions": 68,
+    "total_retractions": 69,
     "years": {
       "2025": {
         "total": 9,
@@ -73,13 +73,14 @@
         }
       },
       "2023": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "research": 1,
+          "research": 2,
           "supplemental": 1
         },
         "domain": {
-          "HSC": 2,
+          "B/T": 1,
+          "HSC": 5,
           "PHY": 1
         }
       },
@@ -149,18 +150,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 6,
+        "total": 7,
         "marks": {
-          "research": 3,
+          "research": 4,
           "researcher_integrity": 1,
           "alterations": 2
         },
         "domain": {
+          "B/T": 3,
+          "HSC": 7,
           "BLS": 3,
-          "B/T": 2,
           "ENV": 2,
-          "PHY": 5,
-          "HSC": 4
+          "PHY": 5
         }
       },
       "2025": {
@@ -249,8 +250,8 @@
     "collaborations": {
       "Saudi Arabia": 42,
       "Pakistan": 24,
+      "India": 13,
       "Iraq": 13,
-      "India": 12,
       "Egypt": 11,
       "Malaysia": 8,
       "China": 7,
@@ -283,8 +284,8 @@
     "notice_collaborations": {
       "Saudi Arabia": 42,
       "Pakistan": 24,
+      "India": 13,
       "Iraq": 13,
-      "India": 12,
       "Egypt": 11,
       "Malaysia": 8,
       "China": 7,

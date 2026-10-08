@@ -2,10 +2,10 @@
   "retraction_rate_data": {
     "country": "Australia",
     "yearly_rates": {
+      "2023": 0.5909,
       "2021": 0.6037,
       "2022": 0.9015,
       "2024": 0.2368,
-      "2023": 0.5812,
       "2009": 0.722,
       "2019": 0.4206,
       "2014": 0.4678,
@@ -58,13 +58,13 @@
       "2005": 0.0701,
       "1998": 0.037
     },
-    "average_rate": 0.4092,
+    "average_rate": 0.4097,
     "yearly_retractions": {
+      "2023": 61,
       "2026": 1,
       "2021": 67,
       "2022": 98,
       "2024": 26,
-      "2023": 60,
       "2009": 41,
       "2019": 42,
       "2014": 38,
@@ -98,7 +98,7 @@
       "1990": 1
     },
     "notice_yearly_retractions": {
-      "2026": 39,
+      "2026": 40,
       "2025": 83,
       "2024": 78,
       "2023": 102,
@@ -130,7 +130,7 @@
   },
   "domainwise_data": {
     "country": "Australia",
-    "total_retractions": 829,
+    "total_retractions": 830,
     "years": {
       "2026": {
         "total": 1,
@@ -176,20 +176,20 @@
         }
       },
       "2023": {
-        "total": 60,
+        "total": 61,
         "marks": {
+          "supplemental": 2,
           "alterations": 17,
           "researcher_integrity": 13,
           "research": 12,
-          "system": 17,
-          "supplemental": 1
+          "system": 17
         },
         "domain": {
-          "B/T": 30,
+          "B/T": 31,
+          "HSC": 67,
           "PHY": 12,
           "BLS": 35,
           "ENV": 13,
-          "HSC": 64,
           "SOC": 10,
           "HUM": 1
         }
@@ -674,19 +674,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 39,
+        "total": 40,
         "marks": {
-          "supplemental": 1,
+          "supplemental": 2,
           "research": 13,
           "alterations": 11,
           "researcher_integrity": 12,
           "system": 2
         },
         "domain": {
+          "B/T": 14,
+          "HSC": 32,
           "PHY": 14,
           "BLS": 33,
-          "HSC": 29,
-          "B/T": 13,
           "ENV": 19,
           "SOC": 2
         }
@@ -1123,7 +1123,7 @@
       "United Kingdom": 74,
       "Saudi Arabia": 50,
       "Pakistan": 40,
-      "Malaysia": 35,
+      "Malaysia": 36,
       "Germany": 24,
       "Iran": 24,
       "Canada": 22,
@@ -1162,6 +1162,7 @@
       "Oman": 6,
       "Portugal": 5,
       "Finland": 4,
+      "Norway": 3,
       "Hungary": 3,
       "Serbia": 3,
       "Greece": 3,
@@ -1175,7 +1176,6 @@
       "Croatia": 2,
       "Romania": 2,
       "Yemen": 2,
-      "Norway": 2,
       "Nepal": 1,
       "Algeria": 1,
       "Somalia": 1,
@@ -1207,7 +1207,7 @@
       "United Kingdom": 74,
       "Saudi Arabia": 50,
       "Pakistan": 40,
-      "Malaysia": 35,
+      "Malaysia": 36,
       "Germany": 24,
       "Iran": 24,
       "Canada": 22,
@@ -1246,6 +1246,7 @@
       "Oman": 6,
       "Portugal": 5,
       "Finland": 4,
+      "Norway": 3,
       "Hungary": 3,
       "Serbia": 3,
       "Greece": 3,
@@ -1259,7 +1260,6 @@
       "Croatia": 2,
       "Romania": 2,
       "Yemen": 2,
-      "Norway": 2,
       "Nepal": 1,
       "Algeria": 1,
       "Somalia": 1,

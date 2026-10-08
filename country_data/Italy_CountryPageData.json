@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Italy",
     "yearly_rates": {
+      "2022": 0.3814,
       "2024": 0.1793,
       "2013": 0.6739,
       "2011": 0.7596,
@@ -11,7 +12,6 @@
       "2012": 0.752,
       "2014": 0.6613,
       "2000": 0.1394,
-      "2022": 0.3742,
       "2023": 0.2884,
       "2021": 0.3477,
       "2025": 0.0357,
@@ -60,8 +60,9 @@
       "2003": 0.0952,
       "1998": 0.0742
     },
-    "average_rate": 0.3902,
+    "average_rate": 0.3906,
     "yearly_retractions": {
+      "2022": 53,
       "2024": 26,
       "2013": 63,
       "2011": 62,
@@ -71,7 +72,6 @@
       "2012": 66,
       "2014": 64,
       "2000": 6,
-      "2022": 52,
       "2023": 40,
       "2021": 49,
       "2025": 6,
@@ -99,7 +99,7 @@
       "1997": 2
     },
     "notice_yearly_retractions": {
-      "2026": 61,
+      "2026": 62,
       "2025": 77,
       "2024": 119,
       "2017": 59,
@@ -131,7 +131,7 @@
   },
   "domainwise_data": {
     "country": "Italy",
-    "total_retractions": 1016,
+    "total_retractions": 1017,
     "years": {
       "2026": {
         "total": 1,
@@ -193,18 +193,18 @@
         }
       },
       "2022": {
-        "total": 52,
+        "total": 53,
         "marks": {
+          "researcher_integrity": 9,
           "research": 19,
-          "researcher_integrity": 8,
           "alterations": 18,
           "system": 4,
           "supplemental": 3
         },
         "domain": {
+          "HSC": 49,
           "B/T": 19,
           "BLS": 48,
-          "HSC": 46,
           "ENV": 6,
           "PHY": 21,
           "SOC": 4,
@@ -652,16 +652,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 61,
+        "total": 62,
         "marks": {
+          "researcher_integrity": 15,
           "research": 11,
           "alterations": 34,
-          "system": 2,
-          "researcher_integrity": 14
+          "system": 2
         },
         "domain": {
+          "HSC": 77,
           "BLS": 85,
-          "HSC": 74,
           "B/T": 8,
           "ENV": 5,
           "PHY": 3,

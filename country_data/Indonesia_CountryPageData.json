@@ -43,10 +43,10 @@
     },
     "average_rate": 0.5221,
     "yearly_retractions": {
+      "2026": 2,
       "2023": 26,
       "2025": 8,
       "2024": 21,
-      "2026": 1,
       "2022": 36,
       "2021": 40,
       "2019": 16,
@@ -65,7 +65,7 @@
       "1998": 1
     },
     "notice_yearly_retractions": {
-      "2026": 16,
+      "2026": 17,
       "2025": 48,
       "2024": 30,
       "2023": 32,
@@ -87,14 +87,16 @@
   },
   "domainwise_data": {
     "country": "Indonesia",
-    "total_retractions": 263,
+    "total_retractions": 264,
     "years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "system": 1,
           "research": 1
         },
         "domain": {
+          "B/T": 3,
           "ENV": 1,
           "HUM": 1
         }
@@ -366,18 +368,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 16,
+        "total": 17,
         "marks": {
+          "system": 1,
           "alterations": 7,
           "research": 6,
           "researcher_integrity": 2,
           "supplemental": 1
         },
         "domain": {
+          "B/T": 11,
           "ENV": 5,
           "HUM": 4,
           "SOC": 3,
-          "B/T": 8,
           "PHY": 10,
           "BLS": 5,
           "HSC": 7

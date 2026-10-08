@@ -2,10 +2,10 @@
   "retraction_rate_data": {
     "country": "Palestine",
     "yearly_rates": {
+      "2024": 1.3363,
       "2023": 0.917,
       "2022": 2.8169,
       "2019": 2.0121,
-      "2024": 0.8909,
       "2025": 0.9265,
       "2021": 1.3236,
       "2020": 0.8039,
@@ -23,12 +23,12 @@
       "2011": 2.6247,
       "2001": 12.6582
     },
-    "average_rate": 1.0054,
+    "average_rate": 1.0557,
     "yearly_retractions": {
+      "2024": 3,
       "2023": 2,
       "2022": 5,
       "2019": 2,
-      "2024": 2,
       "2025": 3,
       "2021": 2,
       "2020": 1,
@@ -37,8 +37,8 @@
       "2001": 1
     },
     "notice_yearly_retractions": {
+      "2026": 3,
       "2025": 7,
-      "2026": 2,
       "2024": 1,
       "2023": 5,
       "2022": 1,
@@ -50,7 +50,7 @@
   },
   "domainwise_data": {
     "country": "Palestine",
-    "total_retractions": 20,
+    "total_retractions": 21,
     "years": {
       "2025": {
         "total": 3,
@@ -62,14 +62,15 @@
         }
       },
       "2024": {
-        "total": 2,
+        "total": 3,
         "marks": {
+          "alterations": 1,
           "research": 1,
           "researcher_integrity": 1
         },
         "domain": {
-          "PHY": 2,
-          "HSC": 2
+          "HSC": 3,
+          "PHY": 2
         }
       },
       "2023": {
@@ -165,12 +166,14 @@
     },
     "notice_years": {
       "2026": {
-        "total": 2,
+        "total": 3,
         "marks": {
+          "alterations": 1,
           "researcher_integrity": 1,
           "research": 1
         },
         "domain": {
+          "HSC": 1,
           "PHY": 5
         }
       },
@@ -266,16 +269,20 @@
       }
     },
     "collaborations": {
+      "Pakistan": 6,
+      "United States": 6,
       "Saudi Arabia": 6,
       "China": 6,
-      "Pakistan": 5,
-      "United States": 5,
       "United Kingdom": 5,
       "Sudan": 4,
       "Egypt": 3,
       "Malaysia": 2,
       "Iraq": 2,
       "Sri Lanka": 2,
+      "India": 1,
+      "Nigeria": 1,
+      "Philippines": 1,
+      "Ukraine": 1,
       "Turkey": 1,
       "Jordan": 1,
       "Taiwan": 1,
@@ -290,16 +297,20 @@
       "Spain": 1
     },
     "notice_collaborations": {
+      "Pakistan": 6,
+      "United States": 6,
       "Saudi Arabia": 6,
       "China": 6,
-      "Pakistan": 5,
-      "United States": 5,
       "United Kingdom": 5,
       "Sudan": 4,
       "Egypt": 3,
       "Malaysia": 2,
       "Iraq": 2,
       "Sri Lanka": 2,
+      "India": 1,
+      "Nigeria": 1,
+      "Philippines": 1,
+      "Ukraine": 1,
       "Turkey": 1,
       "Jordan": 1,
       "Taiwan": 1,

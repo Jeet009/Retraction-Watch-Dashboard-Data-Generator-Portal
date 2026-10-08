@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Madagascar",
     "yearly_rates": {
+      "2006": 6.993,
       "2022": 4.329,
       "2016": 3.4602
     },
@@ -9,19 +10,21 @@
       "2022": 4.329,
       "2019": 2.924
     },
-    "average_rate": 0.3976,
+    "average_rate": 0.5302,
     "yearly_retractions": {
+      "2006": 1,
       "2022": 2,
       "2016": 1
     },
     "notice_yearly_retractions": {
+      "2026": 1,
       "2022": 2,
       "2019": 1
     }
   },
   "domainwise_data": {
     "country": "Madagascar",
-    "total_retractions": 3,
+    "total_retractions": 4,
     "years": {
       "2022": {
         "total": 2,
@@ -41,9 +44,27 @@
         "domain": {
           "BLS": 2
         }
+      },
+      "2006": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "HSC": 3
+        }
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "HSC": 3
+        }
+      },
       "2022": {
         "total": 2,
         "marks": {
@@ -69,6 +90,7 @@
       "France": 2,
       "Germany": 2,
       "United States": 2,
+      "China": 1,
       "Algeria": 1,
       "Angola": 1,
       "Benin": 1,
@@ -99,6 +121,7 @@
       "France": 2,
       "Germany": 2,
       "United States": 2,
+      "China": 1,
       "Algeria": 1,
       "Angola": 1,
       "Benin": 1,
