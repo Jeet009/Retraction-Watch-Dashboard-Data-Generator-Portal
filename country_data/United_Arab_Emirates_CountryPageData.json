@@ -2,10 +2,10 @@
   "retraction_rate_data": {
     "country": "United Arab Emirates",
     "yearly_rates": {
+      "2025": 0.3994,
       "2024": 1.4104,
       "2021": 2.7638,
       "2023": 1.4944,
-      "2025": 0.3595,
       "2022": 4.0182,
       "2012": 0.6684,
       "2018": 0.7375,
@@ -42,12 +42,12 @@
       "2009": 1.0325,
       "2019": 0.232
     },
-    "average_rate": 1.2943,
+    "average_rate": 1.3006,
     "yearly_retractions": {
+      "2025": 10,
       "2024": 29,
       "2021": 34,
       "2023": 27,
-      "2025": 9,
       "2026": 1,
       "2022": 61,
       "2012": 2,
@@ -67,7 +67,7 @@
       "2015": 2
     },
     "notice_yearly_retractions": {
-      "2026": 20,
+      "2026": 21,
       "2018": 4,
       "2025": 48,
       "2023": 38,
@@ -89,7 +89,7 @@
   },
   "domainwise_data": {
     "country": "United Arab Emirates",
-    "total_retractions": 208,
+    "total_retractions": 209,
     "years": {
       "2026": {
         "total": 1,
@@ -103,12 +103,14 @@
         }
       },
       "2025": {
-        "total": 9,
+        "total": 10,
         "marks": {
+          "alterations": 1,
           "researcher_integrity": 9
         },
         "domain": {
-          "B/T": 4,
+          "B/T": 5,
+          "ENV": 2,
           "BLS": 3,
           "HSC": 19,
           "PHY": 3
@@ -366,18 +368,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 20,
+        "total": 21,
         "marks": {
-          "alterations": 9,
+          "alterations": 10,
           "research": 6,
           "researcher_integrity": 5
         },
         "domain": {
-          "B/T": 10,
+          "B/T": 11,
+          "ENV": 6,
           "BLS": 17,
           "HSC": 19,
-          "PHY": 8,
-          "ENV": 4
+          "PHY": 8
         }
       },
       "2025": {

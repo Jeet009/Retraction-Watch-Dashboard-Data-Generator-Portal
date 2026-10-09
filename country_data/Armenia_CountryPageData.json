@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Armenia",
     "yearly_rates": {
+      "2023": 4.9659,
       "2024": 0.5155,
-      "2023": 4.3451,
       "2017": 0.8945,
       "2011": 1.007,
       "2018": 1.6764,
@@ -23,10 +23,10 @@
       "2009": 1.4409,
       "2016": 0.9009
     },
-    "average_rate": 0.6466,
+    "average_rate": 0.6825,
     "yearly_retractions": {
+      "2023": 8,
       "2024": 1,
-      "2023": 7,
       "2017": 1,
       "2011": 1,
       "2018": 2,
@@ -36,6 +36,7 @@
       "2016": 2
     },
     "notice_yearly_retractions": {
+      "2026": 1,
       "2025": 5,
       "2024": 3,
       "2017": 2,
@@ -49,7 +50,7 @@
   },
   "domainwise_data": {
     "country": "Armenia",
-    "total_retractions": 18,
+    "total_retractions": 19,
     "years": {
       "2024": {
         "total": 1,
@@ -63,17 +64,18 @@
         }
       },
       "2023": {
-        "total": 7,
+        "total": 8,
         "marks": {
-          "research": 5,
+          "research": 6,
           "system": 2
         },
         "domain": {
+          "B/T": 3,
+          "SOC": 1,
           "ENV": 3,
           "HUM": 1,
           "PHY": 4,
           "BLS": 8,
-          "B/T": 2,
           "HSC": 2
         }
       },
@@ -150,6 +152,16 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "SOC": 1
+        }
+      },
       "2025": {
         "total": 5,
         "marks": {
@@ -249,7 +261,7 @@
     },
     "collaborations": {
       "Russia": 5,
-      "Pakistan": 3,
+      "Pakistan": 4,
       "Saudi Arabia": 2,
       "Canada": 2,
       "Australia": 1,
@@ -263,7 +275,7 @@
     },
     "notice_collaborations": {
       "Russia": 5,
-      "Pakistan": 3,
+      "Pakistan": 4,
       "Saudi Arabia": 2,
       "Canada": 2,
       "Australia": 1,

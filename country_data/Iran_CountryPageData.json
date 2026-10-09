@@ -2,8 +2,11 @@
   "retraction_rate_data": {
     "country": "Iran",
     "yearly_rates": {
+      "2008": 1.2201,
       "2024": 1.161,
       "2017": 1.9448,
+      "2012": 3.401,
+      "2001": 1.8116,
       "2022": 2.5019,
       "2023": 1.8649,
       "2021": 2.2738,
@@ -17,16 +20,13 @@
       "2015": 3.1881,
       "2011": 3.0558,
       "2009": 2.7848,
-      "2012": 3.3762,
       "2016": 2.0968,
       "2010": 3.752,
-      "2008": 1.1692,
       "2002": 0.3149,
       "2003": 0.664,
       "2006": 0.9457,
       "2004": 0.5057,
-      "2005": 0.4827,
-      "2001": 0.4529
+      "2005": 0.4827
     },
     "notice_yearly_rates": {
       "2007": 0.668,
@@ -52,10 +52,13 @@
       "2017": 1.2359,
       "2005": 0.2413
     },
-    "average_rate": 1.9855,
+    "average_rate": 1.9904,
     "yearly_retractions": {
+      "2008": 24,
       "2024": 84,
       "2017": 107,
+      "2012": 137,
+      "2001": 4,
       "2022": 188,
       "2023": 132,
       "2021": 170,
@@ -70,19 +73,16 @@
       "2015": 143,
       "2011": 119,
       "2009": 67,
-      "2012": 136,
       "2016": 108,
       "2010": 110,
-      "2008": 23,
       "2002": 1,
       "2003": 3,
       "2006": 11,
       "2004": 3,
-      "2005": 4,
-      "2001": 1
+      "2005": 4
     },
     "notice_yearly_retractions": {
-      "2026": 87,
+      "2026": 92,
       "2007": 10,
       "2025": 305,
       "2021": 106,
@@ -109,7 +109,7 @@
   },
   "domainwise_data": {
     "country": "Iran",
-    "total_retractions": 2007,
+    "total_retractions": 2012,
     "years": {
       "2026": {
         "total": 1,
@@ -361,16 +361,16 @@
         }
       },
       "2012": {
-        "total": 136,
+        "total": 137,
         "marks": {
+          "research": 14,
           "alterations": 96,
-          "research": 13,
           "supplemental": 7,
           "researcher_integrity": 11,
           "system": 9
         },
         "domain": {
-          "BLS": 60,
+          "BLS": 63,
           "HSC": 29,
           "PHY": 134,
           "B/T": 37,
@@ -434,16 +434,16 @@
         }
       },
       "2008": {
-        "total": 23,
+        "total": 24,
         "marks": {
+          "alterations": 12,
           "research": 5,
-          "alterations": 11,
           "supplemental": 5,
           "system": 2
         },
         "domain": {
+          "HSC": 22,
           "BLS": 7,
-          "HSC": 20,
           "B/T": 5,
           "PHY": 15,
           "SOC": 2,
@@ -527,30 +527,31 @@
         }
       },
       "2001": {
-        "total": 1,
+        "total": 4,
         "marks": {
+          "research": 3,
           "alterations": 1
         },
         "domain": {
-          "BLS": 1,
-          "HSC": 2
+          "HSC": 7,
+          "BLS": 2
         }
       }
     },
     "notice_years": {
       "2026": {
-        "total": 87,
+        "total": 92,
         "marks": {
-          "research": 37,
-          "alterations": 26,
+          "alterations": 27,
+          "research": 41,
           "researcher_integrity": 14,
           "system": 7,
           "supplemental": 3
         },
         "domain": {
-          "HSC": 46,
+          "HSC": 53,
           "SOC": 24,
-          "BLS": 41,
+          "BLS": 45,
           "PHY": 81,
           "B/T": 32,
           "HUM": 1,

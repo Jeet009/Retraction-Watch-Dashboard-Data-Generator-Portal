@@ -2,11 +2,11 @@
   "retraction_rate_data": {
     "country": "Ethiopia",
     "yearly_rates": {
+      "2025": 0.8753,
       "2022": 28.044,
       "2023": 5.0476,
       "2021": 12.6074,
       "2020": 2.1328,
-      "2025": 0.8023,
       "2024": 1.9617,
       "2018": 1.4053,
       "2014": 1.1105,
@@ -32,13 +32,13 @@
       "2016": 0.9465,
       "2004": 2.6882
     },
-    "average_rate": 6.1571,
+    "average_rate": 6.1683,
     "yearly_retractions": {
+      "2025": 12,
       "2022": 316,
       "2023": 52,
       "2021": 110,
       "2020": 14,
-      "2025": 11,
       "2024": 24,
       "2018": 5,
       "2014": 2,
@@ -50,7 +50,7 @@
       "2003": 1
     },
     "notice_yearly_retractions": {
-      "2026": 29,
+      "2026": 30,
       "2024": 88,
       "2025": 44,
       "2023": 342,
@@ -68,21 +68,21 @@
   },
   "domainwise_data": {
     "country": "Ethiopia",
-    "total_retractions": 551,
+    "total_retractions": 552,
     "years": {
       "2025": {
-        "total": 11,
+        "total": 12,
         "marks": {
+          "research": 3,
           "alterations": 7,
-          "research": 2,
           "system": 1,
           "researcher_integrity": 1
         },
         "domain": {
-          "B/T": 2,
+          "B/T": 3,
+          "ENV": 4,
           "HSC": 7,
           "PHY": 8,
-          "ENV": 3,
           "BLS": 5
         }
       },
@@ -279,16 +279,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 29,
+        "total": 30,
         "marks": {
+          "research": 11,
           "alterations": 13,
           "researcher_integrity": 5,
-          "research": 10,
           "system": 1
         },
         "domain": {
-          "B/T": 10,
-          "ENV": 9,
+          "B/T": 11,
+          "ENV": 10,
           "BLS": 7,
           "PHY": 21,
           "HSC": 31,
