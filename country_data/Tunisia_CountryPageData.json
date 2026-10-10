@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Tunisia",
     "yearly_rates": {
+      "2025": 0.086,
       "2021": 3.1804,
       "2024": 1.0158,
       "2023": 0.945,
@@ -45,8 +46,9 @@
       "2009": 0.7018,
       "2005": 0.4596
     },
-    "average_rate": 0.9706,
+    "average_rate": 0.9773,
     "yearly_retractions": {
+      "2025": 1,
       "2021": 28,
       "2024": 11,
       "2023": 9,
@@ -70,7 +72,7 @@
       "2005": 1
     },
     "notice_yearly_retractions": {
-      "2026": 5,
+      "2026": 6,
       "2024": 22,
       "2025": 14,
       "2023": 27,
@@ -94,8 +96,18 @@
   },
   "domainwise_data": {
     "country": "Tunisia",
-    "total_retractions": 145,
+    "total_retractions": 146,
     "years": {
+      "2025": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "HSC": 1
+        }
+      },
       "2024": {
         "total": 11,
         "marks": {
@@ -377,14 +389,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 5,
+        "total": 6,
         "marks": {
-          "alterations": 3,
+          "alterations": 4,
           "researcher_integrity": 1,
           "research": 1
         },
         "domain": {
-          "B/T": 4,
+          "B/T": 5,
+          "HSC": 1,
           "PHY": 6,
           "BLS": 4,
           "ENV": 1
@@ -646,8 +659,8 @@
       "China": 21,
       "Pakistan": 20,
       "France": 18,
+      "Iraq": 13,
       "India": 13,
-      "Iraq": 12,
       "South Africa": 9,
       "Turkey": 7,
       "Taiwan": 7,
@@ -701,8 +714,8 @@
       "China": 21,
       "Pakistan": 20,
       "France": 18,
+      "Iraq": 13,
       "India": 13,
-      "Iraq": 12,
       "South Africa": 9,
       "Turkey": 7,
       "Taiwan": 7,

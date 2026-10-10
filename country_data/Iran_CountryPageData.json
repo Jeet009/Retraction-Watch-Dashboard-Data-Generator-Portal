@@ -7,8 +7,8 @@
       "2017": 1.9448,
       "2012": 3.401,
       "2001": 1.8116,
+      "2023": 1.8791,
       "2022": 2.5019,
-      "2023": 1.8649,
       "2021": 2.2738,
       "2020": 1.9337,
       "2025": 0.3627,
@@ -21,7 +21,7 @@
       "2011": 3.0558,
       "2009": 2.7848,
       "2016": 2.0968,
-      "2010": 3.752,
+      "2010": 3.7179,
       "2002": 0.3149,
       "2003": 0.664,
       "2006": 0.9457,
@@ -42,7 +42,7 @@
       "2009": 0.8729,
       "2012": 1.1916,
       "2011": 0.9501,
-      "2010": 2.8651,
+      "2010": 2.831,
       "2004": 0.1686,
       "2006": 0.4299,
       "2016": 2.4656,
@@ -59,8 +59,8 @@
       "2017": 107,
       "2012": 137,
       "2001": 4,
+      "2023": 133,
       "2022": 188,
-      "2023": 132,
       "2021": 170,
       "2020": 138,
       "2025": 28,
@@ -74,7 +74,7 @@
       "2011": 119,
       "2009": 67,
       "2016": 108,
-      "2010": 110,
+      "2010": 109,
       "2002": 1,
       "2003": 3,
       "2006": 11,
@@ -82,7 +82,7 @@
       "2005": 4
     },
     "notice_yearly_retractions": {
-      "2026": 92,
+      "2026": 93,
       "2007": 10,
       "2025": 305,
       "2021": 106,
@@ -96,7 +96,7 @@
       "2009": 21,
       "2012": 48,
       "2011": 37,
-      "2010": 84,
+      "2010": 83,
       "2004": 1,
       "2006": 5,
       "2016": 127,
@@ -158,22 +158,22 @@
         }
       },
       "2023": {
-        "total": 132,
+        "total": 133,
         "marks": {
+          "alterations": 42,
           "research": 42,
-          "alterations": 41,
           "researcher_integrity": 25,
           "system": 23,
           "supplemental": 1
         },
         "domain": {
+          "HSC": 121,
+          "PHY": 96,
           "B/T": 54,
           "BLS": 86,
           "HUM": 1,
           "SOC": 18,
-          "PHY": 94,
-          "ENV": 13,
-          "HSC": 120
+          "ENV": 13
         }
       },
       "2022": {
@@ -397,19 +397,19 @@
         }
       },
       "2010": {
-        "total": 110,
+        "total": 109,
         "marks": {
           "alterations": 35,
-          "supplemental": 59,
+          "supplemental": 58,
           "system": 2,
           "researcher_integrity": 13,
           "research": 1
         },
         "domain": {
-          "PHY": 122,
+          "PHY": 121,
           "B/T": 86,
           "ENV": 8,
-          "HSC": 15,
+          "HSC": 14,
           "SOC": 17,
           "BLS": 20,
           "HUM": 1
@@ -540,19 +540,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 92,
+        "total": 93,
         "marks": {
-          "alterations": 27,
+          "alterations": 28,
           "research": 41,
           "researcher_integrity": 14,
           "system": 7,
           "supplemental": 3
         },
         "domain": {
-          "HSC": 53,
+          "HSC": 54,
           "SOC": 24,
           "BLS": 45,
-          "PHY": 81,
+          "PHY": 83,
           "B/T": 32,
           "HUM": 1,
           "ENV": 13
@@ -832,10 +832,10 @@
         }
       },
       "2010": {
-        "total": 84,
+        "total": 83,
         "marks": {
           "alterations": 10,
-          "supplemental": 57,
+          "supplemental": 56,
           "research": 2,
           "system": 1,
           "researcher_integrity": 14
@@ -843,11 +843,11 @@
         "domain": {
           "B/T": 84,
           "ENV": 7,
-          "PHY": 84,
+          "PHY": 83,
           "BLS": 9,
-          "HSC": 15,
           "SOC": 14,
-          "HUM": 1
+          "HUM": 1,
+          "HSC": 14
         }
       },
       "2009": {
@@ -929,13 +929,13 @@
     "collaborations": {
       "China": 155,
       "Iraq": 123,
-      "United States": 107,
+      "United States": 108,
       "India": 75,
       "Malaysia": 73,
       "Turkey": 58,
       "Saudi Arabia": 58,
       "Germany": 53,
-      "United Kingdom": 49,
+      "United Kingdom": 50,
       "Vietnam": 48,
       "Canada": 45,
       "Russia": 44,
@@ -1016,13 +1016,13 @@
     "notice_collaborations": {
       "China": 155,
       "Iraq": 123,
-      "United States": 107,
+      "United States": 108,
       "India": 75,
       "Malaysia": 73,
       "Turkey": 58,
       "Saudi Arabia": 58,
       "Germany": 53,
-      "United Kingdom": 49,
+      "United Kingdom": 50,
       "Vietnam": 48,
       "Canada": 45,
       "Russia": 44,
