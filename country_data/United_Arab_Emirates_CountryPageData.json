@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "United Arab Emirates",
     "yearly_rates": {
+      "2020": 1.3848,
       "2025": 0.3994,
       "2024": 1.4104,
       "2021": 2.7638,
@@ -9,7 +10,6 @@
       "2022": 4.0182,
       "2012": 0.6684,
       "2018": 0.7375,
-      "2020": 1.2859,
       "2011": 1.9026,
       "2013": 0.6099,
       "2019": 0.5801,
@@ -24,8 +24,8 @@
       "2015": 0.4385
     },
     "notice_yearly_rates": {
+      "2025": 1.957,
       "2018": 0.59,
-      "2025": 1.9171,
       "2023": 2.1032,
       "2024": 1.9454,
       "2022": 1.9103,
@@ -42,8 +42,9 @@
       "2009": 1.0325,
       "2019": 0.232
     },
-    "average_rate": 1.3006,
+    "average_rate": 1.3068,
     "yearly_retractions": {
+      "2020": 14,
       "2025": 10,
       "2024": 29,
       "2021": 34,
@@ -52,7 +53,6 @@
       "2022": 61,
       "2012": 2,
       "2018": 5,
-      "2020": 13,
       "2011": 5,
       "2013": 2,
       "2019": 5,
@@ -67,9 +67,9 @@
       "2015": 2
     },
     "notice_yearly_retractions": {
+      "2025": 49,
       "2026": 21,
       "2018": 4,
-      "2025": 48,
       "2023": 38,
       "2024": 40,
       "2022": 29,
@@ -89,7 +89,7 @@
   },
   "domainwise_data": {
     "country": "United Arab Emirates",
-    "total_retractions": 209,
+    "total_retractions": 210,
     "years": {
       "2026": {
         "total": 1,
@@ -188,16 +188,16 @@
         }
       },
       "2020": {
-        "total": 13,
+        "total": 14,
         "marks": {
-          "alterations": 5,
+          "alterations": 6,
           "research": 4,
           "system": 3,
           "supplemental": 1
         },
         "domain": {
-          "BLS": 10,
-          "HSC": 7,
+          "BLS": 14,
+          "HSC": 8,
           "B/T": 5,
           "PHY": 6,
           "SOC": 4
@@ -383,20 +383,20 @@
         }
       },
       "2025": {
-        "total": 48,
+        "total": 49,
         "marks": {
+          "alterations": 9,
           "research": 9,
-          "alterations": 8,
           "researcher_integrity": 29,
           "system": 2
         },
         "domain": {
+          "BLS": 14,
+          "HSC": 53,
           "ENV": 5,
           "PHY": 39,
-          "HSC": 52,
           "B/T": 28,
           "HUM": 1,
-          "BLS": 10,
           "SOC": 4
         }
       },
@@ -613,12 +613,12 @@
       "Saudi Arabia": 64,
       "India": 61,
       "Pakistan": 48,
-      "China": 34,
+      "China": 35,
       "Iraq": 33,
       "Egypt": 27,
       "Malaysia": 27,
       "Jordan": 18,
-      "United States": 16,
+      "United States": 17,
       "Uzbekistan": 16,
       "Iran": 16,
       "Russia": 15,
@@ -634,12 +634,12 @@
       "Oman": 5,
       "Nigeria": 5,
       "Vietnam": 5,
+      "Qatar": 4,
       "Algeria": 4,
       "Canada": 4,
       "Germany": 4,
       "Italy": 4,
       "Ethiopia": 4,
-      "Qatar": 3,
       "France": 3,
       "Taiwan": 3,
       "Netherlands": 3,
@@ -647,6 +647,7 @@
       "Belarus": 3,
       "Poland": 3,
       "Tunisia": 3,
+      "Greece": 2,
       "Romania": 2,
       "Zambia": 2,
       "Spain": 2,
@@ -658,6 +659,8 @@
       "Japan": 2,
       "Nepal": 2,
       "Portugal": 2,
+      "Hong Kong": 1,
+      "Macau": 1,
       "Denmark": 1,
       "New Zealand": 1,
       "Sweden": 1,
@@ -675,7 +678,6 @@
       "Tajikistan": 1,
       "Azerbaijan": 1,
       "Cameroon": 1,
-      "Greece": 1,
       "Serbia": 1,
       "Tanzania": 1,
       "Ireland": 1,
@@ -692,12 +694,12 @@
       "Saudi Arabia": 64,
       "India": 61,
       "Pakistan": 48,
-      "China": 34,
+      "China": 35,
       "Iraq": 33,
       "Egypt": 27,
       "Malaysia": 27,
       "Jordan": 18,
-      "United States": 16,
+      "United States": 17,
       "Uzbekistan": 16,
       "Iran": 16,
       "Russia": 15,
@@ -713,12 +715,12 @@
       "Oman": 5,
       "Nigeria": 5,
       "Vietnam": 5,
+      "Qatar": 4,
       "Algeria": 4,
       "Canada": 4,
       "Germany": 4,
       "Italy": 4,
       "Ethiopia": 4,
-      "Qatar": 3,
       "France": 3,
       "Taiwan": 3,
       "Netherlands": 3,
@@ -726,6 +728,7 @@
       "Belarus": 3,
       "Poland": 3,
       "Tunisia": 3,
+      "Greece": 2,
       "Romania": 2,
       "Zambia": 2,
       "Spain": 2,
@@ -737,6 +740,8 @@
       "Japan": 2,
       "Nepal": 2,
       "Portugal": 2,
+      "Hong Kong": 1,
+      "Macau": 1,
       "Denmark": 1,
       "New Zealand": 1,
       "Sweden": 1,
@@ -754,7 +759,6 @@
       "Tajikistan": 1,
       "Azerbaijan": 1,
       "Cameroon": 1,
-      "Greece": 1,
       "Serbia": 1,
       "Tanzania": 1,
       "Ireland": 1,

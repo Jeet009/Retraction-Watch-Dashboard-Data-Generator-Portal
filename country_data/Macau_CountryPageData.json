@@ -5,9 +5,9 @@
     "notice_yearly_rates": {},
     "average_rate": 0.0,
     "yearly_retractions": {
+      "2020": 3,
       "2025": 3,
       "2024": 5,
-      "2020": 2,
       "2023": 3,
       "2022": 2,
       "2021": 3,
@@ -18,8 +18,8 @@
       "2008": 1
     },
     "notice_yearly_retractions": {
+      "2025": 3,
       "2026": 8,
-      "2025": 2,
       "2024": 3,
       "2023": 4,
       "2022": 3,
@@ -30,7 +30,7 @@
   },
   "domainwise_data": {
     "country": "Macau",
-    "total_retractions": 25,
+    "total_retractions": 26,
     "years": {
       "2025": {
         "total": 3,
@@ -92,14 +92,14 @@
         }
       },
       "2020": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "alterations": 1,
+          "alterations": 2,
           "researcher_integrity": 1
         },
         "domain": {
-          "BLS": 2,
-          "HSC": 2,
+          "BLS": 6,
+          "HSC": 3,
           "SOC": 2
         }
       },
@@ -169,14 +169,14 @@
         }
       },
       "2025": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "alterations": 1,
+          "alterations": 2,
           "researcher_integrity": 1
         },
         "domain": {
-          "BLS": 2,
-          "HSC": 1,
+          "BLS": 6,
+          "HSC": 2,
           "B/T": 1,
           "PHY": 1,
           "SOC": 1
@@ -253,13 +253,16 @@
       }
     },
     "collaborations": {
-      "China": 22,
-      "Hong Kong": 6,
-      "United States": 4,
+      "China": 23,
+      "Hong Kong": 7,
+      "United States": 5,
       "Australia": 3,
       "Taiwan": 2,
       "South Korea": 2,
       "Canada": 2,
+      "Greece": 1,
+      "Qatar": 1,
+      "United Arab Emirates": 1,
       "Denmark": 1,
       "Pakistan": 1,
       "Vietnam": 1,
@@ -295,13 +298,16 @@
       "Spain": 1
     },
     "notice_collaborations": {
-      "China": 22,
-      "Hong Kong": 6,
-      "United States": 4,
+      "China": 23,
+      "Hong Kong": 7,
+      "United States": 5,
       "Australia": 3,
       "Taiwan": 2,
       "South Korea": 2,
       "Canada": 2,
+      "Greece": 1,
+      "Qatar": 1,
+      "United Arab Emirates": 1,
       "Denmark": 1,
       "Pakistan": 1,
       "Vietnam": 1,

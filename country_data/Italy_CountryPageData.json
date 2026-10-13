@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Italy",
     "yearly_rates": {
+      "2007": 0.3044,
       "2022": 0.3814,
       "2024": 0.1793,
       "2013": 0.6739,
@@ -17,7 +18,6 @@
       "2025": 0.0357,
       "2003": 0.2094,
       "2017": 0.7594,
-      "2007": 0.2899,
       "2010": 0.6778,
       "2015": 0.377,
       "1999": 0.0976,
@@ -33,7 +33,7 @@
       "1997": 0.0488
     },
     "notice_yearly_rates": {
-      "2025": 0.4581,
+      "2025": 0.464,
       "2024": 0.8208,
       "2017": 0.5531,
       "2022": 0.4317,
@@ -60,8 +60,9 @@
       "2003": 0.0952,
       "1998": 0.0742
     },
-    "average_rate": 0.3906,
+    "average_rate": 0.391,
     "yearly_retractions": {
+      "2007": 21,
       "2022": 53,
       "2024": 26,
       "2013": 63,
@@ -78,7 +79,6 @@
       "2026": 1,
       "2003": 11,
       "2017": 81,
-      "2007": 20,
       "2010": 53,
       "2015": 38,
       "1999": 4,
@@ -99,8 +99,8 @@
       "1997": 2
     },
     "notice_yearly_retractions": {
+      "2025": 78,
       "2026": 62,
-      "2025": 77,
       "2024": 119,
       "2017": 59,
       "2022": 60,
@@ -131,7 +131,7 @@
   },
   "domainwise_data": {
     "country": "Italy",
-    "total_retractions": 1017,
+    "total_retractions": 1018,
     "years": {
       "2026": {
         "total": 1,
@@ -459,15 +459,15 @@
         }
       },
       "2007": {
-        "total": 20,
+        "total": 21,
         "marks": {
-          "alterations": 16,
+          "alterations": 17,
           "researcher_integrity": 1,
           "supplemental": 2,
           "research": 1
         },
         "domain": {
-          "BLS": 23,
+          "BLS": 28,
           "HSC": 16,
           "B/T": 4,
           "PHY": 4
@@ -670,17 +670,17 @@
         }
       },
       "2025": {
-        "total": 77,
+        "total": 78,
         "marks": {
-          "alterations": 36,
+          "alterations": 37,
           "researcher_integrity": 22,
           "system": 7,
           "research": 10,
           "supplemental": 2
         },
         "domain": {
+          "BLS": 95,
           "PHY": 30,
-          "BLS": 90,
           "HSC": 80,
           "ENV": 7,
           "B/T": 14,

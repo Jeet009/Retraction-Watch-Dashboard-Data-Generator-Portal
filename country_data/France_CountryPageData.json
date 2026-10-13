@@ -3,6 +3,7 @@
     "country": "France",
     "yearly_rates": {
       "2024": 0.1241,
+      "2014": 0.378,
       "2025": 0.0869,
       "2004": 0.1636,
       "2020": 0.4335,
@@ -15,7 +16,6 @@
       "2015": 0.232,
       "2022": 0.2853,
       "2012": 0.3664,
-      "2014": 0.36,
       "2008": 0.2206,
       "2018": 0.5111,
       "2013": 0.4366,
@@ -60,9 +60,10 @@
       "2004": 0.0409,
       "1997": 0.0167
     },
-    "average_rate": 0.2564,
+    "average_rate": 0.2571,
     "yearly_retractions": {
       "2024": 14,
+      "2014": 42,
       "2025": 11,
       "2004": 12,
       "2020": 50,
@@ -76,7 +77,6 @@
       "2022": 33,
       "2026": 2,
       "2012": 39,
-      "2014": 40,
       "2008": 20,
       "2018": 58,
       "2013": 48,
@@ -101,7 +101,7 @@
       "1988": 1
     },
     "notice_yearly_retractions": {
-      "2026": 43,
+      "2026": 45,
       "2025": 67,
       "2022": 35,
       "2024": 75,
@@ -138,7 +138,7 @@
   },
   "domainwise_data": {
     "country": "France",
-    "total_retractions": 734,
+    "total_retractions": 736,
     "years": {
       "2026": {
         "total": 2,
@@ -348,18 +348,18 @@
         }
       },
       "2014": {
-        "total": 40,
+        "total": 42,
         "marks": {
+          "researcher_integrity": 8,
           "alterations": 16,
-          "researcher_integrity": 6,
           "research": 11,
           "supplemental": 7
         },
         "domain": {
-          "HSC": 22,
+          "BLS": 55,
+          "HSC": 25,
           "PHY": 17,
           "B/T": 3,
-          "BLS": 51,
           "SOC": 4,
           "ENV": 4,
           "HUM": 2
@@ -692,19 +692,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 43,
+        "total": 45,
         "marks": {
           "research": 7,
-          "researcher_integrity": 19,
+          "researcher_integrity": 21,
           "alterations": 11,
           "system": 3,
           "supplemental": 3
         },
         "domain": {
           "PHY": 6,
+          "BLS": 52,
+          "HSC": 39,
           "B/T": 9,
-          "BLS": 48,
-          "HSC": 36,
           "ENV": 4,
           "SOC": 6,
           "HUM": 1
@@ -1193,7 +1193,7 @@
       "Saudi Arabia": 28,
       "Pakistan": 21,
       "Canada": 20,
-      "Tunisia": 18,
+      "Tunisia": 19,
       "Japan": 17,
       "Algeria": 16,
       "Australia": 16,
@@ -1295,7 +1295,7 @@
       "Saudi Arabia": 28,
       "Pakistan": 21,
       "Canada": 20,
-      "Tunisia": 18,
+      "Tunisia": 19,
       "Japan": 17,
       "Algeria": 16,
       "Australia": 16,

@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Tunisia",
     "yearly_rates": {
+      "2014": 1.096,
       "2025": 0.086,
       "2021": 3.1804,
       "2024": 1.0158,
@@ -10,7 +11,6 @@
       "2019": 0.6321,
       "2020": 0.9738,
       "2009": 0.7018,
-      "2014": 0.9394,
       "2011": 0.9752,
       "2017": 0.9348,
       "2012": 0.754,
@@ -46,8 +46,9 @@
       "2009": 0.7018,
       "2005": 0.4596
     },
-    "average_rate": 0.9773,
+    "average_rate": 0.984,
     "yearly_retractions": {
+      "2014": 7,
       "2025": 1,
       "2021": 28,
       "2024": 11,
@@ -56,7 +57,6 @@
       "2019": 5,
       "2020": 8,
       "2009": 3,
-      "2014": 6,
       "2011": 5,
       "2017": 8,
       "2012": 4,
@@ -72,7 +72,7 @@
       "2005": 1
     },
     "notice_yearly_retractions": {
-      "2026": 6,
+      "2026": 7,
       "2024": 22,
       "2025": 14,
       "2023": 27,
@@ -96,7 +96,7 @@
   },
   "domainwise_data": {
     "country": "Tunisia",
-    "total_retractions": 146,
+    "total_retractions": 147,
     "years": {
       "2025": {
         "total": 1,
@@ -253,18 +253,18 @@
         }
       },
       "2014": {
-        "total": 6,
+        "total": 7,
         "marks": {
+          "researcher_integrity": 2,
           "supplemental": 1,
-          "researcher_integrity": 1,
           "alterations": 4
         },
         "domain": {
+          "BLS": 3,
+          "HSC": 4,
           "B/T": 4,
           "SOC": 2,
-          "PHY": 3,
-          "BLS": 1,
-          "HSC": 3
+          "PHY": 3
         }
       },
       "2013": {
@@ -389,17 +389,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 6,
+        "total": 7,
         "marks": {
+          "researcher_integrity": 2,
           "alterations": 4,
-          "researcher_integrity": 1,
           "research": 1
         },
         "domain": {
+          "BLS": 6,
+          "HSC": 2,
           "B/T": 5,
-          "HSC": 1,
           "PHY": 6,
-          "BLS": 4,
           "ENV": 1
         }
       },
@@ -658,7 +658,7 @@
       "Saudi Arabia": 55,
       "China": 21,
       "Pakistan": 20,
-      "France": 18,
+      "France": 19,
       "Iraq": 13,
       "India": 13,
       "South Africa": 9,
@@ -713,7 +713,7 @@
       "Saudi Arabia": 55,
       "China": 21,
       "Pakistan": 20,
-      "France": 18,
+      "France": 19,
       "Iraq": 13,
       "India": 13,
       "South Africa": 9,

@@ -2,11 +2,11 @@
   "retraction_rate_data": {
     "country": "Colombia",
     "yearly_rates": {
+      "2024": 0.1762,
       "2021": 1.1755,
       "2013": 0.5645,
       "2023": 0.1209,
       "2017": 0.3509,
-      "2024": 0.1175,
       "2020": 1.4229,
       "2022": 0.4251,
       "2015": 0.2285,
@@ -32,13 +32,13 @@
       "2015": 0.2285,
       "2016": 0.0979
     },
-    "average_rate": 0.5004,
+    "average_rate": 0.505,
     "yearly_retractions": {
+      "2024": 3,
       "2021": 20,
       "2013": 4,
       "2023": 2,
       "2017": 4,
-      "2024": 2,
       "2020": 23,
       "2022": 7,
       "2015": 2,
@@ -51,7 +51,7 @@
       "2014": 1
     },
     "notice_yearly_retractions": {
-      "2026": 2,
+      "2026": 3,
       "2025": 8,
       "2022": 15,
       "2023": 13,
@@ -68,17 +68,18 @@
   },
   "domainwise_data": {
     "country": "Colombia",
-    "total_retractions": 107,
+    "total_retractions": 108,
     "years": {
       "2024": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "alterations": 1,
-          "researcher_integrity": 1
+          "researcher_integrity": 2,
+          "alterations": 1
         },
         "domain": {
-          "B/T": 3,
-          "PHY": 4
+          "B/T": 5,
+          "ENV": 1,
+          "PHY": 5
         }
       },
       "2023": {
@@ -263,12 +264,14 @@
     },
     "notice_years": {
       "2026": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "researcher_integrity": 2
+          "researcher_integrity": 3
         },
         "domain": {
-          "PHY": 2,
+          "B/T": 2,
+          "ENV": 1,
+          "PHY": 3,
           "BLS": 1,
           "HSC": 3
         }
@@ -439,15 +442,15 @@
       "Peru": 20,
       "Honduras": 20,
       "United States": 18,
-      "China": 11,
+      "China": 12,
       "Pakistan": 9,
+      "India": 8,
+      "Iraq": 7,
+      "Saudi Arabia": 7,
       "Spain": 7,
-      "India": 7,
-      "Saudi Arabia": 6,
-      "Iraq": 6,
       "United Kingdom": 6,
+      "Ecuador": 5,
       "Argentina": 4,
-      "Ecuador": 4,
       "Poland": 3,
       "Jordan": 3,
       "Malaysia": 3,
@@ -456,6 +459,7 @@
       "Thailand": 3,
       "Lebanon": 3,
       "Taiwan": 3,
+      "Vietnam": 2,
       "Iran": 2,
       "Russia": 2,
       "Australia": 2,
@@ -467,7 +471,6 @@
       "Israel": 2,
       "Austria": 1,
       "Finland": 1,
-      "Vietnam": 1,
       "Azerbaijan": 1,
       "Uzbekistan": 1,
       "Denmark": 1,
@@ -487,15 +490,15 @@
       "Peru": 20,
       "Honduras": 20,
       "United States": 18,
-      "China": 11,
+      "China": 12,
       "Pakistan": 9,
+      "India": 8,
+      "Iraq": 7,
+      "Saudi Arabia": 7,
       "Spain": 7,
-      "India": 7,
-      "Saudi Arabia": 6,
-      "Iraq": 6,
       "United Kingdom": 6,
+      "Ecuador": 5,
       "Argentina": 4,
-      "Ecuador": 4,
       "Poland": 3,
       "Jordan": 3,
       "Malaysia": 3,
@@ -504,6 +507,7 @@
       "Thailand": 3,
       "Lebanon": 3,
       "Taiwan": 3,
+      "Vietnam": 2,
       "Iran": 2,
       "Russia": 2,
       "Australia": 2,
@@ -515,7 +519,6 @@
       "Israel": 2,
       "Austria": 1,
       "Finland": 1,
-      "Vietnam": 1,
       "Azerbaijan": 1,
       "Uzbekistan": 1,
       "Denmark": 1,

@@ -2,13 +2,13 @@
   "retraction_rate_data": {
     "country": "Qatar",
     "yearly_rates": {
+      "2020": 0.972,
       "2024": 1.0794,
       "2021": 1.3838,
       "2023": 1.2038,
       "2025": 0.1234,
       "2022": 1.893,
       "2017": 0.5557,
-      "2020": 0.7776,
       "2010": 4.0323,
       "2018": 0.7985,
       "2009": 1.675,
@@ -21,8 +21,8 @@
       "2008": 1.8904
     },
     "notice_yearly_rates": {
+      "2025": 1.4811,
       "2024": 1.2336,
-      "2025": 1.3577,
       "2023": 1.5477,
       "2022": 1.0325,
       "2020": 0.3888,
@@ -35,15 +35,15 @@
       "2015": 1.3055,
       "2016": 0.8294
     },
-    "average_rate": 0.9278,
+    "average_rate": 0.9431,
     "yearly_retractions": {
+      "2020": 5,
       "2024": 7,
       "2021": 8,
       "2023": 7,
       "2025": 1,
       "2022": 11,
       "2017": 2,
-      "2020": 4,
       "2010": 3,
       "2018": 3,
       "2009": 1,
@@ -56,9 +56,9 @@
       "2008": 1
     },
     "notice_yearly_retractions": {
+      "2025": 12,
       "2026": 2,
       "2024": 8,
-      "2025": 11,
       "2023": 9,
       "2022": 6,
       "2020": 2,
@@ -74,7 +74,7 @@
   },
   "domainwise_data": {
     "country": "Qatar",
-    "total_retractions": 61,
+    "total_retractions": 62,
     "years": {
       "2025": {
         "total": 1,
@@ -144,15 +144,15 @@
         }
       },
       "2020": {
-        "total": 4,
+        "total": 5,
         "marks": {
-          "research": 2,
-          "alterations": 2
+          "alterations": 3,
+          "research": 2
         },
         "domain": {
+          "BLS": 8,
+          "HSC": 3,
           "B/T": 3,
-          "BLS": 4,
-          "HSC": 2,
           "SOC": 1,
           "PHY": 1
         }
@@ -298,17 +298,17 @@
         }
       },
       "2025": {
-        "total": 11,
+        "total": 12,
         "marks": {
+          "alterations": 3,
           "researcher_integrity": 8,
-          "research": 1,
-          "alterations": 2
+          "research": 1
         },
         "domain": {
+          "BLS": 9,
+          "HSC": 9,
           "B/T": 3,
           "PHY": 12,
-          "HSC": 8,
-          "BLS": 5,
           "ENV": 3,
           "SOC": 1
         }
@@ -471,17 +471,17 @@
       "Pakistan": 10,
       "United Kingdom": 10,
       "Iraq": 10,
-      "United States": 8,
-      "China": 6,
+      "United States": 9,
+      "China": 7,
       "Poland": 5,
       "Malaysia": 5,
       "Turkey": 5,
+      "United Arab Emirates": 4,
       "Spain": 4,
       "Egypt": 4,
       "France": 4,
       "Italy": 4,
       "Jordan": 3,
-      "United Arab Emirates": 3,
       "Bangladesh": 3,
       "Iran": 3,
       "Australia": 3,
@@ -489,6 +489,9 @@
       "South Korea": 2,
       "Kuwait": 2,
       "Belgium": 2,
+      "Greece": 1,
+      "Hong Kong": 1,
+      "Macau": 1,
       "Oman": 1,
       "Japan": 1,
       "Argentina": 1,
@@ -522,17 +525,17 @@
       "Pakistan": 10,
       "United Kingdom": 10,
       "Iraq": 10,
-      "United States": 8,
-      "China": 6,
+      "United States": 9,
+      "China": 7,
       "Poland": 5,
       "Malaysia": 5,
       "Turkey": 5,
+      "United Arab Emirates": 4,
       "Spain": 4,
       "Egypt": 4,
       "France": 4,
       "Italy": 4,
       "Jordan": 3,
-      "United Arab Emirates": 3,
       "Bangladesh": 3,
       "Iran": 3,
       "Australia": 3,
@@ -540,6 +543,9 @@
       "South Korea": 2,
       "Kuwait": 2,
       "Belgium": 2,
+      "Greece": 1,
+      "Hong Kong": 1,
+      "Macau": 1,
       "Oman": 1,
       "Japan": 1,
       "Argentina": 1,
