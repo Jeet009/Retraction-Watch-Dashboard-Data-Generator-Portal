@@ -2,12 +2,12 @@
   "retraction_rate_data": {
     "country": "South Korea",
     "yearly_rates": {
+      "2020": 0.6335,
       "2021": 1.5216,
       "2022": 2.7908,
       "2010": 1.196,
       "2023": 0.8568,
       "2025": 0.1408,
-      "2020": 0.6228,
       "2024": 0.6262,
       "2019": 0.5716,
       "2013": 0.9535,
@@ -33,12 +33,12 @@
       "1999": 0.1761
     },
     "notice_yearly_rates": {
+      "2023": 3.1723,
       "2024": 1.2808,
       "2022": 0.7254,
       "2025": 1.1441,
       "2006": 0.5287,
       "2014": 0.5139,
-      "2023": 3.1621,
       "2012": 0.9865,
       "2010": 0.5896,
       "2008": 0.419,
@@ -59,14 +59,14 @@
       "2003": 0.0357,
       "1999": 0.0587
     },
-    "average_rate": 0.8224,
+    "average_rate": 0.823,
     "yearly_retractions": {
+      "2020": 59,
       "2021": 150,
       "2022": 277,
       "2010": 71,
       "2023": 84,
       "2025": 16,
-      "2020": 58,
       "2024": 66,
       "2019": 51,
       "2013": 69,
@@ -94,13 +94,13 @@
       "1993": 1
     },
     "notice_yearly_retractions": {
+      "2023": 311,
       "2024": 135,
       "2026": 62,
       "2022": 72,
       "2025": 130,
       "2006": 23,
       "2014": 39,
-      "2023": 310,
       "2012": 68,
       "2010": 35,
       "2008": 21,
@@ -124,7 +124,7 @@
   },
   "domainwise_data": {
     "country": "South Korea",
-    "total_retractions": 1462,
+    "total_retractions": 1463,
     "years": {
       "2025": {
         "total": 16,
@@ -220,19 +220,19 @@
         }
       },
       "2020": {
-        "total": 58,
+        "total": 59,
         "marks": {
-          "alterations": 21,
+          "alterations": 22,
           "research": 16,
           "system": 5,
           "researcher_integrity": 14,
           "supplemental": 2
         },
         "domain": {
-          "B/T": 36,
+          "B/T": 38,
+          "BLS": 28,
           "HUM": 3,
           "PHY": 32,
-          "BLS": 27,
           "ENV": 8,
           "HSC": 30,
           "SOC": 13
@@ -684,20 +684,20 @@
         }
       },
       "2023": {
-        "total": 310,
+        "total": 311,
         "marks": {
-          "alterations": 176,
+          "alterations": 177,
           "research": 93,
           "researcher_integrity": 25,
           "system": 12,
           "supplemental": 4
         },
         "domain": {
-          "BLS": 94,
+          "B/T": 364,
+          "BLS": 95,
           "HSC": 144,
           "ENV": 18,
           "PHY": 83,
-          "B/T": 362,
           "SOC": 170,
           "HUM": 50
         }
@@ -1061,7 +1061,7 @@
       }
     },
     "collaborations": {
-      "China": 325,
+      "China": 326,
       "India": 174,
       "Saudi Arabia": 123,
       "United States": 101,
@@ -1147,7 +1147,7 @@
       "Iceland": 1
     },
     "notice_collaborations": {
-      "China": 325,
+      "China": 326,
       "India": 174,
       "Saudi Arabia": 123,
       "United States": 101,

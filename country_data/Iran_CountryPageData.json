@@ -3,11 +3,11 @@
     "country": "Iran",
     "yearly_rates": {
       "2008": 1.2201,
+      "2023": 1.8932,
       "2024": 1.161,
       "2017": 1.9448,
       "2012": 3.401,
       "2001": 1.8116,
-      "2023": 1.8791,
       "2022": 2.5019,
       "2021": 2.2738,
       "2020": 1.9337,
@@ -29,8 +29,8 @@
       "2005": 0.4827
     },
     "notice_yearly_rates": {
+      "2025": 3.9639,
       "2007": 0.668,
-      "2025": 3.9509,
       "2021": 1.4178,
       "2014": 0.9111,
       "2024": 3.5522,
@@ -52,14 +52,14 @@
       "2017": 1.2359,
       "2005": 0.2413
     },
-    "average_rate": 1.9904,
+    "average_rate": 1.9914,
     "yearly_retractions": {
       "2008": 24,
+      "2023": 134,
       "2024": 84,
       "2017": 107,
       "2012": 137,
       "2001": 4,
-      "2023": 133,
       "2022": 188,
       "2021": 170,
       "2020": 138,
@@ -83,8 +83,8 @@
     },
     "notice_yearly_retractions": {
       "2026": 93,
+      "2025": 306,
       "2007": 10,
-      "2025": 305,
       "2021": 106,
       "2014": 40,
       "2024": 257,
@@ -109,7 +109,7 @@
   },
   "domainwise_data": {
     "country": "Iran",
-    "total_retractions": 2012,
+    "total_retractions": 2013,
     "years": {
       "2026": {
         "total": 1,
@@ -158,16 +158,16 @@
         }
       },
       "2023": {
-        "total": 133,
+        "total": 134,
         "marks": {
+          "researcher_integrity": 26,
           "alterations": 42,
           "research": 42,
-          "researcher_integrity": 25,
           "system": 23,
           "supplemental": 1
         },
         "domain": {
-          "HSC": 121,
+          "HSC": 124,
           "PHY": 96,
           "B/T": 54,
           "BLS": 86,
@@ -559,18 +559,18 @@
         }
       },
       "2025": {
-        "total": 305,
+        "total": 306,
         "marks": {
+          "researcher_integrity": 98,
           "alterations": 120,
           "research": 56,
-          "researcher_integrity": 97,
           "system": 30,
           "supplemental": 2
         },
         "domain": {
+          "HSC": 255,
           "BLS": 189,
           "PHY": 309,
-          "HSC": 252,
           "ENV": 27,
           "B/T": 94,
           "SOC": 30,

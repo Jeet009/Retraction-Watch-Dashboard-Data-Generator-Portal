@@ -3,11 +3,12 @@
     "country": "Saudi Arabia",
     "yearly_rates": {
       "2023": 5.1144,
+      "2021": 10.4957,
+      "2018": 1.6715,
       "2020": 3.8512,
       "2024": 3.3536,
       "2025": 0.7257,
       "2022": 14.4173,
-      "2021": 10.4739,
       "2019": 1.6949,
       "2012": 2.445,
       "2015": 1.5614,
@@ -15,7 +16,6 @@
       "2014": 1.7916,
       "2013": 1.8354,
       "2016": 1.4251,
-      "2018": 1.6275,
       "2010": 2.5699,
       "2009": 0.4581,
       "2006": 1.9055,
@@ -29,7 +29,7 @@
       "1998": 0.4847
     },
     "notice_yearly_rates": {
-      "2025": 6.444,
+      "2025": 6.4565,
       "2012": 0.7588,
       "2024": 6.592,
       "2015": 0.6766,
@@ -51,15 +51,16 @@
       "2005": 0.4139,
       "2000": 0.4995
     },
-    "average_rate": 4.2461,
+    "average_rate": 4.2498,
     "yearly_retractions": {
       "2023": 303,
+      "2021": 483,
+      "2018": 38,
       "2020": 140,
       "2024": 233,
       "2025": 58,
       "2022": 806,
       "2026": 8,
-      "2021": 482,
       "2019": 46,
       "2012": 29,
       "2015": 30,
@@ -67,7 +68,6 @@
       "2014": 31,
       "2013": 27,
       "2016": 29,
-      "2018": 37,
       "2010": 16,
       "2009": 2,
       "2006": 5,
@@ -82,8 +82,8 @@
       "1998": 1
     },
     "notice_yearly_retractions": {
-      "2026": 249,
-      "2025": 515,
+      "2026": 250,
+      "2025": 516,
       "2012": 9,
       "2024": 458,
       "2015": 13,
@@ -108,7 +108,7 @@
   },
   "domainwise_data": {
     "country": "Saudi Arabia",
-    "total_retractions": 2348,
+    "total_retractions": 2350,
     "years": {
       "2026": {
         "total": 8,
@@ -198,21 +198,21 @@
         }
       },
       "2021": {
-        "total": 482,
+        "total": 483,
         "marks": {
+          "researcher_integrity": 146,
           "research": 145,
-          "researcher_integrity": 145,
           "alterations": 159,
           "supplemental": 13,
           "system": 20
         },
         "domain": {
+          "HSC": 257,
+          "SOC": 54,
           "BLS": 314,
-          "HSC": 254,
           "ENV": 47,
           "PHY": 306,
           "B/T": 325,
-          "SOC": 53,
           "HUM": 2
         }
       },
@@ -255,17 +255,17 @@
         }
       },
       "2018": {
-        "total": 37,
+        "total": 38,
         "marks": {
+          "alterations": 14,
           "research": 11,
-          "alterations": 13,
           "researcher_integrity": 3,
           "system": 1,
           "supplemental": 9
         },
         "domain": {
-          "ENV": 3,
-          "PHY": 17,
+          "ENV": 4,
+          "PHY": 20,
           "BLS": 25,
           "B/T": 26,
           "HSC": 23,
@@ -512,39 +512,39 @@
     },
     "notice_years": {
       "2026": {
-        "total": 249,
+        "total": 250,
         "marks": {
           "research": 92,
+          "alterations": 95,
           "researcher_integrity": 56,
-          "alterations": 94,
           "system": 7
         },
         "domain": {
           "B/T": 114,
           "HSC": 134,
-          "ENV": 45,
-          "PHY": 236,
+          "ENV": 46,
+          "PHY": 239,
           "BLS": 155,
           "SOC": 9,
           "HUM": 1
         }
       },
       "2025": {
-        "total": 515,
+        "total": 516,
         "marks": {
+          "researcher_integrity": 163,
           "alterations": 196,
           "research": 145,
-          "researcher_integrity": 162,
           "system": 7,
           "supplemental": 5
         },
         "domain": {
+          "HSC": 292,
+          "SOC": 19,
           "BLS": 316,
-          "HSC": 289,
           "PHY": 547,
           "ENV": 89,
           "B/T": 267,
-          "SOC": 18,
           "HUM": 1
         }
       },
@@ -853,7 +853,7 @@
     "collaborations": {
       "India": 684,
       "Pakistan": 609,
-      "Egypt": 517,
+      "Egypt": 518,
       "China": 418,
       "Iraq": 171,
       "United States": 163,
@@ -970,7 +970,7 @@
     "notice_collaborations": {
       "India": 684,
       "Pakistan": 609,
-      "Egypt": 517,
+      "Egypt": 518,
       "China": 418,
       "Iraq": 171,
       "United States": 163,

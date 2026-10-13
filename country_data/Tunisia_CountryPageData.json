@@ -2,11 +2,11 @@
   "retraction_rate_data": {
     "country": "Tunisia",
     "yearly_rates": {
+      "2023": 1.05,
       "2014": 1.096,
       "2025": 0.086,
       "2021": 3.1804,
       "2024": 1.0158,
-      "2023": 0.945,
       "2022": 2.0665,
       "2019": 0.6321,
       "2020": 0.9738,
@@ -26,8 +26,8 @@
       "2005": 0.4596
     },
     "notice_yearly_rates": {
+      "2025": 1.29,
       "2024": 2.0316,
-      "2025": 1.204,
       "2023": 2.8349,
       "2022": 0.4133,
       "2010": 0.6471,
@@ -46,13 +46,13 @@
       "2009": 0.7018,
       "2005": 0.4596
     },
-    "average_rate": 0.984,
+    "average_rate": 0.9907,
     "yearly_retractions": {
+      "2023": 10,
       "2014": 7,
       "2025": 1,
       "2021": 28,
       "2024": 11,
-      "2023": 9,
       "2022": 20,
       "2019": 5,
       "2020": 8,
@@ -72,9 +72,9 @@
       "2005": 1
     },
     "notice_yearly_retractions": {
+      "2025": 15,
       "2026": 7,
       "2024": 22,
-      "2025": 14,
       "2023": 27,
       "2022": 4,
       "2010": 3,
@@ -96,7 +96,7 @@
   },
   "domainwise_data": {
     "country": "Tunisia",
-    "total_retractions": 147,
+    "total_retractions": 148,
     "years": {
       "2025": {
         "total": 1,
@@ -125,18 +125,18 @@
         }
       },
       "2023": {
-        "total": 9,
+        "total": 10,
         "marks": {
+          "research": 2,
           "alterations": 5,
-          "research": 1,
           "researcher_integrity": 3
         },
         "domain": {
+          "HSC": 3,
           "B/T": 8,
           "PHY": 10,
           "SOC": 4,
-          "ENV": 1,
-          "HSC": 1
+          "ENV": 1
         }
       },
       "2022": {
@@ -404,19 +404,19 @@
         }
       },
       "2025": {
-        "total": 14,
+        "total": 15,
         "marks": {
+          "research": 4,
           "alterations": 2,
           "system": 1,
-          "research": 3,
           "researcher_integrity": 8
         },
         "domain": {
+          "HSC": 5,
           "PHY": 15,
           "B/T": 11,
           "BLS": 2,
           "ENV": 2,
-          "HSC": 3,
           "SOC": 4
         }
       },
@@ -678,6 +678,7 @@
       "Russia": 3,
       "United Arab Emirates": 3,
       "Qatar": 3,
+      "Kazakhstan": 2,
       "Slovenia": 2,
       "Algeria": 2,
       "Jordan": 2,
@@ -696,7 +697,6 @@
       "Benin": 1,
       "Rwanda": 1,
       "Zambia": 1,
-      "Kazakhstan": 1,
       "Ethiopia": 1,
       "Nepal": 1,
       "Sudan": 1,
@@ -733,6 +733,7 @@
       "Russia": 3,
       "United Arab Emirates": 3,
       "Qatar": 3,
+      "Kazakhstan": 2,
       "Slovenia": 2,
       "Algeria": 2,
       "Jordan": 2,
@@ -751,7 +752,6 @@
       "Benin": 1,
       "Rwanda": 1,
       "Zambia": 1,
-      "Kazakhstan": 1,
       "Ethiopia": 1,
       "Nepal": 1,
       "Sudan": 1,
