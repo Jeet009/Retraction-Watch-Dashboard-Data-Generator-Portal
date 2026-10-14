@@ -2,10 +2,10 @@
   "retraction_rate_data": {
     "country": "United Kingdom",
     "yearly_rates": {
+      "2024": 0.2459,
       "2023": 0.5266,
       "2025": 0.1535,
       "2022": 0.8234,
-      "2024": 0.2411,
       "2016": 0.2588,
       "2021": 0.5405,
       "2019": 0.3822,
@@ -65,13 +65,13 @@
       "2003": 0.0194,
       "2000": 0.0303
     },
-    "average_rate": 0.3902,
+    "average_rate": 0.3904,
     "yearly_retractions": {
+      "2024": 52,
       "2023": 105,
       "2025": 40,
       "2026": 4,
       "2022": 168,
-      "2024": 51,
       "2016": 45,
       "2021": 114,
       "2019": 72,
@@ -116,7 +116,7 @@
       "1975": 4
     },
     "notice_yearly_retractions": {
-      "2026": 73,
+      "2026": 74,
       "2025": 132,
       "2024": 138,
       "2021": 101,
@@ -162,7 +162,7 @@
   },
   "domainwise_data": {
     "country": "United Kingdom",
-    "total_retractions": 1802,
+    "total_retractions": 1803,
     "years": {
       "2026": {
         "total": 4,
@@ -196,18 +196,18 @@
         }
       },
       "2024": {
-        "total": 51,
+        "total": 52,
         "marks": {
-          "researcher_integrity": 13,
+          "researcher_integrity": 14,
           "research": 15,
           "supplemental": 5,
           "alterations": 16,
           "system": 2
         },
         "domain": {
+          "HSC": 36,
           "B/T": 45,
           "BLS": 15,
-          "HSC": 35,
           "SOC": 10,
           "ENV": 6,
           "PHY": 20
@@ -877,17 +877,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 73,
+        "total": 74,
         "marks": {
+          "researcher_integrity": 16,
           "system": 2,
-          "researcher_integrity": 15,
           "research": 28,
           "alterations": 26,
           "supplemental": 2
         },
         "domain": {
+          "HSC": 49,
           "B/T": 48,
-          "HSC": 48,
           "BLS": 50,
           "PHY": 33,
           "SOC": 10,
@@ -1508,7 +1508,7 @@
       "United States": 233,
       "India": 112,
       "Germany": 91,
-      "Italy": 87,
+      "Italy": 88,
       "Pakistan": 86,
       "Canada": 85,
       "Australia": 74,
@@ -1626,7 +1626,7 @@
       "United States": 233,
       "India": 112,
       "Germany": 91,
-      "Italy": 87,
+      "Italy": 88,
       "Pakistan": 86,
       "Canada": 85,
       "Australia": 74,

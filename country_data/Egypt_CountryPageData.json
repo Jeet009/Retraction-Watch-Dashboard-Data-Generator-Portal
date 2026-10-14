@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Egypt",
     "yearly_rates": {
+      "2023": 2.6795,
       "2024": 1.5753,
       "2021": 4.9712,
       "2025": 0.3915,
@@ -16,7 +17,6 @@
       "2022": 5.6971,
       "2014": 3.0371,
       "2019": 2.3403,
-      "2023": 2.6549,
       "2005": 1.2706,
       "2004": 0.8846,
       "2013": 2.664,
@@ -30,7 +30,7 @@
       "1997": 0.3396
     },
     "notice_yearly_rates": {
-      "2025": 5.9378,
+      "2025": 5.9595,
       "2024": 5.3226,
       "2005": 0.2118,
       "2007": 0.5139,
@@ -54,8 +54,9 @@
       "2010": 0.5421,
       "1998": 0.3331
     },
-    "average_rate": 2.6657,
+    "average_rate": 2.6679,
     "yearly_retractions": {
+      "2023": 109,
       "2024": 66,
       "2021": 184,
       "2026": 3,
@@ -71,7 +72,6 @@
       "2022": 239,
       "2014": 46,
       "2019": 58,
-      "2023": 108,
       "2005": 6,
       "2004": 4,
       "2013": 38,
@@ -85,7 +85,7 @@
       "1997": 1
     },
     "notice_yearly_retractions": {
-      "2025": 273,
+      "2025": 274,
       "2026": 134,
       "2024": 223,
       "2005": 1,
@@ -113,7 +113,7 @@
   },
   "domainwise_data": {
     "country": "Egypt",
-    "total_retractions": 1238,
+    "total_retractions": 1239,
     "years": {
       "2026": {
         "total": 3,
@@ -165,19 +165,19 @@
         }
       },
       "2023": {
-        "total": 108,
+        "total": 109,
         "marks": {
-          "alterations": 47,
+          "alterations": 48,
           "researcher_integrity": 15,
           "research": 35,
           "system": 8,
           "supplemental": 3
         },
         "domain": {
-          "BLS": 68,
+          "BLS": 71,
+          "PHY": 101,
           "HSC": 91,
           "ENV": 11,
-          "PHY": 100,
           "B/T": 30,
           "SOC": 1
         }
@@ -537,19 +537,19 @@
         }
       },
       "2025": {
-        "total": 273,
+        "total": 274,
         "marks": {
+          "alterations": 101,
           "researcher_integrity": 43,
-          "alterations": 100,
           "research": 122,
           "system": 4,
           "supplemental": 4
         },
         "domain": {
+          "BLS": 144,
+          "PHY": 215,
           "HSC": 267,
           "SOC": 13,
-          "BLS": 141,
-          "PHY": 214,
           "B/T": 80,
           "ENV": 26
         }
@@ -876,7 +876,7 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 518,
+      "Saudi Arabia": 519,
       "China": 129,
       "India": 124,
       "Pakistan": 103,
@@ -963,7 +963,7 @@
       "Gaza Strip": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 518,
+      "Saudi Arabia": 519,
       "China": 129,
       "India": 124,
       "Pakistan": 103,
