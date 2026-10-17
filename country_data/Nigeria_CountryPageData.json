@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Nigeria",
     "yearly_rates": {
+      "2025": 0.1416,
       "2023": 3.4075,
       "2024": 1.5877,
       "2018": 1.1884,
@@ -9,7 +10,6 @@
       "2017": 0.6621,
       "2022": 2.102,
       "2009": 0.8396,
-      "2025": 0.0944,
       "2020": 1.4703,
       "2014": 1.3596,
       "2019": 1.4918,
@@ -41,8 +41,9 @@
       "2013": 0.3586,
       "2015": 0.8537
     },
-    "average_rate": 1.2204,
+    "average_rate": 1.2253,
     "yearly_retractions": {
+      "2025": 3,
       "2023": 57,
       "2024": 28,
       "2018": 11,
@@ -51,7 +52,6 @@
       "2026": 1,
       "2022": 35,
       "2009": 4,
-      "2025": 2,
       "2020": 21,
       "2014": 8,
       "2019": 18,
@@ -65,7 +65,7 @@
       "2011": 5
     },
     "notice_yearly_retractions": {
-      "2026": 34,
+      "2026": 35,
       "2025": 99,
       "2009": 1,
       "2024": 23,
@@ -87,7 +87,7 @@
   },
   "domainwise_data": {
     "country": "Nigeria",
-    "total_retractions": 248,
+    "total_retractions": 249,
     "years": {
       "2026": {
         "total": 1,
@@ -99,14 +99,17 @@
         }
       },
       "2025": {
-        "total": 2,
+        "total": 3,
         "marks": {
+          "system": 1,
           "alterations": 1,
           "research": 1
         },
         "domain": {
-          "B/T": 1,
-          "ENV": 1
+          "BLS": 2,
+          "ENV": 2,
+          "HSC": 1,
+          "B/T": 1
         }
       },
       "2024": {
@@ -383,18 +386,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 34,
+        "total": 35,
         "marks": {
+          "system": 1,
           "alterations": 23,
           "research": 6,
           "supplemental": 2,
           "researcher_integrity": 3
         },
         "domain": {
-          "HSC": 15,
+          "BLS": 19,
+          "ENV": 7,
+          "HSC": 16,
           "PHY": 40,
-          "BLS": 17,
-          "ENV": 6,
           "B/T": 2
         }
       },
@@ -647,7 +651,7 @@
       }
     },
     "collaborations": {
-      "South Africa": 78,
+      "South Africa": 79,
       "India": 47,
       "Saudi Arabia": 23,
       "China": 22,
@@ -714,7 +718,7 @@
       "Tanzania": 1
     },
     "notice_collaborations": {
-      "South Africa": 78,
+      "South Africa": 79,
       "India": 47,
       "Saudi Arabia": 23,
       "China": 22,

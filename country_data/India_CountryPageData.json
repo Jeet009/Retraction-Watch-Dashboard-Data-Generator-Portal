@@ -2,11 +2,11 @@
   "retraction_rate_data": {
     "country": "India",
     "yearly_rates": {
+      "2025": 0.2123,
+      "2023": 2.5663,
       "2020": 3.5401,
       "2019": 1.6649,
       "2018": 1.6396,
-      "2025": 0.2097,
-      "2023": 2.5626,
       "2024": 1.9023,
       "2013": 1.293,
       "2021": 4.5719,
@@ -62,13 +62,13 @@
       "1998": 0.0442,
       "1997": 0.0451
     },
-    "average_rate": 1.8415,
+    "average_rate": 1.8421,
     "yearly_retractions": {
+      "2025": 81,
+      "2023": 704,
       "2020": 696,
       "2019": 309,
       "2018": 269,
-      "2025": 80,
-      "2023": 703,
       "2024": 576,
       "2013": 141,
       "2026": 10,
@@ -104,9 +104,9 @@
       "1994": 1
     },
     "notice_yearly_retractions": {
+      "2026": 412,
       "2023": 886,
       "2024": 989,
-      "2026": 410,
       "2025": 1101,
       "2006": 6,
       "2007": 24,
@@ -141,7 +141,7 @@
   },
   "domainwise_data": {
     "country": "India",
-    "total_retractions": 6264,
+    "total_retractions": 6266,
     "years": {
       "2026": {
         "total": 10,
@@ -160,19 +160,19 @@
         }
       },
       "2025": {
-        "total": 80,
+        "total": 81,
         "marks": {
-          "alterations": 48,
+          "alterations": 49,
           "research": 14,
           "researcher_integrity": 15,
           "system": 3
         },
         "domain": {
+          "BLS": 19,
+          "HSC": 67,
           "B/T": 59,
-          "HSC": 66,
           "PHY": 55,
           "ENV": 10,
-          "BLS": 17,
           "SOC": 9
         }
       },
@@ -196,22 +196,22 @@
         }
       },
       "2023": {
-        "total": 703,
+        "total": 704,
         "marks": {
+          "alterations": 298,
           "system": 11,
           "researcher_integrity": 71,
           "research": 271,
-          "alterations": 297,
           "supplemental": 53
         },
         "domain": {
+          "ENV": 80,
+          "PHY": 384,
           "B/T": 881,
           "HSC": 459,
-          "PHY": 382,
           "SOC": 55,
           "BLS": 269,
-          "HUM": 9,
-          "ENV": 79
+          "HUM": 9
         }
       },
       "2022": {
@@ -727,20 +727,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 410,
+        "total": 412,
         "marks": {
-          "alterations": 192,
+          "alterations": 194,
           "research": 147,
           "system": 13,
           "researcher_integrity": 53,
           "supplemental": 5
         },
         "domain": {
-          "BLS": 190,
+          "BLS": 192,
+          "HSC": 300,
+          "ENV": 63,
+          "PHY": 197,
           "B/T": 317,
-          "HSC": 299,
-          "ENV": 62,
-          "PHY": 195,
           "SOC": 39,
           "HUM": 6
         }

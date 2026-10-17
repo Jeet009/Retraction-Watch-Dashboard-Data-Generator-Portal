@@ -2,13 +2,13 @@
   "retraction_rate_data": {
     "country": "Saudi Arabia",
     "yearly_rates": {
+      "2021": 10.5174,
+      "2024": 3.368,
       "2023": 5.1313,
       "2025": 0.7382,
       "2022": 14.4352,
-      "2021": 10.4957,
       "2018": 1.6715,
       "2020": 3.8512,
-      "2024": 3.3536,
       "2019": 1.6949,
       "2012": 2.445,
       "2015": 1.5614,
@@ -29,13 +29,13 @@
       "1998": 0.4847
     },
     "notice_yearly_rates": {
-      "2025": 6.4816,
+      "2023": 10.769,
+      "2025": 6.4941,
       "2012": 0.7588,
       "2024": 6.592,
       "2015": 0.6766,
       "2017": 0.9962,
       "2022": 4.0605,
-      "2023": 10.7521,
       "2020": 0.9903,
       "2021": 0.9561,
       "2016": 1.0811,
@@ -51,15 +51,15 @@
       "2005": 0.4139,
       "2000": 0.4995
     },
-    "average_rate": 4.2552,
+    "average_rate": 4.2589,
     "yearly_retractions": {
+      "2021": 484,
+      "2024": 234,
       "2023": 304,
       "2025": 59,
       "2022": 807,
-      "2021": 483,
       "2018": 38,
       "2020": 140,
-      "2024": 233,
       "2026": 8,
       "2019": 46,
       "2012": 29,
@@ -82,14 +82,14 @@
       "1998": 1
     },
     "notice_yearly_retractions": {
-      "2025": 518,
+      "2023": 638,
+      "2025": 519,
       "2026": 251,
       "2012": 9,
       "2024": 458,
       "2015": 13,
       "2017": 21,
       "2022": 227,
-      "2023": 637,
       "2020": 36,
       "2021": 44,
       "2016": 22,
@@ -108,7 +108,7 @@
   },
   "domainwise_data": {
     "country": "Saudi Arabia",
-    "total_retractions": 2353,
+    "total_retractions": 2355,
     "years": {
       "2026": {
         "total": 8,
@@ -142,20 +142,20 @@
         }
       },
       "2024": {
-        "total": 233,
+        "total": 234,
         "marks": {
+          "alterations": 75,
           "researcher_integrity": 71,
           "research": 72,
-          "alterations": 74,
           "system": 9,
           "supplemental": 7
         },
         "domain": {
+          "BLS": 136,
+          "HSC": 131,
           "B/T": 132,
           "ENV": 41,
           "PHY": 202,
-          "BLS": 134,
-          "HSC": 130,
           "SOC": 10
         }
       },
@@ -198,21 +198,21 @@
         }
       },
       "2021": {
-        "total": 483,
+        "total": 484,
         "marks": {
+          "alterations": 160,
           "researcher_integrity": 146,
           "research": 145,
-          "alterations": 159,
           "supplemental": 13,
           "system": 20
         },
         "domain": {
+          "B/T": 327,
+          "SOC": 55,
           "HSC": 257,
-          "SOC": 54,
           "BLS": 314,
           "ENV": 47,
           "PHY": 306,
-          "B/T": 325,
           "HUM": 2
         }
       },
@@ -530,20 +530,20 @@
         }
       },
       "2025": {
-        "total": 518,
+        "total": 519,
         "marks": {
-          "alterations": 197,
+          "alterations": 198,
           "system": 8,
           "researcher_integrity": 163,
           "research": 145,
           "supplemental": 5
         },
         "domain": {
-          "BLS": 319,
+          "BLS": 321,
+          "HSC": 293,
           "PHY": 548,
           "B/T": 268,
           "SOC": 20,
-          "HSC": 292,
           "ENV": 89,
           "HUM": 1
         }
@@ -568,20 +568,20 @@
         }
       },
       "2023": {
-        "total": 637,
+        "total": 638,
         "marks": {
+          "alterations": 307,
           "researcher_integrity": 64,
           "research": 224,
           "system": 31,
-          "alterations": 306,
           "supplemental": 12
         },
         "domain": {
-          "B/T": 626,
+          "B/T": 628,
+          "SOC": 86,
           "PHY": 370,
           "HSC": 494,
           "ENV": 58,
-          "SOC": 85,
           "BLS": 262,
           "HUM": 3
         }
@@ -856,7 +856,7 @@
       "Egypt": 519,
       "China": 418,
       "Iraq": 171,
-      "United States": 163,
+      "United States": 164,
       "Malaysia": 153,
       "Bangladesh": 129,
       "Ethiopia": 125,
@@ -973,7 +973,7 @@
       "Egypt": 519,
       "China": 418,
       "Iraq": 171,
-      "United States": 163,
+      "United States": 164,
       "Malaysia": 153,
       "Bangladesh": 129,
       "Ethiopia": 125,
