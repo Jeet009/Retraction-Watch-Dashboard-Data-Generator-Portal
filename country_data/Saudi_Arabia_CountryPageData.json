@@ -2,14 +2,14 @@
   "retraction_rate_data": {
     "country": "Saudi Arabia",
     "yearly_rates": {
+      "2024": 3.3824,
+      "2019": 1.7317,
+      "2022": 14.471,
+      "2025": 0.7508,
       "2021": 10.5174,
-      "2024": 3.368,
       "2023": 5.1313,
-      "2025": 0.7382,
-      "2022": 14.4352,
       "2018": 1.6715,
       "2020": 3.8512,
-      "2019": 1.6949,
       "2012": 2.445,
       "2015": 1.5614,
       "2017": 1.8026,
@@ -51,17 +51,17 @@
       "2005": 0.4139,
       "2000": 0.4995
     },
-    "average_rate": 4.2589,
+    "average_rate": 4.2679,
     "yearly_retractions": {
+      "2024": 235,
+      "2019": 47,
+      "2022": 809,
+      "2025": 60,
       "2021": 484,
-      "2024": 234,
       "2023": 304,
-      "2025": 59,
-      "2022": 807,
       "2018": 38,
       "2020": 140,
       "2026": 8,
-      "2019": 46,
       "2012": 29,
       "2015": 30,
       "2017": 38,
@@ -82,9 +82,9 @@
       "1998": 1
     },
     "notice_yearly_retractions": {
+      "2026": 256,
       "2023": 638,
       "2025": 519,
-      "2026": 251,
       "2012": 9,
       "2024": 458,
       "2015": 13,
@@ -108,7 +108,7 @@
   },
   "domainwise_data": {
     "country": "Saudi Arabia",
-    "total_retractions": 2355,
+    "total_retractions": 2360,
     "years": {
       "2026": {
         "total": 8,
@@ -125,38 +125,38 @@
         }
       },
       "2025": {
-        "total": 59,
+        "total": 60,
         "marks": {
+          "alterations": 31,
           "system": 3,
-          "alterations": 30,
           "researcher_integrity": 12,
           "research": 14
         },
         "domain": {
+          "BLS": 26,
           "B/T": 42,
           "SOC": 5,
           "PHY": 53,
-          "BLS": 20,
           "ENV": 14,
           "HSC": 37
         }
       },
       "2024": {
-        "total": 234,
+        "total": 235,
         "marks": {
-          "alterations": 75,
+          "alterations": 76,
           "researcher_integrity": 71,
           "research": 72,
           "system": 9,
           "supplemental": 7
         },
         "domain": {
+          "B/T": 133,
+          "SOC": 11,
           "BLS": 136,
           "HSC": 131,
-          "B/T": 132,
           "ENV": 41,
-          "PHY": 202,
-          "SOC": 10
+          "PHY": 202
         }
       },
       "2023": {
@@ -179,20 +179,20 @@
         }
       },
       "2022": {
-        "total": 807,
+        "total": 809,
         "marks": {
+          "alterations": 353,
           "research": 241,
-          "alterations": 351,
           "researcher_integrity": 177,
           "system": 21,
           "supplemental": 17
         },
         "domain": {
-          "BLS": 511,
+          "PHY": 535,
+          "BLS": 512,
+          "ENV": 91,
           "HSC": 574,
           "B/T": 608,
-          "ENV": 90,
-          "PHY": 530,
           "SOC": 69,
           "HUM": 2
         }
@@ -236,19 +236,19 @@
         }
       },
       "2019": {
-        "total": 46,
+        "total": 47,
         "marks": {
+          "alterations": 25,
           "research": 14,
-          "alterations": 24,
           "supplemental": 6,
           "researcher_integrity": 1,
           "system": 1
         },
         "domain": {
-          "BLS": 33,
+          "BLS": 36,
+          "HSC": 22,
           "ENV": 8,
           "PHY": 39,
-          "HSC": 21,
           "B/T": 9,
           "SOC": 4,
           "HUM": 1
@@ -512,20 +512,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 251,
+        "total": 256,
         "marks": {
+          "alterations": 100,
           "research": 93,
-          "alterations": 95,
           "researcher_integrity": 56,
           "system": 7
         },
         "domain": {
-          "BLS": 157,
-          "HSC": 135,
-          "B/T": 114,
-          "ENV": 46,
-          "PHY": 239,
-          "SOC": 9,
+          "B/T": 115,
+          "SOC": 10,
+          "BLS": 167,
+          "HSC": 136,
+          "PHY": 244,
+          "ENV": 47,
           "HUM": 1
         }
       },
@@ -851,17 +851,17 @@
       }
     },
     "collaborations": {
-      "India": 684,
-      "Pakistan": 609,
-      "Egypt": 519,
+      "India": 685,
+      "Pakistan": 611,
+      "Egypt": 521,
       "China": 418,
       "Iraq": 171,
       "United States": 164,
       "Malaysia": 153,
       "Bangladesh": 129,
-      "Ethiopia": 125,
+      "Ethiopia": 126,
       "South Korea": 123,
-      "Jordan": 97,
+      "Jordan": 98,
       "Turkey": 94,
       "Taiwan": 79,
       "United Kingdom": 72,
@@ -873,7 +873,7 @@
       "Australia": 50,
       "Russia": 50,
       "Germany": 49,
-      "Poland": 47,
+      "Poland": 48,
       "Yemen": 42,
       "Italy": 36,
       "Spain": 36,
@@ -883,8 +883,8 @@
       "Czech Republic": 29,
       "France": 28,
       "South Africa": 28,
+      "Lebanon": 25,
       "Sudan": 25,
-      "Lebanon": 24,
       "Nigeria": 23,
       "Romania": 22,
       "Bahrain": 21,
@@ -947,6 +947,7 @@
       "Maldives": 2,
       "Armenia": 2,
       "Libya": 2,
+      "Burkina Faso": 1,
       "Gabon": 1,
       "Croatia": 1,
       "Sierra Leone": 1,
@@ -968,17 +969,17 @@
       "Belize": 1
     },
     "notice_collaborations": {
-      "India": 684,
-      "Pakistan": 609,
-      "Egypt": 519,
+      "India": 685,
+      "Pakistan": 611,
+      "Egypt": 521,
       "China": 418,
       "Iraq": 171,
       "United States": 164,
       "Malaysia": 153,
       "Bangladesh": 129,
-      "Ethiopia": 125,
+      "Ethiopia": 126,
       "South Korea": 123,
-      "Jordan": 97,
+      "Jordan": 98,
       "Turkey": 94,
       "Taiwan": 79,
       "United Kingdom": 72,
@@ -990,7 +991,7 @@
       "Australia": 50,
       "Russia": 50,
       "Germany": 49,
-      "Poland": 47,
+      "Poland": 48,
       "Yemen": 42,
       "Italy": 36,
       "Spain": 36,
@@ -1000,8 +1001,8 @@
       "Czech Republic": 29,
       "France": 28,
       "South Africa": 28,
+      "Lebanon": 25,
       "Sudan": 25,
-      "Lebanon": 24,
       "Nigeria": 23,
       "Romania": 22,
       "Bahrain": 21,
@@ -1064,6 +1065,7 @@
       "Maldives": 2,
       "Armenia": 2,
       "Libya": 2,
+      "Burkina Faso": 1,
       "Gabon": 1,
       "Croatia": 1,
       "Sierra Leone": 1,

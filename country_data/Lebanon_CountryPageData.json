@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Lebanon",
     "yearly_rates": {
+      "2024": 3.4999,
       "2023": 5.3908,
-      "2024": 3.3599,
       "2025": 0.4952,
       "2019": 0.8217,
       "2020": 1.191,
@@ -41,10 +41,10 @@
       "2006": 0.997,
       "2010": 0.761
     },
-    "average_rate": 1.5231,
+    "average_rate": 1.5385,
     "yearly_retractions": {
+      "2024": 25,
       "2023": 32,
-      "2024": 24,
       "2025": 3,
       "2019": 3,
       "2020": 5,
@@ -64,7 +64,7 @@
       "2009": 2
     },
     "notice_yearly_retractions": {
-      "2026": 23,
+      "2026": 24,
       "2025": 32,
       "2024": 10,
       "2023": 5,
@@ -86,7 +86,7 @@
   },
   "domainwise_data": {
     "country": "Lebanon",
-    "total_retractions": 99,
+    "total_retractions": 100,
     "years": {
       "2025": {
         "total": 3,
@@ -100,19 +100,19 @@
         }
       },
       "2024": {
-        "total": 24,
+        "total": 25,
         "marks": {
-          "alterations": 6,
+          "alterations": 7,
           "research": 11,
           "researcher_integrity": 7
         },
         "domain": {
-          "B/T": 16,
+          "B/T": 17,
+          "SOC": 3,
           "HSC": 8,
           "PHY": 19,
           "BLS": 7,
-          "ENV": 6,
-          "SOC": 2
+          "ENV": 6
         }
       },
       "2023": {
@@ -317,15 +317,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 23,
+        "total": 24,
         "marks": {
+          "alterations": 5,
           "research": 9,
-          "researcher_integrity": 10,
-          "alterations": 4
+          "researcher_integrity": 10
         },
         "domain": {
+          "B/T": 21,
+          "SOC": 1,
           "PHY": 13,
-          "B/T": 20,
           "HSC": 9,
           "BLS": 6,
           "ENV": 8
@@ -532,13 +533,13 @@
     },
     "collaborations": {
       "India": 41,
-      "Saudi Arabia": 24,
+      "Saudi Arabia": 25,
       "China": 23,
       "Pakistan": 19,
       "Turkey": 15,
+      "Jordan": 10,
       "United States": 10,
       "France": 10,
-      "Jordan": 9,
       "South Korea": 7,
       "Taiwan": 7,
       "Norway": 6,
@@ -591,13 +592,13 @@
     },
     "notice_collaborations": {
       "India": 41,
-      "Saudi Arabia": 24,
+      "Saudi Arabia": 25,
       "China": 23,
       "Pakistan": 19,
       "Turkey": 15,
+      "Jordan": 10,
       "United States": 10,
       "France": 10,
-      "Jordan": 9,
       "South Korea": 7,
       "Taiwan": 7,
       "Norway": 6,

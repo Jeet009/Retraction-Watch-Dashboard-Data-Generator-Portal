@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "United States",
     "yearly_rates": {
+      "2021": 0.4946,
       "2014": 0.511,
       "2017": 0.4586,
       "2024": 0.1996,
@@ -9,7 +10,6 @@
       "2010": 0.5569,
       "2004": 0.3469,
       "2018": 0.4825,
-      "2021": 0.4931,
       "2020": 0.5599,
       "2006": 0.4338,
       "2005": 0.3529,
@@ -67,6 +67,7 @@
     },
     "average_rate": 0.391,
     "yearly_retractions": {
+      "2021": 325,
       "2014": 291,
       "2017": 274,
       "2024": 127,
@@ -74,7 +75,6 @@
       "2010": 290,
       "2004": 150,
       "2018": 295,
-      "2021": 324,
       "2020": 355,
       "2026": 6,
       "2006": 207,
@@ -126,7 +126,7 @@
       "1959": 1
     },
     "notice_yearly_retractions": {
-      "2026": 183,
+      "2026": 184,
       "2025": 367,
       "2023": 507,
       "2017": 295,
@@ -185,7 +185,7 @@
   },
   "domainwise_data": {
     "country": "United States",
-    "total_retractions": 6280,
+    "total_retractions": 6281,
     "years": {
       "2026": {
         "total": 6,
@@ -280,19 +280,19 @@
         }
       },
       "2021": {
-        "total": 324,
+        "total": 325,
         "marks": {
+          "alterations": 113,
           "system": 25,
-          "alterations": 112,
           "researcher_integrity": 79,
           "research": 102,
           "supplemental": 6
         },
         "domain": {
+          "HSC": 314,
+          "PHY": 93,
           "B/T": 118,
           "BLS": 287,
-          "HSC": 312,
-          "PHY": 92,
           "SOC": 41,
           "ENV": 16,
           "HUM": 7
@@ -1076,18 +1076,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 183,
+        "total": 184,
         "marks": {
-          "alterations": 90,
+          "alterations": 91,
           "researcher_integrity": 34,
           "research": 49,
           "supplemental": 7,
           "system": 3
         },
         "domain": {
+          "HSC": 169,
+          "PHY": 70,
           "BLS": 222,
-          "HSC": 167,
-          "PHY": 69,
           "B/T": 49,
           "SOC": 20,
           "ENV": 22,
@@ -1915,8 +1915,8 @@
       "Germany": 199,
       "Canada": 185,
       "Italy": 167,
+      "Japan": 164,
       "Saudi Arabia": 164,
-      "Japan": 163,
       "Australia": 118,
       "Iran": 108,
       "France": 106,
@@ -2051,8 +2051,8 @@
       "Germany": 199,
       "Canada": 185,
       "Italy": 167,
+      "Japan": 164,
       "Saudi Arabia": 164,
-      "Japan": 163,
       "Australia": 118,
       "Iran": 108,
       "France": 106,

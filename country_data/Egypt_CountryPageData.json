@@ -2,10 +2,11 @@
   "retraction_rate_data": {
     "country": "Egypt",
     "yearly_rates": {
+      "2025": 0.4133,
+      "2022": 5.721,
       "2023": 2.6795,
       "2024": 1.5753,
       "2021": 4.9712,
-      "2025": 0.3915,
       "2020": 4.1358,
       "2009": 1.9219,
       "2010": 2.6022,
@@ -14,7 +15,6 @@
       "2018": 2.6757,
       "2017": 2.8823,
       "2012": 2.7898,
-      "2022": 5.6971,
       "2014": 3.0371,
       "2019": 2.3403,
       "2005": 1.2706,
@@ -54,13 +54,14 @@
       "2010": 0.5421,
       "1998": 0.3331
     },
-    "average_rate": 2.6679,
+    "average_rate": 2.6722,
     "yearly_retractions": {
+      "2025": 19,
+      "2022": 240,
       "2023": 109,
       "2024": 66,
       "2021": 184,
       "2026": 3,
-      "2025": 18,
       "2020": 129,
       "2009": 16,
       "2010": 24,
@@ -69,7 +70,6 @@
       "2018": 57,
       "2017": 54,
       "2012": 36,
-      "2022": 239,
       "2014": 46,
       "2019": 58,
       "2005": 6,
@@ -85,8 +85,8 @@
       "1997": 1
     },
     "notice_yearly_retractions": {
+      "2026": 136,
       "2025": 274,
-      "2026": 134,
       "2024": 223,
       "2005": 1,
       "2007": 3,
@@ -113,7 +113,7 @@
   },
   "domainwise_data": {
     "country": "Egypt",
-    "total_retractions": 1239,
+    "total_retractions": 1241,
     "years": {
       "2026": {
         "total": 3,
@@ -130,16 +130,16 @@
         }
       },
       "2025": {
-        "total": 18,
+        "total": 19,
         "marks": {
-          "alterations": 7,
+          "alterations": 8,
           "research": 6,
           "researcher_integrity": 4,
           "system": 1
         },
         "domain": {
+          "BLS": 13,
           "B/T": 10,
-          "BLS": 7,
           "PHY": 6,
           "HSC": 27,
           "SOC": 3,
@@ -183,20 +183,20 @@
         }
       },
       "2022": {
-        "total": 239,
+        "total": 240,
         "marks": {
+          "alterations": 107,
           "research": 61,
-          "alterations": 106,
           "researcher_integrity": 53,
           "system": 12,
           "supplemental": 7
         },
         "domain": {
+          "BLS": 203,
+          "ENV": 25,
+          "PHY": 209,
           "HSC": 170,
-          "BLS": 202,
           "B/T": 83,
-          "ENV": 24,
-          "PHY": 206,
           "SOC": 12
         }
       },
@@ -520,19 +520,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 134,
+        "total": 136,
         "marks": {
-          "alterations": 57,
+          "alterations": 59,
           "system": 3,
           "researcher_integrity": 15,
           "research": 59
         },
         "domain": {
+          "BLS": 81,
+          "ENV": 15,
+          "PHY": 83,
           "HSC": 164,
-          "BLS": 74,
-          "ENV": 14,
           "B/T": 22,
-          "PHY": 80,
           "SOC": 2
         }
       },
@@ -876,10 +876,10 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 519,
+      "Saudi Arabia": 521,
       "China": 129,
       "India": 124,
-      "Pakistan": 103,
+      "Pakistan": 105,
       "United States": 82,
       "Iraq": 53,
       "Germany": 46,
@@ -892,8 +892,8 @@
       "United Kingdom": 25,
       "South Korea": 24,
       "Jordan": 20,
+      "Poland": 19,
       "Thailand": 18,
-      "Poland": 18,
       "Japan": 18,
       "Australia": 17,
       "Italy": 15,
@@ -944,6 +944,7 @@
       "Norway": 2,
       "Belgium": 2,
       "Argentina": 2,
+      "Burkina Faso": 1,
       "Democratic Republic of the Congo": 1,
       "Croatia": 1,
       "Botswana": 1,
@@ -963,10 +964,10 @@
       "Gaza Strip": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 519,
+      "Saudi Arabia": 521,
       "China": 129,
       "India": 124,
-      "Pakistan": 103,
+      "Pakistan": 105,
       "United States": 82,
       "Iraq": 53,
       "Germany": 46,
@@ -979,8 +980,8 @@
       "United Kingdom": 25,
       "South Korea": 24,
       "Jordan": 20,
+      "Poland": 19,
       "Thailand": 18,
-      "Poland": 18,
       "Japan": 18,
       "Australia": 17,
       "Italy": 15,
@@ -1031,6 +1032,7 @@
       "Norway": 2,
       "Belgium": 2,
       "Argentina": 2,
+      "Burkina Faso": 1,
       "Democratic Republic of the Congo": 1,
       "Croatia": 1,
       "Botswana": 1,
