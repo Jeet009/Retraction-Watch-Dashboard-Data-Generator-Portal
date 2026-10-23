@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Kenya",
     "yearly_rates": {
+      "2009": 1.4482,
       "2024": 1.9996,
       "2025": 0.155,
       "2023": 0.4,
@@ -12,7 +13,6 @@
       "2016": 0.7749,
       "2019": 0.8567,
       "2017": 1.0504,
-      "2009": 0.7241,
       "2010": 0.6361,
       "2012": 0.5562,
       "2013": 0.5023,
@@ -34,8 +34,9 @@
       "2010": 0.6361,
       "2014": 0.8711
     },
-    "average_rate": 0.6153,
+    "average_rate": 0.6303,
     "yearly_retractions": {
+      "2009": 2,
       "2024": 10,
       "2025": 1,
       "2023": 2,
@@ -46,15 +47,14 @@
       "2016": 2,
       "2019": 3,
       "2017": 3,
-      "2009": 1,
       "2010": 1,
       "2012": 1,
       "2013": 1,
       "2014": 1
     },
     "notice_yearly_retractions": {
+      "2026": 2,
       "2025": 12,
-      "2026": 1,
       "2024": 4,
       "2023": 5,
       "2022": 1,
@@ -72,7 +72,7 @@
   },
   "domainwise_data": {
     "country": "Kenya",
-    "total_retractions": 41,
+    "total_retractions": 42,
     "years": {
       "2025": {
         "total": 1,
@@ -229,11 +229,14 @@
         }
       },
       "2009": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "system": 1,
           "supplemental": 1
         },
         "domain": {
+          "BLS": 4,
+          "HSC": 1,
           "SOC": 2
         }
       },
@@ -249,11 +252,14 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "system": 1,
           "research": 1
         },
         "domain": {
+          "BLS": 4,
+          "HSC": 1,
           "ENV": 1,
           "PHY": 2
         }
@@ -437,6 +443,7 @@
       "Botswana": 2,
       "Canada": 2,
       "Norway": 2,
+      "Italy": 1,
       "China": 1,
       "Somalia": 1,
       "Indonesia": 1,
@@ -483,6 +490,7 @@
       "Botswana": 2,
       "Canada": 2,
       "Norway": 2,
+      "Italy": 1,
       "China": 1,
       "Somalia": 1,
       "Indonesia": 1,

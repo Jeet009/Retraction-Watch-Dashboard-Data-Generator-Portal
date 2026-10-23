@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Italy",
     "yearly_rates": {
+      "2009": 0.64,
       "2025": 0.0416,
       "2024": 0.1862,
       "2021": 0.3548,
@@ -21,7 +22,6 @@
       "2010": 0.6778,
       "2015": 0.377,
       "1999": 0.0976,
-      "2009": 0.6269,
       "2004": 0.3948,
       "2018": 0.5349,
       "2008": 0.403,
@@ -60,8 +60,9 @@
       "2003": 0.0952,
       "1998": 0.0742
     },
-    "average_rate": 0.3922,
+    "average_rate": 0.3925,
     "yearly_retractions": {
+      "2009": 49,
       "2025": 7,
       "2024": 27,
       "2021": 50,
@@ -82,7 +83,6 @@
       "2010": 53,
       "2015": 38,
       "1999": 4,
-      "2009": 48,
       "2004": 22,
       "2018": 59,
       "2008": 29,
@@ -99,8 +99,8 @@
       "1997": 2
     },
     "notice_yearly_retractions": {
+      "2026": 65,
       "2025": 79,
-      "2026": 64,
       "2024": 119,
       "2017": 59,
       "2022": 60,
@@ -131,7 +131,7 @@
   },
   "domainwise_data": {
     "country": "Italy",
-    "total_retractions": 1021,
+    "total_retractions": 1022,
     "years": {
       "2026": {
         "total": 1,
@@ -429,17 +429,17 @@
         }
       },
       "2009": {
-        "total": 48,
+        "total": 49,
         "marks": {
+          "system": 3,
           "researcher_integrity": 3,
           "alterations": 34,
           "research": 8,
-          "supplemental": 1,
-          "system": 2
+          "supplemental": 1
         },
         "domain": {
-          "HSC": 30,
-          "BLS": 62,
+          "BLS": 66,
+          "HSC": 31,
           "PHY": 2,
           "B/T": 43,
           "SOC": 14
@@ -654,16 +654,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 64,
+        "total": 65,
         "marks": {
+          "system": 3,
           "researcher_integrity": 17,
           "research": 11,
-          "alterations": 34,
-          "system": 2
+          "alterations": 34
         },
         "domain": {
-          "HSC": 81,
-          "BLS": 85,
+          "BLS": 89,
+          "HSC": 82,
           "B/T": 8,
           "ENV": 5,
           "PHY": 3,
@@ -1155,6 +1155,7 @@
       "Morocco": 2,
       "South Africa": 2,
       "Cameroon": 2,
+      "Kenya": 1,
       "Nepal": 1,
       "Peru": 1,
       "Kuwait": 1,
@@ -1238,6 +1239,7 @@
       "Morocco": 2,
       "South Africa": 2,
       "Cameroon": 2,
+      "Kenya": 1,
       "Nepal": 1,
       "Peru": 1,
       "Kuwait": 1,

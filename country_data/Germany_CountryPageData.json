@@ -2,11 +2,11 @@
   "retraction_rate_data": {
     "country": "Germany",
     "yearly_rates": {
+      "2014": 0.6416,
       "2024": 0.2259,
       "2005": 0.2149,
       "2018": 0.2916,
       "2017": 0.3846,
-      "2014": 0.6352,
       "2022": 0.3526,
       "2023": 0.2702,
       "2013": 0.2728,
@@ -64,14 +64,14 @@
       "1997": 0.0953,
       "2001": 0.0223
     },
-    "average_rate": 0.3021,
+    "average_rate": 0.3024,
     "yearly_retractions": {
+      "2014": 101,
       "2024": 42,
       "2005": 25,
       "2026": 3,
       "2018": 50,
       "2017": 65,
-      "2014": 100,
       "2022": 66,
       "2023": 49,
       "2013": 42,
@@ -115,7 +115,7 @@
       "1984": 1
     },
     "notice_yearly_retractions": {
-      "2026": 57,
+      "2026": 58,
       "2025": 84,
       "2014": 105,
       "2023": 103,
@@ -156,7 +156,7 @@
   },
   "domainwise_data": {
     "country": "Germany",
-    "total_retractions": 1368,
+    "total_retractions": 1369,
     "years": {
       "2026": {
         "total": 3,
@@ -373,20 +373,20 @@
         }
       },
       "2014": {
-        "total": 100,
+        "total": 101,
         "marks": {
-          "alterations": 16,
+          "alterations": 17,
           "research": 74,
           "system": 2,
           "researcher_integrity": 5,
           "supplemental": 3
         },
         "domain": {
+          "PHY": 25,
           "BLS": 45,
           "HSC": 123,
           "SOC": 4,
           "B/T": 6,
-          "PHY": 22,
           "ENV": 4
         }
       },
@@ -870,15 +870,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 57,
+        "total": 58,
         "marks": {
+          "alterations": 15,
           "research": 22,
-          "alterations": 14,
           "researcher_integrity": 17,
           "system": 4
         },
         "domain": {
-          "PHY": 17,
+          "PHY": 20,
           "BLS": 55,
           "ENV": 20,
           "HSC": 57,
@@ -1433,8 +1433,8 @@
       "Egypt": 46,
       "Netherlands": 41,
       "Canada": 30,
+      "Russia": 28,
       "Pakistan": 27,
-      "Russia": 27,
       "Japan": 25,
       "Sweden": 25,
       "Australia": 24,
@@ -1550,8 +1550,8 @@
       "Egypt": 46,
       "Netherlands": 41,
       "Canada": 30,
+      "Russia": 28,
       "Pakistan": 27,
-      "Russia": 27,
       "Japan": 25,
       "Sweden": 25,
       "Australia": 24,

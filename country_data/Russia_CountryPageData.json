@@ -5,6 +5,7 @@
     "notice_yearly_rates": {},
     "average_rate": 0.0,
     "yearly_retractions": {
+      "2014": 32,
       "2026": 2,
       "2023": 231,
       "2018": 262,
@@ -20,7 +21,6 @@
       "2013": 6,
       "2011": 12,
       "1996": 1,
-      "2014": 31,
       "2012": 3,
       "2010": 5,
       "2015": 781,
@@ -33,7 +33,7 @@
       "2006": 2
     },
     "notice_yearly_retractions": {
-      "2026": 27,
+      "2026": 28,
       "2025": 391,
       "2023": 88,
       "2024": 60,
@@ -57,7 +57,7 @@
   },
   "domainwise_data": {
     "country": "Russia",
-    "total_retractions": 3130,
+    "total_retractions": 3131,
     "years": {
       "2026": {
         "total": 2,
@@ -273,19 +273,19 @@
         }
       },
       "2014": {
-        "total": 31,
+        "total": 32,
         "marks": {
-          "alterations": 27,
+          "alterations": 28,
           "supplemental": 1,
           "research": 2,
           "researcher_integrity": 1
         },
         "domain": {
+          "PHY": 11,
           "HSC": 26,
           "SOC": 11,
           "HUM": 1,
           "ENV": 2,
-          "PHY": 8,
           "B/T": 10,
           "BLS": 11
         }
@@ -439,21 +439,21 @@
     },
     "notice_years": {
       "2026": {
-        "total": 27,
+        "total": 28,
         "marks": {
-          "alterations": 10,
+          "alterations": 11,
           "research": 5,
           "researcher_integrity": 9,
           "system": 3
         },
         "domain": {
+          "PHY": 34,
           "HSC": 7,
           "B/T": 9,
           "HUM": 1,
           "SOC": 2,
           "BLS": 7,
-          "ENV": 8,
-          "PHY": 31
+          "ENV": 8
         }
       },
       "2025": {
@@ -752,7 +752,7 @@
       "United States": 32,
       "Iraq": 31,
       "Egypt": 30,
-      "Germany": 27,
+      "Germany": 28,
       "United Kingdom": 21,
       "Turkey": 18,
       "Belarus": 17,
@@ -837,7 +837,7 @@
       "United States": 32,
       "Iraq": 31,
       "Egypt": 30,
-      "Germany": 27,
+      "Germany": 28,
       "United Kingdom": 21,
       "Turkey": 18,
       "Belarus": 17,

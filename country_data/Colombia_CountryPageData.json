@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Colombia",
     "yearly_rates": {
+      "2021": 1.2343,
       "2024": 0.1762,
-      "2021": 1.1755,
       "2013": 0.5645,
       "2023": 0.1209,
       "2017": 0.3509,
@@ -32,10 +32,10 @@
       "2015": 0.2285,
       "2016": 0.0979
     },
-    "average_rate": 0.505,
+    "average_rate": 0.5097,
     "yearly_retractions": {
+      "2021": 21,
       "2024": 3,
-      "2021": 20,
       "2013": 4,
       "2023": 2,
       "2017": 4,
@@ -51,7 +51,7 @@
       "2014": 1
     },
     "notice_yearly_retractions": {
-      "2026": 3,
+      "2026": 4,
       "2025": 8,
       "2022": 15,
       "2023": 13,
@@ -68,7 +68,7 @@
   },
   "domainwise_data": {
     "country": "Colombia",
-    "total_retractions": 108,
+    "total_retractions": 109,
     "years": {
       "2024": {
         "total": 3,
@@ -108,18 +108,18 @@
         }
       },
       "2021": {
-        "total": 20,
+        "total": 21,
         "marks": {
+          "alterations": 5,
           "researcher_integrity": 8,
           "research": 5,
-          "alterations": 4,
           "system": 3
         },
         "domain": {
+          "B/T": 18,
           "PHY": 4,
           "BLS": 6,
           "HSC": 24,
-          "B/T": 16,
           "ENV": 1,
           "SOC": 2
         }
@@ -264,12 +264,13 @@
     },
     "notice_years": {
       "2026": {
-        "total": 3,
+        "total": 4,
         "marks": {
+          "alterations": 1,
           "researcher_integrity": 3
         },
         "domain": {
-          "B/T": 2,
+          "B/T": 4,
           "ENV": 1,
           "PHY": 3,
           "BLS": 1,

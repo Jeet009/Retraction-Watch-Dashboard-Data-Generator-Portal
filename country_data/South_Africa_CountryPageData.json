@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "South Africa",
     "yearly_rates": {
+      "2016": 0.4308,
       "2025": 0.1251,
       "2018": 0.4567,
       "2020": 0.4894,
@@ -11,7 +12,6 @@
       "2023": 1.3348,
       "2022": 0.9646,
       "2015": 0.5282,
-      "2016": 0.3829,
       "2003": 0.6534,
       "2011": 0.3048,
       "2017": 0.5785,
@@ -49,8 +49,9 @@
       "2001": 0.1877,
       "2005": 0.1322
     },
-    "average_rate": 0.5961,
+    "average_rate": 0.5982,
     "yearly_retractions": {
+      "2016": 9,
       "2025": 5,
       "2018": 11,
       "2026": 1,
@@ -61,7 +62,6 @@
       "2023": 40,
       "2022": 30,
       "2015": 10,
-      "2016": 8,
       "2003": 4,
       "2011": 4,
       "2017": 13,
@@ -80,7 +80,7 @@
       "2006": 1
     },
     "notice_yearly_retractions": {
-      "2026": 36,
+      "2026": 37,
       "2025": 83,
       "2023": 18,
       "2024": 25,
@@ -105,7 +105,7 @@
   },
   "domainwise_data": {
     "country": "South Africa",
-    "total_retractions": 285,
+    "total_retractions": 286,
     "years": {
       "2026": {
         "total": 1,
@@ -270,19 +270,19 @@
         }
       },
       "2016": {
-        "total": 8,
+        "total": 9,
         "marks": {
-          "alterations": 3,
+          "alterations": 4,
           "supplemental": 2,
           "research": 2,
           "system": 1
         },
         "domain": {
+          "BLS": 7,
+          "HSC": 3,
           "B/T": 3,
           "PHY": 4,
-          "BLS": 3,
           "SOC": 2,
-          "HSC": 1,
           "HUM": 1
         }
       },
@@ -492,18 +492,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 36,
+        "total": 37,
         "marks": {
+          "alterations": 16,
           "system": 1,
           "research": 6,
-          "alterations": 15,
           "researcher_integrity": 5,
           "supplemental": 9
         },
         "domain": {
-          "BLS": 12,
+          "BLS": 16,
+          "HSC": 9,
           "ENV": 5,
-          "HSC": 7,
           "PHY": 40,
           "SOC": 11,
           "B/T": 12

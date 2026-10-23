@@ -68,6 +68,7 @@
     "average_rate": 0.391,
     "yearly_retractions": {
       "2021": 325,
+      "2026": 7,
       "2014": 291,
       "2017": 274,
       "2024": 127,
@@ -76,7 +77,6 @@
       "2004": 150,
       "2018": 295,
       "2020": 355,
-      "2026": 6,
       "2006": 207,
       "2005": 165,
       "2023": 258,
@@ -126,7 +126,7 @@
       "1959": 1
     },
     "notice_yearly_retractions": {
-      "2026": 184,
+      "2026": 185,
       "2025": 367,
       "2023": 507,
       "2017": 295,
@@ -185,23 +185,23 @@
   },
   "domainwise_data": {
     "country": "United States",
-    "total_retractions": 6281,
+    "total_retractions": 6282,
     "years": {
       "2026": {
-        "total": 6,
+        "total": 7,
         "marks": {
+          "research": 2,
           "supplemental": 2,
           "system": 1,
-          "alterations": 2,
-          "research": 1
+          "alterations": 2
         },
         "domain": {
-          "B/T": 1,
+          "B/T": 3,
+          "SOC": 7,
           "PHY": 2,
           "ENV": 1,
           "HSC": 4,
-          "HUM": 1,
-          "SOC": 5
+          "HUM": 1
         }
       },
       "2025": {
@@ -1076,20 +1076,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 184,
+        "total": 185,
         "marks": {
           "alterations": 91,
+          "research": 50,
           "researcher_integrity": 34,
-          "research": 49,
           "supplemental": 7,
           "system": 3
         },
         "domain": {
           "HSC": 169,
           "PHY": 70,
+          "B/T": 51,
+          "SOC": 22,
           "BLS": 222,
-          "B/T": 49,
-          "SOC": 20,
           "ENV": 22,
           "HUM": 3
         }
