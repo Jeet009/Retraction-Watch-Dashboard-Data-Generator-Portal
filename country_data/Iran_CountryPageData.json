@@ -2,9 +2,9 @@
   "retraction_rate_data": {
     "country": "Iran",
     "yearly_rates": {
+      "2025": 0.3886,
       "2024": 1.1749,
       "2008": 1.2201,
-      "2025": 0.3757,
       "2023": 1.8932,
       "2017": 1.9448,
       "2012": 3.401,
@@ -52,11 +52,11 @@
       "2017": 1.2359,
       "2005": 0.2413
     },
-    "average_rate": 1.9934,
+    "average_rate": 1.9944,
     "yearly_retractions": {
+      "2025": 30,
       "2024": 85,
       "2008": 24,
-      "2025": 29,
       "2023": 134,
       "2017": 107,
       "2012": 137,
@@ -82,7 +82,7 @@
       "2005": 4
     },
     "notice_yearly_retractions": {
-      "2026": 94,
+      "2026": 95,
       "2025": 307,
       "2007": 10,
       "2021": 106,
@@ -109,7 +109,7 @@
   },
   "domainwise_data": {
     "country": "Iran",
-    "total_retractions": 2015,
+    "total_retractions": 2016,
     "years": {
       "2026": {
         "total": 1,
@@ -121,19 +121,19 @@
         }
       },
       "2025": {
-        "total": 29,
+        "total": 30,
         "marks": {
-          "research": 8,
+          "research": 9,
           "alterations": 9,
           "system": 5,
           "supplemental": 3,
           "researcher_integrity": 4
         },
         "domain": {
-          "BLS": 13,
+          "B/T": 10,
+          "BLS": 16,
           "HSC": 21,
           "SOC": 17,
-          "B/T": 9,
           "PHY": 31,
           "ENV": 3,
           "HUM": 1
@@ -540,20 +540,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 94,
+        "total": 95,
         "marks": {
-          "research": 42,
+          "research": 43,
           "alterations": 28,
           "researcher_integrity": 14,
           "system": 7,
           "supplemental": 3
         },
         "domain": {
+          "B/T": 33,
+          "BLS": 48,
           "HSC": 56,
           "SOC": 24,
-          "BLS": 45,
           "PHY": 83,
-          "B/T": 32,
           "HUM": 1,
           "ENV": 13
         }
@@ -932,7 +932,7 @@
       "United States": 108,
       "India": 75,
       "Malaysia": 73,
-      "Turkey": 58,
+      "Turkey": 59,
       "Saudi Arabia": 58,
       "Germany": 53,
       "United Kingdom": 50,
@@ -964,12 +964,12 @@
       "Jordan": 8,
       "Sweden": 7,
       "Singapore": 7,
+      "Azerbaijan": 6,
       "Peru": 6,
       "Ecuador": 6,
       "Japan": 6,
       "Nigeria": 6,
       "Oman": 6,
-      "Azerbaijan": 5,
       "Switzerland": 5,
       "Mexico": 4,
       "Netherlands": 4,
@@ -1019,7 +1019,7 @@
       "United States": 108,
       "India": 75,
       "Malaysia": 73,
-      "Turkey": 58,
+      "Turkey": 59,
       "Saudi Arabia": 58,
       "Germany": 53,
       "United Kingdom": 50,
@@ -1051,12 +1051,12 @@
       "Jordan": 8,
       "Sweden": 7,
       "Singapore": 7,
+      "Azerbaijan": 6,
       "Peru": 6,
       "Ecuador": 6,
       "Japan": 6,
       "Nigeria": 6,
       "Oman": 6,
-      "Azerbaijan": 5,
       "Switzerland": 5,
       "Mexico": 4,
       "Netherlands": 4,

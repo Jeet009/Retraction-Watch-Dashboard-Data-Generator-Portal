@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Azerbaijan",
     "yearly_rates": {
+      "2025": 0.9667,
       "2024": 7.9727,
-      "2025": 0.8286,
       "2023": 4.4248,
       "2022": 0.4909,
       "2020": 2.5063,
@@ -30,11 +30,11 @@
       "2017": 0.878,
       "2018": 1.4815
     },
-    "average_rate": 2.2167,
+    "average_rate": 2.2447,
     "yearly_retractions": {
+      "2025": 7,
       "2024": 35,
       "2026": 1,
-      "2025": 6,
       "2023": 12,
       "2022": 1,
       "2020": 5,
@@ -47,7 +47,7 @@
       "2017": 1
     },
     "notice_yearly_retractions": {
-      "2026": 16,
+      "2026": 17,
       "2025": 33,
       "2024": 6,
       "2023": 2,
@@ -65,7 +65,7 @@
   },
   "domainwise_data": {
     "country": "Azerbaijan",
-    "total_retractions": 80,
+    "total_retractions": 81,
     "years": {
       "2026": {
         "total": 1,
@@ -78,17 +78,17 @@
         }
       },
       "2025": {
-        "total": 6,
+        "total": 7,
         "marks": {
-          "research": 3,
+          "research": 4,
           "researcher_integrity": 2,
           "alterations": 1
         },
         "domain": {
-          "B/T": 4,
+          "B/T": 5,
+          "BLS": 6,
           "ENV": 3,
           "SOC": 2,
-          "BLS": 3,
           "PHY": 4,
           "HSC": 1,
           "HUM": 1
@@ -233,16 +233,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 16,
+        "total": 17,
         "marks": {
+          "research": 13,
           "researcher_integrity": 1,
-          "alterations": 3,
-          "research": 12
+          "alterations": 3
         },
         "domain": {
-          "B/T": 3,
+          "B/T": 4,
+          "BLS": 25,
           "PHY": 3,
-          "BLS": 22,
           "HSC": 7,
           "ENV": 2,
           "SOC": 1
@@ -402,9 +402,9 @@
       "Saudi Arabia": 21,
       "Pakistan": 20,
       "Russia": 12,
-      "Turkey": 8,
+      "Turkey": 9,
       "India": 7,
-      "Iran": 5,
+      "Iran": 6,
       "Jordan": 5,
       "Iraq": 5,
       "Uzbekistan": 5,
@@ -442,9 +442,9 @@
       "Saudi Arabia": 21,
       "Pakistan": 20,
       "Russia": 12,
-      "Turkey": 8,
+      "Turkey": 9,
       "India": 7,
-      "Iran": 5,
+      "Iran": 6,
       "Jordan": 5,
       "Iraq": 5,
       "Uzbekistan": 5,
