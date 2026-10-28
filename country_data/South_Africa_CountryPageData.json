@@ -3,7 +3,7 @@
     "country": "South Africa",
     "yearly_rates": {
       "2016": 0.4308,
-      "2025": 0.1251,
+      "2025": 0.2002,
       "2018": 0.4567,
       "2020": 0.4894,
       "2019": 0.7473,
@@ -49,10 +49,10 @@
       "2001": 0.1877,
       "2005": 0.1322
     },
-    "average_rate": 0.5982,
+    "average_rate": 0.6046,
     "yearly_retractions": {
       "2016": 9,
-      "2025": 5,
+      "2025": 8,
       "2018": 11,
       "2026": 1,
       "2020": 14,
@@ -80,7 +80,7 @@
       "2006": 1
     },
     "notice_yearly_retractions": {
-      "2026": 37,
+      "2026": 40,
       "2025": 83,
       "2023": 18,
       "2024": 25,
@@ -105,7 +105,7 @@
   },
   "domainwise_data": {
     "country": "South Africa",
-    "total_retractions": 286,
+    "total_retractions": 289,
     "years": {
       "2026": {
         "total": 1,
@@ -117,18 +117,19 @@
         }
       },
       "2025": {
-        "total": 5,
+        "total": 8,
         "marks": {
-          "system": 1,
+          "system": 4,
           "supplemental": 3,
           "research": 1
         },
         "domain": {
+          "B/T": 9,
+          "HSC": 2,
+          "HUM": 3,
+          "SOC": 7,
           "BLS": 3,
-          "ENV": 1,
-          "HSC": 1,
-          "B/T": 4,
-          "SOC": 2
+          "ENV": 1
         }
       },
       "2024": {
@@ -492,21 +493,22 @@
     },
     "notice_years": {
       "2026": {
-        "total": 37,
+        "total": 40,
         "marks": {
           "alterations": 16,
-          "system": 1,
+          "system": 4,
           "research": 6,
           "researcher_integrity": 5,
           "supplemental": 9
         },
         "domain": {
           "BLS": 16,
-          "HSC": 9,
+          "HSC": 10,
+          "B/T": 17,
+          "HUM": 3,
+          "SOC": 16,
           "ENV": 5,
-          "PHY": 40,
-          "SOC": 11,
-          "B/T": 12
+          "PHY": 40
         }
       },
       "2025": {
@@ -817,7 +819,7 @@
       "Saudi Arabia": 28,
       "China": 24,
       "Pakistan": 23,
-      "United Kingdom": 19,
+      "United Kingdom": 20,
       "Canada": 15,
       "Turkey": 12,
       "Iran": 12,
@@ -907,7 +909,7 @@
       "Saudi Arabia": 28,
       "China": 24,
       "Pakistan": 23,
-      "United Kingdom": 19,
+      "United Kingdom": 20,
       "Canada": 15,
       "Turkey": 12,
       "Iran": 12,

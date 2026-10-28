@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Japan",
     "yearly_rates": {
+      "2024": 0.1468,
       "2021": 0.3414,
-      "2024": 0.1391,
       "2025": 0.0488,
       "2018": 0.6879,
       "2015": 0.4584,
@@ -65,10 +65,10 @@
       "1996": 0.0223,
       "2001": 0.0294
     },
-    "average_rate": 0.4406,
+    "average_rate": 0.4409,
     "yearly_retractions": {
+      "2024": 19,
       "2021": 47,
-      "2024": 18,
       "2025": 7,
       "2018": 88,
       "2015": 55,
@@ -107,7 +107,7 @@
       "1984": 1
     },
     "notice_yearly_retractions": {
-      "2026": 12,
+      "2026": 13,
       "2025": 50,
       "2024": 119,
       "2023": 76,
@@ -148,7 +148,7 @@
   },
   "domainwise_data": {
     "country": "Japan",
-    "total_retractions": 1614,
+    "total_retractions": 1615,
     "years": {
       "2025": {
         "total": 7,
@@ -169,17 +169,17 @@
         }
       },
       "2024": {
-        "total": 18,
+        "total": 19,
         "marks": {
+          "system": 3,
           "researcher_integrity": 3,
           "alterations": 4,
-          "research": 9,
-          "system": 2
+          "research": 9
         },
         "domain": {
-          "B/T": 6,
+          "B/T": 7,
+          "BLS": 9,
           "PHY": 9,
-          "BLS": 7,
           "HSC": 25,
           "ENV": 2,
           "SOC": 3
@@ -747,20 +747,21 @@
     },
     "notice_years": {
       "2026": {
-        "total": 12,
+        "total": 13,
         "marks": {
+          "system": 1,
           "alterations": 3,
           "research": 3,
           "researcher_integrity": 5,
           "supplemental": 1
         },
         "domain": {
+          "B/T": 3,
+          "BLS": 18,
           "HSC": 8,
           "PHY": 4,
-          "B/T": 2,
           "ENV": 3,
-          "SOC": 2,
-          "BLS": 16
+          "SOC": 2
         }
       },
       "2025": {
@@ -1296,7 +1297,7 @@
     },
     "collaborations": {
       "United States": 164,
-      "China": 108,
+      "China": 109,
       "India": 30,
       "Germany": 25,
       "Malaysia": 24,
@@ -1359,7 +1360,7 @@
     },
     "notice_collaborations": {
       "United States": 164,
-      "China": 108,
+      "China": 109,
       "India": 30,
       "Germany": 25,
       "Malaysia": 24,
