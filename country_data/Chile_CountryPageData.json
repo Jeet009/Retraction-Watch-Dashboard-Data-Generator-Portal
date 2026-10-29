@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Chile",
     "yearly_rates": {
+      "2020": 0.6187,
       "2024": 0.0999,
-      "2020": 0.5625,
       "2019": 0.0646,
       "2023": 0.2146,
       "2022": 0.4929,
@@ -37,10 +37,10 @@
       "2004": 0.2848,
       "2009": 0.1566
     },
-    "average_rate": 0.2227,
+    "average_rate": 0.2263,
     "yearly_retractions": {
+      "2020": 11,
       "2024": 2,
-      "2020": 10,
       "2019": 1,
       "2023": 4,
       "2022": 9,
@@ -59,7 +59,7 @@
       "2003": 1
     },
     "notice_yearly_retractions": {
-      "2026": 1,
+      "2026": 2,
       "2025": 13,
       "2024": 12,
       "2023": 6,
@@ -79,7 +79,7 @@
   },
   "domainwise_data": {
     "country": "Chile",
-    "total_retractions": 62,
+    "total_retractions": 63,
     "years": {
       "2024": {
         "total": 2,
@@ -140,19 +140,19 @@
         }
       },
       "2020": {
-        "total": 10,
+        "total": 11,
         "marks": {
+          "researcher_integrity": 2,
           "research": 3,
           "alterations": 5,
-          "researcher_integrity": 1,
           "supplemental": 1
         },
         "domain": {
-          "HSC": 6,
+          "BLS": 6,
+          "ENV": 3,
+          "HSC": 7,
           "B/T": 8,
-          "ENV": 2,
-          "PHY": 3,
-          "BLS": 4
+          "PHY": 3
         }
       },
       "2019": {
@@ -294,12 +294,14 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
-          "researcher_integrity": 1
+          "researcher_integrity": 2
         },
         "domain": {
-          "ENV": 1,
+          "BLS": 2,
+          "ENV": 2,
+          "HSC": 1,
           "PHY": 2
         }
       },
@@ -486,15 +488,15 @@
       }
     },
     "collaborations": {
+      "Spain": 14,
       "Pakistan": 13,
-      "Spain": 13,
       "India": 12,
       "Australia": 10,
       "China": 9,
       "Saudi Arabia": 9,
       "Taiwan": 7,
+      "United States": 6,
       "United Kingdom": 6,
-      "United States": 5,
       "Mexico": 5,
       "Ecuador": 5,
       "Germany": 5,
@@ -532,15 +534,15 @@
       "Serbia": 1
     },
     "notice_collaborations": {
+      "Spain": 14,
       "Pakistan": 13,
-      "Spain": 13,
       "India": 12,
       "Australia": 10,
       "China": 9,
       "Saudi Arabia": 9,
       "Taiwan": 7,
+      "United States": 6,
       "United Kingdom": 6,
-      "United States": 5,
       "Mexico": 5,
       "Ecuador": 5,
       "Germany": 5,

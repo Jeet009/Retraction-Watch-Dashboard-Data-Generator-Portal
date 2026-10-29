@@ -48,6 +48,7 @@
     },
     "average_rate": 0.9907,
     "yearly_retractions": {
+      "2026": 1,
       "2023": 10,
       "2014": 7,
       "2025": 1,
@@ -72,8 +73,8 @@
       "2005": 1
     },
     "notice_yearly_retractions": {
+      "2026": 8,
       "2025": 15,
-      "2026": 7,
       "2024": 22,
       "2023": 27,
       "2022": 4,
@@ -96,8 +97,17 @@
   },
   "domainwise_data": {
     "country": "Tunisia",
-    "total_retractions": 148,
+    "total_retractions": 149,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "PHY": 3
+        }
+      },
       "2025": {
         "total": 1,
         "marks": {
@@ -389,17 +399,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "alterations": 5,
           "researcher_integrity": 2,
-          "alterations": 4,
           "research": 1
         },
         "domain": {
+          "PHY": 9,
           "BLS": 6,
           "HSC": 2,
           "B/T": 5,
-          "PHY": 6,
           "ENV": 1
         }
       },
@@ -657,9 +667,9 @@
     "collaborations": {
       "Saudi Arabia": 55,
       "China": 21,
+      "France": 20,
       "Pakistan": 20,
-      "France": 19,
-      "Iraq": 13,
+      "Iraq": 14,
       "India": 13,
       "South Africa": 9,
       "Turkey": 7,
@@ -674,13 +684,13 @@
       "Malaysia": 4,
       "Spain": 4,
       "Italy": 4,
+      "Algeria": 3,
       "South Korea": 3,
       "Russia": 3,
       "United Arab Emirates": 3,
       "Qatar": 3,
       "Kazakhstan": 2,
       "Slovenia": 2,
-      "Algeria": 2,
       "Jordan": 2,
       "Nigeria": 2,
       "Lebanon": 2,
@@ -712,9 +722,9 @@
     "notice_collaborations": {
       "Saudi Arabia": 55,
       "China": 21,
+      "France": 20,
       "Pakistan": 20,
-      "France": 19,
-      "Iraq": 13,
+      "Iraq": 14,
       "India": 13,
       "South Africa": 9,
       "Turkey": 7,
@@ -729,13 +739,13 @@
       "Malaysia": 4,
       "Spain": 4,
       "Italy": 4,
+      "Algeria": 3,
       "South Korea": 3,
       "Russia": 3,
       "United Arab Emirates": 3,
       "Qatar": 3,
       "Kazakhstan": 2,
       "Slovenia": 2,
-      "Algeria": 2,
       "Jordan": 2,
       "Nigeria": 2,
       "Lebanon": 2,

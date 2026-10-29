@@ -2,11 +2,13 @@
   "retraction_rate_data": {
     "country": "India",
     "yearly_rates": {
-      "2025": 0.2228,
-      "2024": 1.9155,
+      "2024": 1.9221,
+      "2025": 0.2254,
       "2023": 2.5772,
       "2022": 4.2545,
       "2011": 1.577,
+      "2010": 1.655,
+      "2017": 1.2644,
       "2020": 3.5401,
       "2019": 1.6649,
       "2018": 1.6396,
@@ -17,9 +19,7 @@
       "2006": 0.9553,
       "2007": 1.1874,
       "2016": 0.9955,
-      "2017": 1.2577,
       "2015": 1.2915,
-      "2010": 1.6418,
       "2008": 0.8629,
       "2002": 0.2838,
       "2009": 1.3724,
@@ -62,13 +62,15 @@
       "1998": 0.0442,
       "1997": 0.0451
     },
-    "average_rate": 1.8459,
+    "average_rate": 1.8474,
     "yearly_retractions": {
-      "2025": 85,
-      "2024": 580,
+      "2024": 582,
+      "2025": 86,
       "2023": 707,
       "2022": 1053,
       "2011": 146,
+      "2010": 126,
+      "2017": 189,
       "2020": 696,
       "2019": 309,
       "2018": 269,
@@ -80,9 +82,7 @@
       "2006": 43,
       "2007": 59,
       "2016": 144,
-      "2017": 188,
       "2015": 172,
-      "2010": 125,
       "2008": 49,
       "2002": 8,
       "2009": 89,
@@ -104,7 +104,7 @@
       "1994": 1
     },
     "notice_yearly_retractions": {
-      "2026": 425,
+      "2026": 430,
       "2023": 886,
       "2024": 989,
       "2025": 1101,
@@ -141,7 +141,7 @@
   },
   "domainwise_data": {
     "country": "India",
-    "total_retractions": 6279,
+    "total_retractions": 6284,
     "years": {
       "2026": {
         "total": 10,
@@ -160,16 +160,16 @@
         }
       },
       "2025": {
-        "total": 85,
+        "total": 86,
         "marks": {
-          "alterations": 52,
+          "alterations": 53,
           "research": 15,
           "researcher_integrity": 15,
           "system": 3
         },
         "domain": {
-          "BLS": 21,
-          "HSC": 69,
+          "BLS": 24,
+          "HSC": 70,
           "B/T": 65,
           "PHY": 58,
           "ENV": 12,
@@ -177,20 +177,20 @@
         }
       },
       "2024": {
-        "total": 580,
+        "total": 582,
         "marks": {
+          "research": 141,
+          "researcher_integrity": 53,
           "alterations": 313,
-          "research": 140,
-          "researcher_integrity": 52,
           "system": 11,
           "supplemental": 64
         },
         "domain": {
-          "B/T": 496,
+          "PHY": 313,
+          "B/T": 497,
           "SOC": 49,
           "BLS": 160,
           "HSC": 554,
-          "PHY": 309,
           "ENV": 67,
           "HUM": 3
         }
@@ -310,17 +310,17 @@
         }
       },
       "2017": {
-        "total": 188,
+        "total": 189,
         "marks": {
-          "alterations": 96,
+          "alterations": 97,
           "supplemental": 10,
           "research": 44,
           "researcher_integrity": 33,
           "system": 5
         },
         "domain": {
-          "HSC": 79,
-          "BLS": 164,
+          "BLS": 167,
+          "HSC": 80,
           "B/T": 51,
           "PHY": 132,
           "SOC": 6,
@@ -440,20 +440,20 @@
         }
       },
       "2010": {
-        "total": 125,
+        "total": 126,
         "marks": {
+          "research": 7,
           "alterations": 69,
           "supplemental": 32,
           "researcher_integrity": 16,
-          "system": 2,
-          "research": 6
+          "system": 2
         },
         "domain": {
-          "BLS": 100,
+          "BLS": 101,
+          "PHY": 79,
           "ENV": 6,
           "B/T": 53,
           "SOC": 12,
-          "PHY": 78,
           "HSC": 66
         }
       },
@@ -727,21 +727,21 @@
     },
     "notice_years": {
       "2026": {
-        "total": 425,
+        "total": 430,
         "marks": {
-          "alterations": 202,
-          "research": 151,
-          "researcher_integrity": 54,
+          "research": 153,
+          "alterations": 204,
+          "researcher_integrity": 55,
           "system": 13,
           "supplemental": 5
         },
         "domain": {
-          "BLS": 198,
-          "HSC": 308,
-          "B/T": 330,
+          "PHY": 213,
+          "BLS": 205,
+          "HSC": 310,
+          "B/T": 331,
           "SOC": 41,
           "HUM": 7,
-          "PHY": 208,
           "ENV": 65
         }
       },

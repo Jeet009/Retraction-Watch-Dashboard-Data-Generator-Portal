@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Kazakhstan",
     "yearly_rates": {
+      "2022": 5.3046,
       "2023": 3.4858,
       "2024": 1.592,
       "2025": 0.092,
@@ -10,7 +11,6 @@
       "2018": 7.1113,
       "2017": 3.0743,
       "2016": 5.2724,
-      "2022": 5.1439,
       "2021": 6.5934,
       "2015": 3.2141,
       "2014": 0.4232,
@@ -34,8 +34,9 @@
       "2012": 1.2361,
       "2013": 0.5653
     },
-    "average_rate": 2.8129,
+    "average_rate": 2.8265,
     "yearly_retractions": {
+      "2022": 33,
       "2023": 24,
       "2024": 14,
       "2026": 1,
@@ -45,7 +46,6 @@
       "2018": 29,
       "2017": 11,
       "2016": 18,
-      "2022": 32,
       "2021": 39,
       "2015": 8,
       "2014": 1,
@@ -54,7 +54,7 @@
       "2011": 1
     },
     "notice_yearly_retractions": {
-      "2026": 10,
+      "2026": 11,
       "2025": 36,
       "2024": 28,
       "2023": 33,
@@ -73,7 +73,7 @@
   },
   "domainwise_data": {
     "country": "Kazakhstan",
-    "total_retractions": 207,
+    "total_retractions": 208,
     "years": {
       "2026": {
         "total": 1,
@@ -130,22 +130,22 @@
         }
       },
       "2022": {
-        "total": 32,
+        "total": 33,
         "marks": {
-          "supplemental": 4,
+          "supplemental": 5,
           "alterations": 8,
           "research": 15,
           "researcher_integrity": 3,
           "system": 2
         },
         "domain": {
+          "HUM": 2,
+          "PHY": 10,
           "B/T": 25,
           "HSC": 13,
           "BLS": 19,
           "SOC": 13,
-          "ENV": 5,
-          "HUM": 1,
-          "PHY": 8
+          "ENV": 5
         }
       },
       "2021": {
@@ -294,21 +294,21 @@
     },
     "notice_years": {
       "2026": {
-        "total": 10,
+        "total": 11,
         "marks": {
+          "supplemental": 4,
           "researcher_integrity": 3,
           "alterations": 1,
-          "research": 3,
-          "supplemental": 3
+          "research": 3
         },
         "domain": {
+          "HUM": 2,
+          "PHY": 3,
           "SOC": 13,
           "B/T": 2,
           "BLS": 1,
           "ENV": 1,
-          "PHY": 1,
-          "HSC": 2,
-          "HUM": 1
+          "HSC": 2
         }
       },
       "2025": {

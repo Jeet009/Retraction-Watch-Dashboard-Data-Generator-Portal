@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Saudi Arabia",
     "yearly_rates": {
+      "2024": 3.4112,
       "2019": 1.7685,
-      "2024": 3.3824,
       "2022": 14.471,
       "2025": 0.7508,
       "2021": 10.5174,
@@ -51,10 +51,10 @@
       "2005": 0.4139,
       "2000": 0.4995
     },
-    "average_rate": 4.2697,
+    "average_rate": 4.2734,
     "yearly_retractions": {
+      "2024": 237,
       "2019": 48,
-      "2024": 235,
       "2022": 809,
       "2025": 60,
       "2021": 484,
@@ -82,7 +82,7 @@
       "1998": 1
     },
     "notice_yearly_retractions": {
-      "2026": 257,
+      "2026": 259,
       "2023": 638,
       "2025": 519,
       "2012": 9,
@@ -108,7 +108,7 @@
   },
   "domainwise_data": {
     "country": "Saudi Arabia",
-    "total_retractions": 2361,
+    "total_retractions": 2363,
     "years": {
       "2026": {
         "total": 8,
@@ -142,21 +142,21 @@
         }
       },
       "2024": {
-        "total": 235,
+        "total": 237,
         "marks": {
+          "researcher_integrity": 73,
           "alterations": 76,
-          "researcher_integrity": 71,
           "research": 72,
           "system": 9,
           "supplemental": 7
         },
         "domain": {
+          "PHY": 206,
+          "BLS": 139,
+          "ENV": 42,
+          "HSC": 132,
           "B/T": 133,
-          "SOC": 11,
-          "BLS": 136,
-          "HSC": 131,
-          "ENV": 41,
-          "PHY": 202
+          "SOC": 11
         }
       },
       "2023": {
@@ -512,20 +512,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 257,
+        "total": 259,
         "marks": {
+          "researcher_integrity": 58,
           "research": 94,
           "alterations": 100,
-          "researcher_integrity": 56,
           "system": 7
         },
         "domain": {
-          "BLS": 169,
-          "PHY": 245,
+          "PHY": 249,
+          "BLS": 172,
+          "ENV": 48,
+          "HSC": 137,
           "B/T": 115,
           "SOC": 10,
-          "HSC": 136,
-          "ENV": 47,
           "HUM": 1
         }
       },
@@ -852,18 +852,18 @@
     },
     "collaborations": {
       "India": 685,
-      "Pakistan": 611,
+      "Pakistan": 613,
       "Egypt": 521,
-      "China": 418,
+      "China": 419,
       "Iraq": 171,
-      "United States": 164,
+      "United States": 165,
       "Malaysia": 153,
       "Bangladesh": 129,
       "Ethiopia": 126,
       "South Korea": 123,
       "Jordan": 98,
       "Turkey": 94,
-      "Taiwan": 79,
+      "Taiwan": 80,
       "United Kingdom": 72,
       "United Arab Emirates": 64,
       "Iran": 58,
@@ -900,9 +900,9 @@
       "Nepal": 15,
       "Algeria": 14,
       "Qatar": 14,
+      "Kuwait": 13,
       "Sweden": 13,
       "Ecuador": 12,
-      "Kuwait": 12,
       "Austria": 11,
       "Denmark": 10,
       "Peru": 10,
@@ -970,18 +970,18 @@
     },
     "notice_collaborations": {
       "India": 685,
-      "Pakistan": 611,
+      "Pakistan": 613,
       "Egypt": 521,
-      "China": 418,
+      "China": 419,
       "Iraq": 171,
-      "United States": 164,
+      "United States": 165,
       "Malaysia": 153,
       "Bangladesh": 129,
       "Ethiopia": 126,
       "South Korea": 123,
       "Jordan": 98,
       "Turkey": 94,
-      "Taiwan": 79,
+      "Taiwan": 80,
       "United Kingdom": 72,
       "United Arab Emirates": 64,
       "Iran": 58,
@@ -1018,9 +1018,9 @@
       "Nepal": 15,
       "Algeria": 14,
       "Qatar": 14,
+      "Kuwait": 13,
       "Sweden": 13,
       "Ecuador": 12,
-      "Kuwait": 12,
       "Austria": 11,
       "Denmark": 10,
       "Peru": 10,

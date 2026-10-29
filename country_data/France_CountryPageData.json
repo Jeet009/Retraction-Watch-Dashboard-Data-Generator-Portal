@@ -62,6 +62,7 @@
     },
     "average_rate": 0.2571,
     "yearly_retractions": {
+      "2026": 3,
       "2024": 14,
       "2014": 42,
       "2025": 11,
@@ -75,7 +76,6 @@
       "2011": 34,
       "2015": 26,
       "2022": 33,
-      "2026": 2,
       "2012": 39,
       "2008": 20,
       "2018": 58,
@@ -101,7 +101,7 @@
       "1988": 1
     },
     "notice_yearly_retractions": {
-      "2026": 45,
+      "2026": 46,
       "2025": 67,
       "2022": 35,
       "2024": 75,
@@ -138,14 +138,16 @@
   },
   "domainwise_data": {
     "country": "France",
-    "total_retractions": 736,
+    "total_retractions": 737,
     "years": {
       "2026": {
-        "total": 2,
+        "total": 3,
         "marks": {
+          "alterations": 1,
           "research": 2
         },
         "domain": {
+          "PHY": 3,
           "HSC": 3,
           "HUM": 1,
           "SOC": 1
@@ -692,16 +694,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 45,
+        "total": 46,
         "marks": {
+          "alterations": 12,
           "research": 7,
           "researcher_integrity": 21,
-          "alterations": 11,
           "system": 3,
           "supplemental": 3
         },
         "domain": {
-          "PHY": 6,
+          "PHY": 9,
           "BLS": 52,
           "HSC": 39,
           "B/T": 9,
@@ -1192,10 +1194,10 @@
       "Switzerland": 31,
       "Saudi Arabia": 28,
       "Pakistan": 21,
+      "Tunisia": 20,
       "Canada": 20,
-      "Tunisia": 19,
+      "Algeria": 17,
       "Japan": 17,
-      "Algeria": 16,
       "Australia": 16,
       "Belgium": 14,
       "Senegal": 12,
@@ -1217,6 +1219,7 @@
       "Norway": 5,
       "Denmark": 5,
       "Democratic Republic of the Congo": 5,
+      "Iraq": 4,
       "Bangladesh": 4,
       "Hungary": 4,
       "Qatar": 4,
@@ -1227,7 +1230,6 @@
       "United Arab Emirates": 3,
       "Thailand": 3,
       "Taiwan": 3,
-      "Iraq": 3,
       "Israel": 3,
       "Chile": 3,
       "Malaysia": 3,
@@ -1294,10 +1296,10 @@
       "Switzerland": 31,
       "Saudi Arabia": 28,
       "Pakistan": 21,
+      "Tunisia": 20,
       "Canada": 20,
-      "Tunisia": 19,
+      "Algeria": 17,
       "Japan": 17,
-      "Algeria": 16,
       "Australia": 16,
       "Belgium": 14,
       "Senegal": 12,
@@ -1319,6 +1321,7 @@
       "Norway": 5,
       "Denmark": 5,
       "Democratic Republic of the Congo": 5,
+      "Iraq": 4,
       "Bangladesh": 4,
       "Hungary": 4,
       "Qatar": 4,
@@ -1329,7 +1332,6 @@
       "United Arab Emirates": 3,
       "Thailand": 3,
       "Taiwan": 3,
-      "Iraq": 3,
       "Israel": 3,
       "Chile": 3,
       "Malaysia": 3,
