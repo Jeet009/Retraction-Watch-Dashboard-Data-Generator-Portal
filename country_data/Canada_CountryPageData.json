@@ -64,6 +64,7 @@
     },
     "average_rate": 0.3374,
     "yearly_retractions": {
+      "2026": 1,
       "2023": 50,
       "2025": 5,
       "2022": 65,
@@ -106,7 +107,7 @@
       "1994": 1
     },
     "notice_yearly_retractions": {
-      "2026": 23,
+      "2026": 24,
       "2024": 62,
       "2025": 60,
       "2012": 32,
@@ -146,8 +147,17 @@
   },
   "domainwise_data": {
     "country": "Canada",
-    "total_retractions": 842,
+    "total_retractions": 843,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "HSC": 2
+        }
+      },
       "2025": {
         "total": 5,
         "marks": {
@@ -758,16 +768,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 23,
+        "total": 24,
         "marks": {
-          "research": 7,
+          "research": 8,
           "researcher_integrity": 7,
           "alterations": 7,
           "supplemental": 2
         },
         "domain": {
+          "HSC": 17,
           "ENV": 5,
-          "HSC": 15,
           "B/T": 14,
           "BLS": 19,
           "PHY": 11,
@@ -1279,7 +1289,7 @@
       }
     },
     "collaborations": {
-      "United States": 185,
+      "United States": 186,
       "China": 123,
       "United Kingdom": 85,
       "Iran": 45,
@@ -1294,11 +1304,11 @@
       "Netherlands": 15,
       "South Africa": 15,
       "Spain": 14,
+      "Brazil": 13,
       "Turkey": 13,
       "Japan": 13,
       "Taiwan": 12,
       "Switzerland": 12,
-      "Brazil": 12,
       "Bangladesh": 10,
       "Poland": 10,
       "Egypt": 9,
@@ -1380,7 +1390,7 @@
       "Bulgaria": 1
     },
     "notice_collaborations": {
-      "United States": 185,
+      "United States": 186,
       "China": 123,
       "United Kingdom": 85,
       "Iran": 45,
@@ -1395,11 +1405,11 @@
       "Netherlands": 15,
       "South Africa": 15,
       "Spain": 14,
+      "Brazil": 13,
       "Turkey": 13,
       "Japan": 13,
       "Taiwan": 12,
       "Switzerland": 12,
-      "Brazil": 12,
       "Bangladesh": 10,
       "Poland": 10,
       "Egypt": 9,

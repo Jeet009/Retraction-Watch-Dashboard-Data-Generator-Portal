@@ -5,6 +5,7 @@
       "2025": 0.0558,
       "2024": 0.1468,
       "2021": 0.3414,
+      "2022": 0.3818,
       "2023": 0.2857,
       "2018": 0.6879,
       "2015": 0.4584,
@@ -14,7 +15,6 @@
       "2010": 0.6702,
       "2020": 0.3829,
       "2011": 0.6125,
-      "2022": 0.3743,
       "2007": 0.5499,
       "2012": 0.5037,
       "2009": 0.5079,
@@ -65,11 +65,12 @@
       "1996": 0.0223,
       "2001": 0.0294
     },
-    "average_rate": 0.4415,
+    "average_rate": 0.4417,
     "yearly_retractions": {
       "2025": 8,
       "2024": 19,
       "2021": 47,
+      "2022": 51,
       "2023": 36,
       "2018": 88,
       "2015": 55,
@@ -79,7 +80,6 @@
       "2010": 83,
       "2020": 50,
       "2011": 77,
-      "2022": 50,
       "2007": 66,
       "2012": 64,
       "2009": 63,
@@ -107,7 +107,7 @@
       "1984": 1
     },
     "notice_yearly_retractions": {
-      "2026": 15,
+      "2026": 16,
       "2025": 50,
       "2024": 119,
       "2023": 76,
@@ -148,7 +148,7 @@
   },
   "domainwise_data": {
     "country": "Japan",
-    "total_retractions": 1617,
+    "total_retractions": 1618,
     "years": {
       "2025": {
         "total": 8,
@@ -204,22 +204,22 @@
         }
       },
       "2022": {
-        "total": 50,
+        "total": 51,
         "marks": {
-          "alterations": 21,
+          "alterations": 22,
           "researcher_integrity": 12,
           "supplemental": 4,
           "research": 12,
           "system": 1
         },
         "domain": {
+          "HSC": 47,
           "PHY": 19,
           "BLS": 28,
           "ENV": 8,
           "B/T": 28,
           "HUM": 2,
-          "SOC": 10,
-          "HSC": 45
+          "SOC": 10
         }
       },
       "2021": {
@@ -747,9 +747,9 @@
     },
     "notice_years": {
       "2026": {
-        "total": 15,
+        "total": 16,
         "marks": {
-          "alterations": 4,
+          "alterations": 5,
           "system": 1,
           "researcher_integrity": 6,
           "research": 3,
@@ -760,7 +760,7 @@
           "SOC": 3,
           "B/T": 3,
           "BLS": 19,
-          "HSC": 9,
+          "HSC": 11,
           "PHY": 4
         }
       },
@@ -1305,8 +1305,8 @@
       "Saudi Arabia": 20,
       "South Korea": 19,
       "Egypt": 18,
+      "United Kingdom": 17,
       "France": 17,
-      "United Kingdom": 16,
       "Italy": 14,
       "Australia": 14,
       "Taiwan": 13,
@@ -1368,8 +1368,8 @@
       "Saudi Arabia": 20,
       "South Korea": 19,
       "Egypt": 18,
+      "United Kingdom": 17,
       "France": 17,
-      "United Kingdom": 16,
       "Italy": 14,
       "Australia": 14,
       "Taiwan": 13,

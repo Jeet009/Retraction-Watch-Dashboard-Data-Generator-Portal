@@ -4,9 +4,9 @@
     "yearly_rates": {
       "2025": 0.1574,
       "2018": 0.4082,
+      "2022": 0.8283,
       "2024": 0.2459,
       "2023": 0.5266,
-      "2022": 0.8234,
       "2016": 0.2588,
       "2021": 0.5405,
       "2019": 0.3822,
@@ -65,14 +65,14 @@
       "2003": 0.0194,
       "2000": 0.0303
     },
-    "average_rate": 0.3908,
+    "average_rate": 0.3911,
     "yearly_retractions": {
       "2025": 41,
       "2018": 75,
+      "2022": 169,
       "2024": 52,
       "2023": 105,
       "2026": 4,
-      "2022": 168,
       "2016": 45,
       "2021": 114,
       "2019": 72,
@@ -116,7 +116,7 @@
       "1975": 4
     },
     "notice_yearly_retractions": {
-      "2026": 76,
+      "2026": 77,
       "2025": 132,
       "2024": 138,
       "2021": 101,
@@ -162,7 +162,7 @@
   },
   "domainwise_data": {
     "country": "United Kingdom",
-    "total_retractions": 1805,
+    "total_retractions": 1806,
     "years": {
       "2026": {
         "total": 4,
@@ -234,18 +234,18 @@
         }
       },
       "2022": {
-        "total": 168,
+        "total": 169,
         "marks": {
+          "alterations": 60,
           "research": 59,
           "researcher_integrity": 32,
-          "alterations": 59,
           "supplemental": 12,
           "system": 6
         },
         "domain": {
+          "HSC": 116,
           "B/T": 191,
           "BLS": 61,
-          "HSC": 114,
           "ENV": 22,
           "PHY": 48,
           "SOC": 52,
@@ -878,17 +878,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 76,
+        "total": 77,
         "marks": {
           "system": 3,
-          "alterations": 27,
+          "alterations": 28,
           "researcher_integrity": 16,
           "research": 28,
           "supplemental": 2
         },
         "domain": {
           "B/T": 50,
-          "HSC": 51,
+          "HSC": 53,
           "HUM": 1,
           "BLS": 53,
           "PHY": 33,
@@ -1533,13 +1533,13 @@
       "Singapore": 19,
       "Turkey": 18,
       "Belgium": 18,
+      "Japan": 17,
       "Iraq": 17,
       "Norway": 17,
       "New Zealand": 17,
       "Austria": 17,
       "Ethiopia": 16,
       "Finland": 16,
-      "Japan": 16,
       "Greece": 15,
       "Nigeria": 13,
       "Taiwan": 13,
@@ -1651,13 +1651,13 @@
       "Singapore": 19,
       "Turkey": 18,
       "Belgium": 18,
+      "Japan": 17,
       "Iraq": 17,
       "Norway": 17,
       "New Zealand": 17,
       "Austria": 17,
       "Ethiopia": 16,
       "Finland": 16,
-      "Japan": 16,
       "Greece": 15,
       "Nigeria": 13,
       "Taiwan": 13,

@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Greece",
     "yearly_rates": {
+      "2025": 0.0677,
       "2006": 0.5763,
       "2016": 0.744,
       "2020": 0.6756,
@@ -9,7 +10,6 @@
       "2018": 0.9324,
       "2022": 0.3332,
       "2014": 0.6379,
-      "2025": 0.0338,
       "2024": 0.0809,
       "2021": 0.5052,
       "2002": 0.5001,
@@ -52,8 +52,9 @@
       "2011": 0.2403,
       "2015": 0.2329
     },
-    "average_rate": 0.4576,
+    "average_rate": 0.4598,
     "yearly_retractions": {
+      "2025": 2,
       "2006": 8,
       "2016": 13,
       "2020": 14,
@@ -61,7 +62,6 @@
       "2018": 17,
       "2022": 8,
       "2014": 11,
-      "2025": 1,
       "2024": 2,
       "2021": 12,
       "2002": 4,
@@ -81,7 +81,7 @@
       "2000": 2
     },
     "notice_yearly_retractions": {
-      "2026": 5,
+      "2026": 6,
       "2025": 16,
       "2018": 8,
       "2024": 10,
@@ -108,15 +108,17 @@
   },
   "domainwise_data": {
     "country": "Greece",
-    "total_retractions": 209,
+    "total_retractions": 210,
     "years": {
       "2025": {
-        "total": 1,
+        "total": 2,
         "marks": {
-          "research": 1
+          "research": 2
         },
         "domain": {
-          "B/T": 3
+          "B/T": 4,
+          "BLS": 1,
+          "HSC": 4
         }
       },
       "2024": {
@@ -467,18 +469,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 5,
+        "total": 6,
         "marks": {
+          "research": 3,
           "alterations": 2,
-          "researcher_integrity": 1,
-          "research": 2
+          "researcher_integrity": 1
         },
         "domain": {
-          "BLS": 4,
-          "HSC": 5,
+          "B/T": 4,
+          "BLS": 5,
+          "HSC": 9,
           "ENV": 1,
-          "PHY": 1,
-          "B/T": 3
+          "PHY": 1
         }
       },
       "2025": {
@@ -803,11 +805,11 @@
       "Iran": 17,
       "Italy": 16,
       "United Kingdom": 15,
-      "Pakistan": 10,
+      "Pakistan": 11,
       "Denmark": 8,
+      "Saudi Arabia": 7,
       "Turkey": 7,
       "Spain": 7,
-      "Saudi Arabia": 6,
       "India": 6,
       "Japan": 5,
       "Egypt": 4,
@@ -859,11 +861,11 @@
       "Iran": 17,
       "Italy": 16,
       "United Kingdom": 15,
-      "Pakistan": 10,
+      "Pakistan": 11,
       "Denmark": 8,
+      "Saudi Arabia": 7,
       "Turkey": 7,
       "Spain": 7,
-      "Saudi Arabia": 6,
       "India": 6,
       "Japan": 5,
       "Egypt": 4,

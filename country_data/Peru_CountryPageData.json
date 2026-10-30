@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Peru",
     "yearly_rates": {
+      "2023": 0.8847,
       "2020": 1.1278,
-      "2023": 0.7864,
       "2022": 2.0065,
       "2024": 0.096,
       "2021": 0.5251,
@@ -24,11 +24,11 @@
       "2010": 1.9212,
       "2012": 0.78
     },
-    "average_rate": 0.6716,
+    "average_rate": 0.6836,
     "yearly_retractions": {
+      "2023": 9,
       "2020": 7,
       "2026": 1,
-      "2023": 8,
       "2022": 18,
       "2024": 1,
       "2021": 4,
@@ -39,7 +39,7 @@
       "2011": 1
     },
     "notice_yearly_retractions": {
-      "2026": 2,
+      "2026": 3,
       "2025": 9,
       "2024": 13,
       "2023": 8,
@@ -53,7 +53,7 @@
   },
   "domainwise_data": {
     "country": "Peru",
-    "total_retractions": 57,
+    "total_retractions": 58,
     "years": {
       "2026": {
         "total": 1,
@@ -74,16 +74,17 @@
         }
       },
       "2023": {
-        "total": 8,
+        "total": 9,
         "marks": {
+          "alterations": 5,
           "researcher_integrity": 3,
-          "alterations": 4,
           "research": 1
         },
         "domain": {
-          "HSC": 12,
+          "B/T": 6,
+          "ENV": 1,
+          "HSC": 13,
           "BLS": 6,
-          "B/T": 5,
           "PHY": 3
         }
       },
@@ -185,13 +186,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "alterations": 2
+          "alterations": 3
         },
         "domain": {
-          "BLS": 1,
-          "B/T": 2
+          "B/T": 3,
+          "ENV": 1,
+          "HSC": 1,
+          "BLS": 1
         }
       },
       "2025": {
