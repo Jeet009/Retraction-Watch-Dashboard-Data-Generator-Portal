@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Tunisia",
     "yearly_rates": {
+      "2020": 1.0956,
       "2023": 1.05,
       "2014": 1.096,
       "2025": 0.086,
@@ -9,7 +10,6 @@
       "2024": 1.0158,
       "2022": 2.0665,
       "2019": 0.6321,
-      "2020": 0.9738,
       "2009": 0.7018,
       "2011": 0.9752,
       "2017": 0.9348,
@@ -46,9 +46,10 @@
       "2009": 0.7018,
       "2005": 0.4596
     },
-    "average_rate": 0.9907,
+    "average_rate": 0.9974,
     "yearly_retractions": {
       "2026": 1,
+      "2020": 9,
       "2023": 10,
       "2014": 7,
       "2025": 1,
@@ -56,7 +57,6 @@
       "2024": 11,
       "2022": 20,
       "2019": 5,
-      "2020": 8,
       "2009": 3,
       "2011": 5,
       "2017": 8,
@@ -73,7 +73,7 @@
       "2005": 1
     },
     "notice_yearly_retractions": {
-      "2026": 8,
+      "2026": 9,
       "2025": 15,
       "2024": 22,
       "2023": 27,
@@ -97,7 +97,7 @@
   },
   "domainwise_data": {
     "country": "Tunisia",
-    "total_retractions": 149,
+    "total_retractions": 150,
     "years": {
       "2026": {
         "total": 1,
@@ -183,14 +183,14 @@
         }
       },
       "2020": {
-        "total": 8,
+        "total": 9,
         "marks": {
+          "researcher_integrity": 2,
           "alterations": 5,
-          "researcher_integrity": 1,
           "research": 2
         },
         "domain": {
-          "BLS": 5,
+          "BLS": 7,
           "B/T": 9,
           "HSC": 2,
           "PHY": 2
@@ -399,15 +399,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 8,
+        "total": 9,
         "marks": {
           "alterations": 5,
-          "researcher_integrity": 2,
+          "researcher_integrity": 3,
           "research": 1
         },
         "domain": {
           "PHY": 9,
-          "BLS": 6,
+          "BLS": 8,
           "HSC": 2,
           "B/T": 5,
           "ENV": 1
@@ -671,10 +671,11 @@
       "Pakistan": 20,
       "Iraq": 14,
       "India": 13,
-      "South Africa": 9,
+      "South Africa": 10,
       "Turkey": 7,
       "Taiwan": 7,
       "Egypt": 6,
+      "Italy": 5,
       "Canada": 5,
       "United States": 5,
       "United Kingdom": 5,
@@ -683,7 +684,6 @@
       "Vietnam": 4,
       "Malaysia": 4,
       "Spain": 4,
-      "Italy": 4,
       "Algeria": 3,
       "South Korea": 3,
       "Russia": 3,
@@ -726,10 +726,11 @@
       "Pakistan": 20,
       "Iraq": 14,
       "India": 13,
-      "South Africa": 9,
+      "South Africa": 10,
       "Turkey": 7,
       "Taiwan": 7,
       "Egypt": 6,
+      "Italy": 5,
       "Canada": 5,
       "United States": 5,
       "United Kingdom": 5,
@@ -738,7 +739,6 @@
       "Vietnam": 4,
       "Malaysia": 4,
       "Spain": 4,
-      "Italy": 4,
       "Algeria": 3,
       "South Korea": 3,
       "Russia": 3,
