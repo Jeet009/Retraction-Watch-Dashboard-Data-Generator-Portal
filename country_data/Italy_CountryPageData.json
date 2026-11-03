@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Italy",
     "yearly_rates": {
-      "2009": 0.64,
+      "2009": 0.653,
       "2020": 0.3981,
       "2025": 0.0416,
       "2024": 0.1862,
@@ -33,6 +33,7 @@
       "1997": 0.0488
     },
     "notice_yearly_rates": {
+      "2015": 0.4266,
       "2025": 0.47,
       "2024": 0.8208,
       "2017": 0.5531,
@@ -40,7 +41,6 @@
       "2023": 0.4542,
       "2010": 0.1918,
       "2011": 0.3063,
-      "2015": 0.4167,
       "2005": 0.0659,
       "2020": 0.4134,
       "2014": 0.5579,
@@ -60,9 +60,9 @@
       "2003": 0.0952,
       "1998": 0.0742
     },
-    "average_rate": 0.3929,
+    "average_rate": 0.3933,
     "yearly_retractions": {
-      "2009": 49,
+      "2009": 50,
       "2020": 52,
       "2025": 7,
       "2024": 27,
@@ -99,6 +99,7 @@
       "1997": 2
     },
     "notice_yearly_retractions": {
+      "2015": 43,
       "2026": 66,
       "2025": 79,
       "2024": 119,
@@ -107,7 +108,6 @@
       "2023": 63,
       "2010": 15,
       "2011": 25,
-      "2015": 42,
       "2005": 4,
       "2020": 54,
       "2014": 54,
@@ -131,7 +131,7 @@
   },
   "domainwise_data": {
     "country": "Italy",
-    "total_retractions": 1023,
+    "total_retractions": 1024,
     "years": {
       "2026": {
         "total": 1,
@@ -429,17 +429,17 @@
         }
       },
       "2009": {
-        "total": 49,
+        "total": 50,
         "marks": {
+          "alterations": 35,
           "system": 3,
           "researcher_integrity": 3,
-          "alterations": 34,
           "research": 8,
           "supplemental": 1
         },
         "domain": {
-          "BLS": 66,
-          "HSC": 31,
+          "BLS": 67,
+          "HSC": 33,
           "PHY": 2,
           "B/T": 43,
           "SOC": 14
@@ -853,21 +853,21 @@
         }
       },
       "2015": {
-        "total": 42,
+        "total": 43,
         "marks": {
-          "alterations": 18,
+          "alterations": 19,
           "system": 2,
           "researcher_integrity": 15,
           "supplemental": 2,
           "research": 5
         },
         "domain": {
+          "BLS": 32,
+          "HSC": 44,
           "B/T": 3,
           "PHY": 34,
-          "HSC": 42,
           "SOC": 2,
-          "ENV": 1,
-          "BLS": 31
+          "ENV": 1
         }
       },
       "2014": {
