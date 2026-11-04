@@ -3,8 +3,8 @@
     "country": "United States",
     "yearly_rates": {
       "2008": 0.4727,
-      "2025": 0.076,
-      "2024": 0.2027,
+      "2025": 0.0773,
+      "2024": 0.2043,
       "2020": 0.5631,
       "2017": 0.4602,
       "2021": 0.4946,
@@ -65,12 +65,12 @@
       "2000": 0.0421,
       "1999": 0.0522
     },
-    "average_rate": 0.392,
+    "average_rate": 0.3921,
     "yearly_retractions": {
       "2008": 224,
       "2026": 9,
-      "2025": 57,
-      "2024": 129,
+      "2025": 58,
+      "2024": 130,
       "2020": 357,
       "2017": 275,
       "2021": 325,
@@ -126,7 +126,7 @@
       "1959": 1
     },
     "notice_yearly_retractions": {
-      "2026": 201,
+      "2026": 203,
       "2025": 368,
       "2023": 507,
       "2017": 295,
@@ -185,7 +185,7 @@
   },
   "domainwise_data": {
     "country": "United States",
-    "total_retractions": 6299,
+    "total_retractions": 6301,
     "years": {
       "2026": {
         "total": 9,
@@ -205,16 +205,16 @@
         }
       },
       "2025": {
-        "total": 57,
+        "total": 58,
         "marks": {
           "system": 4,
           "alterations": 12,
+          "research": 17,
           "researcher_integrity": 16,
-          "research": 16,
           "supplemental": 9
         },
         "domain": {
-          "HSC": 63,
+          "HSC": 65,
           "BLS": 25,
           "B/T": 26,
           "PHY": 18,
@@ -224,18 +224,18 @@
         }
       },
       "2024": {
-        "total": 129,
+        "total": 130,
         "marks": {
           "researcher_integrity": 28,
+          "alterations": 35,
           "research": 46,
-          "alterations": 34,
           "supplemental": 13,
           "system": 8
         },
         "domain": {
-          "BLS": 79,
+          "BLS": 80,
           "ENV": 18,
-          "HSC": 148,
+          "HSC": 150,
           "B/T": 52,
           "SOC": 16,
           "PHY": 43
@@ -1076,17 +1076,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 201,
+        "total": 203,
         "marks": {
-          "alterations": 101,
+          "alterations": 102,
           "system": 4,
           "researcher_integrity": 36,
-          "research": 53,
+          "research": 54,
           "supplemental": 7
         },
         "domain": {
-          "BLS": 241,
-          "HSC": 195,
+          "BLS": 242,
+          "HSC": 199,
           "ENV": 24,
           "B/T": 57,
           "PHY": 74,
@@ -1910,7 +1910,7 @@
     },
     "collaborations": {
       "China": 845,
-      "India": 261,
+      "India": 263,
       "United Kingdom": 233,
       "Germany": 199,
       "Canada": 186,
@@ -2046,7 +2046,7 @@
     },
     "notice_collaborations": {
       "China": 845,
-      "India": 261,
+      "India": 263,
       "United Kingdom": 233,
       "Germany": 199,
       "Canada": 186,

@@ -3,12 +3,12 @@
     "country": "Germany",
     "yearly_rates": {
       "2024": 0.2313,
+      "2023": 0.2812,
       "2014": 0.6416,
       "2005": 0.2149,
       "2018": 0.2916,
       "2017": 0.3846,
       "2022": 0.3526,
-      "2023": 0.2702,
       "2013": 0.2728,
       "2025": 0.0764,
       "2019": 0.2977,
@@ -64,16 +64,16 @@
       "1997": 0.0953,
       "2001": 0.0223
     },
-    "average_rate": 0.3026,
+    "average_rate": 0.3031,
     "yearly_retractions": {
       "2024": 43,
+      "2023": 51,
       "2014": 101,
       "2005": 25,
       "2026": 3,
       "2018": 50,
       "2017": 65,
       "2022": 66,
-      "2023": 49,
       "2013": 42,
       "2025": 16,
       "2019": 52,
@@ -115,7 +115,7 @@
       "1984": 1
     },
     "notice_yearly_retractions": {
-      "2026": 59,
+      "2026": 61,
       "2025": 84,
       "2014": 105,
       "2023": 103,
@@ -156,7 +156,7 @@
   },
   "domainwise_data": {
     "country": "Germany",
-    "total_retractions": 1370,
+    "total_retractions": 1372,
     "years": {
       "2026": {
         "total": 3,
@@ -209,19 +209,19 @@
         }
       },
       "2023": {
-        "total": 49,
+        "total": 51,
         "marks": {
+          "research": 23,
           "system": 6,
           "researcher_integrity": 9,
-          "alterations": 13,
-          "research": 21
+          "alterations": 13
         },
         "domain": {
+          "PHY": 20,
           "HSC": 38,
           "SOC": 4,
           "BLS": 49,
           "ENV": 9,
-          "PHY": 18,
           "B/T": 17
         }
       },
@@ -870,17 +870,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 59,
+        "total": 61,
         "marks": {
           "supplemental": 1,
+          "research": 24,
           "alterations": 15,
-          "research": 22,
           "researcher_integrity": 17,
           "system": 4
         },
         "domain": {
           "HSC": 60,
-          "PHY": 20,
+          "PHY": 22,
           "BLS": 55,
           "ENV": 20,
           "B/T": 10,
