@@ -2,9 +2,9 @@
   "retraction_rate_data": {
     "country": "Thailand",
     "yearly_rates": {
+      "2020": 0.8961,
       "2022": 3.5811,
       "2024": 0.7854,
-      "2020": 0.849,
       "2023": 0.8571,
       "2021": 2.0106,
       "2019": 0.5667,
@@ -28,13 +28,13 @@
       "1996": 0.7987
     },
     "notice_yearly_rates": {
+      "2020": 0.5188,
       "2024": 1.7074,
       "2025": 1.6015,
       "2017": 0.1866,
       "2018": 1.0297,
       "2023": 3.0389,
       "2022": 0.5169,
-      "2020": 0.4717,
       "2021": 0.2052,
       "2013": 0.677,
       "2009": 0.6028,
@@ -49,11 +49,11 @@
       "2004": 0.5133,
       "2007": 0.1547
     },
-    "average_rate": 0.9708,
+    "average_rate": 0.9736,
     "yearly_retractions": {
+      "2020": 19,
       "2022": 97,
       "2024": 23,
-      "2020": 18,
       "2023": 22,
       "2026": 1,
       "2021": 49,
@@ -78,6 +78,7 @@
       "1996": 1
     },
     "notice_yearly_retractions": {
+      "2020": 11,
       "2026": 28,
       "2024": 50,
       "2025": 57,
@@ -85,7 +86,6 @@
       "2018": 19,
       "2023": 78,
       "2022": 14,
-      "2020": 10,
       "2021": 5,
       "2013": 8,
       "2009": 5,
@@ -103,7 +103,7 @@
   },
   "domainwise_data": {
     "country": "Thailand",
-    "total_retractions": 345,
+    "total_retractions": 346,
     "years": {
       "2026": {
         "total": 1,
@@ -203,16 +203,16 @@
         }
       },
       "2020": {
-        "total": 18,
+        "total": 19,
         "marks": {
+          "alterations": 10,
           "system": 2,
-          "alterations": 9,
           "researcher_integrity": 5,
           "research": 2
         },
         "domain": {
-          "B/T": 12,
-          "SOC": 2,
+          "B/T": 13,
+          "SOC": 3,
           "PHY": 17,
           "BLS": 11,
           "HSC": 8,
@@ -567,17 +567,17 @@
         }
       },
       "2020": {
-        "total": 10,
+        "total": 11,
         "marks": {
+          "alterations": 5,
           "researcher_integrity": 1,
           "system": 3,
-          "alterations": 4,
           "research": 2
         },
         "domain": {
-          "B/T": 7,
+          "B/T": 8,
+          "SOC": 3,
           "PHY": 3,
-          "SOC": 2,
           "HSC": 4,
           "BLS": 6,
           "HUM": 1
@@ -773,7 +773,7 @@
       }
     },
     "collaborations": {
-      "China": 96,
+      "China": 97,
       "Saudi Arabia": 54,
       "India": 50,
       "Pakistan": 35,
@@ -840,7 +840,7 @@
       "Switzerland": 1
     },
     "notice_collaborations": {
-      "China": 96,
+      "China": 97,
       "Saudi Arabia": 54,
       "India": 50,
       "Pakistan": 35,
