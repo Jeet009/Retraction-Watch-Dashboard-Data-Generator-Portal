@@ -2,18 +2,19 @@
   "retraction_rate_data": {
     "country": "Egypt",
     "yearly_rates": {
+      "2018": 2.7226,
+      "2023": 2.7041,
+      "2022": 5.7448,
+      "2021": 4.9982,
       "2025": 0.435,
-      "2022": 5.721,
+      "2002": 0.5362,
       "2016": 2.4943,
       "2014": 3.1031,
       "2020": 4.1679,
       "2024": 1.5992,
-      "2023": 2.6795,
-      "2021": 4.9712,
       "2009": 1.9219,
       "2010": 2.6022,
       "2015": 2.5533,
-      "2018": 2.6757,
       "2017": 2.8823,
       "2012": 2.7898,
       "2019": 2.3403,
@@ -25,12 +26,11 @@
       "2007": 1.8842,
       "2006": 0.9573,
       "2001": 0.2828,
-      "2002": 0.2681,
       "1999": 0.3352,
       "1997": 0.3396
     },
     "notice_yearly_rates": {
-      "2025": 5.9595,
+      "2025": 5.9813,
       "2024": 5.3226,
       "2005": 0.2118,
       "2007": 0.5139,
@@ -54,21 +54,22 @@
       "2010": 0.5421,
       "1998": 0.3331
     },
-    "average_rate": 2.683,
+    "average_rate": 2.6938,
     "yearly_retractions": {
+      "2018": 58,
+      "2023": 110,
+      "2022": 241,
+      "2021": 185,
       "2025": 20,
-      "2022": 240,
+      "2002": 2,
       "2016": 47,
       "2014": 47,
       "2020": 130,
       "2024": 67,
-      "2023": 109,
-      "2021": 184,
       "2026": 3,
       "2009": 16,
       "2010": 24,
       "2015": 42,
-      "2018": 57,
       "2017": 54,
       "2012": 36,
       "2019": 58,
@@ -80,13 +81,12 @@
       "2007": 11,
       "2006": 5,
       "2001": 1,
-      "2002": 1,
       "1999": 1,
       "1997": 1
     },
     "notice_yearly_retractions": {
-      "2026": 141,
-      "2025": 274,
+      "2026": 145,
+      "2025": 275,
       "2024": 223,
       "2005": 1,
       "2007": 3,
@@ -113,7 +113,7 @@
   },
   "domainwise_data": {
     "country": "Egypt",
-    "total_retractions": 1246,
+    "total_retractions": 1251,
     "years": {
       "2026": {
         "total": 3,
@@ -165,54 +165,54 @@
         }
       },
       "2023": {
-        "total": 109,
+        "total": 110,
         "marks": {
-          "alterations": 48,
+          "alterations": 49,
           "researcher_integrity": 15,
           "research": 35,
           "system": 8,
           "supplemental": 3
         },
         "domain": {
+          "B/T": 31,
+          "HSC": 93,
           "BLS": 71,
           "PHY": 101,
-          "HSC": 91,
           "ENV": 11,
-          "B/T": 30,
           "SOC": 1
         }
       },
       "2022": {
-        "total": 240,
+        "total": 241,
         "marks": {
-          "alterations": 107,
+          "alterations": 108,
           "research": 61,
           "researcher_integrity": 53,
           "system": 12,
           "supplemental": 7
         },
         "domain": {
-          "BLS": 203,
+          "BLS": 205,
+          "PHY": 211,
           "ENV": 25,
-          "PHY": 209,
           "HSC": 170,
           "B/T": 83,
           "SOC": 12
         }
       },
       "2021": {
-        "total": 184,
+        "total": 185,
         "marks": {
+          "alterations": 77,
           "researcher_integrity": 29,
-          "alterations": 76,
           "research": 70,
           "system": 6,
           "supplemental": 3
         },
         "domain": {
+          "PHY": 104,
           "HSC": 133,
           "SOC": 16,
-          "PHY": 102,
           "BLS": 169,
           "ENV": 13,
           "B/T": 41,
@@ -255,19 +255,19 @@
         }
       },
       "2018": {
-        "total": 57,
+        "total": 58,
         "marks": {
+          "alterations": 20,
           "research": 29,
-          "alterations": 19,
           "researcher_integrity": 6,
           "system": 2,
           "supplemental": 1
         },
         "domain": {
+          "BLS": 38,
+          "PHY": 20,
           "HSC": 68,
-          "BLS": 36,
           "ENV": 2,
-          "PHY": 19,
           "B/T": 18,
           "HUM": 1
         }
@@ -481,11 +481,14 @@
         }
       },
       "2002": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "research": 1,
           "system": 1
         },
         "domain": {
+          "BLS": 1,
+          "HSC": 1,
           "PHY": 1
         }
       },
@@ -520,35 +523,35 @@
     },
     "notice_years": {
       "2026": {
-        "total": 141,
+        "total": 145,
         "marks": {
-          "alterations": 62,
+          "alterations": 66,
           "research": 60,
           "researcher_integrity": 16,
           "system": 3
         },
         "domain": {
-          "BLS": 86,
+          "BLS": 90,
+          "PHY": 89,
+          "B/T": 23,
+          "HSC": 174,
           "ENV": 15,
-          "PHY": 84,
-          "HSC": 172,
-          "B/T": 22,
           "SOC": 2
         }
       },
       "2025": {
-        "total": 274,
+        "total": 275,
         "marks": {
+          "research": 123,
           "alterations": 101,
           "researcher_integrity": 43,
-          "research": 122,
           "system": 4,
           "supplemental": 4
         },
         "domain": {
-          "BLS": 144,
+          "BLS": 145,
+          "HSC": 268,
           "PHY": 215,
-          "HSC": 267,
           "SOC": 13,
           "B/T": 80,
           "ENV": 26
@@ -876,20 +879,20 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 522,
+      "Saudi Arabia": 525,
       "China": 129,
       "India": 124,
-      "Pakistan": 105,
+      "Pakistan": 106,
       "United States": 82,
       "Iraq": 53,
       "Germany": 46,
       "Turkey": 34,
       "Russia": 30,
       "Bangladesh": 30,
-      "Malaysia": 28,
+      "Malaysia": 29,
       "United Arab Emirates": 27,
       "Iran": 27,
-      "United Kingdom": 25,
+      "United Kingdom": 26,
       "South Korea": 24,
       "Jordan": 20,
       "Poland": 19,
@@ -964,20 +967,20 @@
       "Gaza Strip": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 522,
+      "Saudi Arabia": 525,
       "China": 129,
       "India": 124,
-      "Pakistan": 105,
+      "Pakistan": 106,
       "United States": 82,
       "Iraq": 53,
       "Germany": 46,
       "Turkey": 34,
       "Russia": 30,
       "Bangladesh": 30,
-      "Malaysia": 28,
+      "Malaysia": 29,
       "United Arab Emirates": 27,
       "Iran": 27,
-      "United Kingdom": 25,
+      "United Kingdom": 26,
       "South Korea": 24,
       "Jordan": 20,
       "Poland": 19,

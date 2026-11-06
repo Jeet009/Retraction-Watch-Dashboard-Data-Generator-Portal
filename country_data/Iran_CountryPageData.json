@@ -4,7 +4,7 @@
     "yearly_rates": {
       "2024": 1.1887,
       "2021": 2.2872,
-      "2025": 0.3886,
+      "2025": 0.4145,
       "2020": 1.9477,
       "2022": 2.5152,
       "2023": 1.9073,
@@ -52,11 +52,11 @@
       "2017": 1.2359,
       "2005": 0.2413
     },
-    "average_rate": 1.9993,
+    "average_rate": 2.0013,
     "yearly_retractions": {
       "2024": 86,
       "2021": 171,
-      "2025": 30,
+      "2025": 32,
       "2020": 139,
       "2022": 189,
       "2023": 135,
@@ -82,7 +82,7 @@
       "2005": 4
     },
     "notice_yearly_retractions": {
-      "2026": 98,
+      "2026": 100,
       "2021": 107,
       "2025": 308,
       "2007": 10,
@@ -109,7 +109,7 @@
   },
   "domainwise_data": {
     "country": "Iran",
-    "total_retractions": 2021,
+    "total_retractions": 2023,
     "years": {
       "2026": {
         "total": 1,
@@ -121,18 +121,18 @@
         }
       },
       "2025": {
-        "total": 30,
+        "total": 32,
         "marks": {
-          "research": 9,
+          "research": 10,
+          "system": 6,
           "alterations": 9,
-          "system": 5,
           "supplemental": 3,
           "researcher_integrity": 4
         },
         "domain": {
+          "BLS": 19,
+          "HSC": 28,
           "B/T": 10,
-          "BLS": 16,
-          "HSC": 21,
           "SOC": 17,
           "PHY": 31,
           "ENV": 3,
@@ -540,19 +540,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 98,
+        "total": 100,
         "marks": {
-          "research": 44,
+          "research": 45,
+          "system": 8,
           "alterations": 29,
           "researcher_integrity": 15,
-          "system": 7,
           "supplemental": 3
         },
         "domain": {
           "PHY": 87,
+          "BLS": 51,
+          "HSC": 67,
           "B/T": 33,
-          "BLS": 48,
-          "HSC": 60,
           "ENV": 14,
           "SOC": 24,
           "HUM": 1
@@ -929,13 +929,13 @@
     "collaborations": {
       "China": 157,
       "Iraq": 123,
-      "United States": 108,
+      "United States": 109,
       "India": 76,
       "Malaysia": 73,
       "Turkey": 60,
       "Saudi Arabia": 58,
       "Germany": 53,
-      "United Kingdom": 50,
+      "United Kingdom": 51,
       "Vietnam": 48,
       "Canada": 45,
       "Russia": 44,
@@ -1016,13 +1016,13 @@
     "notice_collaborations": {
       "China": 157,
       "Iraq": 123,
-      "United States": 108,
+      "United States": 109,
       "India": 76,
       "Malaysia": 73,
       "Turkey": 60,
       "Saudi Arabia": 58,
       "Germany": 53,
-      "United Kingdom": 50,
+      "United Kingdom": 51,
       "Vietnam": 48,
       "Canada": 45,
       "Russia": 44,

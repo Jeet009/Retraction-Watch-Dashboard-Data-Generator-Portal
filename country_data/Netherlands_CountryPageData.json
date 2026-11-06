@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Netherlands",
     "yearly_rates": {
-      "2022": 0.2137,
+      "2022": 0.2289,
       "2014": 0.2866,
       "2024": 0.2221,
       "2021": 0.2975,
@@ -60,9 +60,9 @@
       "1997": 0.0423,
       "1999": 0.0432
     },
-    "average_rate": 0.3222,
+    "average_rate": 0.323,
     "yearly_retractions": {
-      "2022": 14,
+      "2022": 15,
       "2014": 15,
       "2024": 15,
       "2021": 20,
@@ -98,7 +98,7 @@
       "1923": 2
     },
     "notice_yearly_retractions": {
-      "2026": 21,
+      "2026": 22,
       "2024": 22,
       "2025": 13,
       "2023": 20,
@@ -130,7 +130,7 @@
   },
   "domainwise_data": {
     "country": "Netherlands",
-    "total_retractions": 445,
+    "total_retractions": 446,
     "years": {
       "2025": {
         "total": 5,
@@ -184,19 +184,19 @@
         }
       },
       "2022": {
-        "total": 14,
+        "total": 15,
         "marks": {
+          "alterations": 2,
           "system": 3,
           "research": 8,
           "researcher_integrity": 1,
-          "alterations": 1,
           "supplemental": 1
         },
         "domain": {
-          "B/T": 6,
+          "B/T": 7,
+          "SOC": 8,
           "HSC": 18,
           "PHY": 4,
-          "SOC": 7,
           "BLS": 8,
           "ENV": 2
         }
@@ -653,21 +653,21 @@
     },
     "notice_years": {
       "2026": {
-        "total": 21,
+        "total": 22,
         "marks": {
+          "alterations": 6,
           "system": 1,
           "research": 4,
-          "alterations": 5,
           "researcher_integrity": 3,
           "supplemental": 8
         },
         "domain": {
-          "B/T": 11,
+          "B/T": 12,
+          "SOC": 11,
           "HSC": 12,
           "PHY": 8,
           "BLS": 5,
-          "ENV": 2,
-          "SOC": 10
+          "ENV": 2
         }
       },
       "2025": {
@@ -1076,7 +1076,7 @@
       "United Kingdom": 51,
       "Germany": 41,
       "France": 31,
-      "China": 29,
+      "China": 30,
       "Belgium": 20,
       "Italy": 17,
       "Australia": 16,
@@ -1142,7 +1142,7 @@
       "United Kingdom": 51,
       "Germany": 41,
       "France": 31,
-      "China": 29,
+      "China": 30,
       "Belgium": 20,
       "Italy": 17,
       "Australia": 16,

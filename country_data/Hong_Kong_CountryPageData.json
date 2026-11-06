@@ -2,12 +2,12 @@
   "retraction_rate_data": {
     "country": "Hong Kong",
     "yearly_rates": {
+      "2018": 0.3682,
       "2022": 0.3939,
       "2014": 0.5214,
       "2020": 0.6284,
       "2015": 0.0566,
       "2019": 0.2609,
-      "2018": 0.3222,
       "2025": 0.091,
       "2024": 0.2671,
       "2021": 0.3317,
@@ -53,14 +53,14 @@
       "2015": 0.1697,
       "2009": 0.0713
     },
-    "average_rate": 0.242,
+    "average_rate": 0.244,
     "yearly_retractions": {
+      "2018": 8,
       "2022": 12,
       "2014": 9,
       "2020": 15,
       "2015": 1,
       "2019": 6,
-      "2018": 7,
       "2025": 4,
       "2024": 10,
       "2026": 1,
@@ -85,7 +85,7 @@
       "2005": 1
     },
     "notice_yearly_retractions": {
-      "2026": 11,
+      "2026": 12,
       "2025": 16,
       "2024": 15,
       "2023": 7,
@@ -111,7 +111,7 @@
   },
   "domainwise_data": {
     "country": "Hong Kong",
-    "total_retractions": 124,
+    "total_retractions": 125,
     "years": {
       "2026": {
         "total": 1,
@@ -232,18 +232,18 @@
         }
       },
       "2018": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "alterations": 3,
           "researcher_integrity": 3,
-          "alterations": 2,
           "research": 2
         },
         "domain": {
-          "BLS": 5,
+          "BLS": 8,
+          "HSC": 2,
           "ENV": 3,
           "B/T": 3,
           "PHY": 2,
-          "HSC": 1,
           "SOC": 1
         }
       },
@@ -462,17 +462,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 11,
+        "total": 12,
         "marks": {
+          "alterations": 4,
           "researcher_integrity": 3,
-          "alterations": 3,
           "research": 4,
           "supplemental": 1
         },
         "domain": {
+          "BLS": 9,
+          "HSC": 9,
           "ENV": 5,
-          "HSC": 8,
-          "BLS": 6,
           "PHY": 2,
           "B/T": 4,
           "SOC": 5
@@ -742,8 +742,8 @@
       }
     },
     "collaborations": {
-      "China": 65,
-      "United States": 18,
+      "China": 66,
+      "United States": 19,
       "Australia": 11,
       "United Kingdom": 11,
       "South Korea": 8,
@@ -788,8 +788,8 @@
       "Grenada": 1
     },
     "notice_collaborations": {
-      "China": 65,
-      "United States": 18,
+      "China": 66,
+      "United States": 19,
       "Australia": 11,
       "United Kingdom": 11,
       "South Korea": 8,
