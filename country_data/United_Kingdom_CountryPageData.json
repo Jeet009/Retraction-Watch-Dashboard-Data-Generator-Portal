@@ -4,8 +4,8 @@
     "yearly_rates": {
       "2025": 0.1612,
       "2018": 0.4082,
+      "2024": 0.2506,
       "2022": 0.8332,
-      "2024": 0.2459,
       "2023": 0.5266,
       "2016": 0.2588,
       "2021": 0.5405,
@@ -65,12 +65,12 @@
       "2003": 0.0194,
       "2000": 0.0303
     },
-    "average_rate": 0.3915,
+    "average_rate": 0.3917,
     "yearly_retractions": {
       "2025": 42,
       "2018": 75,
+      "2024": 53,
       "2022": 170,
-      "2024": 52,
       "2023": 105,
       "2026": 4,
       "2016": 45,
@@ -116,7 +116,7 @@
       "1975": 4
     },
     "notice_yearly_retractions": {
-      "2026": 79,
+      "2026": 80,
       "2025": 132,
       "2024": 138,
       "2021": 101,
@@ -162,7 +162,7 @@
   },
   "domainwise_data": {
     "country": "United Kingdom",
-    "total_retractions": 1808,
+    "total_retractions": 1809,
     "years": {
       "2026": {
         "total": 4,
@@ -197,18 +197,18 @@
         }
       },
       "2024": {
-        "total": 52,
+        "total": 53,
         "marks": {
+          "research": 16,
           "researcher_integrity": 14,
-          "research": 15,
           "supplemental": 5,
           "alterations": 16,
           "system": 2
         },
         "domain": {
-          "HSC": 36,
+          "BLS": 16,
+          "HSC": 38,
           "B/T": 45,
-          "BLS": 15,
           "SOC": 10,
           "ENV": 6,
           "PHY": 20
@@ -878,17 +878,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 79,
+        "total": 80,
         "marks": {
-          "research": 29,
+          "research": 30,
           "system": 3,
           "alterations": 29,
           "researcher_integrity": 16,
           "supplemental": 2
         },
         "domain": {
-          "BLS": 58,
-          "HSC": 56,
+          "BLS": 59,
+          "HSC": 58,
           "B/T": 50,
           "HUM": 1,
           "PHY": 35,
@@ -1528,8 +1528,8 @@
       "Denmark": 24,
       "Russia": 21,
       "South Africa": 20,
+      "South Korea": 20,
       "Poland": 20,
-      "South Korea": 19,
       "Singapore": 19,
       "Turkey": 18,
       "Belgium": 18,
@@ -1646,8 +1646,8 @@
       "Denmark": 24,
       "Russia": 21,
       "South Africa": 20,
+      "South Korea": 20,
       "Poland": 20,
-      "South Korea": 19,
       "Singapore": 19,
       "Turkey": 18,
       "Belgium": 18,

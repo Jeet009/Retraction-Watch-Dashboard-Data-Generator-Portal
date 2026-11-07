@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "South Africa",
     "yearly_rates": {
+      "2022": 0.9968,
       "2016": 0.4308,
       "2025": 0.2002,
       "2020": 0.5243,
@@ -10,7 +11,6 @@
       "2021": 1.1248,
       "2024": 1.3107,
       "2023": 1.3348,
-      "2022": 0.9646,
       "2015": 0.5282,
       "2003": 0.6534,
       "2011": 0.3048,
@@ -49,8 +49,9 @@
       "2001": 0.1877,
       "2005": 0.1322
     },
-    "average_rate": 0.6067,
+    "average_rate": 0.6088,
     "yearly_retractions": {
+      "2022": 31,
       "2016": 9,
       "2025": 8,
       "2020": 15,
@@ -60,7 +61,6 @@
       "2021": 34,
       "2024": 42,
       "2023": 40,
-      "2022": 30,
       "2015": 10,
       "2003": 4,
       "2011": 4,
@@ -80,7 +80,7 @@
       "2006": 1
     },
     "notice_yearly_retractions": {
-      "2026": 41,
+      "2026": 42,
       "2025": 83,
       "2023": 18,
       "2024": 25,
@@ -105,7 +105,7 @@
   },
   "domainwise_data": {
     "country": "South Africa",
-    "total_retractions": 290,
+    "total_retractions": 291,
     "years": {
       "2026": {
         "total": 1,
@@ -169,17 +169,17 @@
         }
       },
       "2022": {
-        "total": 30,
+        "total": 31,
         "marks": {
-          "alterations": 12,
+          "alterations": 13,
           "researcher_integrity": 10,
           "research": 7,
           "system": 1
         },
         "domain": {
+          "PHY": 46,
           "ENV": 7,
           "SOC": 3,
-          "PHY": 43,
           "BLS": 8,
           "HSC": 8,
           "B/T": 14
@@ -493,22 +493,22 @@
     },
     "notice_years": {
       "2026": {
-        "total": 41,
+        "total": 42,
         "marks": {
-          "alterations": 16,
+          "alterations": 17,
           "system": 4,
           "researcher_integrity": 6,
           "research": 6,
           "supplemental": 9
         },
         "domain": {
+          "PHY": 43,
           "BLS": 18,
           "HSC": 10,
           "B/T": 17,
           "HUM": 3,
           "SOC": 16,
-          "ENV": 5,
-          "PHY": 40
+          "ENV": 5
         }
       },
       "2025": {
@@ -813,7 +813,7 @@
       }
     },
     "collaborations": {
-      "Nigeria": 79,
+      "Nigeria": 80,
       "India": 38,
       "United States": 33,
       "Saudi Arabia": 28,
@@ -903,7 +903,7 @@
       "Spain": 1
     },
     "notice_collaborations": {
-      "Nigeria": 79,
+      "Nigeria": 80,
       "India": 38,
       "United States": 33,
       "Saudi Arabia": 28,
