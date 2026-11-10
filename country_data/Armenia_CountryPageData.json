@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Armenia",
     "yearly_rates": {
+      "2025": 0.411,
       "2023": 4.9659,
       "2024": 0.5155,
       "2017": 0.8945,
@@ -23,8 +24,9 @@
       "2009": 1.4409,
       "2016": 0.9009
     },
-    "average_rate": 0.6825,
+    "average_rate": 0.7184,
     "yearly_retractions": {
+      "2025": 1,
       "2023": 8,
       "2024": 1,
       "2017": 1,
@@ -36,7 +38,7 @@
       "2016": 2
     },
     "notice_yearly_retractions": {
-      "2026": 1,
+      "2026": 2,
       "2025": 5,
       "2024": 3,
       "2017": 2,
@@ -50,8 +52,17 @@
   },
   "domainwise_data": {
     "country": "Armenia",
-    "total_retractions": 19,
+    "total_retractions": 20,
     "years": {
+      "2025": {
+        "total": 1,
+        "marks": {
+          "researcher_integrity": 1
+        },
+        "domain": {
+          "HSC": 2
+        }
+      },
       "2024": {
         "total": 1,
         "marks": {
@@ -153,11 +164,13 @@
     },
     "notice_years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "research": 1
         },
         "domain": {
+          "HSC": 2,
           "B/T": 1,
           "SOC": 1
         }
@@ -264,6 +277,7 @@
       "Pakistan": 4,
       "Saudi Arabia": 2,
       "Canada": 2,
+      "India": 1,
       "Australia": 1,
       "Kuwait": 1,
       "Malaysia": 1,
@@ -278,6 +292,7 @@
       "Pakistan": 4,
       "Saudi Arabia": 2,
       "Canada": 2,
+      "India": 1,
       "Australia": 1,
       "Kuwait": 1,
       "Malaysia": 1,
