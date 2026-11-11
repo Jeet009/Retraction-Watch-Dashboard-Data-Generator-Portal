@@ -56,6 +56,7 @@
     },
     "average_rate": 0.2439,
     "yearly_retractions": {
+      "2026": 1,
       "2022": 9,
       "2023": 4,
       "2024": 4,
@@ -90,7 +91,7 @@
       "2002": 1
     },
     "notice_yearly_retractions": {
-      "2026": 3,
+      "2026": 4,
       "2023": 4,
       "2025": 14,
       "2024": 11,
@@ -118,8 +119,17 @@
   },
   "domainwise_data": {
     "country": "Israel",
-    "total_retractions": 132,
+    "total_retractions": 133,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "supplemental": 1
+        },
+        "domain": {
+          "PHY": 2
+        }
+      },
       "2025": {
         "total": 1,
         "marks": {
@@ -500,13 +510,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 3,
+        "total": 4,
         "marks": {
+          "supplemental": 1,
           "research": 1,
           "researcher_integrity": 1,
           "system": 1
         },
         "domain": {
+          "PHY": 2,
           "B/T": 1,
           "BLS": 5,
           "ENV": 1
@@ -797,7 +809,7 @@
     },
     "collaborations": {
       "United States": 26,
-      "Italy": 9,
+      "Italy": 10,
       "India": 8,
       "Germany": 8,
       "United Kingdom": 7,
@@ -840,7 +852,7 @@
     },
     "notice_collaborations": {
       "United States": 26,
-      "Italy": 9,
+      "Italy": 10,
       "India": 8,
       "Germany": 8,
       "United Kingdom": 7,

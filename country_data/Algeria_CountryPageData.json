@@ -2,12 +2,12 @@
   "retraction_rate_data": {
     "country": "Algeria",
     "yearly_rates": {
+      "2021": 0.8262,
       "2025": 0.3559,
       "2024": 0.6282,
       "2023": 0.5586,
       "2019": 0.6202,
       "2014": 1.9109,
-      "2021": 0.7229,
       "2022": 1.1216,
       "2018": 1.6334,
       "2012": 2.3403,
@@ -42,15 +42,15 @@
       "2009": 0.3187,
       "2010": 0.3165
     },
-    "average_rate": 0.7729,
+    "average_rate": 0.7801,
     "yearly_retractions": {
       "2026": 2,
+      "2021": 8,
       "2025": 5,
       "2024": 8,
       "2023": 6,
       "2019": 5,
       "2014": 10,
-      "2021": 7,
       "2022": 12,
       "2018": 13,
       "2012": 10,
@@ -67,7 +67,7 @@
       "2007": 1
     },
     "notice_yearly_retractions": {
-      "2026": 13,
+      "2026": 14,
       "2025": 10,
       "2017": 7,
       "2022": 6,
@@ -89,7 +89,7 @@
   },
   "domainwise_data": {
     "country": "Algeria",
-    "total_retractions": 110,
+    "total_retractions": 111,
     "years": {
       "2026": {
         "total": 2,
@@ -159,15 +159,15 @@
         }
       },
       "2021": {
-        "total": 7,
+        "total": 8,
         "marks": {
-          "alterations": 5,
+          "alterations": 6,
           "researcher_integrity": 1,
           "system": 1
         },
         "domain": {
+          "B/T": 8,
           "PHY": 9,
-          "B/T": 7,
           "HSC": 2,
           "BLS": 1
         }
@@ -356,17 +356,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 13,
+        "total": 14,
         "marks": {
-          "alterations": 7,
+          "alterations": 8,
           "research": 4,
           "researcher_integrity": 2
         },
         "domain": {
           "PHY": 16,
+          "B/T": 6,
           "ENV": 3,
           "HSC": 6,
-          "B/T": 5,
           "BLS": 4
         }
       },

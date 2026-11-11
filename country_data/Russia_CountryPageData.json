@@ -5,6 +5,7 @@
     "notice_yearly_rates": {},
     "average_rate": 0.0,
     "yearly_retractions": {
+      "2024": 156,
       "2021": 107,
       "2023": 232,
       "2014": 32,
@@ -14,7 +15,6 @@
       "2022": 73,
       "2020": 215,
       "2025": 8,
-      "2024": 155,
       "2009": 8,
       "2019": 217,
       "2016": 693,
@@ -33,7 +33,7 @@
       "2006": 2
     },
     "notice_yearly_retractions": {
-      "2026": 30,
+      "2026": 31,
       "2025": 391,
       "2023": 88,
       "2024": 60,
@@ -57,7 +57,7 @@
   },
   "domainwise_data": {
     "country": "Russia",
-    "total_retractions": 3133,
+    "total_retractions": 3134,
     "years": {
       "2026": {
         "total": 2,
@@ -86,14 +86,14 @@
         }
       },
       "2024": {
-        "total": 155,
+        "total": 156,
         "marks": {
-          "alterations": 6,
+          "alterations": 7,
           "researcher_integrity": 8,
           "research": 141
         },
         "domain": {
-          "PHY": 39,
+          "PHY": 40,
           "BLS": 43,
           "ENV": 21,
           "SOC": 70,
@@ -439,15 +439,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 30,
+        "total": 31,
         "marks": {
-          "alterations": 12,
+          "alterations": 13,
           "research": 6,
           "researcher_integrity": 9,
           "system": 3
         },
         "domain": {
-          "PHY": 36,
+          "PHY": 37,
           "BLS": 8,
           "ENV": 9,
           "HSC": 7,
@@ -743,14 +743,14 @@
       }
     },
     "collaborations": {
-      "China": 90,
+      "China": 91,
       "Kazakhstan": 61,
-      "India": 52,
+      "India": 53,
       "Saudi Arabia": 51,
-      "Iran": 44,
+      "Iran": 45,
       "Pakistan": 33,
+      "Iraq": 32,
       "United States": 32,
-      "Iraq": 31,
       "Egypt": 30,
       "Germany": 28,
       "United Kingdom": 21,
@@ -759,10 +759,10 @@
       "Thailand": 16,
       "United Arab Emirates": 15,
       "Uzbekistan": 15,
+      "Azerbaijan": 13,
       "Malaysia": 13,
       "Indonesia": 13,
       "Vietnam": 12,
-      "Azerbaijan": 12,
       "Spain": 12,
       "Australia": 11,
       "Italy": 10,
@@ -828,14 +828,14 @@
       "Netherlands": 1
     },
     "notice_collaborations": {
-      "China": 90,
+      "China": 91,
       "Kazakhstan": 61,
-      "India": 52,
+      "India": 53,
       "Saudi Arabia": 51,
-      "Iran": 44,
+      "Iran": 45,
       "Pakistan": 33,
+      "Iraq": 32,
       "United States": 32,
-      "Iraq": 31,
       "Egypt": 30,
       "Germany": 28,
       "United Kingdom": 21,
@@ -844,10 +844,10 @@
       "Thailand": 16,
       "United Arab Emirates": 15,
       "Uzbekistan": 15,
+      "Azerbaijan": 13,
       "Malaysia": 13,
       "Indonesia": 13,
       "Vietnam": 12,
-      "Azerbaijan": 12,
       "Spain": 12,
       "Australia": 11,
       "Italy": 10,

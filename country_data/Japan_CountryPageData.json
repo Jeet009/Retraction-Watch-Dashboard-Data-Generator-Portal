@@ -2,9 +2,9 @@
   "retraction_rate_data": {
     "country": "Japan",
     "yearly_rates": {
+      "2021": 0.3487,
       "2025": 0.0558,
       "2024": 0.1468,
-      "2021": 0.3414,
       "2023": 0.2936,
       "2022": 0.3818,
       "2018": 0.6879,
@@ -65,11 +65,11 @@
       "1996": 0.0223,
       "2001": 0.0294
     },
-    "average_rate": 0.442,
+    "average_rate": 0.4423,
     "yearly_retractions": {
+      "2021": 48,
       "2025": 8,
       "2024": 19,
-      "2021": 47,
       "2023": 37,
       "2022": 51,
       "2018": 88,
@@ -107,7 +107,7 @@
       "1984": 1
     },
     "notice_yearly_retractions": {
-      "2026": 16,
+      "2026": 17,
       "2025": 51,
       "2024": 119,
       "2023": 76,
@@ -148,7 +148,7 @@
   },
   "domainwise_data": {
     "country": "Japan",
-    "total_retractions": 1619,
+    "total_retractions": 1620,
     "years": {
       "2025": {
         "total": 8,
@@ -223,22 +223,22 @@
         }
       },
       "2021": {
-        "total": 47,
+        "total": 48,
         "marks": {
+          "research": 15,
           "alterations": 12,
           "researcher_integrity": 11,
-          "research": 14,
           "supplemental": 6,
           "system": 4
         },
         "domain": {
+          "BLS": 49,
+          "ENV": 3,
           "HSC": 51,
           "PHY": 6,
-          "BLS": 48,
           "B/T": 17,
           "SOC": 5,
-          "HUM": 1,
-          "ENV": 2
+          "HUM": 1
         }
       },
       "2020": {
@@ -747,19 +747,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 16,
+        "total": 17,
         "marks": {
+          "research": 4,
           "alterations": 5,
           "system": 1,
           "researcher_integrity": 6,
-          "research": 3,
           "supplemental": 1
         },
         "domain": {
-          "ENV": 5,
+          "BLS": 20,
+          "ENV": 6,
           "SOC": 3,
           "B/T": 3,
-          "BLS": 19,
           "HSC": 11,
           "PHY": 4
         }

@@ -53,12 +53,12 @@
     },
     "average_rate": 0.4307,
     "yearly_retractions": {
+      "2026": 2,
       "2023": 21,
       "2025": 5,
       "2020": 7,
       "2009": 1,
       "2024": 9,
-      "2026": 1,
       "2015": 5,
       "2022": 9,
       "2019": 8,
@@ -81,7 +81,7 @@
       "1998": 1
     },
     "notice_yearly_retractions": {
-      "2026": 17,
+      "2026": 18,
       "2024": 6,
       "2025": 21,
       "2023": 17,
@@ -107,15 +107,16 @@
   },
   "domainwise_data": {
     "country": "Ireland",
-    "total_retractions": 135,
+    "total_retractions": 136,
     "years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "system": 1,
           "researcher_integrity": 1
         },
         "domain": {
-          "HSC": 3
+          "HSC": 6
         }
       },
       "2025": {
@@ -446,16 +447,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 17,
+        "total": 18,
         "marks": {
+          "system": 1,
           "research": 5,
           "alterations": 2,
           "supplemental": 1,
           "researcher_integrity": 9
         },
         "domain": {
+          "HSC": 12,
           "B/T": 18,
-          "HSC": 9,
           "PHY": 6,
           "BLS": 6,
           "SOC": 1
@@ -736,6 +738,7 @@
       "Italy": 5,
       "Turkey": 4,
       "Germany": 4,
+      "Malaysia": 3,
       "Iran": 3,
       "Vietnam": 3,
       "Spain": 3,
@@ -745,7 +748,6 @@
       "Singapore": 3,
       "Netherlands": 2,
       "South Africa": 2,
-      "Malaysia": 2,
       "Poland": 2,
       "Denmark": 2,
       "Iraq": 2,
@@ -785,6 +787,7 @@
       "Italy": 5,
       "Turkey": 4,
       "Germany": 4,
+      "Malaysia": 3,
       "Iran": 3,
       "Vietnam": 3,
       "Spain": 3,
@@ -794,7 +797,6 @@
       "Singapore": 3,
       "Netherlands": 2,
       "South Africa": 2,
-      "Malaysia": 2,
       "Poland": 2,
       "Denmark": 2,
       "Iraq": 2,
