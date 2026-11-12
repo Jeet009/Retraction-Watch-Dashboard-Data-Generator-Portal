@@ -2,6 +2,8 @@
   "retraction_rate_data": {
     "country": "Australia",
     "yearly_rates": {
+      "2014": 0.4801,
+      "2013": 0.3115,
       "2024": 0.2459,
       "2015": 0.425,
       "2023": 0.5909,
@@ -10,7 +12,6 @@
       "2022": 0.9015,
       "2009": 0.722,
       "2019": 0.4206,
-      "2014": 0.4678,
       "2020": 0.6604,
       "2017": 0.2763,
       "2016": 0.5139,
@@ -20,7 +21,6 @@
       "2012": 0.3702,
       "2007": 0.2659,
       "2006": 0.4978,
-      "2013": 0.2985,
       "2002": 0.4446,
       "2004": 0.4526,
       "2008": 0.2897,
@@ -58,8 +58,10 @@
       "2005": 0.0701,
       "1998": 0.037
     },
-    "average_rate": 0.4112,
+    "average_rate": 0.4122,
     "yearly_retractions": {
+      "2014": 39,
+      "2013": 24,
       "2024": 27,
       "2015": 36,
       "2023": 61,
@@ -69,7 +71,6 @@
       "2022": 98,
       "2009": 41,
       "2019": 42,
-      "2014": 38,
       "2020": 69,
       "2017": 25,
       "2016": 45,
@@ -79,7 +80,6 @@
       "2012": 26,
       "2007": 13,
       "2006": 23,
-      "2013": 23,
       "2002": 14,
       "2004": 17,
       "2008": 15,
@@ -98,7 +98,7 @@
       "1990": 1
     },
     "notice_yearly_retractions": {
-      "2026": 43,
+      "2026": 45,
       "2025": 83,
       "2024": 78,
       "2023": 102,
@@ -130,7 +130,7 @@
   },
   "domainwise_data": {
     "country": "Australia",
-    "total_retractions": 833,
+    "total_retractions": 835,
     "years": {
       "2026": {
         "total": 1,
@@ -342,16 +342,16 @@
         }
       },
       "2014": {
-        "total": 38,
+        "total": 39,
         "marks": {
+          "alterations": 15,
           "research": 13,
-          "alterations": 14,
           "researcher_integrity": 5,
           "system": 1,
           "supplemental": 5
         },
         "domain": {
-          "PHY": 20,
+          "PHY": 22,
           "BLS": 32,
           "HSC": 35,
           "SOC": 6,
@@ -360,18 +360,18 @@
         }
       },
       "2013": {
-        "total": 23,
+        "total": 24,
         "marks": {
-          "alterations": 9,
+          "alterations": 10,
           "researcher_integrity": 8,
           "research": 4,
           "supplemental": 1,
           "system": 1
         },
         "domain": {
+          "PHY": 12,
           "BLS": 13,
           "ENV": 4,
-          "PHY": 10,
           "B/T": 3,
           "HSC": 12,
           "SOC": 6
@@ -674,18 +674,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 43,
+        "total": 45,
         "marks": {
-          "alterations": 14,
+          "alterations": 16,
           "supplemental": 2,
           "research": 13,
           "researcher_integrity": 12,
           "system": 2
         },
         "domain": {
+          "PHY": 19,
           "B/T": 16,
           "HSC": 36,
-          "PHY": 15,
           "BLS": 33,
           "ENV": 19,
           "SOC": 2
