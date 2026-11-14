@@ -2,9 +2,9 @@
   "retraction_rate_data": {
     "country": "Romania",
     "yearly_rates": {
+      "2023": 0.5813,
       "2022": 1.3355,
       "2017": 0.3171,
-      "2023": 0.5285,
       "2024": 0.3676,
       "2007": 0.7512,
       "2012": 1.1388,
@@ -49,11 +49,11 @@
       "2003": 0.2668,
       "2004": 0.2518
     },
-    "average_rate": 0.6521,
+    "average_rate": 0.6552,
     "yearly_retractions": {
+      "2023": 11,
       "2022": 25,
       "2017": 5,
-      "2023": 10,
       "2024": 7,
       "2007": 5,
       "2012": 16,
@@ -77,7 +77,7 @@
       "2000": 1
     },
     "notice_yearly_retractions": {
-      "2026": 14,
+      "2026": 15,
       "2007": 3,
       "2025": 29,
       "2019": 6,
@@ -102,7 +102,7 @@
   },
   "domainwise_data": {
     "country": "Romania",
-    "total_retractions": 214,
+    "total_retractions": 215,
     "years": {
       "2024": {
         "total": 7,
@@ -119,16 +119,16 @@
         }
       },
       "2023": {
-        "total": 10,
+        "total": 11,
         "marks": {
+          "alterations": 4,
           "research": 6,
-          "alterations": 3,
           "researcher_integrity": 1
         },
         "domain": {
+          "BLS": 5,
+          "HSC": 6,
           "PHY": 16,
-          "BLS": 3,
-          "HSC": 4,
           "B/T": 5
         }
       },
@@ -427,19 +427,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 14,
+        "total": 15,
         "marks": {
+          "alterations": 5,
           "research": 7,
-          "alterations": 4,
           "system": 2,
           "researcher_integrity": 1
         },
         "domain": {
-          "HSC": 14,
+          "BLS": 7,
+          "HSC": 16,
           "PHY": 17,
           "B/T": 1,
-          "ENV": 1,
-          "BLS": 5
+          "ENV": 1
         }
       },
       "2025": {
@@ -729,11 +729,11 @@
       "Saudi Arabia": 22,
       "Turkey": 21,
       "Pakistan": 21,
-      "China": 16,
+      "China": 17,
+      "United States": 11,
       "Malaysia": 11,
       "France": 11,
       "Iran": 11,
-      "United States": 10,
       "Iraq": 10,
       "Egypt": 9,
       "Taiwan": 8,
@@ -741,15 +741,16 @@
       "Hungary": 6,
       "Poland": 6,
       "Italy": 6,
+      "Spain": 5,
       "South Korea": 5,
       "Russia": 5,
-      "Spain": 4,
       "Bangladesh": 4,
       "Austria": 3,
       "Chile": 3,
       "Oman": 3,
       "Jordan": 3,
       "Ecuador": 3,
+      "Sweden": 2,
       "United Kingdom": 2,
       "Canada": 2,
       "United Arab Emirates": 2,
@@ -759,7 +760,6 @@
       "Australia": 2,
       "Greece": 2,
       "South Africa": 2,
-      "Sweden": 1,
       "Rwanda": 1,
       "Morocco": 1,
       "Singapore": 1,
@@ -781,11 +781,11 @@
       "Saudi Arabia": 22,
       "Turkey": 21,
       "Pakistan": 21,
-      "China": 16,
+      "China": 17,
+      "United States": 11,
       "Malaysia": 11,
       "France": 11,
       "Iran": 11,
-      "United States": 10,
       "Iraq": 10,
       "Egypt": 9,
       "Taiwan": 8,
@@ -793,15 +793,16 @@
       "Hungary": 6,
       "Poland": 6,
       "Italy": 6,
+      "Spain": 5,
       "South Korea": 5,
       "Russia": 5,
-      "Spain": 4,
       "Bangladesh": 4,
       "Austria": 3,
       "Chile": 3,
       "Oman": 3,
       "Jordan": 3,
       "Ecuador": 3,
+      "Sweden": 2,
       "United Kingdom": 2,
       "Canada": 2,
       "United Arab Emirates": 2,
@@ -811,7 +812,6 @@
       "Australia": 2,
       "Greece": 2,
       "South Africa": 2,
-      "Sweden": 1,
       "Rwanda": 1,
       "Morocco": 1,
       "Singapore": 1,

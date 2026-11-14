@@ -3,9 +3,9 @@
     "country": "Pakistan",
     "yearly_rates": {
       "2025": 1.0751,
+      "2020": 3.3143,
       "2024": 4.8284,
       "2016": 1.7604,
-      "2020": 3.2801,
       "2023": 4.9529,
       "2022": 13.8354,
       "2019": 2.281,
@@ -28,11 +28,11 @@
       "2004": 0.4916
     },
     "notice_yearly_rates": {
+      "2023": 9.5559,
       "2025": 8.228,
       "2006": 0.2917,
       "2022": 4.2391,
       "2024": 7.6849,
-      "2023": 9.5289,
       "2016": 1.3379,
       "2021": 1.3565,
       "2013": 0.6268,
@@ -50,12 +50,12 @@
       "2008": 0.5901,
       "2014": 0.4398
     },
-    "average_rate": 4.1375,
+    "average_rate": 4.14,
     "yearly_retractions": {
       "2025": 49,
+      "2020": 97,
       "2024": 191,
       "2016": 25,
-      "2020": 96,
       "2023": 184,
       "2022": 532,
       "2026": 6,
@@ -80,11 +80,11 @@
     },
     "notice_yearly_retractions": {
       "2026": 170,
+      "2023": 355,
       "2025": 375,
       "2006": 1,
       "2022": 163,
       "2024": 304,
-      "2023": 354,
       "2016": 19,
       "2021": 47,
       "2013": 7,
@@ -105,7 +105,7 @@
   },
   "domainwise_data": {
     "country": "Pakistan",
-    "total_retractions": 1641,
+    "total_retractions": 1642,
     "years": {
       "2026": {
         "total": 6,
@@ -214,18 +214,18 @@
         }
       },
       "2020": {
-        "total": 96,
+        "total": 97,
         "marks": {
+          "researcher_integrity": 23,
           "research": 24,
           "alterations": 42,
           "system": 5,
-          "researcher_integrity": 22,
           "supplemental": 3
         },
         "domain": {
-          "B/T": 36,
+          "B/T": 37,
+          "PHY": 48,
           "ENV": 19,
-          "PHY": 47,
           "BLS": 94,
           "HSC": 48,
           "SOC": 13
@@ -550,21 +550,21 @@
         }
       },
       "2023": {
-        "total": 354,
+        "total": 355,
         "marks": {
+          "researcher_integrity": 54,
           "research": 99,
           "alterations": 180,
-          "researcher_integrity": 53,
           "system": 19,
           "supplemental": 3
         },
         "domain": {
-          "B/T": 307,
+          "B/T": 308,
+          "PHY": 240,
           "HSC": 174,
           "SOC": 49,
           "BLS": 160,
           "ENV": 40,
-          "PHY": 239,
           "HUM": 3
         }
       },
@@ -862,7 +862,7 @@
       "Poland": 37,
       "Iran": 35,
       "Thailand": 35,
-      "Russia": 33,
+      "Russia": 34,
       "Czech Republic": 32,
       "Italy": 28,
       "Germany": 27,
@@ -990,7 +990,7 @@
       "Poland": 37,
       "Iran": 35,
       "Thailand": 35,
-      "Russia": 33,
+      "Russia": 34,
       "Czech Republic": 32,
       "Italy": 28,
       "Germany": 27,

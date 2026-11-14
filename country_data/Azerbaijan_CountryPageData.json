@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Azerbaijan",
     "yearly_rates": {
-      "2024": 8.2005,
-      "2025": 1.1048,
+      "2024": 8.4282,
+      "2025": 1.5191,
       "2023": 4.4248,
       "2022": 0.4909,
       "2020": 2.5063,
@@ -16,7 +16,7 @@
       "2017": 0.878
     },
     "notice_yearly_rates": {
-      "2025": 4.5574,
+      "2025": 4.9717,
       "2024": 1.3667,
       "2023": 0.7375,
       "2022": 1.9637,
@@ -30,10 +30,10 @@
       "2017": 0.878,
       "2018": 1.4815
     },
-    "average_rate": 2.3009,
+    "average_rate": 2.4131,
     "yearly_retractions": {
-      "2024": 36,
-      "2025": 8,
+      "2024": 37,
+      "2025": 11,
       "2026": 1,
       "2023": 12,
       "2022": 1,
@@ -47,8 +47,8 @@
       "2017": 1
     },
     "notice_yearly_retractions": {
-      "2026": 19,
-      "2025": 33,
+      "2025": 36,
+      "2026": 20,
       "2024": 6,
       "2023": 2,
       "2022": 4,
@@ -65,7 +65,7 @@
   },
   "domainwise_data": {
     "country": "Azerbaijan",
-    "total_retractions": 83,
+    "total_retractions": 87,
     "years": {
       "2026": {
         "total": 1,
@@ -78,33 +78,33 @@
         }
       },
       "2025": {
-        "total": 8,
+        "total": 11,
         "marks": {
-          "research": 4,
-          "researcher_integrity": 3,
-          "alterations": 1
+          "researcher_integrity": 5,
+          "alterations": 2,
+          "research": 4
         },
         "domain": {
-          "B/T": 5,
+          "B/T": 9,
+          "PHY": 8,
+          "ENV": 4,
           "BLS": 6,
           "HSC": 3,
-          "ENV": 3,
           "SOC": 2,
-          "PHY": 4,
           "HUM": 1
         }
       },
       "2024": {
-        "total": 36,
+        "total": 37,
         "marks": {
+          "researcher_integrity": 10,
           "alterations": 5,
-          "researcher_integrity": 9,
           "research": 22
         },
         "domain": {
-          "PHY": 19,
-          "B/T": 25,
-          "ENV": 4,
+          "B/T": 26,
+          "ENV": 5,
+          "PHY": 20,
           "HSC": 8,
           "BLS": 22,
           "SOC": 5
@@ -233,33 +233,33 @@
     },
     "notice_years": {
       "2026": {
-        "total": 19,
+        "total": 20,
         "marks": {
-          "alterations": 4,
+          "alterations": 5,
           "research": 13,
           "researcher_integrity": 2
         },
         "domain": {
-          "PHY": 4,
-          "B/T": 4,
+          "PHY": 5,
+          "B/T": 6,
+          "ENV": 3,
           "BLS": 25,
           "HSC": 9,
-          "ENV": 2,
           "SOC": 1
         }
       },
       "2025": {
-        "total": 33,
+        "total": 36,
         "marks": {
+          "researcher_integrity": 14,
           "research": 19,
-          "researcher_integrity": 11,
           "alterations": 3
         },
         "domain": {
-          "B/T": 27,
-          "ENV": 7,
+          "B/T": 30,
+          "ENV": 8,
+          "PHY": 25,
           "HSC": 5,
-          "PHY": 21,
           "HUM": 3,
           "SOC": 7,
           "BLS": 8
@@ -398,24 +398,26 @@
       }
     },
     "collaborations": {
-      "China": 30,
+      "China": 31,
       "Saudi Arabia": 21,
       "Pakistan": 20,
-      "Russia": 13,
-      "Turkey": 9,
-      "India": 8,
+      "Russia": 17,
+      "Turkey": 11,
+      "India": 9,
+      "Iraq": 7,
       "Iran": 7,
-      "Iraq": 6,
+      "United States": 5,
       "Jordan": 5,
       "Uzbekistan": 5,
+      "South Korea": 4,
       "Poland": 3,
       "Malaysia": 3,
-      "South Korea": 3,
+      "Egypt": 2,
+      "United Arab Emirates": 2,
       "Morocco": 2,
       "Italy": 2,
       "Hungary": 2,
       "Germany": 2,
-      "United States": 2,
       "Kazakhstan": 2,
       "Hong Kong": 1,
       "Spain": 1,
@@ -429,8 +431,6 @@
       "Colombia": 1,
       "Oman": 1,
       "Tunisia": 1,
-      "United Arab Emirates": 1,
-      "Egypt": 1,
       "Vietnam": 1,
       "Denmark": 1,
       "Switzerland": 1,
@@ -438,24 +438,26 @@
       "Portugal": 1
     },
     "notice_collaborations": {
-      "China": 30,
+      "China": 31,
       "Saudi Arabia": 21,
       "Pakistan": 20,
-      "Russia": 13,
-      "Turkey": 9,
-      "India": 8,
+      "Russia": 17,
+      "Turkey": 11,
+      "India": 9,
+      "Iraq": 7,
       "Iran": 7,
-      "Iraq": 6,
+      "United States": 5,
       "Jordan": 5,
       "Uzbekistan": 5,
+      "South Korea": 4,
       "Poland": 3,
       "Malaysia": 3,
-      "South Korea": 3,
+      "Egypt": 2,
+      "United Arab Emirates": 2,
       "Morocco": 2,
       "Italy": 2,
       "Hungary": 2,
       "Germany": 2,
-      "United States": 2,
       "Kazakhstan": 2,
       "Hong Kong": 1,
       "Spain": 1,
@@ -469,8 +471,6 @@
       "Colombia": 1,
       "Oman": 1,
       "Tunisia": 1,
-      "United Arab Emirates": 1,
-      "Egypt": 1,
       "Vietnam": 1,
       "Denmark": 1,
       "Switzerland": 1,
