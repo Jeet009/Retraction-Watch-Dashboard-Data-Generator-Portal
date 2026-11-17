@@ -3,6 +3,7 @@
     "country": "United Kingdom",
     "yearly_rates": {
       "2019": 0.3875,
+      "2006": 0.3974,
       "2025": 0.1612,
       "2018": 0.4082,
       "2024": 0.2506,
@@ -23,7 +24,6 @@
       "2004": 0.4282,
       "2011": 0.523,
       "2002": 0.5339,
-      "2006": 0.3894,
       "2014": 0.3132,
       "2013": 0.2561,
       "2000": 0.2427,
@@ -65,9 +65,10 @@
       "2003": 0.0194,
       "2000": 0.0303
     },
-    "average_rate": 0.392,
+    "average_rate": 0.3922,
     "yearly_retractions": {
       "2019": 73,
+      "2006": 50,
       "2025": 42,
       "2018": 75,
       "2024": 53,
@@ -89,7 +90,6 @@
       "2004": 47,
       "2011": 77,
       "2002": 52,
-      "2006": 49,
       "2014": 51,
       "2013": 41,
       "1966": 1,
@@ -117,7 +117,7 @@
     },
     "notice_yearly_retractions": {
       "2020": 101,
-      "2026": 80,
+      "2026": 81,
       "2025": 132,
       "2024": 138,
       "2021": 101,
@@ -162,7 +162,7 @@
   },
   "domainwise_data": {
     "country": "United Kingdom",
-    "total_retractions": 1810,
+    "total_retractions": 1811,
     "years": {
       "2026": {
         "total": 4,
@@ -533,19 +533,19 @@
         }
       },
       "2006": {
-        "total": 49,
+        "total": 50,
         "marks": {
-          "alterations": 16,
+          "alterations": 17,
           "research": 8,
           "supplemental": 23,
           "system": 1,
           "researcher_integrity": 1
         },
         "domain": {
+          "HSC": 68,
+          "SOC": 3,
           "BLS": 50,
-          "HSC": 67,
           "HUM": 1,
-          "SOC": 2,
           "B/T": 1,
           "PHY": 4,
           "ENV": 1
@@ -878,21 +878,21 @@
     },
     "notice_years": {
       "2026": {
-        "total": 80,
+        "total": 81,
         "marks": {
+          "alterations": 30,
           "research": 30,
           "system": 3,
-          "alterations": 29,
           "researcher_integrity": 16,
           "supplemental": 2
         },
         "domain": {
+          "HSC": 59,
+          "SOC": 11,
           "BLS": 59,
-          "HSC": 58,
           "B/T": 50,
           "HUM": 1,
           "PHY": 35,
-          "SOC": 10,
           "ENV": 11
         }
       },
@@ -1507,7 +1507,7 @@
     },
     "collaborations": {
       "China": 266,
-      "United States": 233,
+      "United States": 234,
       "India": 112,
       "Germany": 91,
       "Italy": 88,
@@ -1625,7 +1625,7 @@
     },
     "notice_collaborations": {
       "China": 266,
-      "United States": 233,
+      "United States": 234,
       "India": 112,
       "Germany": 91,
       "Italy": 88,

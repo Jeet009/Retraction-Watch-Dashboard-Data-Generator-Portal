@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Philippines",
     "yearly_rates": {
-      "2024": 0.8821,
+      "2024": 0.9924,
       "2018": 0.5044,
       "2022": 8.1661,
       "2015": 0.3882,
@@ -29,9 +29,9 @@
       "2010": 0.8361,
       "2016": 0.3426
     },
-    "average_rate": 1.5992,
+    "average_rate": 1.6112,
     "yearly_retractions": {
-      "2024": 8,
+      "2024": 9,
       "2018": 2,
       "2022": 59,
       "2015": 1,
@@ -45,7 +45,7 @@
       "2016": 1
     },
     "notice_yearly_retractions": {
-      "2026": 14,
+      "2026": 15,
       "2025": 9,
       "2024": 14,
       "2023": 53,
@@ -62,20 +62,21 @@
   },
   "domainwise_data": {
     "country": "Philippines",
-    "total_retractions": 134,
+    "total_retractions": 135,
     "years": {
       "2024": {
-        "total": 8,
+        "total": 9,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 4,
           "research": 3,
           "supplemental": 1
         },
         "domain": {
+          "SOC": 4,
           "HSC": 7,
           "BLS": 1,
-          "B/T": 7,
-          "SOC": 2
+          "B/T": 7
         }
       },
       "2023": {
@@ -224,19 +225,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 14,
+        "total": 15,
         "marks": {
+          "researcher_integrity": 4,
           "alterations": 2,
-          "researcher_integrity": 3,
           "research": 8,
           "supplemental": 1
         },
         "domain": {
+          "SOC": 8,
           "HSC": 8,
           "BLS": 4,
           "ENV": 2,
-          "B/T": 13,
-          "SOC": 6
+          "B/T": 13
         }
       },
       "2025": {
@@ -393,7 +394,7 @@
       }
     },
     "collaborations": {
-      "China": 75,
+      "China": 76,
       "United States": 21,
       "Australia": 18,
       "India": 13,
@@ -438,7 +439,7 @@
       "Myanmar (formerly Burma)": 1
     },
     "notice_collaborations": {
-      "China": 75,
+      "China": 76,
       "United States": 21,
       "Australia": 18,
       "India": 13,

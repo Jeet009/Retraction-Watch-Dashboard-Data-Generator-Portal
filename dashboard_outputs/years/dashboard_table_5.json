@@ -1,37 +1,37 @@
 [
   {
     "country": "China",
-    "alterations": 5515,
+    "alterations": 5516,
     "research": 4231,
-    "integrity": 1118,
+    "integrity": 1119,
     "supplemental": 972,
     "system": 279,
-    "total": 12115,
-    "total_from_1996": 12115,
+    "total": 12117,
+    "total_from_1996": 12117,
     "total_publications": 11461281,
-    "retraction_rate": 1.057,
+    "retraction_rate": 1.0572,
     "yearly_retraction_rates": {
       "2022": 8.6921,
       "2023": 1.6334,
-      "2024": 1.0022
+      "2024": 1.003
     },
     "country_flag": "/country_flags/China.svg"
   },
   {
     "country": "India",
-    "alterations": 1162,
+    "alterations": 1165,
     "research": 827,
     "integrity": 263,
     "supplemental": 190,
     "system": 43,
-    "total": 2485,
-    "total_from_1996": 2485,
+    "total": 2488,
+    "total_from_1996": 2488,
     "total_publications": 3010235,
-    "retraction_rate": 0.8255,
+    "retraction_rate": 0.8265,
     "yearly_retraction_rates": {
       "2022": 4.2787,
-      "2023": 2.6246,
-      "2024": 1.9816
+      "2023": 2.6282,
+      "2024": 1.9849
     },
     "country_flag": "/country_flags/India.svg"
   },
@@ -72,6 +72,24 @@
     "country_flag": "/country_flags/Pakistan.svg"
   },
   {
+    "country": "United States",
+    "alterations": 204,
+    "research": 252,
+    "integrity": 158,
+    "supplemental": 49,
+    "system": 103,
+    "total": 766,
+    "total_from_1996": 766,
+    "total_publications": 14617353,
+    "retraction_rate": 0.0524,
+    "yearly_retraction_rates": {
+      "2022": 0.4593,
+      "2023": 0.4271,
+      "2024": 0.2074
+    },
+    "country_flag": "/country_flags/United_States.svg"
+  },
+  {
     "country": "Iraq",
     "alterations": 137,
     "research": 473,
@@ -90,37 +108,19 @@
     "country_flag": "/country_flags/Iraq.svg"
   },
   {
-    "country": "United States",
-    "alterations": 198,
-    "research": 252,
-    "integrity": 158,
-    "supplemental": 49,
-    "system": 103,
-    "total": 760,
-    "total_from_1996": 760,
-    "total_publications": 14617353,
-    "retraction_rate": 0.052,
-    "yearly_retraction_rates": {
-      "2022": 0.4593,
-      "2023": 0.4271,
-      "2024": 0.2074
-    },
-    "country_flag": "/country_flags/United_States.svg"
-  },
-  {
     "country": "Russia",
     "alterations": 39,
     "research": 362,
-    "integrity": 69,
+    "integrity": 70,
     "supplemental": 4,
     "system": 5,
-    "total": 479,
-    "total_from_1996": 479,
+    "total": 480,
+    "total_from_1996": 480,
     "total_publications": 1780170,
-    "retraction_rate": 0.2691,
+    "retraction_rate": 0.2696,
     "yearly_retraction_rates": {
       "2022": 0.6674,
-      "2023": 2.1262,
+      "2023": 2.1354,
       "2024": 1.6732
     },
     "country_flag": "/country_flags/Russia.svg"
@@ -597,17 +597,17 @@
     "country": "Philippines",
     "alterations": 36,
     "research": 33,
-    "integrity": 5,
+    "integrity": 6,
     "supplemental": 5,
     "system": 1,
-    "total": 80,
-    "total_from_1996": 80,
+    "total": 81,
+    "total_from_1996": 81,
     "total_publications": 72554,
-    "retraction_rate": 1.1026,
+    "retraction_rate": 1.1164,
     "yearly_retraction_rates": {
       "2022": 8.1661,
       "2023": 1.6645,
-      "2024": 0.8821
+      "2024": 0.9924
     },
     "country_flag": "/country_flags/Philippines.svg"
   },
@@ -1844,6 +1844,22 @@
     "country_flag": "/country_flags/Syria.svg"
   },
   {
+    "country": "Unknown",
+    "alterations": 3,
+    "research": 0,
+    "integrity": 0,
+    "supplemental": 0,
+    "system": 1,
+    "total": 4,
+    "total_from_1996": 4,
+    "total_publications": 0,
+    "retraction_rate": 0.0,
+    "yearly_retraction_rates": {
+      "2022": 0.0
+    },
+    "country_flag": "/country_flags/Unknown.svg"
+  },
+  {
     "country": "Burkina Faso",
     "alterations": 1,
     "research": 2,
@@ -2698,22 +2714,6 @@
       "2022": 2.8169
     },
     "country_flag": "/country_flags/Togo.svg"
-  },
-  {
-    "country": "Unknown",
-    "alterations": 0,
-    "research": 0,
-    "integrity": 0,
-    "supplemental": 0,
-    "system": 1,
-    "total": 1,
-    "total_from_1996": 1,
-    "total_publications": 0,
-    "retraction_rate": 0.0,
-    "yearly_retraction_rates": {
-      "2022": 0.0
-    },
-    "country_flag": "/country_flags/Unknown.svg"
   },
   {
     "country": "Anguilla",

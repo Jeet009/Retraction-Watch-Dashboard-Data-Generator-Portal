@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Brazil",
     "yearly_rates": {
+      "2021": 0.3723,
       "2025": 0.0707,
       "2011": 0.381,
       "2015": 0.2385,
@@ -10,7 +11,6 @@
       "2020": 0.4548,
       "2023": 0.3125,
       "2024": 0.0806,
-      "2021": 0.362,
       "2010": 0.2879,
       "2022": 0.4619,
       "2018": 0.2241,
@@ -56,8 +56,9 @@
       "2006": 0.0603,
       "2000": 0.0654
     },
-    "average_rate": 0.277,
+    "average_rate": 0.2776,
     "yearly_retractions": {
+      "2021": 36,
       "2025": 7,
       "2026": 4,
       "2011": 20,
@@ -67,7 +68,6 @@
       "2020": 42,
       "2023": 26,
       "2024": 7,
-      "2021": 35,
       "2010": 14,
       "2022": 41,
       "2018": 18,
@@ -89,8 +89,8 @@
       "1997": 3
     },
     "notice_yearly_retractions": {
+      "2026": 14,
       "2025": 35,
-      "2026": 13,
       "2024": 69,
       "2023": 25,
       "2019": 17,
@@ -117,7 +117,7 @@
   },
   "domainwise_data": {
     "country": "Brazil",
-    "total_retractions": 429,
+    "total_retractions": 430,
     "years": {
       "2026": {
         "total": 4,
@@ -201,19 +201,19 @@
         }
       },
       "2021": {
-        "total": 35,
+        "total": 36,
         "marks": {
+          "researcher_integrity": 9,
           "research": 20,
-          "researcher_integrity": 8,
           "alterations": 5,
           "system": 2
         },
         "domain": {
+          "BLS": 23,
+          "ENV": 13,
+          "HSC": 57,
           "PHY": 8,
-          "B/T": 6,
-          "ENV": 11,
-          "HSC": 55,
-          "BLS": 22
+          "B/T": 6
         }
       },
       "2020": {
@@ -552,17 +552,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 13,
+        "total": 14,
         "marks": {
+          "researcher_integrity": 5,
           "research": 4,
           "alterations": 4,
-          "system": 1,
-          "researcher_integrity": 4
+          "system": 1
         },
         "domain": {
-          "HSC": 17,
-          "BLS": 3,
-          "ENV": 3,
+          "BLS": 4,
+          "ENV": 5,
+          "HSC": 19,
           "HUM": 1,
           "SOC": 1,
           "PHY": 7,
@@ -921,15 +921,15 @@
       "United States": 31,
       "United Kingdom": 29,
       "Spain": 19,
+      "Germany": 17,
+      "Saudi Arabia": 17,
       "China": 16,
-      "Germany": 16,
       "Bangladesh": 16,
-      "Saudi Arabia": 16,
+      "Italy": 13,
       "Canada": 13,
-      "Italy": 12,
       "Iran": 11,
+      "Egypt": 9,
       "France": 9,
-      "Egypt": 8,
       "Switzerland": 8,
       "Pakistan": 7,
       "Iraq": 6,
@@ -986,15 +986,15 @@
       "United States": 31,
       "United Kingdom": 29,
       "Spain": 19,
+      "Germany": 17,
+      "Saudi Arabia": 17,
       "China": 16,
-      "Germany": 16,
       "Bangladesh": 16,
-      "Saudi Arabia": 16,
+      "Italy": 13,
       "Canada": 13,
-      "Italy": 12,
       "Iran": 11,
+      "Egypt": 9,
       "France": 9,
-      "Egypt": 8,
       "Switzerland": 8,
       "Pakistan": 7,
       "Iraq": 6,
