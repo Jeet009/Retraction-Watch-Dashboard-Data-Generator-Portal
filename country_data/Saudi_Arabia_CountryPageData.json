@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Saudi Arabia",
     "yearly_rates": {
-      "2021": 10.6695,
-      "2022": 14.5425,
+      "2021": 10.7347,
+      "2022": 14.5604,
       "2024": 3.5407,
       "2018": 1.7595,
       "2023": 5.182,
@@ -51,10 +51,10 @@
       "2005": 0.4139,
       "2000": 0.4995
     },
-    "average_rate": 4.326,
+    "average_rate": 4.3333,
     "yearly_retractions": {
-      "2021": 491,
-      "2022": 813,
+      "2021": 494,
+      "2022": 814,
       "2024": 246,
       "2018": 40,
       "2023": 307,
@@ -82,7 +82,7 @@
       "1998": 1
     },
     "notice_yearly_retractions": {
-      "2026": 283,
+      "2026": 287,
       "2024": 459,
       "2025": 523,
       "2023": 638,
@@ -108,7 +108,7 @@
   },
   "domainwise_data": {
     "country": "Saudi Arabia",
-    "total_retractions": 2392,
+    "total_retractions": 2396,
     "years": {
       "2026": {
         "total": 8,
@@ -179,39 +179,39 @@
         }
       },
       "2022": {
-        "total": 813,
+        "total": 814,
         "marks": {
+          "research": 242,
           "alterations": 356,
           "researcher_integrity": 178,
-          "research": 241,
           "system": 21,
           "supplemental": 17
         },
         "domain": {
-          "B/T": 609,
+          "B/T": 611,
+          "HSC": 575,
           "PHY": 538,
           "BLS": 520,
           "ENV": 92,
-          "HSC": 574,
           "SOC": 69,
           "HUM": 2
         }
       },
       "2021": {
-        "total": 491,
+        "total": 494,
         "marks": {
-          "research": 148,
-          "researcher_integrity": 148,
+          "research": 150,
+          "researcher_integrity": 149,
           "alterations": 162,
           "supplemental": 13,
           "system": 20
         },
         "domain": {
           "PHY": 315,
-          "BLS": 318,
-          "HSC": 261,
+          "B/T": 332,
+          "BLS": 320,
+          "HSC": 263,
           "ENV": 51,
-          "B/T": 327,
           "SOC": 55,
           "HUM": 2
         }
@@ -512,19 +512,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 283,
+        "total": 287,
         "marks": {
-          "research": 101,
-          "researcher_integrity": 61,
+          "research": 104,
+          "researcher_integrity": 62,
           "alterations": 114,
           "system": 7
         },
         "domain": {
           "PHY": 275,
-          "BLS": 192,
-          "HSC": 153,
+          "B/T": 128,
+          "BLS": 194,
+          "HSC": 156,
           "ENV": 55,
-          "B/T": 121,
           "SOC": 10,
           "HUM": 1
         }
@@ -854,7 +854,7 @@
       "India": 698,
       "Pakistan": 616,
       "Egypt": 531,
-      "China": 423,
+      "China": 427,
       "Iraq": 171,
       "United States": 170,
       "Malaysia": 155,
@@ -908,6 +908,7 @@
       "Denmark": 10,
       "Peru": 10,
       "Morocco": 10,
+      "Palestine": 9,
       "Kazakhstan": 9,
       "Mexico": 9,
       "Philippines": 8,
@@ -921,7 +922,6 @@
       "Portugal": 7,
       "Belgium": 6,
       "Hong Kong": 6,
-      "Palestine": 6,
       "Netherlands": 6,
       "Argentina": 5,
       "Georgia": 5,
@@ -931,6 +931,7 @@
       "Gambia": 4,
       "Estonia": 4,
       "Switzerland": 4,
+      "Singapore": 3,
       "Bosnia & Herzegovina": 3,
       "Cyprus": 3,
       "Kenya": 3,
@@ -957,7 +958,6 @@
       "Cuba": 1,
       "Myanmar (formerly Burma)": 1,
       "North Macedonia (formerly Macedonia)": 1,
-      "Singapore": 1,
       "Zambia": 1,
       "Eritrea": 1,
       "Mali": 1,
@@ -972,7 +972,7 @@
       "India": 698,
       "Pakistan": 616,
       "Egypt": 531,
-      "China": 423,
+      "China": 427,
       "Iraq": 171,
       "United States": 170,
       "Malaysia": 155,
@@ -1026,6 +1026,7 @@
       "Denmark": 10,
       "Peru": 10,
       "Morocco": 10,
+      "Palestine": 9,
       "Kazakhstan": 9,
       "Mexico": 9,
       "Philippines": 8,
@@ -1039,7 +1040,6 @@
       "Portugal": 7,
       "Belgium": 6,
       "Hong Kong": 6,
-      "Palestine": 6,
       "Netherlands": 6,
       "Argentina": 5,
       "Georgia": 5,
@@ -1049,6 +1049,7 @@
       "Gambia": 4,
       "Estonia": 4,
       "Switzerland": 4,
+      "Singapore": 3,
       "Bosnia & Herzegovina": 3,
       "Cyprus": 3,
       "Kenya": 3,
@@ -1075,7 +1076,6 @@
       "Cuba": 1,
       "Myanmar (formerly Burma)": 1,
       "North Macedonia (formerly Macedonia)": 1,
-      "Singapore": 1,
       "Zambia": 1,
       "Eritrea": 1,
       "Mali": 1,

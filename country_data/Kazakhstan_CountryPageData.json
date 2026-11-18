@@ -2,9 +2,9 @@
   "retraction_rate_data": {
     "country": "Kazakhstan",
     "yearly_rates": {
+      "2023": 3.6311,
       "2024": 1.7057,
       "2022": 5.3046,
-      "2023": 3.4858,
       "2025": 0.1839,
       "2019": 1.965,
       "2020": 2.8144,
@@ -34,11 +34,11 @@
       "2012": 1.2361,
       "2013": 0.5653
     },
-    "average_rate": 2.8538,
+    "average_rate": 2.8675,
     "yearly_retractions": {
+      "2023": 25,
       "2024": 15,
       "2022": 33,
-      "2023": 24,
       "2025": 2,
       "2026": 1,
       "2019": 10,
@@ -54,8 +54,8 @@
       "2011": 1
     },
     "notice_yearly_retractions": {
+      "2026": 13,
       "2025": 37,
-      "2026": 12,
       "2024": 28,
       "2023": 33,
       "2022": 34,
@@ -73,7 +73,7 @@
   },
   "domainwise_data": {
     "country": "Kazakhstan",
-    "total_retractions": 210,
+    "total_retractions": 211,
     "years": {
       "2026": {
         "total": 1,
@@ -114,18 +114,18 @@
         }
       },
       "2023": {
-        "total": 24,
+        "total": 25,
         "marks": {
-          "researcher_integrity": 4,
+          "researcher_integrity": 5,
           "research": 17,
           "alterations": 2,
           "supplemental": 1
         },
         "domain": {
-          "SOC": 17,
+          "B/T": 10,
+          "SOC": 18,
           "HSC": 9,
           "HUM": 1,
-          "B/T": 8,
           "PHY": 7,
           "ENV": 12,
           "BLS": 4
@@ -296,20 +296,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 12,
+        "total": 13,
         "marks": {
+          "researcher_integrity": 4,
           "supplemental": 4,
-          "researcher_integrity": 3,
           "alterations": 2,
           "research": 3
         },
         "domain": {
+          "B/T": 4,
+          "SOC": 14,
           "HUM": 2,
           "PHY": 3,
-          "SOC": 13,
           "BLS": 3,
           "HSC": 3,
-          "B/T": 2,
           "ENV": 1
         }
       },
@@ -525,6 +525,7 @@
       "Peru": 2,
       "Romania": 2,
       "Kyrgyzstan": 2,
+      "Mongolia": 1,
       "Yemen": 1,
       "Brazil": 1,
       "Greece": 1,
@@ -571,6 +572,7 @@
       "Peru": 2,
       "Romania": 2,
       "Kyrgyzstan": 2,
+      "Mongolia": 1,
       "Yemen": 1,
       "Brazil": 1,
       "Greece": 1,

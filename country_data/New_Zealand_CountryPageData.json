@@ -2,9 +2,9 @@
   "retraction_rate_data": {
     "country": "New Zealand",
     "yearly_rates": {
+      "2023": 0.8299,
       "2024": 0.1824,
       "2022": 0.4081,
-      "2023": 0.766,
       "2020": 0.3605,
       "2019": 0.94,
       "2015": 0.1507,
@@ -47,11 +47,11 @@
       "2012": 0.162,
       "2004": 0.1386
     },
-    "average_rate": 0.3102,
+    "average_rate": 0.3132,
     "yearly_retractions": {
+      "2023": 13,
       "2024": 3,
       "2022": 7,
-      "2023": 12,
       "2020": 6,
       "2019": 15,
       "2015": 2,
@@ -76,7 +76,7 @@
       "1992": 1
     },
     "notice_yearly_retractions": {
-      "2026": 7,
+      "2026": 8,
       "2025": 12,
       "2024": 7,
       "2016": 7,
@@ -102,7 +102,7 @@
   },
   "domainwise_data": {
     "country": "New Zealand",
-    "total_retractions": 106,
+    "total_retractions": 107,
     "years": {
       "2024": {
         "total": 3,
@@ -119,18 +119,18 @@
         }
       },
       "2023": {
-        "total": 12,
+        "total": 13,
         "marks": {
-          "researcher_integrity": 6,
+          "researcher_integrity": 7,
           "research": 5,
           "alterations": 1
         },
         "domain": {
-          "BLS": 6,
+          "B/T": 5,
+          "BLS": 8,
           "ENV": 8,
           "PHY": 6,
           "HSC": 8,
-          "B/T": 4,
           "SOC": 3
         }
       },
@@ -411,14 +411,15 @@
     },
     "notice_years": {
       "2026": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "researcher_integrity": 5,
           "alterations": 1,
-          "researcher_integrity": 4,
           "supplemental": 2
         },
         "domain": {
-          "BLS": 11,
+          "B/T": 1,
+          "BLS": 13,
           "ENV": 7,
           "PHY": 3,
           "HSC": 2
@@ -684,10 +685,10 @@
       }
     },
     "collaborations": {
-      "China": 27,
+      "China": 28,
       "United States": 20,
       "United Kingdom": 17,
-      "Australia": 15,
+      "Australia": 16,
       "Germany": 5,
       "India": 5,
       "Pakistan": 5,
@@ -728,10 +729,10 @@
       "Montenegro": 1
     },
     "notice_collaborations": {
-      "China": 27,
+      "China": 28,
       "United States": 20,
       "United Kingdom": 17,
-      "Australia": 15,
+      "Australia": 16,
       "Germany": 5,
       "India": 5,
       "Pakistan": 5,
