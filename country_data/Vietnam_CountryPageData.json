@@ -6,9 +6,9 @@
     "average_rate": 0.0,
     "yearly_retractions": {
       "2021": 49,
+      "2023": 40,
       "2022": 65,
       "2024": 24,
-      "2023": 39,
       "2025": 2,
       "2020": 58,
       "2019": 29,
@@ -24,7 +24,7 @@
     },
     "notice_yearly_retractions": {
       "2021": 12,
-      "2026": 44,
+      "2026": 45,
       "2025": 75,
       "2024": 57,
       "2022": 19,
@@ -44,7 +44,7 @@
   },
   "domainwise_data": {
     "country": "Vietnam",
-    "total_retractions": 290,
+    "total_retractions": 291,
     "years": {
       "2025": {
         "total": 2,
@@ -76,20 +76,20 @@
         }
       },
       "2023": {
-        "total": 39,
+        "total": 40,
         "marks": {
+          "research": 21,
           "alterations": 8,
-          "research": 20,
           "researcher_integrity": 10,
           "supplemental": 1
         },
         "domain": {
-          "B/T": 38,
+          "B/T": 40,
+          "PHY": 24,
           "SOC": 7,
           "HSC": 16,
           "BLS": 19,
-          "ENV": 16,
-          "PHY": 23
+          "ENV": 16
         }
       },
       "2022": {
@@ -267,19 +267,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 44,
+        "total": 45,
         "marks": {
+          "research": 12,
           "researcher_integrity": 22,
-          "research": 11,
           "alterations": 7,
           "system": 3,
           "supplemental": 1
         },
         "domain": {
+          "B/T": 28,
+          "PHY": 35,
           "BLS": 27,
-          "PHY": 34,
           "ENV": 16,
-          "B/T": 26,
           "SOC": 5,
           "HSC": 19
         }
@@ -496,9 +496,9 @@
       }
     },
     "collaborations": {
-      "India": 77,
+      "India": 78,
       "China": 74,
-      "Saudi Arabia": 56,
+      "Saudi Arabia": 57,
       "Iran": 48,
       "Taiwan": 28,
       "South Korea": 27,
@@ -521,10 +521,10 @@
       "Japan": 7,
       "Uzbekistan": 6,
       "Canada": 6,
+      "Jordan": 5,
       "United Arab Emirates": 5,
       "Belgium": 5,
       "Ghana": 5,
-      "Jordan": 4,
       "Tunisia": 4,
       "Nigeria": 4,
       "South Africa": 4,
@@ -568,9 +568,9 @@
       "United Kingdom": 1
     },
     "notice_collaborations": {
-      "India": 77,
+      "India": 78,
       "China": 74,
-      "Saudi Arabia": 56,
+      "Saudi Arabia": 57,
       "Iran": 48,
       "Taiwan": 28,
       "South Korea": 27,
@@ -593,10 +593,10 @@
       "Japan": 7,
       "Uzbekistan": 6,
       "Canada": 6,
+      "Jordan": 5,
       "United Arab Emirates": 5,
       "Belgium": 5,
       "Ghana": 5,
-      "Jordan": 4,
       "Tunisia": 4,
       "Nigeria": 4,
       "South Africa": 4,

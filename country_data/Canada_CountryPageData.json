@@ -64,7 +64,7 @@
     },
     "average_rate": 0.3374,
     "yearly_retractions": {
-      "2026": 1,
+      "2026": 2,
       "2023": 50,
       "2025": 5,
       "2022": 65,
@@ -107,7 +107,7 @@
       "1994": 1
     },
     "notice_yearly_retractions": {
-      "2026": 24,
+      "2026": 25,
       "2024": 62,
       "2025": 60,
       "2012": 32,
@@ -147,14 +147,18 @@
   },
   "domainwise_data": {
     "country": "Canada",
-    "total_retractions": 843,
+    "total_retractions": 844,
     "years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "system": 1,
           "research": 1
         },
         "domain": {
+          "B/T": 2,
+          "BLS": 1,
+          "PHY": 1,
           "HSC": 2
         }
       },
@@ -768,19 +772,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 24,
+        "total": 25,
         "marks": {
+          "system": 1,
           "research": 8,
           "researcher_integrity": 7,
           "alterations": 7,
           "supplemental": 2
         },
         "domain": {
+          "B/T": 16,
+          "BLS": 20,
+          "PHY": 12,
           "HSC": 17,
           "ENV": 5,
-          "B/T": 14,
-          "BLS": 19,
-          "PHY": 11,
           "SOC": 3
         }
       },
@@ -1294,8 +1299,8 @@
       "United Kingdom": 85,
       "Iran": 45,
       "India": 35,
+      "Germany": 31,
       "Saudi Arabia": 31,
-      "Germany": 30,
       "Pakistan": 25,
       "South Korea": 24,
       "Italy": 23,
@@ -1334,6 +1339,7 @@
       "Ireland": 3,
       "Argentina": 3,
       "Portugal": 3,
+      "Ecuador": 2,
       "Slovakia": 2,
       "Gabon": 2,
       "Romania": 2,
@@ -1355,7 +1361,6 @@
       "Armenia": 2,
       "Sri Lanka": 1,
       "Somalia": 1,
-      "Ecuador": 1,
       "Costa Rica": 1,
       "Tanzania": 1,
       "Peru": 1,
@@ -1395,8 +1400,8 @@
       "United Kingdom": 85,
       "Iran": 45,
       "India": 35,
+      "Germany": 31,
       "Saudi Arabia": 31,
-      "Germany": 30,
       "Pakistan": 25,
       "South Korea": 24,
       "Italy": 23,
@@ -1435,6 +1440,7 @@
       "Ireland": 3,
       "Argentina": 3,
       "Portugal": 3,
+      "Ecuador": 2,
       "Slovakia": 2,
       "Gabon": 2,
       "Romania": 2,
@@ -1456,7 +1462,6 @@
       "Armenia": 2,
       "Sri Lanka": 1,
       "Somalia": 1,
-      "Ecuador": 1,
       "Costa Rica": 1,
       "Tanzania": 1,
       "Peru": 1,

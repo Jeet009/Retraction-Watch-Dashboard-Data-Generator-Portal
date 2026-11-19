@@ -32,6 +32,7 @@
     },
     "average_rate": 1.7046,
     "yearly_retractions": {
+      "2026": 1,
       "2022": 63,
       "2025": 2,
       "2024": 6,
@@ -47,7 +48,7 @@
       "2006": 1
     },
     "notice_yearly_retractions": {
-      "2026": 3,
+      "2026": 4,
       "2024": 30,
       "2025": 6,
       "2023": 42,
@@ -64,8 +65,18 @@
   },
   "domainwise_data": {
     "country": "Ghana",
-    "total_retractions": 102,
+    "total_retractions": 103,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "HSC": 2,
+          "SOC": 1
+        }
+      },
       "2025": {
         "total": 2,
         "marks": {
@@ -234,16 +245,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 3,
+        "total": 4,
         "marks": {
-          "research": 2,
+          "research": 3,
           "alterations": 1
         },
         "domain": {
+          "HSC": 3,
+          "SOC": 2,
           "B/T": 1,
-          "SOC": 1,
           "BLS": 3,
-          "HSC": 1,
           "PHY": 1
         }
       },

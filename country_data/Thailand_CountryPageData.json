@@ -3,8 +3,8 @@
     "country": "Thailand",
     "yearly_rates": {
       "2020": 0.8961,
+      "2022": 3.618,
       "2021": 2.0516,
-      "2022": 3.5811,
       "2024": 0.7854,
       "2023": 0.8571,
       "2019": 0.5667,
@@ -49,12 +49,12 @@
       "2004": 0.5133,
       "2007": 0.1547
     },
-    "average_rate": 0.9764,
+    "average_rate": 0.9792,
     "yearly_retractions": {
       "2020": 19,
+      "2022": 98,
       "2021": 50,
       "2026": 2,
-      "2022": 97,
       "2024": 23,
       "2023": 22,
       "2019": 11,
@@ -79,7 +79,7 @@
     },
     "notice_yearly_retractions": {
       "2020": 11,
-      "2026": 30,
+      "2026": 31,
       "2024": 50,
       "2025": 57,
       "2017": 3,
@@ -103,7 +103,7 @@
   },
   "domainwise_data": {
     "country": "Thailand",
-    "total_retractions": 348,
+    "total_retractions": 349,
     "years": {
       "2026": {
         "total": 2,
@@ -167,20 +167,20 @@
         }
       },
       "2022": {
-        "total": 97,
+        "total": 98,
         "marks": {
+          "researcher_integrity": 32,
           "alterations": 34,
-          "researcher_integrity": 31,
           "research": 26,
           "supplemental": 5,
           "system": 1
         },
         "domain": {
+          "B/T": 94,
+          "SOC": 44,
           "BLS": 23,
           "ENV": 7,
           "PHY": 51,
-          "SOC": 43,
-          "B/T": 93,
           "HSC": 50,
           "HUM": 8
         }
@@ -466,19 +466,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 30,
+        "total": 31,
         "marks": {
-          "researcher_integrity": 11,
+          "researcher_integrity": 12,
           "system": 1,
           "alterations": 8,
           "supplemental": 1,
           "research": 9
         },
         "domain": {
+          "B/T": 12,
+          "SOC": 5,
           "BLS": 29,
           "PHY": 17,
-          "B/T": 11,
-          "SOC": 4,
           "HSC": 20,
           "ENV": 5
         }

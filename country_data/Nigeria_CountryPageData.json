@@ -2,12 +2,12 @@
   "retraction_rate_data": {
     "country": "Nigeria",
     "yearly_rates": {
+      "2021": 1.7188,
+      "2023": 3.4672,
       "2022": 2.162,
       "2025": 0.1416,
-      "2023": 3.4075,
       "2024": 1.5877,
       "2018": 1.1884,
-      "2021": 1.6575,
       "2017": 0.6621,
       "2009": 0.8396,
       "2020": 1.4703,
@@ -41,14 +41,14 @@
       "2013": 0.3586,
       "2015": 0.8537
     },
-    "average_rate": 1.2303,
+    "average_rate": 1.2401,
     "yearly_retractions": {
+      "2021": 28,
+      "2023": 58,
       "2022": 36,
       "2025": 3,
-      "2023": 57,
       "2024": 28,
       "2018": 11,
-      "2021": 27,
       "2017": 5,
       "2026": 1,
       "2009": 4,
@@ -65,7 +65,7 @@
       "2011": 5
     },
     "notice_yearly_retractions": {
-      "2026": 36,
+      "2026": 38,
       "2025": 99,
       "2009": 1,
       "2024": 23,
@@ -87,7 +87,7 @@
   },
   "domainwise_data": {
     "country": "Nigeria",
-    "total_retractions": 250,
+    "total_retractions": 252,
     "years": {
       "2026": {
         "total": 1,
@@ -129,19 +129,19 @@
         }
       },
       "2023": {
-        "total": 57,
+        "total": 58,
         "marks": {
-          "alterations": 35,
+          "alterations": 36,
           "supplemental": 1,
           "researcher_integrity": 4,
           "research": 13,
           "system": 4
         },
         "domain": {
+          "PHY": 60,
           "HSC": 23,
           "BLS": 54,
           "ENV": 7,
-          "PHY": 58,
           "SOC": 5,
           "B/T": 19
         }
@@ -165,19 +165,19 @@
         }
       },
       "2021": {
-        "total": 27,
+        "total": 28,
         "marks": {
+          "researcher_integrity": 9,
           "alterations": 9,
-          "researcher_integrity": 8,
           "research": 8,
           "system": 1,
           "supplemental": 1
         },
         "domain": {
-          "BLS": 19,
-          "HSC": 15,
+          "B/T": 12,
+          "BLS": 20,
+          "HSC": 16,
           "ENV": 11,
-          "B/T": 11,
           "PHY": 20,
           "SOC": 1
         }
@@ -386,20 +386,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 36,
+        "total": 38,
         "marks": {
-          "alterations": 24,
+          "researcher_integrity": 4,
+          "alterations": 25,
           "system": 1,
           "research": 6,
-          "supplemental": 2,
-          "researcher_integrity": 3
+          "supplemental": 2
         },
         "domain": {
-          "PHY": 43,
-          "BLS": 19,
-          "ENV": 7,
-          "HSC": 16,
-          "B/T": 2
+          "B/T": 3,
+          "BLS": 20,
+          "HSC": 17,
+          "PHY": 45,
+          "ENV": 7
         }
       },
       "2025": {
@@ -651,7 +651,7 @@
       }
     },
     "collaborations": {
-      "South Africa": 80,
+      "South Africa": 81,
       "India": 47,
       "Saudi Arabia": 23,
       "China": 22,
@@ -718,7 +718,7 @@
       "Tanzania": 1
     },
     "notice_collaborations": {
-      "South Africa": 80,
+      "South Africa": 81,
       "India": 47,
       "Saudi Arabia": 23,
       "China": 22,

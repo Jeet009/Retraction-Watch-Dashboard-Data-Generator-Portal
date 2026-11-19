@@ -23,8 +23,8 @@
     },
     "average_rate": 0.6481,
     "yearly_retractions": {
+      "2026": 2,
       "2024": 9,
-      "2026": 1,
       "2023": 9,
       "2022": 12,
       "2021": 7,
@@ -34,7 +34,7 @@
       "2011": 1
     },
     "notice_yearly_retractions": {
-      "2026": 4,
+      "2026": 5,
       "2025": 16,
       "2023": 4,
       "2024": 10,
@@ -47,14 +47,18 @@
   },
   "domainwise_data": {
     "country": "Ecuador",
-    "total_retractions": 44,
+    "total_retractions": 45,
     "years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "system": 1,
           "research": 1
         },
         "domain": {
+          "B/T": 2,
+          "BLS": 1,
+          "PHY": 1,
           "HSC": 1,
           "SOC": 1
         }
@@ -170,15 +174,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 4,
+        "total": 5,
         "marks": {
+          "system": 1,
           "researcher_integrity": 2,
           "research": 2
         },
         "domain": {
-          "B/T": 3,
+          "B/T": 5,
+          "BLS": 1,
+          "PHY": 4,
           "ENV": 2,
-          "PHY": 3,
           "HSC": 2,
           "SOC": 1
         }
@@ -291,13 +297,13 @@
       "Pakistan": 10,
       "Iraq": 7,
       "Vietnam": 7,
+      "Germany": 6,
       "Spain": 6,
       "Iran": 6,
       "Turkey": 6,
       "Colombia": 5,
       "Jordan": 5,
       "Egypt": 5,
-      "Germany": 5,
       "Hong Kong": 5,
       "Chile": 5,
       "Argentina": 4,
@@ -311,13 +317,13 @@
       "United Arab Emirates": 3,
       "Indonesia": 3,
       "Russia": 3,
+      "Canada": 2,
       "Nigeria": 2,
       "Mexico": 2,
       "Australia": 2,
       "Portugal": 2,
       "Thailand": 2,
       "Uganda": 1,
-      "Canada": 1,
       "Oman": 1,
       "Greece": 1,
       "Israel": 1,
@@ -340,13 +346,13 @@
       "Pakistan": 10,
       "Iraq": 7,
       "Vietnam": 7,
+      "Germany": 6,
       "Spain": 6,
       "Iran": 6,
       "Turkey": 6,
       "Colombia": 5,
       "Jordan": 5,
       "Egypt": 5,
-      "Germany": 5,
       "Hong Kong": 5,
       "Chile": 5,
       "Argentina": 4,
@@ -360,13 +366,13 @@
       "United Arab Emirates": 3,
       "Indonesia": 3,
       "Russia": 3,
+      "Canada": 2,
       "Nigeria": 2,
       "Mexico": 2,
       "Australia": 2,
       "Portugal": 2,
       "Thailand": 2,
       "Uganda": 1,
-      "Canada": 1,
       "Oman": 1,
       "Greece": 1,
       "Israel": 1,

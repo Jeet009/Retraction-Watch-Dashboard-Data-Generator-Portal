@@ -2,11 +2,11 @@
   "retraction_rate_data": {
     "country": "Iran",
     "yearly_rates": {
+      "2025": 0.4275,
       "2023": 1.9214,
       "2021": 2.3273,
       "2024": 1.2025,
       "2022": 2.5285,
-      "2025": 0.4145,
       "2020": 1.9477,
       "2008": 1.2201,
       "2017": 1.9448,
@@ -52,13 +52,13 @@
       "2017": 1.2359,
       "2005": 0.2413
     },
-    "average_rate": 2.0073,
+    "average_rate": 2.0082,
     "yearly_retractions": {
+      "2025": 33,
       "2023": 136,
       "2021": 174,
       "2024": 87,
       "2022": 190,
-      "2025": 32,
       "2020": 139,
       "2008": 24,
       "2017": 107,
@@ -82,7 +82,7 @@
       "2005": 4
     },
     "notice_yearly_retractions": {
-      "2026": 106,
+      "2026": 107,
       "2021": 107,
       "2025": 308,
       "2007": 10,
@@ -109,7 +109,7 @@
   },
   "domainwise_data": {
     "country": "Iran",
-    "total_retractions": 2029,
+    "total_retractions": 2030,
     "years": {
       "2026": {
         "total": 1,
@@ -121,19 +121,19 @@
         }
       },
       "2025": {
-        "total": 32,
+        "total": 33,
         "marks": {
+          "alterations": 10,
           "research": 10,
           "system": 6,
-          "alterations": 9,
           "supplemental": 3,
           "researcher_integrity": 4
         },
         "domain": {
+          "HSC": 29,
+          "SOC": 18,
           "BLS": 19,
-          "HSC": 28,
           "B/T": 10,
-          "SOC": 17,
           "PHY": 31,
           "ENV": 3,
           "HUM": 1
@@ -540,21 +540,21 @@
     },
     "notice_years": {
       "2026": {
-        "total": 106,
+        "total": 107,
         "marks": {
-          "alterations": 34,
+          "alterations": 35,
           "researcher_integrity": 16,
           "research": 45,
           "system": 8,
           "supplemental": 3
         },
         "domain": {
+          "HSC": 68,
+          "SOC": 25,
           "BLS": 60,
           "B/T": 37,
           "PHY": 89,
           "ENV": 15,
-          "HSC": 67,
-          "SOC": 24,
           "HUM": 1
         }
       },
@@ -928,7 +928,7 @@
     },
     "collaborations": {
       "China": 158,
-      "Iraq": 124,
+      "Iraq": 125,
       "United States": 110,
       "India": 77,
       "Malaysia": 73,
@@ -1015,7 +1015,7 @@
     },
     "notice_collaborations": {
       "China": 158,
-      "Iraq": 124,
+      "Iraq": 125,
       "United States": 110,
       "India": 77,
       "Malaysia": 73,

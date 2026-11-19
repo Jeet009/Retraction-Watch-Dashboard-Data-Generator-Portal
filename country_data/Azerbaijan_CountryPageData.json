@@ -32,9 +32,9 @@
     },
     "average_rate": 2.4131,
     "yearly_retractions": {
+      "2026": 2,
       "2024": 37,
       "2025": 11,
-      "2026": 1,
       "2023": 12,
       "2022": 1,
       "2020": 5,
@@ -47,8 +47,8 @@
       "2017": 1
     },
     "notice_yearly_retractions": {
+      "2026": 21,
       "2025": 36,
-      "2026": 20,
       "2024": 6,
       "2023": 2,
       "2022": 4,
@@ -65,14 +65,16 @@
   },
   "domainwise_data": {
     "country": "Azerbaijan",
-    "total_retractions": 87,
+    "total_retractions": 88,
     "years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "researcher_integrity": 1,
           "alterations": 1
         },
         "domain": {
+          "PHY": 3,
           "BLS": 1,
           "HSC": 2
         }
@@ -233,14 +235,14 @@
     },
     "notice_years": {
       "2026": {
-        "total": 20,
+        "total": 21,
         "marks": {
+          "researcher_integrity": 3,
           "alterations": 5,
-          "research": 13,
-          "researcher_integrity": 2
+          "research": 13
         },
         "domain": {
-          "PHY": 5,
+          "PHY": 8,
           "B/T": 6,
           "ENV": 3,
           "BLS": 25,
@@ -398,7 +400,7 @@
       }
     },
     "collaborations": {
-      "China": 31,
+      "China": 32,
       "Saudi Arabia": 21,
       "Pakistan": 20,
       "Russia": 17,
@@ -406,9 +408,9 @@
       "India": 9,
       "Iraq": 7,
       "Iran": 7,
+      "Uzbekistan": 6,
       "United States": 5,
       "Jordan": 5,
-      "Uzbekistan": 5,
       "South Korea": 4,
       "Poland": 3,
       "Malaysia": 3,
@@ -438,7 +440,7 @@
       "Portugal": 1
     },
     "notice_collaborations": {
-      "China": 31,
+      "China": 32,
       "Saudi Arabia": 21,
       "Pakistan": 20,
       "Russia": 17,
@@ -446,9 +448,9 @@
       "India": 9,
       "Iraq": 7,
       "Iran": 7,
+      "Uzbekistan": 6,
       "United States": 5,
       "Jordan": 5,
-      "Uzbekistan": 5,
       "South Korea": 4,
       "Poland": 3,
       "Malaysia": 3,
