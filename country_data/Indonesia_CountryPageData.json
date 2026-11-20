@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Indonesia",
     "yearly_rates": {
-      "2024": 0.3529,
+      "2024": 0.3689,
       "2023": 0.4374,
       "2025": 0.1192,
       "2022": 0.7921,
@@ -41,10 +41,10 @@
       "2009": 0.4897,
       "2004": 3.0675
     },
-    "average_rate": 0.5241,
+    "average_rate": 0.5261,
     "yearly_retractions": {
-      "2024": 22,
-      "2026": 2,
+      "2026": 3,
+      "2024": 23,
       "2023": 26,
       "2025": 8,
       "2022": 36,
@@ -65,7 +65,7 @@
       "1998": 1
     },
     "notice_yearly_retractions": {
-      "2026": 18,
+      "2026": 20,
       "2025": 48,
       "2024": 30,
       "2023": 32,
@@ -87,16 +87,17 @@
   },
   "domainwise_data": {
     "country": "Indonesia",
-    "total_retractions": 265,
+    "total_retractions": 267,
     "years": {
       "2026": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "system": 1,
-          "research": 1
+          "research": 2,
+          "system": 1
         },
         "domain": {
-          "B/T": 3,
+          "B/T": 5,
+          "PHY": 1,
           "ENV": 1,
           "HUM": 1
         }
@@ -120,17 +121,17 @@
         }
       },
       "2024": {
-        "total": 22,
+        "total": 23,
         "marks": {
+          "alterations": 8,
           "research": 5,
-          "researcher_integrity": 10,
-          "alterations": 7
+          "researcher_integrity": 10
         },
         "domain": {
+          "B/T": 14,
           "BLS": 9,
           "ENV": 6,
           "PHY": 10,
-          "B/T": 11,
           "HUM": 1,
           "SOC": 2,
           "HSC": 16
@@ -368,19 +369,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 18,
+        "total": 20,
         "marks": {
-          "research": 7,
+          "research": 8,
+          "alterations": 8,
           "system": 1,
-          "alterations": 7,
           "researcher_integrity": 2,
           "supplemental": 1
         },
         "domain": {
+          "B/T": 16,
+          "PHY": 12,
           "BLS": 6,
           "ENV": 6,
-          "PHY": 11,
-          "B/T": 11,
           "HUM": 4,
           "SOC": 3,
           "HSC": 7
@@ -630,8 +631,8 @@
       }
     },
     "collaborations": {
-      "India": 35,
-      "Saudi Arabia": 35,
+      "India": 36,
+      "Saudi Arabia": 36,
       "Malaysia": 29,
       "Iraq": 23,
       "Pakistan": 20,
@@ -696,8 +697,8 @@
       "Palestine": 1
     },
     "notice_collaborations": {
-      "India": 35,
-      "Saudi Arabia": 35,
+      "India": 36,
+      "Saudi Arabia": 36,
       "Malaysia": 29,
       "Iraq": 23,
       "Pakistan": 20,

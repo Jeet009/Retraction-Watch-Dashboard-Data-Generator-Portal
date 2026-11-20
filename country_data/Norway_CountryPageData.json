@@ -2,10 +2,10 @@
   "retraction_rate_data": {
     "country": "Norway",
     "yearly_rates": {
+      "2024": 0.3868,
       "2023": 0.8656,
       "2022": 0.8457,
       "2021": 0.8831,
-      "2024": 0.3517,
       "2016": 0.2493,
       "2025": 0.095,
       "2020": 0.3153,
@@ -53,12 +53,12 @@
       "2003": 0.131,
       "2014": 0.1104
     },
-    "average_rate": 0.364,
+    "average_rate": 0.3661,
     "yearly_retractions": {
+      "2024": 11,
       "2023": 24,
       "2022": 23,
       "2021": 24,
-      "2024": 10,
       "2016": 5,
       "2025": 3,
       "2020": 8,
@@ -84,7 +84,7 @@
       "2003": 3
     },
     "notice_yearly_retractions": {
-      "2026": 11,
+      "2026": 12,
       "2024": 18,
       "2025": 20,
       "2023": 33,
@@ -112,7 +112,7 @@
   },
   "domainwise_data": {
     "country": "Norway",
-    "total_retractions": 174,
+    "total_retractions": 175,
     "years": {
       "2025": {
         "total": 3,
@@ -127,17 +127,17 @@
         }
       },
       "2024": {
-        "total": 10,
+        "total": 11,
         "marks": {
+          "researcher_integrity": 2,
           "research": 5,
-          "researcher_integrity": 1,
           "alterations": 3,
           "supplemental": 1
         },
         "domain": {
+          "HSC": 6,
+          "SOC": 3,
           "B/T": 10,
-          "HSC": 4,
-          "SOC": 2,
           "BLS": 4,
           "PHY": 4,
           "ENV": 2
@@ -471,19 +471,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 11,
+        "total": 12,
         "marks": {
+          "researcher_integrity": 3,
           "supplemental": 2,
           "alterations": 1,
-          "researcher_integrity": 2,
           "research": 6
         },
         "domain": {
+          "HSC": 13,
+          "SOC": 3,
           "B/T": 11,
-          "HSC": 11,
           "ENV": 1,
           "PHY": 2,
-          "SOC": 2,
           "BLS": 1
         }
       },
