@@ -6,10 +6,10 @@
       "2019": 2.3807,
       "2021": 5.0793,
       "2022": 5.8163,
+      "2018": 2.8165,
       "2020": 4.1999,
       "2017": 2.9357,
       "2023": 2.7533,
-      "2018": 2.7696,
       "2024": 1.6469,
       "2002": 0.5362,
       "2016": 2.4943,
@@ -54,16 +54,16 @@
       "2010": 0.5421,
       "1998": 0.3331
     },
-    "average_rate": 2.7326,
+    "average_rate": 2.7348,
     "yearly_retractions": {
       "2025": 24,
       "2019": 59,
       "2021": 188,
       "2022": 244,
+      "2018": 60,
       "2020": 131,
       "2017": 55,
       "2023": 112,
-      "2018": 59,
       "2024": 69,
       "2002": 2,
       "2016": 47,
@@ -85,7 +85,7 @@
       "1997": 1
     },
     "notice_yearly_retractions": {
-      "2026": 160,
+      "2026": 161,
       "2025": 277,
       "2024": 224,
       "2005": 1,
@@ -113,7 +113,7 @@
   },
   "domainwise_data": {
     "country": "Egypt",
-    "total_retractions": 1269,
+    "total_retractions": 1270,
     "years": {
       "2026": {
         "total": 3,
@@ -255,19 +255,19 @@
         }
       },
       "2018": {
-        "total": 59,
+        "total": 60,
         "marks": {
-          "alterations": 21,
+          "alterations": 22,
           "research": 29,
           "researcher_integrity": 6,
           "system": 2,
           "supplemental": 1
         },
         "domain": {
+          "ENV": 3,
+          "PHY": 22,
           "BLS": 39,
           "HSC": 69,
-          "PHY": 20,
-          "ENV": 2,
           "B/T": 18,
           "HUM": 1
         }
@@ -523,18 +523,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 160,
+        "total": 161,
         "marks": {
-          "alterations": 72,
+          "alterations": 73,
           "research": 65,
           "researcher_integrity": 18,
           "system": 5
         },
         "domain": {
           "HSC": 188,
-          "PHY": 98,
+          "PHY": 100,
+          "ENV": 19,
           "BLS": 99,
-          "ENV": 18,
           "B/T": 30,
           "SOC": 2
         }
@@ -879,7 +879,7 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 531,
+      "Saudi Arabia": 532,
       "China": 131,
       "India": 125,
       "Pakistan": 106,
@@ -967,7 +967,7 @@
       "Gaza Strip": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 531,
+      "Saudi Arabia": 532,
       "China": 131,
       "India": 125,
       "Pakistan": 106,

@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Hong Kong",
     "yearly_rates": {
+      "2023": 0.1228,
       "2018": 0.3682,
       "2022": 0.3939,
       "2014": 0.5214,
@@ -13,7 +14,6 @@
       "2021": 0.3317,
       "2009": 0.1427,
       "2011": 0.4025,
-      "2023": 0.0921,
       "2016": 0.2671,
       "2002": 0.1151,
       "2008": 0.2326,
@@ -53,8 +53,9 @@
       "2015": 0.1697,
       "2009": 0.0713
     },
-    "average_rate": 0.244,
+    "average_rate": 0.246,
     "yearly_retractions": {
+      "2023": 4,
       "2018": 8,
       "2022": 12,
       "2014": 9,
@@ -67,7 +68,6 @@
       "2021": 9,
       "2009": 2,
       "2011": 6,
-      "2023": 3,
       "2016": 5,
       "2002": 1,
       "2008": 3,
@@ -85,7 +85,7 @@
       "2005": 1
     },
     "notice_yearly_retractions": {
-      "2026": 12,
+      "2026": 13,
       "2025": 16,
       "2024": 15,
       "2023": 7,
@@ -111,7 +111,7 @@
   },
   "domainwise_data": {
     "country": "Hong Kong",
-    "total_retractions": 125,
+    "total_retractions": 126,
     "years": {
       "2026": {
         "total": 1,
@@ -154,13 +154,13 @@
         }
       },
       "2023": {
-        "total": 3,
+        "total": 4,
         "marks": {
-          "researcher_integrity": 1,
-          "alterations": 2
+          "alterations": 3,
+          "researcher_integrity": 1
         },
         "domain": {
-          "B/T": 3,
+          "B/T": 5,
           "ENV": 1,
           "PHY": 1,
           "SOC": 3,
@@ -462,19 +462,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 12,
+        "total": 13,
         "marks": {
-          "alterations": 4,
+          "alterations": 5,
           "researcher_integrity": 3,
           "research": 4,
           "supplemental": 1
         },
         "domain": {
+          "B/T": 6,
           "BLS": 9,
           "HSC": 9,
           "ENV": 5,
           "PHY": 2,
-          "B/T": 4,
           "SOC": 5
         }
       },
@@ -742,14 +742,14 @@
       }
     },
     "collaborations": {
-      "China": 66,
+      "China": 67,
       "United States": 19,
       "Australia": 11,
       "United Kingdom": 11,
+      "Pakistan": 9,
+      "Macau": 8,
       "South Korea": 8,
       "India": 8,
-      "Pakistan": 8,
-      "Macau": 7,
       "Italy": 7,
       "Singapore": 7,
       "Saudi Arabia": 6,
@@ -788,14 +788,14 @@
       "Grenada": 1
     },
     "notice_collaborations": {
-      "China": 66,
+      "China": 67,
       "United States": 19,
       "Australia": 11,
       "United Kingdom": 11,
+      "Pakistan": 9,
+      "Macau": 8,
       "South Korea": 8,
       "India": 8,
-      "Pakistan": 8,
-      "Macau": 7,
       "Italy": 7,
       "Singapore": 7,
       "Saudi Arabia": 6,

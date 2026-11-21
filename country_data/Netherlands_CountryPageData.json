@@ -2,13 +2,13 @@
   "retraction_rate_data": {
     "country": "Netherlands",
     "yearly_rates": {
+      "2025": 0.0764,
       "2022": 0.2289,
       "2014": 0.2866,
       "2024": 0.2221,
       "2021": 0.2975,
       "2020": 0.4998,
       "2023": 0.2342,
-      "2025": 0.0637,
       "2000": 0.0807,
       "2017": 0.4866,
       "2011": 0.8418,
@@ -60,16 +60,16 @@
       "1997": 0.0423,
       "1999": 0.0432
     },
-    "average_rate": 0.323,
+    "average_rate": 0.3237,
     "yearly_retractions": {
       "2026": 1,
+      "2025": 6,
       "2022": 15,
       "2014": 15,
       "2024": 15,
       "2021": 20,
       "2020": 31,
       "2023": 15,
-      "2025": 5,
       "2000": 2,
       "2017": 27,
       "2011": 39,
@@ -99,7 +99,7 @@
       "1923": 2
     },
     "notice_yearly_retractions": {
-      "2026": 23,
+      "2026": 24,
       "2024": 22,
       "2025": 13,
       "2023": 20,
@@ -131,7 +131,7 @@
   },
   "domainwise_data": {
     "country": "Netherlands",
-    "total_retractions": 447,
+    "total_retractions": 448,
     "years": {
       "2026": {
         "total": 1,
@@ -143,16 +143,17 @@
         }
       },
       "2025": {
-        "total": 5,
+        "total": 6,
         "marks": {
+          "alterations": 1,
           "supplemental": 3,
           "research": 1,
           "researcher_integrity": 1
         },
         "domain": {
-          "B/T": 3,
+          "B/T": 4,
+          "ENV": 3,
           "SOC": 2,
-          "ENV": 1,
           "HUM": 1,
           "PHY": 1,
           "HSC": 3
@@ -663,21 +664,21 @@
     },
     "notice_years": {
       "2026": {
-        "total": 23,
+        "total": 24,
         "marks": {
           "system": 2,
-          "alterations": 6,
+          "alterations": 7,
           "research": 4,
           "researcher_integrity": 3,
           "supplemental": 8
         },
         "domain": {
           "PHY": 10,
-          "B/T": 12,
+          "B/T": 13,
+          "ENV": 4,
           "SOC": 11,
           "HSC": 12,
-          "BLS": 5,
-          "ENV": 2
+          "BLS": 5
         }
       },
       "2025": {
