@@ -2,10 +2,10 @@
   "retraction_rate_data": {
     "country": "Portugal",
     "yearly_rates": {
+      "2024": 0.1468,
       "2021": 0.4834,
       "2023": 0.2395,
       "2011": 0.5244,
-      "2024": 0.1175,
       "2013": 0.6356,
       "2025": 0.0254,
       "2022": 0.3904,
@@ -46,13 +46,13 @@
       "2003": 0.1565,
       "2004": 0.1391
     },
-    "average_rate": 0.2666,
+    "average_rate": 0.2685,
     "yearly_retractions": {
+      "2024": 5,
       "2021": 16,
       "2023": 8,
       "2011": 9,
       "2026": 1,
-      "2024": 4,
       "2013": 13,
       "2025": 1,
       "2022": 13,
@@ -72,7 +72,7 @@
       "2003": 2
     },
     "notice_yearly_retractions": {
-      "2026": 5,
+      "2026": 6,
       "2025": 8,
       "2024": 15,
       "2023": 6,
@@ -97,7 +97,7 @@
   },
   "domainwise_data": {
     "country": "Portugal",
-    "total_retractions": 138,
+    "total_retractions": 139,
     "years": {
       "2026": {
         "total": 1,
@@ -118,13 +118,14 @@
         }
       },
       "2024": {
-        "total": 4,
+        "total": 5,
         "marks": {
+          "researcher_integrity": 3,
           "research": 1,
-          "researcher_integrity": 2,
           "alterations": 1
         },
         "domain": {
+          "PHY": 3,
           "HSC": 7,
           "SOC": 1,
           "BLS": 5
@@ -404,18 +405,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 5,
+        "total": 6,
         "marks": {
+          "researcher_integrity": 2,
           "alterations": 3,
-          "researcher_integrity": 1,
           "research": 1
         },
         "domain": {
+          "PHY": 4,
           "B/T": 2,
           "BLS": 1,
           "HSC": 5,
-          "SOC": 1,
-          "PHY": 1
+          "SOC": 1
         }
       },
       "2025": {
@@ -703,15 +704,15 @@
       "United Kingdom": 11,
       "India": 8,
       "Saudi Arabia": 7,
+      "Pakistan": 6,
       "Brazil": 5,
       "Australia": 5,
-      "Pakistan": 5,
       "Malaysia": 4,
+      "Poland": 3,
       "Italy": 3,
       "Canada": 3,
       "China": 2,
       "South Korea": 2,
-      "Poland": 2,
       "Russia": 2,
       "Turkey": 2,
       "Iraq": 2,
@@ -753,15 +754,15 @@
       "United Kingdom": 11,
       "India": 8,
       "Saudi Arabia": 7,
+      "Pakistan": 6,
       "Brazil": 5,
       "Australia": 5,
-      "Pakistan": 5,
       "Malaysia": 4,
+      "Poland": 3,
       "Italy": 3,
       "Canada": 3,
       "China": 2,
       "South Korea": 2,
-      "Poland": 2,
       "Russia": 2,
       "Turkey": 2,
       "Iraq": 2,

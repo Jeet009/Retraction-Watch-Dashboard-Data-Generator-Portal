@@ -2,6 +2,7 @@
   "retraction_rate_data": {
     "country": "Cyprus",
     "yearly_rates": {
+      "2024": 0.2035,
       "2023": 0.4299,
       "2022": 2.2396,
       "2020": 1.3609,
@@ -28,8 +29,9 @@
       "2016": 0.9141,
       "2017": 0.3885
     },
-    "average_rate": 0.5604,
+    "average_rate": 0.5785,
     "yearly_retractions": {
+      "2024": 1,
       "2023": 2,
       "2022": 10,
       "2020": 5,
@@ -44,7 +46,7 @@
       "2016": 1
     },
     "notice_yearly_retractions": {
-      "2026": 2,
+      "2026": 3,
       "2021": 5,
       "2024": 3,
       "2025": 4,
@@ -60,8 +62,19 @@
   },
   "domainwise_data": {
     "country": "Cyprus",
-    "total_retractions": 31,
+    "total_retractions": 32,
     "years": {
+      "2024": {
+        "total": 1,
+        "marks": {
+          "alterations": 1
+        },
+        "domain": {
+          "B/T": 1,
+          "ENV": 1,
+          "PHY": 1
+        }
+      },
       "2023": {
         "total": 2,
         "marks": {
@@ -201,13 +214,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 2,
+        "total": 3,
         "marks": {
+          "alterations": 1,
           "research": 1,
           "researcher_integrity": 1
         },
         "domain": {
-          "PHY": 6
+          "B/T": 1,
+          "ENV": 1,
+          "PHY": 7
         }
       },
       "2025": {
@@ -345,12 +361,12 @@
       "Turkey": 5,
       "China": 4,
       "Greece": 4,
+      "Pakistan": 3,
       "United States": 3,
       "Egypt": 3,
       "Saudi Arabia": 3,
       "Germany": 3,
       "Iran": 2,
-      "Pakistan": 2,
       "Russia": 2,
       "Spain": 2,
       "Brazil": 2,
@@ -384,12 +400,12 @@
       "Turkey": 5,
       "China": 4,
       "Greece": 4,
+      "Pakistan": 3,
       "United States": 3,
       "Egypt": 3,
       "Saudi Arabia": 3,
       "Germany": 3,
       "Iran": 2,
-      "Pakistan": 2,
       "Russia": 2,
       "Spain": 2,
       "Brazil": 2,

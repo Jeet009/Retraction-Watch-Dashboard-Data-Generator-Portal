@@ -67,6 +67,7 @@
     },
     "average_rate": 0.3924,
     "yearly_retractions": {
+      "2026": 5,
       "2021": 115,
       "2019": 73,
       "2006": 50,
@@ -75,7 +76,6 @@
       "2024": 53,
       "2022": 170,
       "2023": 105,
-      "2026": 4,
       "2016": 45,
       "2009": 86,
       "2017": 72,
@@ -116,7 +116,7 @@
       "1975": 4
     },
     "notice_yearly_retractions": {
-      "2026": 82,
+      "2026": 83,
       "2020": 101,
       "2025": 132,
       "2024": 138,
@@ -162,19 +162,20 @@
   },
   "domainwise_data": {
     "country": "United Kingdom",
-    "total_retractions": 1812,
+    "total_retractions": 1813,
     "years": {
       "2026": {
-        "total": 4,
+        "total": 5,
         "marks": {
+          "system": 1,
           "research": 3,
           "researcher_integrity": 1
         },
         "domain": {
+          "HSC": 5,
           "B/T": 5,
           "PHY": 3,
-          "SOC": 1,
-          "HSC": 3
+          "SOC": 1
         }
       },
       "2025": {
@@ -878,18 +879,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 82,
+        "total": 83,
         "marks": {
+          "system": 4,
           "researcher_integrity": 17,
           "alterations": 30,
           "research": 30,
-          "system": 3,
           "supplemental": 2
         },
         "domain": {
+          "HSC": 61,
           "B/T": 52,
           "BLS": 60,
-          "HSC": 59,
           "SOC": 11,
           "HUM": 1,
           "PHY": 35,
