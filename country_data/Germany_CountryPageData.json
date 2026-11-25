@@ -2,7 +2,7 @@
   "retraction_rate_data": {
     "country": "Germany",
     "yearly_rates": {
-      "2021": 0.3689,
+      "2021": 0.3741,
       "2024": 0.2367,
       "2023": 0.2812,
       "2014": 0.6416,
@@ -64,10 +64,10 @@
       "1997": 0.0953,
       "2001": 0.0223
     },
-    "average_rate": 0.3038,
+    "average_rate": 0.304,
     "yearly_retractions": {
       "2026": 6,
-      "2021": 71,
+      "2021": 72,
       "2024": 44,
       "2023": 51,
       "2014": 101,
@@ -115,7 +115,7 @@
       "1984": 1
     },
     "notice_yearly_retractions": {
-      "2026": 67,
+      "2026": 68,
       "2025": 84,
       "2014": 105,
       "2023": 103,
@@ -156,7 +156,7 @@
   },
   "domainwise_data": {
     "country": "Germany",
-    "total_retractions": 1378,
+    "total_retractions": 1379,
     "years": {
       "2026": {
         "total": 6,
@@ -247,20 +247,20 @@
         }
       },
       "2021": {
-        "total": 71,
+        "total": 72,
         "marks": {
+          "research": 21,
           "alterations": 17,
           "researcher_integrity": 21,
           "system": 12,
-          "research": 20,
           "supplemental": 1
         },
         "domain": {
-          "B/T": 10,
+          "B/T": 11,
+          "PHY": 32,
           "ENV": 8,
           "BLS": 87,
           "HSC": 56,
-          "PHY": 31,
           "SOC": 5
         }
       },
@@ -873,18 +873,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 67,
+        "total": 68,
         "marks": {
           "system": 6,
+          "research": 26,
           "alterations": 17,
           "researcher_integrity": 18,
-          "research": 25,
           "supplemental": 1
         },
         "domain": {
-          "B/T": 16,
+          "B/T": 17,
           "BLS": 57,
-          "PHY": 23,
+          "PHY": 24,
           "SOC": 8,
           "ENV": 23,
           "HSC": 64
@@ -1426,7 +1426,7 @@
     },
     "collaborations": {
       "United States": 200,
-      "China": 126,
+      "China": 127,
       "United Kingdom": 91,
       "India": 65,
       "Iran": 54,
@@ -1543,7 +1543,7 @@
     },
     "notice_collaborations": {
       "United States": 200,
-      "China": 126,
+      "China": 127,
       "United Kingdom": 91,
       "India": 65,
       "Iran": 54,

@@ -48,7 +48,7 @@
     },
     "average_rate": 1.004,
     "yearly_retractions": {
-      "2026": 1,
+      "2026": 2,
       "2024": 12,
       "2020": 9,
       "2023": 10,
@@ -73,7 +73,7 @@
       "2005": 1
     },
     "notice_yearly_retractions": {
-      "2026": 10,
+      "2026": 11,
       "2025": 15,
       "2024": 22,
       "2023": 27,
@@ -97,14 +97,18 @@
   },
   "domainwise_data": {
     "country": "Tunisia",
-    "total_retractions": 151,
+    "total_retractions": 152,
     "years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
+          "system": 1,
           "alterations": 1
         },
         "domain": {
+          "B/T": 1,
+          "BLS": 1,
+          "HSC": 1,
           "PHY": 3
         }
       },
@@ -399,17 +403,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 10,
+        "total": 11,
         "marks": {
+          "system": 1,
           "alterations": 5,
           "research": 2,
           "researcher_integrity": 3
         },
         "domain": {
+          "B/T": 6,
+          "BLS": 9,
+          "HSC": 3,
           "PHY": 12,
-          "BLS": 8,
-          "HSC": 2,
-          "B/T": 5,
           "ENV": 1
         }
       },
@@ -665,7 +670,7 @@
       }
     },
     "collaborations": {
-      "Saudi Arabia": 56,
+      "Saudi Arabia": 57,
       "China": 21,
       "France": 20,
       "Pakistan": 20,
@@ -720,7 +725,7 @@
       "Switzerland": 1
     },
     "notice_collaborations": {
-      "Saudi Arabia": 56,
+      "Saudi Arabia": 57,
       "China": 21,
       "France": 20,
       "Pakistan": 20,
