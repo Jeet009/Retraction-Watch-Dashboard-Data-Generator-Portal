@@ -2,9 +2,9 @@
   "retraction_rate_data": {
     "country": "Denmark",
     "yearly_rates": {
+      "2023": 0.3465,
       "2014": 0.2137,
       "2022": 0.4714,
-      "2023": 0.315,
       "2024": 0.1519,
       "2021": 0.2789,
       "2025": 0.0271,
@@ -53,11 +53,11 @@
       "2012": 0.197,
       "2001": 0.1014
     },
-    "average_rate": 0.2782,
+    "average_rate": 0.2799,
     "yearly_retractions": {
+      "2023": 11,
       "2014": 5,
       "2022": 15,
-      "2023": 10,
       "2024": 5,
       "2021": 9,
       "2025": 1,
@@ -86,7 +86,7 @@
       "1991": 1
     },
     "notice_yearly_retractions": {
-      "2026": 7,
+      "2026": 8,
       "2025": 6,
       "2024": 17,
       "2023": 15,
@@ -112,7 +112,7 @@
   },
   "domainwise_data": {
     "country": "Denmark",
-    "total_retractions": 165,
+    "total_retractions": 166,
     "years": {
       "2025": {
         "total": 1,
@@ -138,18 +138,20 @@
         }
       },
       "2023": {
-        "total": 10,
+        "total": 11,
         "marks": {
+          "researcher_integrity": 1,
           "research": 4,
           "alterations": 2,
           "system": 3,
           "supplemental": 1
         },
         "domain": {
-          "HSC": 10,
+          "B/T": 1,
+          "BLS": 8,
+          "HSC": 11,
           "ENV": 2,
-          "PHY": 7,
-          "BLS": 7
+          "PHY": 7
         }
       },
       "2022": {
@@ -502,16 +504,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 7,
+        "total": 8,
         "marks": {
+          "researcher_integrity": 4,
           "alterations": 3,
-          "research": 1,
-          "researcher_integrity": 3
+          "research": 1
         },
         "domain": {
-          "BLS": 5,
-          "HSC": 3,
-          "B/T": 6,
+          "B/T": 7,
+          "BLS": 6,
+          "HSC": 4,
           "PHY": 2,
           "ENV": 1
         }
@@ -819,9 +821,9 @@
       "Netherlands": 15,
       "Spain": 15,
       "Italy": 15,
+      "Pakistan": 11,
+      "Saudi Arabia": 11,
       "Sweden": 11,
-      "Pakistan": 10,
-      "Saudi Arabia": 10,
       "India": 9,
       "Norway": 9,
       "Canada": 8,
@@ -873,9 +875,9 @@
       "Netherlands": 15,
       "Spain": 15,
       "Italy": 15,
+      "Pakistan": 11,
+      "Saudi Arabia": 11,
       "Sweden": 11,
-      "Pakistan": 10,
-      "Saudi Arabia": 10,
       "India": 9,
       "Norway": 9,
       "Canada": 8,

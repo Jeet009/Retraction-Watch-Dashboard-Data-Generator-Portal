@@ -50,6 +50,7 @@
     },
     "average_rate": 0.3325,
     "yearly_retractions": {
+      "2026": 1,
       "2022": 23,
       "2020": 8,
       "2023": 15,
@@ -79,7 +80,7 @@
       "1997": 1
     },
     "notice_yearly_retractions": {
-      "2026": 10,
+      "2026": 11,
       "2025": 41,
       "2024": 12,
       "2023": 10,
@@ -101,8 +102,18 @@
   },
   "domainwise_data": {
     "country": "Czech Republic",
-    "total_retractions": 168,
+    "total_retractions": 169,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "system": 1
+        },
+        "domain": {
+          "ENV": 2,
+          "PHY": 1
+        }
+      },
       "2025": {
         "total": 2,
         "marks": {
@@ -451,16 +462,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 10,
+        "total": 11,
         "marks": {
+          "system": 1,
           "researcher_integrity": 4,
           "alterations": 4,
           "research": 2
         },
         "domain": {
+          "ENV": 7,
+          "PHY": 12,
           "BLS": 7,
-          "ENV": 5,
-          "PHY": 11,
           "B/T": 5,
           "SOC": 1
         }

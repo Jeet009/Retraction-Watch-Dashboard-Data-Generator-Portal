@@ -3,6 +3,7 @@
     "country": "Italy",
     "yearly_rates": {
       "2025": 0.0476,
+      "2014": 0.6716,
       "2022": 0.3886,
       "2015": 0.3869,
       "2021": 0.369,
@@ -15,7 +16,6 @@
       "2016": 0.4666,
       "2019": 0.4,
       "2012": 0.752,
-      "2014": 0.6613,
       "2000": 0.1394,
       "2023": 0.2884,
       "2003": 0.2094,
@@ -60,10 +60,11 @@
       "2003": 0.0952,
       "1998": 0.0742
     },
-    "average_rate": 0.3952,
+    "average_rate": 0.3956,
     "yearly_retractions": {
-      "2026": 3,
+      "2026": 5,
       "2025": 8,
+      "2014": 65,
       "2022": 54,
       "2015": 39,
       "2021": 52,
@@ -76,7 +77,6 @@
       "2016": 48,
       "2019": 47,
       "2012": 66,
-      "2014": 64,
       "2000": 6,
       "2023": 40,
       "2003": 11,
@@ -99,7 +99,7 @@
       "1997": 2
     },
     "notice_yearly_retractions": {
-      "2026": 73,
+      "2026": 76,
       "2015": 43,
       "2025": 79,
       "2024": 119,
@@ -131,17 +131,20 @@
   },
   "domainwise_data": {
     "country": "Italy",
-    "total_retractions": 1031,
+    "total_retractions": 1034,
     "years": {
       "2026": {
-        "total": 3,
+        "total": 5,
         "marks": {
-          "supplemental": 2,
+          "supplemental": 3,
+          "system": 1,
           "alterations": 1
         },
         "domain": {
           "PHY": 5,
-          "B/T": 1,
+          "B/T": 4,
+          "BLS": 3,
+          "ENV": 1,
           "SOC": 2
         }
       },
@@ -345,17 +348,17 @@
         }
       },
       "2014": {
-        "total": 64,
+        "total": 65,
         "marks": {
-          "alterations": 35,
+          "alterations": 36,
           "research": 12,
           "system": 1,
           "researcher_integrity": 14,
           "supplemental": 2
         },
         "domain": {
-          "BLS": 73,
-          "HSC": 56,
+          "BLS": 76,
+          "HSC": 57,
           "PHY": 45,
           "HUM": 1,
           "SOC": 4,
@@ -657,21 +660,21 @@
     },
     "notice_years": {
       "2026": {
-        "total": 73,
+        "total": 76,
         "marks": {
-          "supplemental": 2,
+          "supplemental": 3,
+          "system": 4,
           "research": 13,
-          "alterations": 36,
-          "researcher_integrity": 19,
-          "system": 3
+          "alterations": 37,
+          "researcher_integrity": 19
         },
         "domain": {
           "PHY": 8,
-          "HSC": 90,
+          "B/T": 11,
+          "BLS": 101,
+          "ENV": 8,
+          "HSC": 91,
           "SOC": 6,
-          "BLS": 95,
-          "ENV": 7,
-          "B/T": 8,
           "HUM": 1
         }
       },
@@ -1101,7 +1104,7 @@
       }
     },
     "collaborations": {
-      "United States": 167,
+      "United States": 169,
       "United Kingdom": 88,
       "France": 67,
       "China": 56,
@@ -1109,11 +1112,11 @@
       "Spain": 48,
       "Saudi Arabia": 38,
       "India": 32,
-      "Switzerland": 30,
+      "Switzerland": 31,
       "Pakistan": 29,
       "Iran": 27,
       "Canada": 23,
-      "Netherlands": 17,
+      "Netherlands": 18,
       "Egypt": 16,
       "Australia": 16,
       "Greece": 16,
@@ -1153,6 +1156,7 @@
       "Indonesia": 3,
       "Taiwan": 3,
       "Portugal": 3,
+      "Lebanon": 2,
       "Nigeria": 2,
       "Azerbaijan": 2,
       "Albania": 2,
@@ -1171,7 +1175,6 @@
       "Thailand": 1,
       "Iceland": 1,
       "Cyprus": 1,
-      "Lebanon": 1,
       "Libya": 1,
       "Montenegro": 1,
       "Slovenia": 1,
@@ -1185,7 +1188,7 @@
       "Bulgaria": 1
     },
     "notice_collaborations": {
-      "United States": 167,
+      "United States": 169,
       "United Kingdom": 88,
       "France": 67,
       "China": 56,
@@ -1193,11 +1196,11 @@
       "Spain": 48,
       "Saudi Arabia": 38,
       "India": 32,
-      "Switzerland": 30,
+      "Switzerland": 31,
       "Pakistan": 29,
       "Iran": 27,
       "Canada": 23,
-      "Netherlands": 17,
+      "Netherlands": 18,
       "Egypt": 16,
       "Australia": 16,
       "Greece": 16,
@@ -1237,6 +1240,7 @@
       "Indonesia": 3,
       "Taiwan": 3,
       "Portugal": 3,
+      "Lebanon": 2,
       "Nigeria": 2,
       "Azerbaijan": 2,
       "Albania": 2,
@@ -1255,7 +1259,6 @@
       "Thailand": 1,
       "Iceland": 1,
       "Cyprus": 1,
-      "Lebanon": 1,
       "Libya": 1,
       "Montenegro": 1,
       "Slovenia": 1,

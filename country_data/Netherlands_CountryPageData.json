@@ -62,7 +62,7 @@
     },
     "average_rate": 0.3237,
     "yearly_retractions": {
-      "2026": 1,
+      "2026": 2,
       "2025": 6,
       "2022": 15,
       "2014": 15,
@@ -99,7 +99,7 @@
       "1923": 2
     },
     "notice_yearly_retractions": {
-      "2026": 24,
+      "2026": 25,
       "2024": 22,
       "2025": 13,
       "2023": 20,
@@ -131,15 +131,16 @@
   },
   "domainwise_data": {
     "country": "Netherlands",
-    "total_retractions": 448,
+    "total_retractions": 449,
     "years": {
       "2026": {
-        "total": 1,
+        "total": 2,
         "marks": {
-          "system": 1
+          "system": 2
         },
         "domain": {
-          "PHY": 2
+          "PHY": 2,
+          "B/T": 3
         }
       },
       "2025": {
@@ -664,9 +665,9 @@
     },
     "notice_years": {
       "2026": {
-        "total": 24,
+        "total": 25,
         "marks": {
-          "system": 2,
+          "system": 3,
           "alterations": 7,
           "research": 4,
           "researcher_integrity": 3,
@@ -674,7 +675,7 @@
         },
         "domain": {
           "PHY": 10,
-          "B/T": 13,
+          "B/T": 16,
           "ENV": 4,
           "SOC": 11,
           "HSC": 12,
@@ -1089,14 +1090,14 @@
       "China": 31,
       "France": 31,
       "Belgium": 20,
-      "Italy": 17,
+      "Italy": 18,
       "Australia": 16,
       "Canada": 15,
       "Denmark": 15,
+      "Switzerland": 12,
       "Spain": 12,
       "South Africa": 11,
       "Finland": 11,
-      "Switzerland": 11,
       "India": 10,
       "Poland": 9,
       "Austria": 9,
@@ -1155,14 +1156,14 @@
       "China": 31,
       "France": 31,
       "Belgium": 20,
-      "Italy": 17,
+      "Italy": 18,
       "Australia": 16,
       "Canada": 15,
       "Denmark": 15,
+      "Switzerland": 12,
       "Spain": 12,
       "South Africa": 11,
       "Finland": 11,
-      "Switzerland": 11,
       "India": 10,
       "Poland": 9,
       "Austria": 9,

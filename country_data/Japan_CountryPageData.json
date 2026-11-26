@@ -67,6 +67,7 @@
     },
     "average_rate": 0.4434,
     "yearly_retractions": {
+      "2026": 1,
       "2025": 9,
       "2021": 50,
       "2022": 52,
@@ -107,7 +108,7 @@
       "1984": 1
     },
     "notice_yearly_retractions": {
-      "2026": 20,
+      "2026": 21,
       "2024": 120,
       "2025": 51,
       "2023": 76,
@@ -148,8 +149,17 @@
   },
   "domainwise_data": {
     "country": "Japan",
-    "total_retractions": 1624,
+    "total_retractions": 1625,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "research": 1
+        },
+        "domain": {
+          "ENV": 2
+        }
+      },
       "2025": {
         "total": 9,
         "marks": {
@@ -747,18 +757,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 20,
+        "total": 21,
         "marks": {
-          "research": 6,
+          "research": 7,
           "researcher_integrity": 7,
           "alterations": 5,
           "system": 1,
           "supplemental": 1
         },
         "domain": {
+          "ENV": 9,
           "B/T": 6,
           "BLS": 23,
-          "ENV": 7,
           "PHY": 5,
           "SOC": 5,
           "HSC": 11
@@ -1296,7 +1306,7 @@
       }
     },
     "collaborations": {
-      "United States": 164,
+      "United States": 165,
       "China": 111,
       "India": 31,
       "Malaysia": 25,
@@ -1323,10 +1333,10 @@
       "Singapore": 6,
       "Switzerland": 6,
       "Netherlands": 6,
+      "Finland": 5,
       "Iraq": 5,
       "Greece": 5,
       "Hong Kong": 4,
-      "Finland": 4,
       "Austria": 3,
       "Kuwait": 3,
       "Turkey": 2,
@@ -1359,7 +1369,7 @@
       "Unknown": 1
     },
     "notice_collaborations": {
-      "United States": 164,
+      "United States": 165,
       "China": 111,
       "India": 31,
       "Malaysia": 25,
@@ -1386,10 +1396,10 @@
       "Singapore": 6,
       "Switzerland": 6,
       "Netherlands": 6,
+      "Finland": 5,
       "Iraq": 5,
       "Greece": 5,
       "Hong Kong": 4,
-      "Finland": 4,
       "Austria": 3,
       "Kuwait": 3,
       "Turkey": 2,

@@ -65,8 +65,8 @@
     },
     "average_rate": 0.2423,
     "yearly_retractions": {
+      "2026": 4,
       "2022": 18,
-      "2026": 2,
       "2014": 9,
       "2025": 7,
       "2009": 11,
@@ -103,7 +103,7 @@
       "1998": 1
     },
     "notice_yearly_retractions": {
-      "2026": 12,
+      "2026": 14,
       "2025": 14,
       "2024": 26,
       "2023": 11,
@@ -138,18 +138,19 @@
   },
   "domainwise_data": {
     "country": "Switzerland",
-    "total_retractions": 256,
+    "total_retractions": 258,
     "years": {
       "2026": {
-        "total": 2,
+        "total": 4,
         "marks": {
-          "system": 1,
+          "system": 3,
           "research": 1
         },
         "domain": {
+          "HSC": 4,
+          "B/T": 3,
           "BLS": 2,
-          "ENV": 1,
-          "HSC": 3
+          "ENV": 1
         }
       },
       "2025": {
@@ -626,16 +627,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 12,
+        "total": 14,
         "marks": {
+          "system": 3,
           "alterations": 3,
-          "system": 1,
           "researcher_integrity": 2,
           "research": 6
         },
         "domain": {
-          "B/T": 4,
-          "HSC": 23,
+          "HSC": 24,
+          "B/T": 7,
           "BLS": 9,
           "ENV": 1,
           "SOC": 2,
@@ -1051,13 +1052,13 @@
       "United States": 61,
       "Germany": 52,
       "United Kingdom": 38,
+      "Italy": 31,
       "France": 31,
-      "Italy": 30,
       "China": 26,
       "Spain": 16,
+      "Netherlands": 12,
       "Canada": 12,
       "Sweden": 12,
-      "Netherlands": 11,
       "Poland": 8,
       "Australia": 8,
       "India": 8,
@@ -1065,13 +1066,13 @@
       "Denmark": 7,
       "Belgium": 7,
       "Japan": 6,
+      "Austria": 5,
       "Iran": 5,
       "Egypt": 4,
       "Russia": 4,
       "South Africa": 4,
       "Israel": 4,
       "Saudi Arabia": 4,
-      "Austria": 4,
       "Singapore": 4,
       "Pakistan": 3,
       "Greece": 3,
@@ -1117,13 +1118,13 @@
       "United States": 61,
       "Germany": 52,
       "United Kingdom": 38,
+      "Italy": 31,
       "France": 31,
-      "Italy": 30,
       "China": 26,
       "Spain": 16,
+      "Netherlands": 12,
       "Canada": 12,
       "Sweden": 12,
-      "Netherlands": 11,
       "Poland": 8,
       "Australia": 8,
       "India": 8,
@@ -1131,13 +1132,13 @@
       "Denmark": 7,
       "Belgium": 7,
       "Japan": 6,
+      "Austria": 5,
       "Iran": 5,
       "Egypt": 4,
       "Russia": 4,
       "South Africa": 4,
       "Israel": 4,
       "Saudi Arabia": 4,
-      "Austria": 4,
       "Singapore": 4,
       "Pakistan": 3,
       "Greece": 3,

@@ -2,12 +2,12 @@
   "retraction_rate_data": {
     "country": "Germany",
     "yearly_rates": {
+      "2018": 0.2974,
       "2021": 0.3741,
       "2024": 0.2367,
       "2023": 0.2812,
       "2014": 0.6416,
       "2005": 0.2149,
-      "2018": 0.2916,
       "2017": 0.3846,
       "2022": 0.3526,
       "2013": 0.2728,
@@ -64,15 +64,15 @@
       "1997": 0.0953,
       "2001": 0.0223
     },
-    "average_rate": 0.304,
+    "average_rate": 0.3043,
     "yearly_retractions": {
-      "2026": 6,
+      "2026": 7,
+      "2018": 51,
       "2021": 72,
       "2024": 44,
       "2023": 51,
       "2014": 101,
       "2005": 25,
-      "2018": 50,
       "2017": 65,
       "2022": 66,
       "2013": 42,
@@ -115,7 +115,7 @@
       "1984": 1
     },
     "notice_yearly_retractions": {
-      "2026": 68,
+      "2026": 70,
       "2025": 84,
       "2014": 105,
       "2023": 103,
@@ -156,12 +156,12 @@
   },
   "domainwise_data": {
     "country": "Germany",
-    "total_retractions": 1379,
+    "total_retractions": 1381,
     "years": {
       "2026": {
-        "total": 6,
+        "total": 7,
         "marks": {
-          "system": 2,
+          "system": 3,
           "alterations": 1,
           "research": 2,
           "researcher_integrity": 1
@@ -169,7 +169,7 @@
         "domain": {
           "B/T": 6,
           "BLS": 5,
-          "PHY": 2,
+          "PHY": 3,
           "SOC": 4,
           "HSC": 3
         }
@@ -302,16 +302,16 @@
         }
       },
       "2018": {
-        "total": 50,
+        "total": 51,
         "marks": {
+          "alterations": 16,
           "researcher_integrity": 7,
-          "alterations": 15,
           "research": 22,
           "supplemental": 2,
           "system": 4
         },
         "domain": {
-          "BLS": 33,
+          "BLS": 36,
           "ENV": 5,
           "PHY": 25,
           "HSC": 36,
@@ -873,18 +873,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 68,
+        "total": 70,
         "marks": {
-          "system": 6,
+          "system": 7,
+          "alterations": 18,
           "research": 26,
-          "alterations": 17,
           "researcher_integrity": 18,
           "supplemental": 1
         },
         "domain": {
           "B/T": 17,
-          "BLS": 57,
-          "PHY": 24,
+          "BLS": 60,
+          "PHY": 25,
           "SOC": 8,
           "ENV": 23,
           "HSC": 64
@@ -1425,7 +1425,7 @@
       }
     },
     "collaborations": {
-      "United States": 200,
+      "United States": 201,
       "China": 127,
       "United Kingdom": 91,
       "India": 65,
@@ -1441,14 +1441,14 @@
       "Pakistan": 27,
       "Japan": 25,
       "Sweden": 25,
+      "Spain": 24,
       "Australia": 24,
-      "Spain": 23,
       "Austria": 23,
       "Denmark": 21,
       "Poland": 21,
       "Belgium": 20,
       "Iraq": 20,
-      "South Korea": 18,
+      "South Korea": 19,
       "Brazil": 17,
       "Turkey": 15,
       "Czech Republic": 14,
@@ -1471,6 +1471,7 @@
       "Singapore": 6,
       "Croatia": 6,
       "Jordan": 6,
+      "Greece": 5,
       "New Zealand": 5,
       "Hong Kong": 5,
       "Cameroon": 5,
@@ -1478,7 +1479,6 @@
       "Ethiopia": 5,
       "Chile": 5,
       "Bahrain": 5,
-      "Greece": 4,
       "United Arab Emirates": 4,
       "Ireland": 4,
       "Nepal": 3,
@@ -1542,7 +1542,7 @@
       "Moldova": 1
     },
     "notice_collaborations": {
-      "United States": 200,
+      "United States": 201,
       "China": 127,
       "United Kingdom": 91,
       "India": 65,
@@ -1558,14 +1558,14 @@
       "Pakistan": 27,
       "Japan": 25,
       "Sweden": 25,
+      "Spain": 24,
       "Australia": 24,
-      "Spain": 23,
       "Austria": 23,
       "Denmark": 21,
       "Poland": 21,
       "Belgium": 20,
       "Iraq": 20,
-      "South Korea": 18,
+      "South Korea": 19,
       "Brazil": 17,
       "Turkey": 15,
       "Czech Republic": 14,
@@ -1588,6 +1588,7 @@
       "Singapore": 6,
       "Croatia": 6,
       "Jordan": 6,
+      "Greece": 5,
       "New Zealand": 5,
       "Hong Kong": 5,
       "Cameroon": 5,
@@ -1595,7 +1596,6 @@
       "Ethiopia": 5,
       "Chile": 5,
       "Bahrain": 5,
-      "Greece": 4,
       "United Arab Emirates": 4,
       "Ireland": 4,
       "Nepal": 3,

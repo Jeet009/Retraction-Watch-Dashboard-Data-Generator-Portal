@@ -54,6 +54,7 @@
     },
     "average_rate": 0.4598,
     "yearly_retractions": {
+      "2026": 1,
       "2025": 2,
       "2006": 8,
       "2016": 13,
@@ -81,7 +82,7 @@
       "2000": 2
     },
     "notice_yearly_retractions": {
-      "2026": 6,
+      "2026": 7,
       "2025": 16,
       "2018": 8,
       "2024": 10,
@@ -108,8 +109,17 @@
   },
   "domainwise_data": {
     "country": "Greece",
-    "total_retractions": 210,
+    "total_retractions": 211,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "system": 1
+        },
+        "domain": {
+          "PHY": 1
+        }
+      },
       "2025": {
         "total": 2,
         "marks": {
@@ -469,18 +479,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 6,
+        "total": 7,
         "marks": {
+          "system": 1,
           "research": 3,
           "alterations": 2,
           "researcher_integrity": 1
         },
         "domain": {
+          "PHY": 2,
           "B/T": 4,
           "BLS": 5,
           "HSC": 9,
-          "ENV": 1,
-          "PHY": 1
+          "ENV": 1
         }
       },
       "2025": {
@@ -806,14 +817,14 @@
       "Italy": 16,
       "United Kingdom": 15,
       "Pakistan": 11,
+      "Spain": 8,
       "Denmark": 8,
       "Saudi Arabia": 7,
       "Turkey": 7,
-      "Spain": 7,
       "India": 6,
+      "Germany": 5,
       "Japan": 5,
       "Egypt": 4,
-      "Germany": 4,
       "Cyprus": 4,
       "France": 4,
       "Poland": 4,
@@ -862,14 +873,14 @@
       "Italy": 16,
       "United Kingdom": 15,
       "Pakistan": 11,
+      "Spain": 8,
       "Denmark": 8,
       "Saudi Arabia": 7,
       "Turkey": 7,
-      "Spain": 7,
       "India": 6,
+      "Germany": 5,
       "Japan": 5,
       "Egypt": 4,
-      "Germany": 4,
       "Cyprus": 4,
       "France": 4,
       "Poland": 4,

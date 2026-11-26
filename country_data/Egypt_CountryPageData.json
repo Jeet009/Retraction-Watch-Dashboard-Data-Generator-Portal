@@ -6,7 +6,7 @@
       "2019": 2.3807,
       "2021": 5.0793,
       "2020": 4.232,
-      "2016": 2.6004,
+      "2016": 2.5474,
       "2018": 2.8634,
       "2022": 5.8401,
       "2023": 2.7778,
@@ -54,13 +54,14 @@
       "2010": 0.5421,
       "1998": 0.3331
     },
-    "average_rate": 2.7477,
+    "average_rate": 2.7456,
     "yearly_retractions": {
+      "2026": 4,
       "2025": 24,
       "2019": 59,
       "2021": 188,
       "2020": 132,
-      "2016": 49,
+      "2016": 48,
       "2018": 61,
       "2022": 245,
       "2023": 113,
@@ -68,7 +69,6 @@
       "2024": 69,
       "2002": 2,
       "2014": 47,
-      "2026": 3,
       "2009": 16,
       "2010": 24,
       "2015": 42,
@@ -116,17 +116,18 @@
     "total_retractions": 1276,
     "years": {
       "2026": {
-        "total": 3,
+        "total": 4,
         "marks": {
-          "system": 1,
+          "system": 2,
           "researcher_integrity": 1,
           "alterations": 1
         },
         "domain": {
-          "BLS": 7,
+          "BLS": 8,
+          "HSC": 2,
+          "PHY": 2,
           "ENV": 1,
-          "B/T": 1,
-          "HSC": 1
+          "B/T": 1
         }
       },
       "2025": {
@@ -290,16 +291,16 @@
         }
       },
       "2016": {
-        "total": 49,
+        "total": 48,
         "marks": {
           "alterations": 18,
-          "research": 28,
+          "research": 27,
           "researcher_integrity": 1,
           "supplemental": 2
         },
         "domain": {
-          "HSC": 78,
-          "BLS": 24,
+          "HSC": 76,
+          "BLS": 23,
           "PHY": 8,
           "ENV": 2,
           "B/T": 3
@@ -525,15 +526,15 @@
       "2026": {
         "total": 167,
         "marks": {
+          "system": 6,
           "alterations": 77,
-          "research": 67,
-          "researcher_integrity": 18,
-          "system": 5
+          "research": 66,
+          "researcher_integrity": 18
         },
         "domain": {
-          "HSC": 196,
-          "PHY": 100,
           "BLS": 105,
+          "HSC": 195,
+          "PHY": 102,
           "ENV": 22,
           "B/T": 31,
           "SOC": 2

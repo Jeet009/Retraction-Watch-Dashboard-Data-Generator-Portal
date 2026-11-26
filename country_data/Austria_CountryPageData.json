@@ -2,12 +2,13 @@
   "retraction_rate_data": {
     "country": "Austria",
     "yearly_rates": {
+      "2011": 0.5678,
+      "2012": 0.1464,
       "2008": 0.2486,
       "2017": 0.1648,
       "2022": 0.3704,
       "2016": 0.3784,
       "2013": 0.0468,
-      "2011": 0.5162,
       "2025": 0.0285,
       "2024": 0.0648,
       "2021": 0.263,
@@ -21,7 +22,6 @@
       "2005": 0.0735,
       "2010": 0.2223,
       "2001": 0.1037,
-      "2012": 0.0976,
       "1998": 0.121,
       "2007": 0.132,
       "2000": 0.3315,
@@ -50,14 +50,16 @@
       "2012": 0.3903,
       "2014": 0.0455
     },
-    "average_rate": 0.1704,
+    "average_rate": 0.174,
     "yearly_retractions": {
+      "2026": 1,
+      "2011": 11,
+      "2012": 3,
       "2008": 4,
       "2017": 4,
       "2022": 11,
       "2016": 9,
       "2013": 1,
-      "2011": 10,
       "2025": 1,
       "2024": 2,
       "2021": 8,
@@ -71,7 +73,6 @@
       "2005": 1,
       "2010": 4,
       "2001": 1,
-      "2012": 2,
       "1998": 1,
       "2007": 2,
       "2000": 3,
@@ -79,7 +80,7 @@
       "2006": 1
     },
     "notice_yearly_retractions": {
-      "2026": 6,
+      "2026": 9,
       "2025": 8,
       "2022": 6,
       "2024": 8,
@@ -104,8 +105,17 @@
   },
   "domainwise_data": {
     "country": "Austria",
-    "total_retractions": 97,
+    "total_retractions": 100,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "system": 1
+        },
+        "domain": {
+          "HSC": 1
+        }
+      },
       "2025": {
         "total": 1,
         "marks": {
@@ -279,27 +289,27 @@
         }
       },
       "2012": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "alterations": 2
+          "alterations": 3
         },
         "domain": {
-          "PHY": 1,
-          "BLS": 2,
-          "HSC": 1
+          "BLS": 6,
+          "HSC": 2,
+          "PHY": 1
         }
       },
       "2011": {
-        "total": 10,
+        "total": 11,
         "marks": {
-          "alterations": 5,
+          "alterations": 6,
           "supplemental": 2,
           "researcher_integrity": 1,
           "system": 2
         },
         "domain": {
-          "BLS": 8,
-          "HSC": 5,
+          "BLS": 12,
+          "HSC": 6,
           "SOC": 2,
           "B/T": 3,
           "PHY": 1
@@ -412,15 +422,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 6,
+        "total": 9,
         "marks": {
-          "alterations": 3,
+          "system": 1,
+          "alterations": 5,
           "researcher_integrity": 2,
           "research": 1
         },
         "domain": {
-          "BLS": 9,
-          "HSC": 10,
+          "HSC": 13,
+          "BLS": 17,
           "PHY": 1,
           "ENV": 1
         }
@@ -679,7 +690,7 @@
     },
     "collaborations": {
       "Germany": 23,
-      "United States": 18,
+      "United States": 20,
       "United Kingdom": 17,
       "India": 12,
       "Saudi Arabia": 11,
@@ -689,11 +700,11 @@
       "Australia": 8,
       "Sweden": 6,
       "Italy": 6,
+      "Switzerland": 5,
       "Finland": 4,
       "Israel": 4,
       "Egypt": 4,
       "Poland": 4,
-      "Switzerland": 4,
       "France": 4,
       "Romania": 3,
       "Japan": 3,
@@ -736,7 +747,7 @@
     },
     "notice_collaborations": {
       "Germany": 23,
-      "United States": 18,
+      "United States": 20,
       "United Kingdom": 17,
       "India": 12,
       "Saudi Arabia": 11,
@@ -746,11 +757,11 @@
       "Australia": 8,
       "Sweden": 6,
       "Italy": 6,
+      "Switzerland": 5,
       "Finland": 4,
       "Israel": 4,
       "Egypt": 4,
       "Poland": 4,
-      "Switzerland": 4,
       "France": 4,
       "Romania": 3,
       "Japan": 3,

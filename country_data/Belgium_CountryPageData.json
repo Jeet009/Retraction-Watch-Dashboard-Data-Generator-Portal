@@ -2,8 +2,8 @@
   "retraction_rate_data": {
     "country": "Belgium",
     "yearly_rates": {
+      "2023": 0.3594,
       "2025": 0.0231,
-      "2023": 0.3318,
       "2021": 0.3699,
       "2024": 0.131,
       "2020": 0.1726,
@@ -50,10 +50,10 @@
       "2007": 0.0964,
       "2008": 0.0453
     },
-    "average_rate": 0.2275,
+    "average_rate": 0.2288,
     "yearly_retractions": {
+      "2023": 13,
       "2025": 1,
-      "2023": 12,
       "2021": 14,
       "2024": 5,
       "2020": 6,
@@ -82,7 +82,7 @@
       "2001": 1
     },
     "notice_yearly_retractions": {
-      "2026": 6,
+      "2026": 7,
       "2025": 12,
       "2024": 12,
       "2023": 17,
@@ -108,7 +108,7 @@
   },
   "domainwise_data": {
     "country": "Belgium",
-    "total_retractions": 173,
+    "total_retractions": 174,
     "years": {
       "2025": {
         "total": 1,
@@ -133,19 +133,19 @@
         }
       },
       "2023": {
-        "total": 12,
+        "total": 13,
         "marks": {
+          "alterations": 5,
           "researcher_integrity": 3,
-          "alterations": 4,
           "supplemental": 2,
           "research": 1,
           "system": 2
         },
         "domain": {
+          "BLS": 14,
           "B/T": 8,
           "ENV": 3,
           "PHY": 6,
-          "BLS": 10,
           "HSC": 12,
           "SOC": 1
         }
@@ -491,18 +491,18 @@
     },
     "notice_years": {
       "2026": {
-        "total": 6,
+        "total": 7,
         "marks": {
+          "alterations": 2,
           "research": 1,
           "researcher_integrity": 2,
-          "supplemental": 2,
-          "alterations": 1
+          "supplemental": 2
         },
         "domain": {
+          "BLS": 8,
           "ENV": 4,
           "B/T": 4,
           "PHY": 1,
-          "BLS": 4,
           "SOC": 3
         }
       },
@@ -808,20 +808,20 @@
       "China": 22,
       "Germany": 20,
       "Netherlands": 20,
-      "United Kingdom": 18,
+      "United Kingdom": 19,
       "Spain": 14,
       "France": 14,
-      "India": 9,
+      "India": 10,
       "Canada": 8,
       "Japan": 8,
+      "Saudi Arabia": 7,
       "Mexico": 7,
       "Switzerland": 7,
-      "Saudi Arabia": 6,
+      "Pakistan": 6,
       "Australia": 6,
       "Italy": 6,
       "Ethiopia": 6,
       "Denmark": 5,
-      "Pakistan": 5,
       "Vietnam": 5,
       "Sweden": 5,
       "South Korea": 4,
@@ -832,6 +832,7 @@
       "South Africa": 3,
       "Hungary": 3,
       "New Zealand": 3,
+      "Turkey": 2,
       "Iran": 2,
       "Cuba": 2,
       "Cameroon": 2,
@@ -860,7 +861,6 @@
       "Bangladesh": 1,
       "Singapore": 1,
       "Thailand": 1,
-      "Turkey": 1,
       "Austria": 1,
       "Norway": 1,
       "Morocco": 1
@@ -870,20 +870,20 @@
       "China": 22,
       "Germany": 20,
       "Netherlands": 20,
-      "United Kingdom": 18,
+      "United Kingdom": 19,
       "Spain": 14,
       "France": 14,
-      "India": 9,
+      "India": 10,
       "Canada": 8,
       "Japan": 8,
+      "Saudi Arabia": 7,
       "Mexico": 7,
       "Switzerland": 7,
-      "Saudi Arabia": 6,
+      "Pakistan": 6,
       "Australia": 6,
       "Italy": 6,
       "Ethiopia": 6,
       "Denmark": 5,
-      "Pakistan": 5,
       "Vietnam": 5,
       "Sweden": 5,
       "South Korea": 4,
@@ -894,6 +894,7 @@
       "South Africa": 3,
       "Hungary": 3,
       "New Zealand": 3,
+      "Turkey": 2,
       "Iran": 2,
       "Cuba": 2,
       "Cameroon": 2,
@@ -922,7 +923,6 @@
       "Bangladesh": 1,
       "Singapore": 1,
       "Thailand": 1,
-      "Turkey": 1,
       "Austria": 1,
       "Norway": 1,
       "Morocco": 1

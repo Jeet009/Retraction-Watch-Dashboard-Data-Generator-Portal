@@ -58,10 +58,10 @@
     },
     "average_rate": 0.2783,
     "yearly_retractions": {
+      "2026": 6,
       "2022": 42,
       "2021": 36,
       "2025": 7,
-      "2026": 4,
       "2011": 20,
       "2015": 16,
       "2017": 12,
@@ -89,7 +89,7 @@
       "1997": 3
     },
     "notice_yearly_retractions": {
-      "2026": 15,
+      "2026": 17,
       "2025": 35,
       "2024": 69,
       "2023": 25,
@@ -117,22 +117,22 @@
   },
   "domainwise_data": {
     "country": "Brazil",
-    "total_retractions": 431,
+    "total_retractions": 433,
     "years": {
       "2026": {
-        "total": 4,
+        "total": 6,
         "marks": {
+          "system": 3,
           "research": 2,
-          "system": 1,
           "alterations": 1
         },
         "domain": {
-          "HSC": 3,
+          "HSC": 6,
+          "B/T": 3,
+          "PHY": 4,
           "ENV": 1,
           "HUM": 1,
-          "SOC": 1,
-          "B/T": 1,
-          "PHY": 2
+          "SOC": 1
         }
       },
       "2025": {
@@ -552,21 +552,21 @@
     },
     "notice_years": {
       "2026": {
-        "total": 15,
+        "total": 17,
         "marks": {
+          "system": 3,
           "research": 5,
           "researcher_integrity": 5,
-          "alterations": 4,
-          "system": 1
+          "alterations": 4
         },
         "domain": {
+          "HSC": 23,
+          "B/T": 4,
+          "PHY": 9,
           "BLS": 5,
           "ENV": 6,
-          "HSC": 20,
           "HUM": 1,
-          "SOC": 1,
-          "PHY": 7,
-          "B/T": 2
+          "SOC": 1
         }
       },
       "2025": {
@@ -918,15 +918,15 @@
     },
     "collaborations": {
       "India": 35,
-      "United States": 31,
+      "United States": 32,
       "United Kingdom": 29,
       "Spain": 19,
       "Saudi Arabia": 18,
       "Germany": 17,
       "China": 16,
       "Bangladesh": 16,
+      "Canada": 14,
       "Italy": 13,
-      "Canada": 13,
       "Iran": 11,
       "Egypt": 10,
       "France": 9,
@@ -983,15 +983,15 @@
     },
     "notice_collaborations": {
       "India": 35,
-      "United States": 31,
+      "United States": 32,
       "United Kingdom": 29,
       "Spain": 19,
       "Saudi Arabia": 18,
       "Germany": 17,
       "China": 16,
       "Bangladesh": 16,
+      "Canada": 14,
       "Italy": 13,
-      "Canada": 13,
       "Iran": 11,
       "Egypt": 10,
       "France": 9,
