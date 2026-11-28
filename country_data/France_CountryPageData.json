@@ -63,7 +63,7 @@
     "average_rate": 0.2582,
     "yearly_retractions": {
       "2025": 13,
-      "2026": 5,
+      "2026": 7,
       "2014": 43,
       "2024": 14,
       "2004": 12,
@@ -101,7 +101,7 @@
       "1988": 1
     },
     "notice_yearly_retractions": {
-      "2026": 51,
+      "2026": 53,
       "2025": 67,
       "2022": 35,
       "2024": 75,
@@ -138,18 +138,19 @@
   },
   "domainwise_data": {
     "country": "France",
-    "total_retractions": 742,
+    "total_retractions": 744,
     "years": {
       "2026": {
-        "total": 5,
+        "total": 7,
         "marks": {
+          "system": 2,
           "alterations": 2,
           "research": 3
         },
         "domain": {
-          "HSC": 4,
+          "HSC": 5,
+          "PHY": 8,
           "SOC": 2,
-          "PHY": 6,
           "HUM": 1
         }
       },
@@ -694,17 +695,17 @@
     },
     "notice_years": {
       "2026": {
-        "total": 51,
+        "total": 53,
         "marks": {
-          "system": 4,
+          "system": 6,
           "alterations": 13,
           "researcher_integrity": 23,
           "research": 8,
           "supplemental": 3
         },
         "domain": {
-          "PHY": 14,
-          "HSC": 44,
+          "PHY": 16,
+          "HSC": 45,
           "SOC": 7,
           "BLS": 54,
           "B/T": 9,
@@ -1203,10 +1204,10 @@
       "Senegal": 12,
       "Vietnam": 12,
       "Romania": 11,
+      "Sweden": 10,
       "Lebanon": 10,
       "Egypt": 9,
       "Ireland": 9,
-      "Sweden": 9,
       "Morocco": 9,
       "Iran": 9,
       "Brazil": 9,
@@ -1305,10 +1306,10 @@
       "Senegal": 12,
       "Vietnam": 12,
       "Romania": 11,
+      "Sweden": 10,
       "Lebanon": 10,
       "Egypt": 9,
       "Ireland": 9,
-      "Sweden": 9,
       "Morocco": 9,
       "Iran": 9,
       "Brazil": 9,

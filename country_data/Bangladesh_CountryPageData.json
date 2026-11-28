@@ -41,8 +41,8 @@
     "average_rate": 2.5701,
     "yearly_retractions": {
       "2025": 13,
+      "2026": 4,
       "2023": 48,
-      "2026": 1,
       "2021": 35,
       "2019": 18,
       "2022": 141,
@@ -60,7 +60,7 @@
       "2014": 3
     },
     "notice_yearly_retractions": {
-      "2026": 43,
+      "2026": 46,
       "2025": 84,
       "2024": 67,
       "2020": 10,
@@ -81,16 +81,19 @@
   },
   "domainwise_data": {
     "country": "Bangladesh",
-    "total_retractions": 352,
+    "total_retractions": 355,
     "years": {
       "2026": {
-        "total": 1,
+        "total": 4,
         "marks": {
+          "system": 3,
           "supplemental": 1
         },
         "domain": {
-          "B/T": 1,
-          "PHY": 1,
+          "B/T": 6,
+          "ENV": 3,
+          "HSC": 1,
+          "PHY": 2,
           "SOC": 1
         }
       },
@@ -336,20 +339,20 @@
     },
     "notice_years": {
       "2026": {
-        "total": 43,
+        "total": 46,
         "marks": {
           "researcher_integrity": 10,
+          "system": 6,
           "supplemental": 1,
           "alterations": 16,
-          "system": 3,
           "research": 13
         },
         "domain": {
           "BLS": 21,
-          "ENV": 14,
-          "B/T": 22,
-          "HSC": 40,
-          "PHY": 24,
+          "ENV": 17,
+          "B/T": 27,
+          "HSC": 41,
+          "PHY": 25,
           "SOC": 4
         }
       },
@@ -575,8 +578,8 @@
       "Pakistan": 51,
       "China": 43,
       "Egypt": 30,
+      "United States": 26,
       "Malaysia": 25,
-      "United States": 25,
       "Australia": 23,
       "South Korea": 21,
       "Iraq": 17,
@@ -590,8 +593,8 @@
       "Poland": 8,
       "United Kingdom": 8,
       "Germany": 7,
+      "Philippines": 6,
       "Italy": 6,
-      "Philippines": 5,
       "Spain": 5,
       "Romania": 4,
       "Denmark": 4,
@@ -646,8 +649,8 @@
       "Pakistan": 51,
       "China": 43,
       "Egypt": 30,
+      "United States": 26,
       "Malaysia": 25,
-      "United States": 25,
       "Australia": 23,
       "South Korea": 21,
       "Iraq": 17,
@@ -661,8 +664,8 @@
       "Poland": 8,
       "United Kingdom": 8,
       "Germany": 7,
+      "Philippines": 6,
       "Italy": 6,
-      "Philippines": 5,
       "Spain": 5,
       "Romania": 4,
       "Denmark": 4,

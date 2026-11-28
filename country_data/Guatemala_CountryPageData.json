@@ -15,12 +15,14 @@
     },
     "average_rate": 0.6549,
     "yearly_retractions": {
+      "2026": 1,
       "2024": 1,
       "2019": 1,
       "2022": 1,
       "2015": 1
     },
     "notice_yearly_retractions": {
+      "2026": 1,
       "2024": 1,
       "2019": 1,
       "2022": 1,
@@ -29,8 +31,17 @@
   },
   "domainwise_data": {
     "country": "Guatemala",
-    "total_retractions": 4,
+    "total_retractions": 5,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "system": 1
+        },
+        "domain": {
+          "HSC": 1
+        }
+      },
       "2024": {
         "total": 1,
         "marks": {
@@ -73,6 +84,15 @@
       }
     },
     "notice_years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "system": 1
+        },
+        "domain": {
+          "HSC": 1
+        }
+      },
       "2024": {
         "total": 1,
         "marks": {
@@ -115,16 +135,34 @@
       }
     },
     "collaborations": {
-      "United States": 2,
+      "United States": 3,
+      "Brazil": 2,
+      "Australia": 1,
+      "Canada": 1,
+      "Germany": 1,
+      "Italy": 1,
+      "Japan": 1,
+      "Netherlands": 1,
+      "Singapore": 1,
+      "South Africa": 1,
+      "Sweden": 1,
       "India": 1,
-      "Brazil": 1,
       "Colombia": 1,
       "Turkey": 1
     },
     "notice_collaborations": {
-      "United States": 2,
+      "United States": 3,
+      "Brazil": 2,
+      "Australia": 1,
+      "Canada": 1,
+      "Germany": 1,
+      "Italy": 1,
+      "Japan": 1,
+      "Netherlands": 1,
+      "Singapore": 1,
+      "South Africa": 1,
+      "Sweden": 1,
       "India": 1,
-      "Brazil": 1,
       "Colombia": 1,
       "Turkey": 1
     }

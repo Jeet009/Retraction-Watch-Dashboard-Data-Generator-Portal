@@ -45,6 +45,7 @@
     },
     "average_rate": 0.2999,
     "yearly_retractions": {
+      "2026": 1,
       "2024": 17,
       "2023": 12,
       "2022": 17,
@@ -69,7 +70,7 @@
       "2005": 1
     },
     "notice_yearly_retractions": {
-      "2026": 6,
+      "2026": 7,
       "2025": 29,
       "2023": 6,
       "2024": 12,
@@ -90,8 +91,19 @@
   },
   "domainwise_data": {
     "country": "Hungary",
-    "total_retractions": 86,
+    "total_retractions": 87,
     "years": {
+      "2026": {
+        "total": 1,
+        "marks": {
+          "system": 1
+        },
+        "domain": {
+          "BLS": 2,
+          "ENV": 1,
+          "HSC": 1
+        }
+      },
       "2025": {
         "total": 1,
         "marks": {
@@ -349,19 +361,19 @@
     },
     "notice_years": {
       "2026": {
-        "total": 6,
+        "total": 7,
         "marks": {
+          "system": 2,
           "researcher_integrity": 2,
           "supplemental": 1,
-          "system": 1,
           "research": 1,
           "alterations": 1
         },
         "domain": {
-          "ENV": 4,
-          "HSC": 3,
-          "PHY": 5,
-          "BLS": 7
+          "BLS": 9,
+          "ENV": 5,
+          "HSC": 4,
+          "PHY": 5
         }
       },
       "2025": {
@@ -556,11 +568,11 @@
       "China": 13,
       "Poland": 13,
       "Iraq": 13,
+      "Germany": 10,
       "Pakistan": 9,
-      "Germany": 9,
       "India": 8,
       "South Africa": 8,
-      "Egypt": 6,
+      "Egypt": 7,
       "Romania": 6,
       "Turkey": 5,
       "Uzbekistan": 5,
@@ -575,6 +587,7 @@
       "Belgium": 3,
       "Spain": 3,
       "Iran": 3,
+      "United Arab Emirates": 2,
       "Indonesia": 2,
       "Morocco": 2,
       "Denmark": 2,
@@ -599,7 +612,6 @@
       "Ukraine": 1,
       "Kazakhstan": 1,
       "Kuwait": 1,
-      "United Arab Emirates": 1,
       "Brazil": 1,
       "Greece": 1,
       "Portugal": 1,
@@ -613,11 +625,11 @@
       "China": 13,
       "Poland": 13,
       "Iraq": 13,
+      "Germany": 10,
       "Pakistan": 9,
-      "Germany": 9,
       "India": 8,
       "South Africa": 8,
-      "Egypt": 6,
+      "Egypt": 7,
       "Romania": 6,
       "Turkey": 5,
       "Uzbekistan": 5,
@@ -632,6 +644,7 @@
       "Belgium": 3,
       "Spain": 3,
       "Iran": 3,
+      "United Arab Emirates": 2,
       "Indonesia": 2,
       "Morocco": 2,
       "Denmark": 2,
@@ -656,7 +669,6 @@
       "Ukraine": 1,
       "Kazakhstan": 1,
       "Kuwait": 1,
-      "United Arab Emirates": 1,
       "Brazil": 1,
       "Greece": 1,
       "Portugal": 1,

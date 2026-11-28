@@ -59,6 +59,7 @@
     },
     "average_rate": 0.8054,
     "yearly_retractions": {
+      "2026": 3,
       "2023": 77,
       "2022": 157,
       "2024": 56,
@@ -68,7 +69,6 @@
       "2017": 23,
       "2025": 21,
       "2021": 129,
-      "2026": 2,
       "2016": 38,
       "2013": 17,
       "2015": 36,
@@ -89,7 +89,7 @@
       "1996": 1
     },
     "notice_yearly_retractions": {
-      "2026": 105,
+      "2026": 106,
       "2025": 119,
       "2020": 35,
       "2024": 141,
@@ -119,17 +119,17 @@
   },
   "domainwise_data": {
     "country": "Turkey",
-    "total_retractions": 831,
+    "total_retractions": 832,
     "years": {
       "2026": {
-        "total": 2,
+        "total": 3,
         "marks": {
-          "system": 1,
+          "system": 2,
           "research": 1
         },
         "domain": {
+          "PHY": 4,
           "BLS": 1,
-          "PHY": 3,
           "B/T": 3
         }
       },
@@ -562,16 +562,16 @@
     },
     "notice_years": {
       "2026": {
-        "total": 105,
+        "total": 106,
         "marks": {
+          "system": 45,
           "alterations": 22,
           "research": 34,
-          "system": 44,
           "researcher_integrity": 5
         },
         "domain": {
+          "PHY": 76,
           "BLS": 27,
-          "PHY": 75,
           "B/T": 91,
           "ENV": 9,
           "SOC": 20,
